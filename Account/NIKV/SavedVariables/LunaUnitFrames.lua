@@ -29,10 +29,10 @@ LunaUFDB = {
 					["incHeal"] = {
 						["height"] = 0.5,
 					},
-					["indicators"] = {
+					["highlight"] = {
 						["height"] = 0.5,
 					},
-					["highlight"] = {
+					["indicators"] = {
 						["height"] = 0.5,
 					},
 				},
@@ -59,15 +59,15 @@ LunaUFDB = {
 					["incHeal"] = {
 						["height"] = 0.5,
 					},
-					["indicators"] = {
+					["highlight"] = {
 						["height"] = 0.5,
 					},
-					["highlight"] = {
+					["indicators"] = {
 						["height"] = 0.5,
 					},
 				},
 				["partypet"] = {
-					["indicators"] = {
+					["highlight"] = {
 						["height"] = 0.5,
 					},
 					["range"] = {
@@ -91,7 +91,7 @@ LunaUFDB = {
 					["incHeal"] = {
 						["height"] = 0.5,
 					},
-					["highlight"] = {
+					["indicators"] = {
 						["height"] = 0.5,
 					},
 				},
@@ -111,9 +111,8 @@ LunaUFDB = {
 						["fivesecond"] = false,
 						["height"] = 2,
 					},
-					["portrait"] = {
-						["enabled"] = false,
-						["isBar"] = false,
+					["highlight"] = {
+						["height"] = 0.5,
 					},
 					["tags"] = {
 						["healthBar"] = {
@@ -145,18 +144,19 @@ LunaUFDB = {
 						["height"] = 0.5,
 					},
 					["height"] = 60,
-					["incHeal"] = {
-						["height"] = 0.5,
-					},
 					["indicators"] = {
 						["height"] = 0.5,
 					},
-					["highlight"] = {
+					["incHeal"] = {
 						["height"] = 0.5,
+					},
+					["portrait"] = {
+						["enabled"] = false,
+						["isBar"] = false,
 					},
 				},
 				["target"] = {
-					["highlight"] = {
+					["indicators"] = {
 						["height"] = 0.5,
 					},
 					["anchorTo"] = "UIParent",
@@ -173,16 +173,16 @@ LunaUFDB = {
 						["height"] = 2,
 					},
 					["tags"] = {
+						["powerBar"] = {
+							["right"] = {
+								["tagline"] = "",
+							},
+						},
 						["healthBar"] = {
 							["right"] = {
 								["tagline"] = "[perhp]%[br]",
 							},
 							["size"] = 20,
-						},
-						["powerBar"] = {
-							["right"] = {
-								["tagline"] = "",
-							},
 						},
 					},
 					["squares"] = {
@@ -199,14 +199,14 @@ LunaUFDB = {
 					["incHeal"] = {
 						["height"] = 0.5,
 					},
-					["height"] = 60,
+					["highlight"] = {
+						["height"] = 0.5,
+					},
 					["portrait"] = {
 						["enabled"] = false,
 						["isBar"] = false,
 					},
-					["indicators"] = {
-						["height"] = 0.5,
-					},
+					["height"] = 60,
 				},
 				["raid"] = {
 					["auras"] = {
@@ -234,6 +234,71 @@ LunaUFDB = {
 						["height"] = 0.5,
 					},
 					["indicators"] = {
+						["height"] = 0.5,
+					},
+				},
+				["pet"] = {
+					["indicators"] = {
+						["height"] = 0.5,
+					},
+					["range"] = {
+						["height"] = 0.5,
+					},
+					["auras"] = {
+						["height"] = 0.5,
+					},
+					["castBar"] = {
+						["enabled"] = false,
+					},
+					["borders"] = {
+						["height"] = 0.5,
+					},
+					["powerBar"] = {
+						["height"] = 2,
+					},
+					["tags"] = {
+						["castBar"] = {
+							["right"] = {
+								["tagline"] = "",
+							},
+							["left"] = {
+								["tagline"] = "",
+							},
+						},
+						["healthBar"] = {
+							["right"] = {
+								["tagline"] = "",
+							},
+							["left"] = {
+								["tagline"] = "",
+							},
+						},
+						["powerBar"] = {
+							["right"] = {
+								["tagline"] = "",
+							},
+							["left"] = {
+								["tagline"] = "",
+							},
+						},
+					},
+					["squares"] = {
+						["height"] = 0.5,
+					},
+					["fader"] = {
+						["height"] = 0.5,
+					},
+					["combatText"] = {
+						["height"] = 0.5,
+					},
+					["incHeal"] = {
+						["height"] = 0.5,
+					},
+					["portrait"] = {
+						["enabled"] = false,
+						["isBar"] = false,
+					},
+					["highlight"] = {
 						["height"] = 0.5,
 					},
 				},
@@ -269,71 +334,6 @@ LunaUFDB = {
 					},
 					["portrait"] = {
 						["isBar"] = false,
-					},
-				},
-				["pet"] = {
-					["portrait"] = {
-						["enabled"] = false,
-						["isBar"] = false,
-					},
-					["range"] = {
-						["height"] = 0.5,
-					},
-					["auras"] = {
-						["height"] = 0.5,
-					},
-					["castBar"] = {
-						["enabled"] = false,
-					},
-					["borders"] = {
-						["height"] = 0.5,
-					},
-					["powerBar"] = {
-						["height"] = 2,
-					},
-					["tags"] = {
-						["castBar"] = {
-							["left"] = {
-								["tagline"] = "",
-							},
-							["right"] = {
-								["tagline"] = "",
-							},
-						},
-						["healthBar"] = {
-							["left"] = {
-								["tagline"] = "",
-							},
-							["right"] = {
-								["tagline"] = "",
-							},
-						},
-						["powerBar"] = {
-							["left"] = {
-								["tagline"] = "",
-							},
-							["right"] = {
-								["tagline"] = "",
-							},
-						},
-					},
-					["squares"] = {
-						["height"] = 0.5,
-					},
-					["fader"] = {
-						["height"] = 0.5,
-					},
-					["combatText"] = {
-						["height"] = 0.5,
-					},
-					["incHeal"] = {
-						["height"] = 0.5,
-					},
-					["indicators"] = {
-						["height"] = 0.5,
-					},
-					["highlight"] = {
-						["height"] = 0.5,
 					},
 				},
 			},

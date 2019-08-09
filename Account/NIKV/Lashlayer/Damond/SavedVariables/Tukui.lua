@@ -4,8 +4,8 @@ TukuiSettingsPerChar = {
 		["AFKSaver"] = false,
 	},
 	["General"] = {
-		["Themes"] = "Tukui 17",
 		["UIScale"] = 0.7,
+		["Themes"] = "Tukui 17",
 	},
 	["ActionBars"] = {
 		["HideBackdrop"] = true,
@@ -23,8 +23,8 @@ TukuiSettingsPerChar = {
 	},
 	["UnitFrames"] = {
 		["Enable"] = false,
-		["Smooth"] = false,
-		["UnlinkCastBar"] = true,
 		["CastBarIcon"] = false,
+		["UnlinkCastBar"] = true,
+		["Smooth"] = false,
 	},
 }
