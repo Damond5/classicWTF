@@ -29,10 +29,10 @@ LunaUFDB = {
 					["incHeal"] = {
 						["height"] = 0.5,
 					},
-					["indicators"] = {
+					["highlight"] = {
 						["height"] = 0.5,
 					},
-					["highlight"] = {
+					["indicators"] = {
 						["height"] = 0.5,
 					},
 				},
@@ -59,15 +59,15 @@ LunaUFDB = {
 					["incHeal"] = {
 						["height"] = 0.5,
 					},
-					["indicators"] = {
+					["highlight"] = {
 						["height"] = 0.5,
 					},
-					["highlight"] = {
+					["indicators"] = {
 						["height"] = 0.5,
 					},
 				},
 				["partypet"] = {
-					["indicators"] = {
+					["highlight"] = {
 						["height"] = 0.5,
 					},
 					["range"] = {
@@ -80,122 +80,6 @@ LunaUFDB = {
 						["height"] = 0.5,
 					},
 					["squares"] = {
-						["height"] = 0.5,
-					},
-					["fader"] = {
-						["height"] = 0.5,
-					},
-					["combatText"] = {
-						["height"] = 0.5,
-					},
-					["incHeal"] = {
-						["height"] = 0.5,
-					},
-					["highlight"] = {
-						["height"] = 0.5,
-					},
-				},
-				["party"] = {
-					["highlight"] = {
-						["height"] = 0.5,
-					},
-					["anchorTo"] = "LUFHeaderraid1",
-					["indicators"] = {
-						["height"] = 0.5,
-					},
-					["range"] = {
-						["height"] = 0.5,
-					},
-					["auras"] = {
-						["height"] = 0.5,
-					},
-					["borders"] = {
-						["height"] = 0.5,
-					},
-					["squares"] = {
-						["height"] = 0.5,
-					},
-					["y"] = 518.28125,
-					["fader"] = {
-						["height"] = 0.5,
-					},
-					["combatText"] = {
-						["height"] = 0.5,
-					},
-					["incHeal"] = {
-						["height"] = 0.5,
-					},
-					["portrait"] = {
-						["isBar"] = false,
-					},
-				},
-				["target"] = {
-					["indicators"] = {
-						["height"] = 0.5,
-					},
-					["anchorTo"] = "UIParent",
-					["range"] = {
-						["height"] = 0.5,
-					},
-					["auras"] = {
-						["height"] = 0.5,
-					},
-					["borders"] = {
-						["height"] = 0.5,
-					},
-					["powerBar"] = {
-						["height"] = 2,
-					},
-					["tags"] = {
-						["healthBar"] = {
-							["right"] = {
-								["tagline"] = "[perhp]%[br]",
-							},
-							["size"] = 20,
-						},
-						["powerBar"] = {
-							["right"] = {
-								["tagline"] = "",
-							},
-						},
-					},
-					["squares"] = {
-						["height"] = 0.5,
-					},
-					["y"] = 200,
-					["x"] = 726,
-					["fader"] = {
-						["height"] = 0.5,
-					},
-					["combatText"] = {
-						["height"] = 0.5,
-					},
-					["incHeal"] = {
-						["height"] = 0.5,
-					},
-					["height"] = 60,
-					["portrait"] = {
-						["enabled"] = false,
-						["isBar"] = false,
-					},
-					["highlight"] = {
-						["height"] = 0.5,
-					},
-				},
-				["raid"] = {
-					["auras"] = {
-						["height"] = 0.5,
-					},
-					["squares"] = {
-						["height"] = 0.5,
-					},
-					["highlight"] = {
-						["height"] = 0.5,
-					},
-					["range"] = {
-						["height"] = 0.5,
-					},
-					["borders"] = {
 						["height"] = 0.5,
 					},
 					["fader"] = {
@@ -227,9 +111,8 @@ LunaUFDB = {
 						["fivesecond"] = false,
 						["height"] = 2,
 					},
-					["portrait"] = {
-						["enabled"] = false,
-						["isBar"] = false,
+					["highlight"] = {
+						["height"] = 0.5,
 					},
 					["tags"] = {
 						["healthBar"] = {
@@ -261,19 +144,102 @@ LunaUFDB = {
 						["height"] = 0.5,
 					},
 					["height"] = 60,
+					["indicators"] = {
+						["height"] = 0.5,
+					},
+					["incHeal"] = {
+						["height"] = 0.5,
+					},
+					["portrait"] = {
+						["enabled"] = false,
+						["isBar"] = false,
+					},
+				},
+				["target"] = {
+					["indicators"] = {
+						["height"] = 0.5,
+					},
+					["anchorTo"] = "UIParent",
+					["range"] = {
+						["height"] = 0.5,
+					},
+					["auras"] = {
+						["height"] = 0.5,
+					},
+					["borders"] = {
+						["height"] = 0.5,
+					},
+					["powerBar"] = {
+						["height"] = 2,
+					},
+					["tags"] = {
+						["powerBar"] = {
+							["right"] = {
+								["tagline"] = "",
+							},
+						},
+						["healthBar"] = {
+							["right"] = {
+								["tagline"] = "[perhp]%[br]",
+							},
+							["size"] = 20,
+						},
+					},
+					["squares"] = {
+						["height"] = 0.5,
+					},
+					["y"] = 200,
+					["x"] = 732,
+					["fader"] = {
+						["height"] = 0.5,
+					},
+					["combatText"] = {
+						["height"] = 0.5,
+					},
+					["incHeal"] = {
+						["height"] = 0.5,
+					},
+					["highlight"] = {
+						["height"] = 0.5,
+					},
+					["portrait"] = {
+						["enabled"] = false,
+						["isBar"] = false,
+					},
+					["height"] = 60,
+				},
+				["raid"] = {
+					["auras"] = {
+						["height"] = 0.5,
+					},
+					["squares"] = {
+						["height"] = 0.5,
+					},
+					["highlight"] = {
+						["height"] = 0.5,
+					},
+					["range"] = {
+						["height"] = 0.5,
+					},
+					["borders"] = {
+						["height"] = 0.5,
+					},
+					["fader"] = {
+						["height"] = 0.5,
+					},
+					["combatText"] = {
+						["height"] = 0.5,
+					},
 					["incHeal"] = {
 						["height"] = 0.5,
 					},
 					["indicators"] = {
 						["height"] = 0.5,
 					},
-					["highlight"] = {
-						["height"] = 0.5,
-					},
 				},
 				["pet"] = {
-					["portrait"] = {
-						["isBar"] = false,
+					["highlight"] = {
+						["height"] = 0.5,
 					},
 					["range"] = {
 						["height"] = 0.5,
@@ -297,6 +263,40 @@ LunaUFDB = {
 						["height"] = 0.5,
 					},
 					["indicators"] = {
+						["height"] = 0.5,
+					},
+					["portrait"] = {
+						["isBar"] = false,
+					},
+				},
+				["party"] = {
+					["indicators"] = {
+						["height"] = 0.5,
+					},
+					["anchorTo"] = "LUFHeaderraid1",
+					["portrait"] = {
+						["isBar"] = false,
+					},
+					["range"] = {
+						["height"] = 0.5,
+					},
+					["auras"] = {
+						["height"] = 0.5,
+					},
+					["borders"] = {
+						["height"] = 0.5,
+					},
+					["squares"] = {
+						["height"] = 0.5,
+					},
+					["y"] = 518.28125,
+					["fader"] = {
+						["height"] = 0.5,
+					},
+					["combatText"] = {
+						["height"] = 0.5,
+					},
+					["incHeal"] = {
 						["height"] = 0.5,
 					},
 					["highlight"] = {

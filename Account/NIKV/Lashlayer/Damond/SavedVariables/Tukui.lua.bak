@@ -16,8 +16,8 @@ TukuiSettingsPerChar = {
 	},
 	["UnitFrames"] = {
 		["Enable"] = false,
-		["CastBarIcon"] = false,
-		["UnlinkCastBar"] = true,
 		["Smooth"] = false,
+		["UnlinkCastBar"] = true,
+		["CastBarIcon"] = false,
 	},
 }
