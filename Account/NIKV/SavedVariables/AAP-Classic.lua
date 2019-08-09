@@ -4,10 +4,10 @@ AAPC1 = {
 		["Damond"] = {
 			["Elite"] = {
 			},
-			["Completed"] = {
-			},
 			["Zones"] = {
-				["1-6DwarfGnome-Warlock"] = 1,
+				["1-6DwarfGnome-Warlock"] = 2,
+			},
+			["Completed"] = {
 			},
 		},
 	},
