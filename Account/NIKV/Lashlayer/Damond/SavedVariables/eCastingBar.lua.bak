@@ -31,7 +31,7 @@ eCastingBar_Saved = {
 	["MirrorWidth"] = 264,
 	["Alpha"] = 100,
 	["Width"] = 300,
-	["HideBorder"] = 0,
+	["HideBorder"] = 1,
 	["MirrorFontSize"] = 12,
 	["ExhaustionColor"] = {
 		1, -- [1]

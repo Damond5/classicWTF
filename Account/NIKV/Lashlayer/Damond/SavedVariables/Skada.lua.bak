@@ -538,12 +538,12 @@ SkadaPerCharDB = {
 							["damage"] = 25,
 						},
 					},
-					["first"] = 1565373779,
+					["maxhp"] = 58,
 					["healed"] = {
 					},
 					["shielding"] = 0,
 					["id"] = "Player-4466-0003818C",
-					["healing"] = 0,
+					["first"] = 1565373779,
 					["damagetaken"] = 12,
 					["damagetakenspells"] = {
 						["Attack"] = {
@@ -570,7 +570,7 @@ SkadaPerCharDB = {
 					["ffdamagedonespells"] = {
 					},
 					["ffdamagedone"] = 0,
-					["maxhp"] = 58,
+					["healing"] = 0,
 					["overhealing"] = 0,
 					["role"] = "NONE",
 				}, -- [1]
@@ -736,107 +736,107 @@ SkadaPerCharDB = {
 					{
 						["ts"] = 1565374168.657,
 						["amount"] = -1,
+						["hp"] = 56,
 						["spellid"] = 88163,
 						["srcname"] = "Ragged Young Wolf",
-						["hp"] = 56,
 					}, -- [1]
 					{
 						["ts"] = 1565374170.667,
 						["amount"] = -1,
+						["hp"] = 57,
 						["spellid"] = 88163,
 						["srcname"] = "Ragged Young Wolf",
-						["hp"] = 57,
 					}, -- [2]
 					{
 						["ts"] = 1565374172.576,
 						["amount"] = -1,
+						["hp"] = 57,
 						["spellid"] = 88163,
 						["srcname"] = "Ragged Young Wolf",
-						["hp"] = 57,
 					}, -- [3]
 					{
 						["ts"] = 1565374174.663,
 						["amount"] = -1,
+						["hp"] = 57,
 						["spellid"] = 88163,
 						["srcname"] = "Ragged Young Wolf",
-						["hp"] = 57,
 					}, -- [4]
 					{
 						["ts"] = 1565374966.612,
 						["amount"] = -1,
+						["hp"] = 58,
 						["spellid"] = 88163,
 						["srcname"] = "Ragged Young Wolf",
-						["hp"] = 58,
 					}, -- [5]
 					{
 						["ts"] = 1565374968.716,
 						["amount"] = -1,
+						["hp"] = 58,
 						["spellid"] = 88163,
 						["srcname"] = "Ragged Young Wolf",
-						["hp"] = 58,
 					}, -- [6]
 					{
 						["ts"] = 1565376567.538,
 						["amount"] = -3,
+						["hp"] = 58,
 						["spellid"] = 88163,
 						["srcname"] = "Small Crag Boar",
-						["hp"] = 58,
 					}, -- [7]
 					{
 						["ts"] = 1565376569.543,
 						["amount"] = -3,
+						["srcname"] = "Small Crag Boar",
 						["hp"] = 55,
 						["spellid"] = 88163,
-						["srcname"] = "Small Crag Boar",
 					}, -- [8]
 					{
 						["ts"] = 1565376571.548,
 						["amount"] = -3,
+						["srcname"] = "Small Crag Boar",
 						["hp"] = 52,
 						["spellid"] = 88163,
-						["srcname"] = "Small Crag Boar",
 					}, -- [9]
 					{
 						["ts"] = 1565376573.551,
 						["amount"] = -3,
+						["srcname"] = "Small Crag Boar",
 						["hp"] = 49,
 						["spellid"] = 88163,
-						["srcname"] = "Small Crag Boar",
 					}, -- [10]
 					{
 						["ts"] = 1565376575.552,
 						["amount"] = -3,
+						["srcname"] = "Small Crag Boar",
 						["hp"] = 46,
 						["spellid"] = 88163,
-						["srcname"] = "Small Crag Boar",
 					}, -- [11]
 					{
 						["ts"] = 1565376577.475,
 						["amount"] = -3,
+						["srcname"] = "Small Crag Boar",
 						["hp"] = 43,
 						["spellid"] = 88163,
-						["srcname"] = "Small Crag Boar",
 					}, -- [12]
 					{
 						["ts"] = 1565376581.48,
 						["amount"] = -3,
+						["srcname"] = "Small Crag Boar",
 						["hp"] = 40,
 						["spellid"] = 88163,
-						["srcname"] = "Small Crag Boar",
 					}, -- [13]
 					{
 						["ts"] = 1565374164.562,
 						["amount"] = -1,
+						["srcname"] = "Ragged Young Wolf",
 						["hp"] = 56,
 						["spellid"] = 88163,
-						["srcname"] = "Ragged Young Wolf",
 					}, -- [14]
 					{
 						["ts"] = 1565374166.653,
 						["amount"] = -1,
+						["srcname"] = "Ragged Young Wolf",
 						["hp"] = 56,
 						["spellid"] = 88163,
-						["srcname"] = "Ragged Young Wolf",
 					}, -- [15]
 					["pos"] = 14,
 				},

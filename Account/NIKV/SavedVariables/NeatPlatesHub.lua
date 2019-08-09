@@ -170,7 +170,6 @@ NeatPlatesHubSettings = {
 			["b"] = 0.999997794628143,
 		},
 		["ColorFriendlyStatusTextMode"] = 1,
-		["UnitSpotlightScaleEnable"] = true,
 		["TextUseBlizzardFont"] = false,
 		["ColorAttackingOtherTank"] = {
 			["a"] = 0.999997794628143,
@@ -178,6 +177,7 @@ NeatPlatesHubSettings = {
 			["g"] = 0.666665196418762,
 			["b"] = 0.784312009811401,
 		},
+		["UnitSpotlightScaleEnable"] = true,
 		["ThreatWarningMode"] = "Auto",
 		["ColorPartyAggroText"] = false,
 		["EmphasizedUnique"] = true,

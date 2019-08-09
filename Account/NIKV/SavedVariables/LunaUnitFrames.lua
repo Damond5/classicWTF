@@ -270,11 +270,11 @@ LunaUFDB = {
 					},
 				},
 				["party"] = {
-					["portrait"] = {
-						["isBar"] = false,
+					["highlight"] = {
+						["height"] = 0.5,
 					},
 					["anchorTo"] = "LUFHeaderraid1",
-					["highlight"] = {
+					["indicators"] = {
 						["height"] = 0.5,
 					},
 					["range"] = {
@@ -299,8 +299,8 @@ LunaUFDB = {
 					["incHeal"] = {
 						["height"] = 0.5,
 					},
-					["indicators"] = {
-						["height"] = 0.5,
+					["portrait"] = {
+						["isBar"] = false,
 					},
 				},
 			},
