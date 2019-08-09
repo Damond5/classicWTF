@@ -1,0 +1,8 @@
+SET instantQuestText "1"
+SET flaggedTutorials "v##M##$"
+SET actionedAdventureJournalEntries "v"
+SET profanityFilter "0"
+SET alwaysShowActionBars "1"
+SET UnitNamePlayerPVPTitle "0"
+SET cameraDistanceMaxZoomFactor "2"
+SET showTutorials "0"
