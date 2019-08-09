@@ -43,7 +43,7 @@ BigWigs3DB = {
 		},
 	},
 	["wipe80"] = true,
-	["discord"] = 3,
+	["discord"] = 7,
 	["profiles"] = {
 		["Default"] = {
 		},

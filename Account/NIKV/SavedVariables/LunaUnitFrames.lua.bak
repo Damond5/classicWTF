@@ -96,12 +96,12 @@ LunaUFDB = {
 					},
 				},
 				["party"] = {
-					["highlight"] = {
+					["indicators"] = {
 						["height"] = 0.5,
 					},
 					["anchorTo"] = "LUFHeaderraid1",
-					["indicators"] = {
-						["height"] = 0.5,
+					["portrait"] = {
+						["isBar"] = false,
 					},
 					["range"] = {
 						["height"] = 0.5,
@@ -125,8 +125,8 @@ LunaUFDB = {
 					["incHeal"] = {
 						["height"] = 0.5,
 					},
-					["portrait"] = {
-						["isBar"] = false,
+					["highlight"] = {
+						["height"] = 0.5,
 					},
 				},
 				["target"] = {
@@ -163,7 +163,7 @@ LunaUFDB = {
 						["height"] = 0.5,
 					},
 					["y"] = 200,
-					["x"] = 726,
+					["x"] = 732,
 					["fader"] = {
 						["height"] = 0.5,
 					},

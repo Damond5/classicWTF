@@ -5,11 +5,18 @@ TukuiSettingsPerChar = {
 	},
 	["General"] = {
 		["UIScale"] = 0.7,
+		["Themes"] = "Tukui 17",
 	},
 	["ActionBars"] = {
 		["HideBackdrop"] = true,
 		["HotKey"] = true,
 		["PetButtonSize"] = 21,
+	},
+	["Party"] = {
+		["Enable"] = false,
+	},
+	["Raid"] = {
+		["Enable"] = false,
 	},
 	["NamePlates"] = {
 		["Enable"] = false,

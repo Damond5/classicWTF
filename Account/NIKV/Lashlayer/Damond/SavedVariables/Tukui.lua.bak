@@ -4,6 +4,7 @@ TukuiSettingsPerChar = {
 		["AFKSaver"] = false,
 	},
 	["General"] = {
+		["Themes"] = "Tukui 17",
 		["UIScale"] = 0.7,
 	},
 	["ActionBars"] = {
