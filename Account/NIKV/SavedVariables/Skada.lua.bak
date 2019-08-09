@@ -18,6 +18,7 @@ SkadaDB = {
 			},
 			["icon"] = {
 				["minimapPos"] = 235.65382191846,
+				["hide"] = true,
 			},
 			["versions"] = {
 				["1.6.7"] = true,

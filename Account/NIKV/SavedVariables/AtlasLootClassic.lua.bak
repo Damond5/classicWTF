@@ -9,7 +9,7 @@ AtlasLootClassicDB = {
 	["profiles"] = {
 		["Damond - Lashlayer"] = {
 			["minimap"] = {
-				["minimapPos"] = 217.229901779021,
+				["minimapPos"] = 306.472924630715,
 			},
 			["GUI"] = {
 				["selected"] = {

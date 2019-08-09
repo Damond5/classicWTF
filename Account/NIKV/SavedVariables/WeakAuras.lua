@@ -2,9 +2,6 @@
 WeakAurasSaved = {
 	["dynamicIconCache"] = {
 	},
-	["login_squelch_time"] = 10,
-	["registered"] = {
-	},
 	["displays"] = {
 		["Details! Aura Group"] = {
 			["grow"] = "RIGHT",
@@ -122,6 +119,12 @@ WeakAurasSaved = {
 			},
 			["animate"] = true,
 			["scale"] = 1,
+			["stagger"] = 0,
+			["border"] = false,
+			["borderEdge"] = "1 Pixel",
+			["regionType"] = "dynamicgroup",
+			["borderSize"] = 2,
+			["sort"] = "none",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -136,22 +139,16 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["border"] = false,
-			["borderEdge"] = "1 Pixel",
-			["regionType"] = "dynamicgroup",
-			["borderSize"] = 2,
-			["sort"] = "none",
-			["stagger"] = 0,
 			["useLimit"] = false,
 			["constantFactor"] = "RADIUS",
 			["arcLength"] = 360,
 			["borderOffset"] = 16,
 			["limit"] = 5,
-			["width"] = 199.999969482422,
+			["anchorFrameType"] = "SCREEN",
 			["id"] = "Details! Aura Group",
 			["borderInset"] = 0,
 			["gridWidth"] = 5,
-			["anchorFrameType"] = "SCREEN",
+			["width"] = 199.999969482422,
 			["frameStrata"] = 1,
 			["config"] = {
 			},
@@ -159,9 +156,9 @@ WeakAurasSaved = {
 			["gridType"] = "RD",
 			["conditions"] = {
 			},
-			["internalVersion"] = 21,
 			["authorOptions"] = {
 			},
+			["internalVersion"] = 21,
 		},
 		["Details! Boss Mods Group"] = {
 			["grow"] = "DOWN",
@@ -237,7 +234,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["role"] = {
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -245,7 +242,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -253,12 +250,12 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
 				["use_class"] = false,
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
@@ -279,13 +276,13 @@ WeakAurasSaved = {
 			},
 			["animate"] = true,
 			["scale"] = 1,
-			["arcLength"] = 360,
+			["stagger"] = 0,
 			["border"] = false,
 			["borderEdge"] = "1 Pixel",
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["sort"] = "none",
-			["stagger"] = 0,
+			["arcLength"] = 360,
 			["useLimit"] = false,
 			["constantFactor"] = "RADIUS",
 			["animation"] = {
@@ -304,11 +301,11 @@ WeakAurasSaved = {
 			},
 			["borderOffset"] = 16,
 			["limit"] = 5,
-			["width"] = 359.096801757813,
+			["anchorFrameType"] = "SCREEN",
 			["id"] = "Details! Boss Mods Group",
 			["borderInset"] = 0,
 			["gridWidth"] = 5,
-			["anchorFrameType"] = "SCREEN",
+			["width"] = 359.096801757813,
 			["frameStrata"] = 1,
 			["config"] = {
 			},
@@ -316,13 +313,17 @@ WeakAurasSaved = {
 			["gridType"] = "RD",
 			["conditions"] = {
 			},
-			["internalVersion"] = 21,
 			["authorOptions"] = {
 			},
+			["internalVersion"] = 21,
 		},
+	},
+	["login_squelch_time"] = 10,
+	["registered"] = {
 	},
 	["minimap"] = {
 		["minimapPos"] = 181.591121390456,
-		["hide"] = false,
+		["hide"] = true,
 	},
+	["editor_theme"] = "Monokai",
 }

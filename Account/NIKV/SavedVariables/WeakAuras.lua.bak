@@ -2,6 +2,7 @@
 WeakAurasSaved = {
 	["dynamicIconCache"] = {
 	},
+	["editor_theme"] = "Monokai",
 	["login_squelch_time"] = 10,
 	["registered"] = {
 	},
@@ -80,7 +81,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["faction"] = {
+				["pvptalent"] = {
 					["multi"] = {
 					},
 				},
@@ -88,7 +89,7 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["race"] = {
+				["role"] = {
 					["multi"] = {
 					},
 				},
@@ -96,12 +97,12 @@ WeakAurasSaved = {
 					["multi"] = {
 					},
 				},
-				["pvptalent"] = {
+				["faction"] = {
 					["multi"] = {
 					},
 				},
 				["use_class"] = false,
-				["role"] = {
+				["race"] = {
 					["multi"] = {
 					},
 				},
@@ -122,14 +123,14 @@ WeakAurasSaved = {
 			},
 			["animate"] = true,
 			["scale"] = 1,
-			["authorOptions"] = {
-			},
+			["internalVersion"] = 21,
 			["border"] = false,
 			["borderEdge"] = "1 Pixel",
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["sort"] = "none",
-			["internalVersion"] = 21,
+			["authorOptions"] = {
+			},
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -153,15 +154,15 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["gridWidth"] = 5,
-			["anchorFrameType"] = "SCREEN",
+			["width"] = 359.096801757813,
 			["frameStrata"] = 1,
 			["borderInset"] = 0,
-			["width"] = 359.096801757813,
+			["anchorFrameType"] = "SCREEN",
 			["limit"] = 5,
 			["conditions"] = {
 			},
-			["arcLength"] = 360,
 			["stagger"] = 0,
+			["arcLength"] = 360,
 		},
 		["Details! Aura Group"] = {
 			["grow"] = "RIGHT",
@@ -279,14 +280,14 @@ WeakAurasSaved = {
 			},
 			["animate"] = true,
 			["scale"] = 1,
-			["authorOptions"] = {
-			},
+			["internalVersion"] = 21,
 			["border"] = false,
 			["borderEdge"] = "1 Pixel",
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["sort"] = "none",
-			["internalVersion"] = 21,
+			["authorOptions"] = {
+			},
 			["arcLength"] = 360,
 			["constantFactor"] = "RADIUS",
 			["useLimit"] = false,
@@ -297,13 +298,14 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["gridWidth"] = 5,
-			["anchorFrameType"] = "SCREEN",
+			["width"] = 199.999969482422,
 			["frameStrata"] = 1,
 			["borderInset"] = 0,
-			["width"] = 199.999969482422,
+			["anchorFrameType"] = "SCREEN",
 			["limit"] = 5,
 			["conditions"] = {
 			},
+			["stagger"] = 0,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -318,11 +320,10 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["stagger"] = 0,
 		},
 	},
 	["minimap"] = {
 		["minimapPos"] = 181.591121390456,
-		["hide"] = false,
+		["hide"] = true,
 	},
 }

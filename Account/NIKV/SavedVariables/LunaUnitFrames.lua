@@ -95,68 +95,42 @@ LunaUFDB = {
 						["height"] = 0.5,
 					},
 				},
-				["player"] = {
-					["point"] = "BOTTOMLEFT",
-					["auras"] = {
-						["height"] = 0.5,
+				["party"] = {
+					["portrait"] = {
+						["isBar"] = false,
 					},
-					["castBar"] = {
-						["enabled"] = false,
-					},
-					["relativePoint"] = "BOTTOMLEFT",
-					["borders"] = {
-						["height"] = 0.5,
-					},
-					["powerBar"] = {
-						["fivesecond"] = false,
-						["height"] = 2,
-					},
+					["anchorTo"] = "LUFHeaderraid1",
 					["highlight"] = {
 						["height"] = 0.5,
 					},
-					["tags"] = {
-						["healthBar"] = {
-							["right"] = {
-								["tagline"] = "",
-							},
-							["left"] = {
-								["tagline"] = "",
-							},
-						},
-						["powerBar"] = {
-							["right"] = {
-								["tagline"] = "",
-							},
-							["left"] = {
-								["tagline"] = "",
-							},
-						},
+					["range"] = {
+						["height"] = 0.5,
+					},
+					["auras"] = {
+						["height"] = 0.5,
+					},
+					["borders"] = {
+						["height"] = 0.5,
 					},
 					["squares"] = {
 						["height"] = 0.5,
 					},
-					["y"] = 200,
-					["x"] = 450,
+					["y"] = 518.28125,
 					["fader"] = {
 						["height"] = 0.5,
 					},
 					["combatText"] = {
 						["height"] = 0.5,
 					},
-					["height"] = 60,
-					["indicators"] = {
-						["height"] = 0.5,
-					},
 					["incHeal"] = {
 						["height"] = 0.5,
 					},
-					["portrait"] = {
-						["enabled"] = false,
-						["isBar"] = false,
+					["indicators"] = {
+						["height"] = 0.5,
 					},
 				},
 				["target"] = {
-					["indicators"] = {
+					["highlight"] = {
 						["height"] = 0.5,
 					},
 					["anchorTo"] = "UIParent",
@@ -199,7 +173,7 @@ LunaUFDB = {
 					["incHeal"] = {
 						["height"] = 0.5,
 					},
-					["highlight"] = {
+					["indicators"] = {
 						["height"] = 0.5,
 					},
 					["portrait"] = {
@@ -269,37 +243,63 @@ LunaUFDB = {
 						["isBar"] = false,
 					},
 				},
-				["party"] = {
-					["highlight"] = {
-						["height"] = 0.5,
-					},
-					["anchorTo"] = "LUFHeaderraid1",
-					["indicators"] = {
-						["height"] = 0.5,
-					},
-					["range"] = {
-						["height"] = 0.5,
-					},
+				["player"] = {
+					["point"] = "BOTTOMLEFT",
 					["auras"] = {
 						["height"] = 0.5,
 					},
+					["castBar"] = {
+						["enabled"] = false,
+					},
+					["relativePoint"] = "BOTTOMLEFT",
 					["borders"] = {
 						["height"] = 0.5,
+					},
+					["powerBar"] = {
+						["fivesecond"] = false,
+						["height"] = 2,
+					},
+					["highlight"] = {
+						["height"] = 0.5,
+					},
+					["tags"] = {
+						["healthBar"] = {
+							["right"] = {
+								["tagline"] = "",
+							},
+							["left"] = {
+								["tagline"] = "",
+							},
+						},
+						["powerBar"] = {
+							["right"] = {
+								["tagline"] = "",
+							},
+							["left"] = {
+								["tagline"] = "",
+							},
+						},
 					},
 					["squares"] = {
 						["height"] = 0.5,
 					},
-					["y"] = 518.28125,
+					["y"] = 200,
+					["x"] = 450,
 					["fader"] = {
 						["height"] = 0.5,
 					},
 					["combatText"] = {
 						["height"] = 0.5,
 					},
+					["height"] = 60,
+					["indicators"] = {
+						["height"] = 0.5,
+					},
 					["incHeal"] = {
 						["height"] = 0.5,
 					},
 					["portrait"] = {
+						["enabled"] = false,
 						["isBar"] = false,
 					},
 				},

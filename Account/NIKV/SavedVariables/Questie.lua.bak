@@ -7,6 +7,7 @@ QuestieConfig = {
 		["Default"] = {
 			["minimap"] = {
 				["minimapPos"] = 301.127626447539,
+				["hide"] = true,
 			},
 		},
 	},
