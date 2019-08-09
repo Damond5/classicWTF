@@ -1,10 +1,10 @@
 
 AtlasLootClassicDB = {
-	["profileKeys"] = {
-		["Damond - Lashlayer"] = "Damond - Lashlayer",
-	},
 	["global"] = {
 		["__addonrevision"] = 99999999,
+	},
+	["profileKeys"] = {
+		["Damond - Lashlayer"] = "Damond - Lashlayer",
 	},
 	["profiles"] = {
 		["Damond - Lashlayer"] = {
