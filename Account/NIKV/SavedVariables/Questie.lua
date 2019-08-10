@@ -6,11 +6,11 @@ QuestieConfig = {
 				{
 					["Party"] = {
 					},
+					["SubType"] = "Accept",
+					["Event"] = "Quest",
 					["Timestamp"] = 1565382006,
 					["Quest"] = 179,
 					["Level"] = 2,
-					["Event"] = "Quest",
-					["SubType"] = "Accept",
 				}, -- [1]
 			},
 		},
