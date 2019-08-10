@@ -8,65 +8,47 @@ bcmDB = {
 	["savedChat"] = {
 		["ChatFrame1"] = {
 			{
-				["message"] = "Xephyr joins the party.",
-				["r"] = 1,
-				["extraData"] = {
-					1, -- [1]
-					["n"] = 1,
-				},
-				["timestamp"] = 8863.672,
-				["g"] = 1,
-				["b"] = 0,
+				["message"] = "[NugRunning] Enabled combat log event display",
+				["timestamp"] = 9485.625,
 			}, -- [1]
 			{
-				["message"] = "Lokomotivet has initiated a ready check",
-				["r"] = 1,
-				["extraData"] = {
-					1, -- [1]
-					["n"] = 1,
-				},
-				["timestamp"] = 8868.874,
-				["g"] = 1,
-				["b"] = 0,
-			}, -- [2]
-			{
-				["message"] = "|Hchannel:PARTY|hPL|h |Hplayer:Lokomotivet-Lashlayer:224:PARTY:|h[2:|cffc69b6dLokomotivet|r]|h :d",
-				["r"] = 0.462745130062103,
-				["extraData"] = {
-					50, -- [1]
-					6, -- [2]
-					13, -- [3]
-					["n"] = 3,
-				},
-				["timestamp"] = 8870.957,
-				["g"] = 0.784313797950745,
-				["b"] = 1,
-			}, -- [3]
-			{
-				["message"] = "|Hchannel:channel:4|h[4]|h |Hplayer:Shortstab-Lashlayer:225:CHANNEL:4|h[|cfffff468Shortstab|r]:|h WTS |cff1eff00|Hitem:4569::::::6:1952415616:10:::::::|h[Staunch Hammer of Strength]|h|r 80s",
+				["message"] = "|Hchannel:channel:4|h[4]|h |Hplayer:Curryman:270:CHANNEL:4|h[|cff3fc6eaCurryman|r]:|h wts |cff1eff00|Hitem:3196::::::93:525839872:15:::::::|h[Edged Bastard Sword of Agility]|h|r",
 				["r"] = 1,
 				["extraData"] = {
 					70, -- [1]
-					4, -- [2]
-					14, -- [3]
+					1, -- [2]
+					16, -- [3]
 					["n"] = 3,
 				},
-				["timestamp"] = 8871.524,
+				["timestamp"] = 9488.392,
 				["g"] = 0.752941250801086,
 				["b"] = 0.752941250801086,
+			}, -- [2]
+			{
+				["message"] = "[NugRunning] Disabled combat log event display",
+				["timestamp"] = 9491.862,
+			}, -- [3]
+			{
+				["message"] = "Your skill in Defense has increased to 15.",
+				["r"] = 0.333333343267441,
+				["extraData"] = {
+					27, -- [1]
+					["n"] = 1,
+				},
+				["timestamp"] = 9523.901,
+				["g"] = 0.333333343267441,
+				["b"] = 1,
 			}, -- [4]
 			{
-				["message"] = "|Hchannel:PARTY|hP|h |Hplayer:Xephyr-Lashlayer:226:PARTY:|h[3:|cffffffffXephyr|r]|h ok that didn't fix it",
-				["r"] = 0.666666686534882,
+				["message"] = "Interface action failed because of an AddOn",
+				["r"] = 1,
 				["extraData"] = {
-					3, -- [1]
-					6, -- [2]
-					15, -- [3]
-					["n"] = 3,
+					1, -- [1]
+					["n"] = 1,
 				},
-				["timestamp"] = 8875.26,
-				["g"] = 0.666666686534882,
-				["b"] = 1,
+				["timestamp"] = 9529,
+				["g"] = 1,
+				["b"] = 0,
 			}, -- [5]
 		},
 	},
