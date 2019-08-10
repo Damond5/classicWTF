@@ -5,6 +5,37 @@ bcmDB = {
 	},
 	["playerLBrack"] = "[",
 	["BCM_URLCopy"] = true,
+	["savedChat"] = {
+		["ChatFrame1"] = {
+			{
+				["message"] = "|Hplayer:Xephyr|h[3:Xephyr]|h has invited you to join a group.",
+				["r"] = 1,
+				["b"] = 0,
+				["timestamp"] = 7806.509,
+				["extraData"] = {
+					1, -- [1]
+					["n"] = 1,
+				},
+				["g"] = 1,
+			}, -- [1]
+			{
+				["message"] = "|cFF33FF99BasicChatMods|r: ---Chat restored from reload---",
+				["timestamp"] = 7806.509,
+			}, -- [2]
+			{
+				["message"] = "PixelPerfectAlign v1.07.01-classic by MooreaTv: type /ppa for command list/help.",
+				["timestamp"] = 7806.509,
+			}, -- [3]
+			{
+				["message"] = "[Vendor Price] ver: (1.1.1) by Icesythe7 & Ketho loaded.",
+				["timestamp"] = 7806.509,
+			}, -- [4]
+			{
+				["message"] = "|cff00ff00eCastingBar |cff00ff00Classic |cffffff00v|cffffff001|cffffff00.|cffffff004|cffffff00.|cffffff000|cffffffff Loaded. Type /ecb or /ecastingbar for the options menu.",
+				["timestamp"] = 7806.509,
+			}, -- [5]
+		},
+	},
 	["BCM_Timestamp"] = true,
 	["replacements"] = {
 		"[GEN]", -- [1]

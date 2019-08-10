@@ -21,9 +21,9 @@ SkadaDB = {
 				["hide"] = true,
 			},
 			["versions"] = {
-				["1.6.7"] = true,
-				["1.6.4"] = true,
 				["1.6.3"] = true,
+				["1.6.4"] = true,
+				["1.6.7"] = true,
 			},
 		},
 	},

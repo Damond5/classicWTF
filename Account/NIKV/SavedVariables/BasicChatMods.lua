@@ -8,59 +8,65 @@ bcmDB = {
 	["savedChat"] = {
 		["ChatFrame1"] = {
 			{
-				["message"] = "You receive loot: |cffffffff|Hitem:750::::::::2:::::::|h[Tough Wolf Meat]|h|r.",
-				["r"] = 0,
+				["message"] = "Xephyr joins the party.",
+				["r"] = 1,
 				["extraData"] = {
-					28, -- [1]
+					1, -- [1]
 					["n"] = 1,
 				},
-				["timestamp"] = 6328.787,
-				["g"] = 0.666666686534882,
+				["timestamp"] = 8863.672,
+				["g"] = 1,
 				["b"] = 0,
 			}, -- [1]
 			{
-				["message"] = "You receive loot: |cffffffff|Hitem:828::::::::2:::::::|h[Small Blue Pouch]|h|r.",
-				["r"] = 0,
+				["message"] = "Lokomotivet has initiated a ready check",
+				["r"] = 1,
 				["extraData"] = {
-					28, -- [1]
+					1, -- [1]
 					["n"] = 1,
 				},
-				["timestamp"] = 6347.766,
-				["g"] = 0.666666686534882,
+				["timestamp"] = 8868.874,
+				["g"] = 1,
 				["b"] = 0,
 			}, -- [2]
 			{
-				["message"] = "You receive loot: |cff9d9d9d|Hitem:4865::::::::2:::::::|h[Ruined Pelt]|h|r.",
-				["r"] = 0,
+				["message"] = "|Hchannel:PARTY|hPL|h |Hplayer:Lokomotivet-Lashlayer:224:PARTY:|h[2:|cffc69b6dLokomotivet|r]|h :d",
+				["r"] = 0.462745130062103,
 				["extraData"] = {
-					28, -- [1]
-					["n"] = 1,
+					50, -- [1]
+					6, -- [2]
+					13, -- [3]
+					["n"] = 3,
 				},
-				["timestamp"] = 6347.766,
-				["g"] = 0.666666686534882,
-				["b"] = 0,
+				["timestamp"] = 8870.957,
+				["g"] = 0.784313797950745,
+				["b"] = 1,
 			}, -- [3]
 			{
-				["message"] = "You receive loot: |cff9d9d9d|Hitem:7073::::::::2:::::::|h[Broken Fang]|h|r.",
-				["r"] = 0,
+				["message"] = "|Hchannel:channel:4|h[4]|h |Hplayer:Shortstab-Lashlayer:225:CHANNEL:4|h[|cfffff468Shortstab|r]:|h WTS |cff1eff00|Hitem:4569::::::6:1952415616:10:::::::|h[Staunch Hammer of Strength]|h|r 80s",
+				["r"] = 1,
 				["extraData"] = {
-					28, -- [1]
-					["n"] = 1,
+					70, -- [1]
+					4, -- [2]
+					14, -- [3]
+					["n"] = 3,
 				},
-				["timestamp"] = 6358.686,
-				["g"] = 0.666666686534882,
-				["b"] = 0,
+				["timestamp"] = 8871.524,
+				["g"] = 0.752941250801086,
+				["b"] = 0.752941250801086,
 			}, -- [4]
 			{
-				["message"] = "You receive loot: |cffffffff|Hitem:750::::::::2:::::::|h[Tough Wolf Meat]|h|r.",
-				["r"] = 0,
+				["message"] = "|Hchannel:PARTY|hP|h |Hplayer:Xephyr-Lashlayer:226:PARTY:|h[3:|cffffffffXephyr|r]|h ok that didn't fix it",
+				["r"] = 0.666666686534882,
 				["extraData"] = {
-					28, -- [1]
-					["n"] = 1,
+					3, -- [1]
+					6, -- [2]
+					15, -- [3]
+					["n"] = 3,
 				},
-				["timestamp"] = 6358.686,
+				["timestamp"] = 8875.26,
 				["g"] = 0.666666686534882,
-				["b"] = 0,
+				["b"] = 1,
 			}, -- [5]
 		},
 	},
