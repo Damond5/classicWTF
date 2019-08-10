@@ -1,11 +1,17 @@
 
 TukuiSettingsPerChar = {
+	["UnitFrames"] = {
+		["Enable"] = false,
+		["Smooth"] = false,
+		["UnlinkCastBar"] = true,
+		["CastBarIcon"] = false,
+	},
 	["Misc"] = {
 		["AFKSaver"] = false,
 	},
 	["General"] = {
-		["UIScale"] = 0.7,
 		["Themes"] = "Tukui 17",
+		["UIScale"] = 0.7,
 	},
 	["ActionBars"] = {
 		["HideBackdrop"] = true,
@@ -20,11 +26,5 @@ TukuiSettingsPerChar = {
 	},
 	["NamePlates"] = {
 		["Enable"] = false,
-	},
-	["UnitFrames"] = {
-		["Enable"] = false,
-		["CastBarIcon"] = false,
-		["UnlinkCastBar"] = true,
-		["Smooth"] = false,
 	},
 }

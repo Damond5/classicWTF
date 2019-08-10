@@ -6,3 +6,4 @@ WeakAurasCompanion: enabled
 Details: disabled
 BigWigs: enabled
 Questie: enabled
+ClickLinks: disabled
