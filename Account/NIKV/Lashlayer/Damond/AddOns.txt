@@ -7,3 +7,6 @@ Details: disabled
 BigWigs: enabled
 Questie: enabled
 ClickLinks: disabled
+NeatPlates: enabled
+OPie: disabled
+eCastingBar: disabled

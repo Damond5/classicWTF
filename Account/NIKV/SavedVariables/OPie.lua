@@ -1,6 +1,7 @@
 
 OneRing_Config = {
 	["CharProfiles"] = {
+		["Lashlayer-Damond"] = "default",
 	},
 	["_GameVersion"] = "1.13.2",
 	["_OPieVersion"] = "Walnut 3 (3.100)",

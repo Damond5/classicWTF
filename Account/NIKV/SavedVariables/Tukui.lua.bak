@@ -2,6 +2,9 @@
 TukuiData = {
 	["Lashlayer"] = {
 		["Damond"] = {
+			["HideBar4"] = true,
+			["Move"] = {
+			},
 			["InstallDone"] = true,
 			["Texts"] = {
 				["Friends"] = {
@@ -32,8 +35,6 @@ TukuiData = {
 					true, -- [1]
 					4, -- [2]
 				},
-			},
-			["Move"] = {
 			},
 			["Chat"] = {
 				["Frame1"] = {
@@ -124,6 +125,6 @@ TukuiSettings = nil
 TukuiUseGlobal = nil
 TukuiGold = {
 	["Lashlayer"] = {
-		["Damond"] = 189,
+		["Damond"] = 403,
 	},
 }

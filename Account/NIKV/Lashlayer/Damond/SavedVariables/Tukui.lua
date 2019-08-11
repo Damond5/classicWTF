@@ -15,9 +15,6 @@ TukuiSettingsPerChar = {
 	["Party"] = {
 		["Enable"] = false,
 	},
-	["Raid"] = {
-		["Enable"] = true,
-	},
 	["NamePlates"] = {
 		["Enable"] = false,
 	},

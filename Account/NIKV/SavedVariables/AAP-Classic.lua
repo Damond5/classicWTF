@@ -5,7 +5,8 @@ AAPC1 = {
 			["Elite"] = {
 			},
 			["Zones"] = {
-				["1-6DwarfGnome-Warlock"] = 11,
+				["6-12DwarfGnome-Warlock"] = 5,
+				["1-6DwarfGnome-Warlock"] = 18,
 			},
 			["Completed"] = {
 			},
