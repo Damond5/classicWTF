@@ -8,48 +8,30 @@ bcmDB = {
 	["savedChat"] = {
 		["ChatFrame1"] = {
 			{
-				["message"] = "[NugRunning] Enabled combat log event display",
-				["timestamp"] = 9485.625,
+				["message"] = "PixelPerfectAlign v1.07.01-classic by MooreaTv: type /ppa for command list/help.",
+				["timestamp"] = 9491.311,
 			}, -- [1]
 			{
-				["message"] = "|Hchannel:channel:4|h[4]|h |Hplayer:Curryman:270:CHANNEL:4|h[|cff3fc6eaCurryman|r]:|h wts |cff1eff00|Hitem:3196::::::93:525839872:15:::::::|h[Edged Bastard Sword of Agility]|h|r",
+				["message"] = "[Vendor Price] ver: (1.1.1) by Icesythe7 & Ketho loaded.",
+				["timestamp"] = 9491.311,
+			}, -- [2]
+			{
+				["message"] = "|cff00ff00eCastingBar |cff00ff00Classic |cffffff00v|cffffff001|cffffff00.|cffffff004|cffffff00.|cffffff000|cffffffff Loaded. Type /ecb or /ecastingbar for the options menu.",
+				["timestamp"] = 9496.206,
+			}, -- [3]
+			{
+				["message"] = "Changed Channel: |Hchannel:CHANNEL:4|h[4]|h",
 				["r"] = 1,
 				["extraData"] = {
 					70, -- [1]
 					1, -- [2]
-					16, -- [3]
+					2, -- [3]
 					["n"] = 3,
 				},
-				["timestamp"] = 9488.392,
+				["timestamp"] = 9496.839,
 				["g"] = 0.752941250801086,
 				["b"] = 0.752941250801086,
-			}, -- [2]
-			{
-				["message"] = "[NugRunning] Disabled combat log event display",
-				["timestamp"] = 9491.862,
-			}, -- [3]
-			{
-				["message"] = "Your skill in Defense has increased to 15.",
-				["r"] = 0.333333343267441,
-				["extraData"] = {
-					27, -- [1]
-					["n"] = 1,
-				},
-				["timestamp"] = 9523.901,
-				["g"] = 0.333333343267441,
-				["b"] = 1,
 			}, -- [4]
-			{
-				["message"] = "Interface action failed because of an AddOn",
-				["r"] = 1,
-				["extraData"] = {
-					1, -- [1]
-					["n"] = 1,
-				},
-				["timestamp"] = 9529,
-				["g"] = 1,
-				["b"] = 0,
-			}, -- [5]
 		},
 	},
 	["BCM_Timestamp"] = true,

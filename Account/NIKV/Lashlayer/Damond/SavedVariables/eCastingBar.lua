@@ -52,16 +52,16 @@ eCastingBar_Saved = {
 		1, -- [4]
 	},
 	["Enabled"] = 1,
-	["FeignDeathColor"] = {
-		1, -- [1]
-		0.7, -- [2]
-		0, -- [3]
-		1, -- [4]
-	},
-	["MirrorTimeColor"] = {
+	["TimeColor"] = {
 		1, -- [1]
 		1, -- [2]
 		1, -- [3]
+		1, -- [4]
+	},
+	["DelayColor"] = {
+		1, -- [1]
+		0, -- [2]
+		0, -- [3]
 		1, -- [4]
 	},
 	["SpellColor"] = {
@@ -72,12 +72,11 @@ eCastingBar_Saved = {
 	},
 	["ShowSpellName"] = 0,
 	["MirrorShowTime"] = 1,
-	["MirrorTexture"] = "Perl",
-	["ShowDelay"] = 1,
-	["FlightColor"] = {
-		0.26, -- [1]
-		0.93, -- [2]
-		1, -- [3]
+	["Height"] = 30,
+	["MirrorFlashBorderColor"] = {
+		1, -- [1]
+		0.88, -- [2]
+		0.25, -- [3]
 		1, -- [4]
 	},
 	["FailedColor"] = {
@@ -86,24 +85,25 @@ eCastingBar_Saved = {
 		0, -- [3]
 		1, -- [4]
 	},
-	["MirrorFlashBorderColor"] = {
-		1, -- [1]
-		0.88, -- [2]
-		0.25, -- [3]
+	["FlightColor"] = {
+		0.26, -- [1]
+		0.93, -- [2]
+		1, -- [3]
 		1, -- [4]
 	},
-	["Height"] = 30,
+	["ShowDelay"] = 1,
+	["MirrorTexture"] = "Perl",
 	["MirrorShowTimerLabel"] = 1,
-	["DelayColor"] = {
-		1, -- [1]
-		0, -- [2]
-		0, -- [3]
-		1, -- [4]
-	},
-	["TimeColor"] = {
+	["MirrorTimeColor"] = {
 		1, -- [1]
 		1, -- [2]
 		1, -- [3]
+		1, -- [4]
+	},
+	["FeignDeathColor"] = {
+		1, -- [1]
+		0.7, -- [2]
+		0, -- [3]
 		1, -- [4]
 	},
 }

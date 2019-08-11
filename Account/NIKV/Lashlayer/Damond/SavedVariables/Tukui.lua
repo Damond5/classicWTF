@@ -4,8 +4,8 @@ TukuiSettingsPerChar = {
 		["AFKSaver"] = false,
 	},
 	["General"] = {
-		["UIScale"] = 0.7,
 		["Themes"] = "Tukui 17",
+		["UIScale"] = 0.7,
 	},
 	["ActionBars"] = {
 		["HideBackdrop"] = true,
@@ -16,15 +16,15 @@ TukuiSettingsPerChar = {
 		["Enable"] = false,
 	},
 	["Raid"] = {
-		["Enable"] = false,
+		["Enable"] = true,
 	},
 	["NamePlates"] = {
 		["Enable"] = false,
 	},
 	["UnitFrames"] = {
 		["Enable"] = false,
-		["CastBarIcon"] = false,
-		["UnlinkCastBar"] = true,
 		["Smooth"] = false,
+		["UnlinkCastBar"] = true,
+		["CastBarIcon"] = false,
 	},
 }
