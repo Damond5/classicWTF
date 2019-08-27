@@ -57,11 +57,11 @@ SkadaPerCharDB = {
 							["hitamount"] = 38,
 						},
 						["Shadow Bolt"] = {
-							["max"] = 0,
-							["school"] = 32,
-							["id"] = 0,
-							["RESIST"] = 1,
 							["totalhits"] = 1,
+							["id"] = 0,
+							["school"] = 32,
+							["RESIST"] = 1,
+							["max"] = 0,
 							["damage"] = 0,
 						},
 						["Corruption"] = {
@@ -93,26 +93,25 @@ SkadaPerCharDB = {
 							["hitmin"] = 1,
 							["criticalamount"] = 4,
 							["id"] = 6603,
-							["totalhits"] = 9,
 							["max"] = 4,
-							["hitmax"] = 3,
-							["glancing"] = 4,
-							["criticalmax"] = 4,
 							["critical"] = 1,
+							["totalhits"] = 9,
+							["min"] = 1,
+							["criticalmax"] = 4,
+							["hitmax"] = 3,
 							["hit"] = 4,
 							["school"] = 1,
-							["min"] = 1,
+							["glancing"] = 4,
 							["criticalmin"] = 4,
 							["hitamount"] = 7,
 						},
 					},
-					["healing"] = 0,
-					["healed"] = {
-					},
+					["first"] = 1565555033,
+					["damagetaken"] = 29,
 					["power"] = {
 					},
 					["id"] = "Player-4466-0003818C",
-					["first"] = 1565555033,
+					["healing"] = 0,
 					["shielding"] = 0,
 					["damagetakenspells"] = {
 						["Attack"] = {
@@ -121,13 +120,13 @@ SkadaPerCharDB = {
 							["damage"] = 29,
 							["max"] = 8,
 							["name"] = "Attack",
-							["min"] = 6,
+							["glancing"] = 0,
 							["totalhits"] = 4,
 							["critical"] = 0,
 							["blocked"] = 0,
 							["school"] = 1,
 							["resisted"] = 0,
-							["glancing"] = 0,
+							["min"] = 6,
 							["absorbed"] = 0,
 						},
 					},
@@ -138,7 +137,8 @@ SkadaPerCharDB = {
 					},
 					["overhealing"] = 0,
 					["maxhp"] = 168,
-					["damagetaken"] = 29,
+					["healed"] = {
+					},
 					["ffdamagedone"] = 0,
 					["ffdamagedonespells"] = {
 					},
@@ -159,10 +159,10 @@ SkadaPerCharDB = {
 					["hdonespell"] = {
 					},
 					["taken"] = 125,
+					["done"] = 29,
+					["htaken"] = 0,
 					["htakenspell"] = {
 					},
-					["htaken"] = 0,
-					["done"] = 29,
 				},
 			},
 			["mobtaken"] = 125,
@@ -228,10 +228,10 @@ SkadaPerCharDB = {
 							["id"] = 0,
 							["damage"] = 30,
 							["min"] = 10,
-							["totalhits"] = 4,
+							["school"] = 4,
 							["hitmax"] = 10,
 							["hit"] = 3,
-							["school"] = 4,
+							["totalhits"] = 4,
 							["RESIST"] = 1,
 							["max"] = 10,
 							["hitamount"] = 30,
@@ -282,19 +282,18 @@ SkadaPerCharDB = {
 							["max"] = 2,
 							["hitmax"] = 2,
 							["hit"] = 1,
-							["school"] = 4,
 							["totalhits"] = 6,
+							["school"] = 4,
 							["MISS"] = 1,
 							["hitamount"] = 2,
 						},
 					},
-					["healing"] = 0,
-					["healed"] = {
-					},
+					["first"] = 1565555004,
+					["damagetaken"] = 67,
 					["power"] = {
 					},
 					["id"] = "Player-4466-0003818C",
-					["first"] = 1565555004,
+					["healing"] = 0,
 					["shielding"] = 0,
 					["damagetakenspells"] = {
 						["Attack"] = {
@@ -303,13 +302,13 @@ SkadaPerCharDB = {
 							["damage"] = 67,
 							["max"] = 12,
 							["name"] = "Attack",
-							["min"] = 10,
+							["glancing"] = 0,
 							["totalhits"] = 6,
 							["critical"] = 0,
 							["blocked"] = 0,
 							["school"] = 1,
 							["resisted"] = 0,
-							["glancing"] = 0,
+							["min"] = 10,
 							["absorbed"] = 0,
 						},
 					},
@@ -320,7 +319,8 @@ SkadaPerCharDB = {
 					},
 					["overhealing"] = 0,
 					["maxhp"] = 168,
-					["damagetaken"] = 67,
+					["healed"] = {
+					},
 					["ffdamagedone"] = 0,
 					["ffdamagedonespells"] = {
 					},
@@ -341,10 +341,10 @@ SkadaPerCharDB = {
 					["hdonespell"] = {
 					},
 					["taken"] = 161,
+					["done"] = 67,
+					["htaken"] = 0,
 					["htakenspell"] = {
 					},
-					["htaken"] = 0,
-					["done"] = 67,
 				},
 			},
 			["mobtaken"] = 161,
@@ -458,22 +458,21 @@ SkadaPerCharDB = {
 							["id"] = 6603,
 							["damage"] = 6,
 							["min"] = 1,
-							["totalhits"] = 4,
+							["school"] = 1,
 							["hitmax"] = 2,
 							["hit"] = 3,
-							["school"] = 1,
+							["totalhits"] = 4,
 							["max"] = 2,
 							["glancing"] = 1,
 							["hitamount"] = 5,
 						},
 					},
-					["healing"] = 0,
-					["healed"] = {
-					},
+					["first"] = 1565554937,
+					["damagetaken"] = 36,
 					["power"] = {
 					},
 					["id"] = "Player-4466-0003818C",
-					["first"] = 1565554937,
+					["healing"] = 0,
 					["shielding"] = 0,
 					["damagetakenspells"] = {
 						["Attack"] = {
@@ -482,13 +481,13 @@ SkadaPerCharDB = {
 							["damage"] = 36,
 							["max"] = 8,
 							["name"] = "Attack",
-							["min"] = 6,
+							["glancing"] = 0,
 							["totalhits"] = 5,
 							["critical"] = 0,
 							["blocked"] = 0,
 							["school"] = 1,
 							["resisted"] = 0,
-							["glancing"] = 0,
+							["min"] = 6,
 							["absorbed"] = 0,
 						},
 					},
@@ -499,7 +498,8 @@ SkadaPerCharDB = {
 					},
 					["overhealing"] = 0,
 					["maxhp"] = 168,
-					["damagetaken"] = 36,
+					["healed"] = {
+					},
 					["ffdamagedone"] = 0,
 					["ffdamagedonespells"] = {
 					},
@@ -520,10 +520,10 @@ SkadaPerCharDB = {
 					["hdonespell"] = {
 					},
 					["taken"] = 122,
+					["done"] = 36,
+					["htaken"] = 0,
 					["htakenspell"] = {
 					},
-					["htaken"] = 0,
-					["done"] = 36,
 				},
 			},
 			["mobtaken"] = 122,
@@ -609,13 +609,12 @@ SkadaPerCharDB = {
 							["hitamount"] = 14,
 						},
 					},
-					["healing"] = 0,
-					["healed"] = {
-					},
+					["first"] = 1565554921,
+					["damagetaken"] = 0,
 					["power"] = {
 					},
 					["id"] = "Player-4466-0003818C",
-					["first"] = 1565554921,
+					["healing"] = 0,
 					["shielding"] = 0,
 					["damagetakenspells"] = {
 					},
@@ -626,7 +625,8 @@ SkadaPerCharDB = {
 					},
 					["overhealing"] = 0,
 					["maxhp"] = 168,
-					["damagetaken"] = 0,
+					["healed"] = {
+					},
 					["ffdamagedone"] = 0,
 					["ffdamagedonespells"] = {
 					},
@@ -649,6 +649,8 @@ SkadaPerCharDB = {
 						},
 					},
 					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 48,
 					["htakenspell"] = {
 						["Holy Light"] = {
 							["min"] = 48,
@@ -659,8 +661,6 @@ SkadaPerCharDB = {
 							["hits"] = 1,
 						},
 					},
-					["htaken"] = 48,
-					["done"] = 0,
 				},
 				["Snow Leopard"] = {
 					["players"] = {
@@ -675,10 +675,10 @@ SkadaPerCharDB = {
 					["hdonespell"] = {
 					},
 					["taken"] = 29,
+					["done"] = 0,
+					["htaken"] = 0,
 					["htakenspell"] = {
 					},
-					["htaken"] = 0,
-					["done"] = 0,
 				},
 			},
 			["mobtaken"] = 29,
@@ -729,23 +729,24 @@ SkadaPerCharDB = {
 							["id"] = 6603,
 							["damage"] = 10,
 							["max"] = 3,
-							["school"] = 1,
+							["totalhits"] = 5,
 							["min"] = 1,
 							["criticalmax"] = 3,
-							["hitmax"] = 2,
-							["hit"] = 4,
-							["totalhits"] = 5,
 							["critical"] = 1,
+							["hit"] = 4,
+							["school"] = 1,
+							["hitmax"] = 2,
 							["criticalmin"] = 3,
 							["hitamount"] = 7,
 						},
 					},
-					["first"] = 1565548667,
-					["damagetaken"] = 0,
+					["healing"] = 0,
+					["healed"] = {
+					},
 					["power"] = {
 					},
 					["id"] = "Player-4466-0003818C",
-					["healing"] = 0,
+					["first"] = 1565548667,
 					["shielding"] = 0,
 					["damagetakenspells"] = {
 					},
@@ -756,8 +757,7 @@ SkadaPerCharDB = {
 					},
 					["overhealing"] = 0,
 					["maxhp"] = 168,
-					["healed"] = {
-					},
+					["damagetaken"] = 0,
 					["ffdamagedone"] = 0,
 					["ffdamagedonespells"] = {
 					},
@@ -778,10 +778,10 @@ SkadaPerCharDB = {
 					["hdonespell"] = {
 					},
 					["taken"] = 10,
-					["done"] = 0,
-					["htaken"] = 0,
 					["htakenspell"] = {
 					},
+					["htaken"] = 0,
+					["done"] = 0,
 				},
 			},
 			["mobtaken"] = 10,
@@ -904,12 +904,13 @@ SkadaPerCharDB = {
 							["hitamount"] = 14,
 						},
 					},
-					["first"] = 1565548640,
-					["damagetaken"] = 37,
+					["healing"] = 0,
+					["healed"] = {
+					},
 					["power"] = {
 					},
 					["id"] = "Player-4466-0003818C",
-					["healing"] = 0,
+					["first"] = 1565548640,
 					["shielding"] = 0,
 					["damagetakenspells"] = {
 						["Attack"] = {
@@ -918,13 +919,13 @@ SkadaPerCharDB = {
 							["damage"] = 37,
 							["max"] = 8,
 							["name"] = "Attack",
-							["glancing"] = 0,
+							["min"] = 6,
 							["totalhits"] = 5,
 							["critical"] = 0,
 							["blocked"] = 0,
 							["school"] = 1,
 							["resisted"] = 0,
-							["min"] = 6,
+							["glancing"] = 0,
 							["absorbed"] = 0,
 						},
 					},
@@ -935,8 +936,7 @@ SkadaPerCharDB = {
 					},
 					["overhealing"] = 0,
 					["maxhp"] = 168,
-					["healed"] = {
-					},
+					["damagetaken"] = 37,
 					["ffdamagedone"] = 0,
 					["ffdamagedonespells"] = {
 					},
@@ -957,10 +957,10 @@ SkadaPerCharDB = {
 					["hdonespell"] = {
 					},
 					["taken"] = 148,
-					["done"] = 37,
-					["htaken"] = 0,
 					["htakenspell"] = {
 					},
+					["htaken"] = 0,
+					["done"] = 37,
 				},
 				["Towshi"] = {
 					["players"] = {
@@ -977,8 +977,6 @@ SkadaPerCharDB = {
 						},
 					},
 					["taken"] = 0,
-					["done"] = 0,
-					["htaken"] = 9,
 					["htakenspell"] = {
 						["Renew"] = {
 							["min"] = 9,
@@ -989,6 +987,8 @@ SkadaPerCharDB = {
 							["hits"] = 1,
 						},
 					},
+					["htaken"] = 9,
+					["done"] = 0,
 				},
 			},
 			["mobtaken"] = 148,
@@ -1055,13 +1055,13 @@ SkadaPerCharDB = {
 							["id"] = 0,
 							["damage"] = 55,
 							["max"] = 13,
-							["school"] = 4,
+							["totalhits"] = 5,
 							["min"] = 8,
 							["criticalmax"] = 13,
-							["critical"] = 3,
-							["hit"] = 2,
-							["totalhits"] = 5,
 							["hitmax"] = 9,
+							["hit"] = 2,
+							["school"] = 4,
+							["critical"] = 3,
 							["criticalmin"] = 12,
 							["hitamount"] = 17,
 						},
@@ -1115,12 +1115,13 @@ SkadaPerCharDB = {
 							["hitamount"] = 5,
 						},
 					},
-					["first"] = 1565548576,
-					["damagetaken"] = 36,
+					["healing"] = 0,
+					["healed"] = {
+					},
 					["power"] = {
 					},
 					["id"] = "Player-4466-0003818C",
-					["healing"] = 0,
+					["first"] = 1565548576,
 					["shielding"] = 0,
 					["damagetakenspells"] = {
 						["Attack"] = {
@@ -1129,13 +1130,13 @@ SkadaPerCharDB = {
 							["damage"] = 36,
 							["max"] = 29,
 							["name"] = "Attack",
-							["glancing"] = 0,
+							["min"] = 7,
 							["totalhits"] = 2,
 							["critical"] = 0,
 							["blocked"] = 0,
 							["school"] = 1,
 							["resisted"] = 0,
-							["min"] = 7,
+							["glancing"] = 0,
 							["absorbed"] = 0,
 						},
 					},
@@ -1146,8 +1147,7 @@ SkadaPerCharDB = {
 					},
 					["overhealing"] = 0,
 					["maxhp"] = 168,
-					["healed"] = {
-					},
+					["damagetaken"] = 36,
 					["ffdamagedone"] = 0,
 					["ffdamagedonespells"] = {
 					},
@@ -1168,10 +1168,10 @@ SkadaPerCharDB = {
 					["hdonespell"] = {
 					},
 					["taken"] = 123,
-					["done"] = 36,
-					["htaken"] = 0,
 					["htakenspell"] = {
 					},
+					["htaken"] = 0,
+					["done"] = 36,
 				},
 			},
 			["mobtaken"] = 123,
@@ -1249,10 +1249,10 @@ SkadaPerCharDB = {
 							["id"] = 0,
 							["damage"] = 25,
 							["min"] = 25,
-							["school"] = 4,
+							["totalhits"] = 2,
 							["hitmax"] = 25,
 							["hit"] = 1,
-							["totalhits"] = 2,
+							["school"] = 4,
 							["RESIST"] = 1,
 							["max"] = 25,
 							["hitamount"] = 25,
@@ -1291,18 +1291,19 @@ SkadaPerCharDB = {
 							["criticalmax"] = 3,
 							["critical"] = 1,
 							["max"] = 3,
-							["totalhits"] = 6,
 							["school"] = 1,
+							["totalhits"] = 6,
 							["MISS"] = 1,
 							["damage"] = 6,
 						},
 					},
-					["first"] = 1565548544,
-					["damagetaken"] = 54,
+					["healing"] = 0,
+					["healed"] = {
+					},
 					["power"] = {
 					},
 					["id"] = "Player-4466-0003818C",
-					["healing"] = 0,
+					["first"] = 1565548544,
 					["shielding"] = 0,
 					["damagetakenspells"] = {
 						["Attack"] = {
@@ -1311,13 +1312,13 @@ SkadaPerCharDB = {
 							["damage"] = 54,
 							["max"] = 12,
 							["name"] = "Attack",
-							["glancing"] = 0,
+							["min"] = 9,
 							["totalhits"] = 5,
 							["critical"] = 0,
 							["blocked"] = 0,
 							["school"] = 1,
 							["resisted"] = 0,
-							["min"] = 9,
+							["glancing"] = 0,
 							["absorbed"] = 0,
 						},
 					},
@@ -1328,8 +1329,7 @@ SkadaPerCharDB = {
 					},
 					["overhealing"] = 0,
 					["maxhp"] = 168,
-					["healed"] = {
-					},
+					["damagetaken"] = 54,
 					["ffdamagedone"] = 0,
 					["ffdamagedonespells"] = {
 					},
@@ -1350,10 +1350,10 @@ SkadaPerCharDB = {
 					["hdonespell"] = {
 					},
 					["taken"] = 158,
-					["done"] = 54,
-					["htaken"] = 0,
 					["htakenspell"] = {
 					},
+					["htaken"] = 0,
+					["done"] = 54,
 				},
 			},
 			["mobtaken"] = 158,
@@ -1420,13 +1420,13 @@ SkadaPerCharDB = {
 							["id"] = 0,
 							["damage"] = 51,
 							["max"] = 12,
-							["school"] = 4,
+							["totalhits"] = 6,
 							["min"] = 7,
 							["criticalmax"] = 12,
-							["critical"] = 1,
-							["hit"] = 5,
-							["totalhits"] = 6,
 							["hitmax"] = 9,
+							["hit"] = 5,
+							["school"] = 4,
+							["critical"] = 1,
 							["criticalmin"] = 12,
 							["hitamount"] = 39,
 						},
@@ -1472,21 +1472,22 @@ SkadaPerCharDB = {
 							["id"] = 6603,
 							["damage"] = 5,
 							["glancing"] = 2,
-							["school"] = 1,
+							["totalhits"] = 6,
 							["hitmax"] = 1,
 							["hit"] = 3,
-							["totalhits"] = 6,
+							["school"] = 1,
 							["max"] = 1,
 							["min"] = 1,
 							["hitamount"] = 3,
 						},
 					},
-					["first"] = 1565548518,
-					["damagetaken"] = 48,
+					["healing"] = 0,
+					["healed"] = {
+					},
 					["power"] = {
 					},
 					["id"] = "Player-4466-0003818C",
-					["healing"] = 0,
+					["first"] = 1565548518,
 					["shielding"] = 0,
 					["damagetakenspells"] = {
 						["Attack"] = {
@@ -1495,13 +1496,13 @@ SkadaPerCharDB = {
 							["damage"] = 48,
 							["max"] = 10,
 							["name"] = "Attack",
-							["glancing"] = 0,
+							["min"] = 9,
 							["totalhits"] = 5,
 							["critical"] = 0,
 							["blocked"] = 0,
 							["school"] = 1,
 							["resisted"] = 0,
-							["min"] = 9,
+							["glancing"] = 0,
 							["absorbed"] = 0,
 						},
 					},
@@ -1512,8 +1513,7 @@ SkadaPerCharDB = {
 					},
 					["overhealing"] = 0,
 					["maxhp"] = 168,
-					["healed"] = {
-					},
+					["damagetaken"] = 48,
 					["ffdamagedone"] = 0,
 					["ffdamagedonespells"] = {
 					},
@@ -1534,10 +1534,10 @@ SkadaPerCharDB = {
 					["hdonespell"] = {
 					},
 					["taken"] = 138,
-					["done"] = 48,
-					["htaken"] = 0,
 					["htakenspell"] = {
 					},
+					["htaken"] = 0,
+					["done"] = 48,
 				},
 			},
 			["mobtaken"] = 138,
@@ -1591,11 +1591,11 @@ SkadaPerCharDB = {
 					["damage"] = 124,
 					["damagespells"] = {
 						["Corruption"] = {
-							["totalhits"] = 1,
-							["id"] = 0,
-							["school"] = 4,
-							["RESIST"] = 1,
 							["max"] = 0,
+							["school"] = 4,
+							["id"] = 0,
+							["RESIST"] = 1,
+							["totalhits"] = 1,
 							["damage"] = 0,
 						},
 						["Shadow Bolt"] = {
@@ -1647,12 +1647,13 @@ SkadaPerCharDB = {
 							["hitamount"] = 6,
 						},
 					},
-					["first"] = 1565548491,
-					["damagetaken"] = 28,
+					["healing"] = 0,
+					["healed"] = {
+					},
 					["power"] = {
 					},
 					["id"] = "Player-4466-0003818C",
-					["healing"] = 0,
+					["first"] = 1565548491,
 					["shielding"] = 0,
 					["damagetakenspells"] = {
 						["Attack"] = {
@@ -1661,13 +1662,13 @@ SkadaPerCharDB = {
 							["damage"] = 28,
 							["max"] = 8,
 							["name"] = "Attack",
-							["glancing"] = 0,
+							["min"] = 6,
 							["totalhits"] = 4,
 							["critical"] = 0,
 							["blocked"] = 0,
 							["school"] = 1,
 							["resisted"] = 0,
-							["min"] = 6,
+							["glancing"] = 0,
 							["absorbed"] = 0,
 						},
 					},
@@ -1678,8 +1679,7 @@ SkadaPerCharDB = {
 					},
 					["overhealing"] = 0,
 					["maxhp"] = 168,
-					["healed"] = {
-					},
+					["damagetaken"] = 28,
 					["ffdamagedone"] = 0,
 					["ffdamagedonespells"] = {
 					},
@@ -1700,10 +1700,10 @@ SkadaPerCharDB = {
 					["hdonespell"] = {
 					},
 					["taken"] = 124,
-					["done"] = 28,
-					["htaken"] = 0,
 					["htakenspell"] = {
 					},
+					["htaken"] = 0,
+					["done"] = 28,
 				},
 			},
 			["mobtaken"] = 124,
@@ -1760,7 +1760,114 @@ SkadaPerCharDB = {
 				["interrupts"] = 0,
 				["healingspells"] = {
 				},
-				["shielding"] = 0,
+				["deathlog"] = {
+					{
+						["ts"] = 1565555045.368,
+						["amount"] = -8,
+						["hp"] = 143,
+						["srcname"] = "Crag Boar",
+						["spellid"] = 88163,
+					}, -- [1]
+					{
+						["ts"] = 1565555047.391,
+						["amount"] = -7,
+						["hp"] = 136,
+						["srcname"] = "Crag Boar",
+						["spellid"] = 88163,
+					}, -- [2]
+					{
+						["ts"] = 1565555049.402,
+						["amount"] = -6,
+						["hp"] = 131,
+						["spellid"] = 88163,
+						["srcname"] = "Crag Boar",
+					}, -- [3]
+					{
+						["ts"] = 1565554940.015,
+						["amount"] = -8,
+						["hp"] = 168,
+						["spellid"] = 88163,
+						["srcname"] = "Large Crag Boar",
+					}, -- [4]
+					{
+						["ts"] = 1565554941.96,
+						["amount"] = -7,
+						["hp"] = 161,
+						["spellid"] = 88163,
+						["srcname"] = "Large Crag Boar",
+					}, -- [5]
+					{
+						["ts"] = 1565554944.062,
+						["amount"] = -7,
+						["hp"] = 155,
+						["spellid"] = 88163,
+						["srcname"] = "Large Crag Boar",
+					}, -- [6]
+					{
+						["ts"] = 1565554945.974,
+						["amount"] = -6,
+						["hp"] = 150,
+						["srcname"] = "Large Crag Boar",
+						["spellid"] = 88163,
+					}, -- [7]
+					{
+						["ts"] = 1565554948.027,
+						["amount"] = -8,
+						["hp"] = 145,
+						["srcname"] = "Large Crag Boar",
+						["spellid"] = 88163,
+					}, -- [8]
+					{
+						["ts"] = 1565555007.664,
+						["amount"] = -10,
+						["hp"] = 168,
+						["srcname"] = "Snow Leopard",
+						["spellid"] = 88163,
+					}, -- [9]
+					{
+						["ts"] = 1565555009.68,
+						["amount"] = -11,
+						["hp"] = 158,
+						["srcname"] = "Snow Leopard",
+						["spellid"] = 88163,
+					}, -- [10]
+					{
+						["ts"] = 1565555011.684,
+						["amount"] = -12,
+						["hp"] = 149,
+						["srcname"] = "Snow Leopard",
+						["spellid"] = 88163,
+					}, -- [11]
+					{
+						["ts"] = 1565555013.686,
+						["amount"] = -11,
+						["hp"] = 138,
+						["srcname"] = "Snow Leopard",
+						["spellid"] = 88163,
+					}, -- [12]
+					{
+						["ts"] = 1565555015.66,
+						["amount"] = -12,
+						["hp"] = 128,
+						["srcname"] = "Snow Leopard",
+						["spellid"] = 88163,
+					}, -- [13]
+					{
+						["ts"] = 1565555019.693,
+						["amount"] = -11,
+						["hp"] = 118,
+						["srcname"] = "Snow Leopard",
+						["spellid"] = 88163,
+					}, -- [14]
+					{
+						["ts"] = 1565555043.342,
+						["amount"] = -8,
+						["hp"] = 150,
+						["srcname"] = "Crag Boar",
+						["spellid"] = 88163,
+					}, -- [15]
+					["pos"] = 4,
+				},
 				["damage"] = 8734,
 				["damagespells"] = {
 					["Dagtog: Firebolt"] = {
@@ -1802,20 +1909,20 @@ SkadaPerCharDB = {
 						["id"] = 0,
 						["damage"] = 1770,
 						["min"] = 10,
-						["school"] = 32,
+						["totalhits"] = 184,
 						["hitmax"] = 10,
 						["hit"] = 177,
-						["totalhits"] = 184,
+						["school"] = 32,
 						["RESIST"] = 7,
 						["max"] = 10,
 						["hitamount"] = 1770,
 					},
 					["Immolate"] = {
 						["damage"] = 1762,
-						["max"] = 16,
+						["EVADE"] = 1,
 						["hitmin"] = 4,
 						["criticalamount"] = 75,
-						["EVADE"] = 1,
+						["id"] = 0,
 						["criticalmin"] = 14,
 						["totalhits"] = 324,
 						["critical"] = 5,
@@ -1825,7 +1932,7 @@ SkadaPerCharDB = {
 						["hit"] = 314,
 						["school"] = 4,
 						["RESIST"] = 4,
-						["id"] = 0,
+						["max"] = 16,
 						["hitamount"] = 1687,
 					},
 					["Attack"] = {
@@ -1839,129 +1946,22 @@ SkadaPerCharDB = {
 						["criticalamount"] = 27,
 						["max"] = 4,
 						["criticalmax"] = 4,
-						["critical"] = 8,
+						["BLOCK"] = 10,
 						["min"] = 1,
 						["PARRY"] = 9,
-						["BLOCK"] = 10,
+						["hitmax"] = 3,
 						["hit"] = 177,
 						["school"] = 1,
 						["id"] = 6603,
-						["hitmax"] = 3,
+						["critical"] = 8,
 						["hitamount"] = 335,
 					},
 				},
-				["maxhp"] = 168,
-				["damagetaken"] = 2753,
-				["deathlog"] = {
-					{
-						["ts"] = 1565555045.368,
-						["amount"] = -8,
-						["spellid"] = 88163,
-						["hp"] = 143,
-						["srcname"] = "Crag Boar",
-					}, -- [1]
-					{
-						["ts"] = 1565555047.391,
-						["amount"] = -7,
-						["spellid"] = 88163,
-						["hp"] = 136,
-						["srcname"] = "Crag Boar",
-					}, -- [2]
-					{
-						["ts"] = 1565555049.402,
-						["amount"] = -6,
-						["srcname"] = "Crag Boar",
-						["hp"] = 131,
-						["spellid"] = 88163,
-					}, -- [3]
-					{
-						["ts"] = 1565554940.015,
-						["amount"] = -8,
-						["srcname"] = "Large Crag Boar",
-						["hp"] = 168,
-						["spellid"] = 88163,
-					}, -- [4]
-					{
-						["ts"] = 1565554941.96,
-						["amount"] = -7,
-						["srcname"] = "Large Crag Boar",
-						["hp"] = 161,
-						["spellid"] = 88163,
-					}, -- [5]
-					{
-						["ts"] = 1565554944.062,
-						["amount"] = -7,
-						["srcname"] = "Large Crag Boar",
-						["hp"] = 155,
-						["spellid"] = 88163,
-					}, -- [6]
-					{
-						["ts"] = 1565554945.974,
-						["amount"] = -6,
-						["spellid"] = 88163,
-						["hp"] = 150,
-						["srcname"] = "Large Crag Boar",
-					}, -- [7]
-					{
-						["ts"] = 1565554948.027,
-						["amount"] = -8,
-						["spellid"] = 88163,
-						["hp"] = 145,
-						["srcname"] = "Large Crag Boar",
-					}, -- [8]
-					{
-						["ts"] = 1565555007.664,
-						["amount"] = -10,
-						["spellid"] = 88163,
-						["hp"] = 168,
-						["srcname"] = "Snow Leopard",
-					}, -- [9]
-					{
-						["ts"] = 1565555009.68,
-						["amount"] = -11,
-						["spellid"] = 88163,
-						["hp"] = 158,
-						["srcname"] = "Snow Leopard",
-					}, -- [10]
-					{
-						["ts"] = 1565555011.684,
-						["amount"] = -12,
-						["spellid"] = 88163,
-						["hp"] = 149,
-						["srcname"] = "Snow Leopard",
-					}, -- [11]
-					{
-						["ts"] = 1565555013.686,
-						["amount"] = -11,
-						["spellid"] = 88163,
-						["hp"] = 138,
-						["srcname"] = "Snow Leopard",
-					}, -- [12]
-					{
-						["ts"] = 1565555015.66,
-						["amount"] = -12,
-						["spellid"] = 88163,
-						["hp"] = 128,
-						["srcname"] = "Snow Leopard",
-					}, -- [13]
-					{
-						["ts"] = 1565555019.693,
-						["amount"] = -11,
-						["spellid"] = 88163,
-						["hp"] = 118,
-						["srcname"] = "Snow Leopard",
-					}, -- [14]
-					{
-						["ts"] = 1565555043.342,
-						["amount"] = -8,
-						["spellid"] = 88163,
-						["hp"] = 150,
-						["srcname"] = "Crag Boar",
-					}, -- [15]
-					["pos"] = 4,
-				},
-				["id"] = "Player-4466-0003818C",
 				["healing"] = 0,
+				["damagetaken"] = 2753,
+				["shielding"] = 0,
+				["id"] = "Player-4466-0003818C",
+				["maxhp"] = 168,
 				["power"] = {
 				},
 				["damagetakenspells"] = {
@@ -1971,13 +1971,13 @@ SkadaPerCharDB = {
 						["damage"] = 13,
 						["max"] = 13,
 						["name"] = "Eviscerate",
-						["glancing"] = 0,
+						["min"] = 13,
 						["totalhits"] = 1,
 						["critical"] = 0,
 						["blocked"] = 0,
 						["school"] = 1,
 						["resisted"] = 0,
-						["min"] = 13,
+						["glancing"] = 0,
 						["absorbed"] = 0,
 					},
 					["Backstab"] = {
@@ -1986,13 +1986,13 @@ SkadaPerCharDB = {
 						["damage"] = 22,
 						["max"] = 22,
 						["name"] = "Backstab",
-						["glancing"] = 0,
+						["min"] = 22,
 						["totalhits"] = 1,
 						["critical"] = 0,
 						["blocked"] = 0,
 						["school"] = 1,
 						["resisted"] = 0,
-						["min"] = 22,
+						["glancing"] = 0,
 						["absorbed"] = 0,
 					},
 					["Attack"] = {
@@ -2001,13 +2001,13 @@ SkadaPerCharDB = {
 						["damage"] = 2618,
 						["max"] = 30,
 						["name"] = "Attack",
-						["glancing"] = 0,
+						["min"] = 3,
 						["totalhits"] = 346,
 						["critical"] = 0,
 						["blocked"] = 0,
 						["school"] = 1,
 						["resisted"] = 0,
-						["min"] = 3,
+						["glancing"] = 0,
 						["absorbed"] = 0,
 					},
 					["Weak Frostbolt"] = {
@@ -2016,13 +2016,13 @@ SkadaPerCharDB = {
 						["damage"] = 60,
 						["max"] = 7,
 						["name"] = "Weak Frostbolt",
-						["glancing"] = 0,
+						["min"] = 5,
 						["totalhits"] = 10,
 						["critical"] = 0,
 						["blocked"] = 0,
 						["school"] = 16,
 						["resisted"] = 0,
-						["min"] = 5,
+						["glancing"] = 0,
 						["absorbed"] = 0,
 					},
 					["Ice Claw"] = {
@@ -2031,13 +2031,13 @@ SkadaPerCharDB = {
 						["damage"] = 14,
 						["max"] = 14,
 						["name"] = "Ice Claw",
-						["glancing"] = 0,
+						["min"] = 14,
 						["totalhits"] = 1,
 						["critical"] = 0,
 						["blocked"] = 0,
 						["school"] = 16,
 						["resisted"] = 0,
-						["min"] = 14,
+						["glancing"] = 0,
 						["absorbed"] = 0,
 					},
 					["Frost Breath"] = {
@@ -2046,13 +2046,13 @@ SkadaPerCharDB = {
 						["damage"] = 26,
 						["max"] = 7,
 						["name"] = "Frost Breath",
-						["glancing"] = 0,
+						["min"] = 6,
 						["totalhits"] = 4,
 						["critical"] = 0,
 						["blocked"] = 0,
 						["school"] = 16,
 						["resisted"] = 0,
-						["min"] = 6,
+						["glancing"] = 0,
 						["absorbed"] = 0,
 					},
 				},
@@ -2083,64 +2083,10 @@ SkadaPerCharDB = {
 				["hdonespell"] = {
 				},
 				["taken"] = 303,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
 				["done"] = 135,
-				["htaken"] = 0,
-				["htakenspell"] = {
-				},
-			},
-			["Young Wendigo"] = {
-				["players"] = {
-					["Damond"] = {
-						["taken"] = 589,
-						["done"] = 189,
-						["class"] = "WARLOCK",
-						["role"] = "NONE",
-					},
-				},
-				["hdone"] = 0,
-				["hdonespell"] = {
-				},
-				["taken"] = 589,
-				["done"] = 189,
-				["htaken"] = 0,
-				["htakenspell"] = {
-				},
-			},
-			["Young Black Bear"] = {
-				["players"] = {
-					["Damond"] = {
-						["taken"] = 1075,
-						["done"] = 197,
-						["class"] = "WARLOCK",
-						["role"] = "NONE",
-					},
-				},
-				["hdone"] = 0,
-				["hdonespell"] = {
-				},
-				["taken"] = 1075,
-				["done"] = 197,
-				["htaken"] = 0,
-				["htakenspell"] = {
-				},
-			},
-			["Hahawops"] = {
-				["players"] = {
-					["Damond"] = {
-						["taken"] = 46,
-						["done"] = 82,
-						["class"] = "WARLOCK",
-						["role"] = "NONE",
-					},
-				},
-				["hdone"] = 0,
-				["hdonespell"] = {
-				},
-				["taken"] = 46,
-				["done"] = 82,
-				["htaken"] = 0,
-				["htakenspell"] = {
-				},
 			},
 			["Small Crag Boar"] = {
 				["players"] = {
@@ -2155,9 +2101,73 @@ SkadaPerCharDB = {
 				["hdonespell"] = {
 				},
 				["taken"] = 71,
-				["done"] = 0,
-				["htaken"] = 0,
 				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["done"] = 0,
+			},
+			["Young Black Bear"] = {
+				["players"] = {
+					["Damond"] = {
+						["taken"] = 1075,
+						["done"] = 197,
+						["class"] = "WARLOCK",
+						["role"] = "NONE",
+					},
+				},
+				["hdone"] = 0,
+				["hdonespell"] = {
+				},
+				["taken"] = 1075,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["done"] = 197,
+			},
+			["Hahawops"] = {
+				["players"] = {
+					["Damond"] = {
+						["taken"] = 46,
+						["done"] = 82,
+						["class"] = "WARLOCK",
+						["role"] = "NONE",
+					},
+				},
+				["hdone"] = 0,
+				["hdonespell"] = {
+				},
+				["taken"] = 46,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
+				["done"] = 82,
+			},
+			["Cazzahs"] = {
+				["players"] = {
+				},
+				["hdone"] = 48,
+				["hdonespell"] = {
+					["Holy Light"] = {
+						["min"] = 48,
+						["crits"] = 0,
+						["max"] = 48,
+						["healing"] = 48,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 48,
+				["htakenspell"] = {
+					["Holy Light"] = {
+						["min"] = 48,
+						["crits"] = 0,
+						["max"] = 48,
+						["healing"] = 48,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
 				},
 			},
 			["Crag Boar"] = {
@@ -2173,10 +2183,10 @@ SkadaPerCharDB = {
 				["hdonespell"] = {
 				},
 				["taken"] = 3196,
-				["done"] = 1193,
-				["htaken"] = 0,
 				["htakenspell"] = {
 				},
+				["htaken"] = 0,
+				["done"] = 1193,
 			},
 			["Juvenile Snow Leopard"] = {
 				["players"] = {
@@ -2191,10 +2201,10 @@ SkadaPerCharDB = {
 				["hdonespell"] = {
 				},
 				["taken"] = 880,
-				["done"] = 216,
-				["htaken"] = 0,
 				["htakenspell"] = {
 				},
+				["htaken"] = 0,
+				["done"] = 216,
 			},
 			["Elder Crag Boar"] = {
 				["players"] = {
@@ -2209,16 +2219,16 @@ SkadaPerCharDB = {
 				["hdonespell"] = {
 				},
 				["taken"] = 319,
-				["done"] = 127,
-				["htaken"] = 0,
 				["htakenspell"] = {
 				},
+				["htaken"] = 0,
+				["done"] = 127,
 			},
-			["Large Crag Boar"] = {
+			["Frostmane Troll Whelp"] = {
 				["players"] = {
 					["Damond"] = {
-						["taken"] = 1174,
-						["done"] = 358,
+						["taken"] = 159,
+						["done"] = 51,
 						["class"] = "WARLOCK",
 						["role"] = "NONE",
 					},
@@ -2226,11 +2236,11 @@ SkadaPerCharDB = {
 				["hdone"] = 0,
 				["hdonespell"] = {
 				},
-				["taken"] = 1174,
-				["done"] = 358,
-				["htaken"] = 0,
+				["taken"] = 159,
 				["htakenspell"] = {
 				},
+				["htaken"] = 0,
+				["done"] = 51,
 			},
 			["Towshi"] = {
 				["players"] = {
@@ -2247,8 +2257,6 @@ SkadaPerCharDB = {
 					},
 				},
 				["taken"] = 0,
-				["done"] = 0,
-				["htaken"] = 9,
 				["htakenspell"] = {
 					["Renew"] = {
 						["min"] = 9,
@@ -2259,12 +2267,14 @@ SkadaPerCharDB = {
 						["hits"] = 1,
 					},
 				},
+				["htaken"] = 9,
+				["done"] = 0,
 			},
-			["Frostmane Troll Whelp"] = {
+			["Large Crag Boar"] = {
 				["players"] = {
 					["Damond"] = {
-						["taken"] = 159,
-						["done"] = 51,
+						["taken"] = 1174,
+						["done"] = 358,
 						["class"] = "WARLOCK",
 						["role"] = "NONE",
 					},
@@ -2272,11 +2282,11 @@ SkadaPerCharDB = {
 				["hdone"] = 0,
 				["hdonespell"] = {
 				},
-				["taken"] = 159,
-				["done"] = 51,
-				["htaken"] = 0,
+				["taken"] = 1174,
 				["htakenspell"] = {
 				},
+				["htaken"] = 0,
+				["done"] = 358,
 			},
 			["Rockjaw Raider"] = {
 				["players"] = {
@@ -2291,28 +2301,10 @@ SkadaPerCharDB = {
 				["hdonespell"] = {
 				},
 				["taken"] = 331,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
 				["done"] = 14,
-				["htaken"] = 0,
-				["htakenspell"] = {
-				},
-			},
-			["Snow Leopard"] = {
-				["players"] = {
-					["Damond"] = {
-						["taken"] = 190,
-						["done"] = 67,
-						["class"] = "WARLOCK",
-						["role"] = "NONE",
-					},
-				},
-				["hdone"] = 0,
-				["hdonespell"] = {
-				},
-				["taken"] = 190,
-				["htakenspell"] = {
-				},
-				["htaken"] = 0,
-				["done"] = 67,
 			},
 			["Ice Claw Bear"] = {
 				["players"] = {
@@ -2327,7 +2319,25 @@ SkadaPerCharDB = {
 				["hdonespell"] = {
 				},
 				["taken"] = 166,
+				["htakenspell"] = {
+				},
+				["htaken"] = 0,
 				["done"] = 60,
+			},
+			["Snow Leopard"] = {
+				["players"] = {
+					["Damond"] = {
+						["taken"] = 190,
+						["done"] = 67,
+						["class"] = "WARLOCK",
+						["role"] = "NONE",
+					},
+				},
+				["hdone"] = 0,
+				["hdonespell"] = {
+				},
+				["taken"] = 190,
+				["done"] = 67,
 				["htaken"] = 0,
 				["htakenspell"] = {
 				},
@@ -2345,38 +2355,28 @@ SkadaPerCharDB = {
 				["hdonespell"] = {
 				},
 				["taken"] = 235,
-				["done"] = 64,
+				["htakenspell"] = {
+				},
 				["htaken"] = 0,
-				["htakenspell"] = {
-				},
+				["done"] = 64,
 			},
-			["Cazzahs"] = {
+			["Young Wendigo"] = {
 				["players"] = {
+					["Damond"] = {
+						["taken"] = 589,
+						["done"] = 189,
+						["class"] = "WARLOCK",
+						["role"] = "NONE",
+					},
 				},
-				["hdone"] = 48,
+				["hdone"] = 0,
 				["hdonespell"] = {
-					["Holy Light"] = {
-						["min"] = 48,
-						["crits"] = 0,
-						["max"] = 48,
-						["healing"] = 48,
-						["overhealing"] = 0,
-						["hits"] = 1,
-					},
 				},
-				["taken"] = 0,
+				["taken"] = 589,
 				["htakenspell"] = {
-					["Holy Light"] = {
-						["min"] = 48,
-						["crits"] = 0,
-						["max"] = 48,
-						["healing"] = 48,
-						["overhealing"] = 0,
-						["hits"] = 1,
-					},
 				},
-				["htaken"] = 48,
-				["done"] = 0,
+				["htaken"] = 0,
+				["done"] = 189,
 			},
 		},
 		["mobtaken"] = 8734,

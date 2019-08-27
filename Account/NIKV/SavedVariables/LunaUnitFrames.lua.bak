@@ -2,6 +2,7 @@
 LunaUFDB = {
 	["profileKeys"] = {
 		["Damond - Lashlayer"] = "Default",
+		["Damond - Razorgore"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -95,48 +96,48 @@ LunaUFDB = {
 						["height"] = 0.5,
 					},
 				},
-				["player"] = {
-					["point"] = "BOTTOMLEFT",
+				["party"] = {
+					["highlight"] = {
+						["height"] = 0.5,
+					},
+					["anchorTo"] = "LUFHeaderraid1",
+					["portrait"] = {
+						["enabled"] = false,
+						["isBar"] = false,
+					},
+					["range"] = {
+						["height"] = 0.5,
+					},
 					["auras"] = {
 						["height"] = 0.5,
 					},
-					["castBar"] = {
-						["enabled"] = false,
-					},
-					["relativePoint"] = "BOTTOMLEFT",
 					["borders"] = {
 						["height"] = 0.5,
 					},
 					["powerBar"] = {
-						["fivesecond"] = false,
 						["height"] = 2,
 					},
-					["highlight"] = {
-						["height"] = 0.5,
-					},
 					["tags"] = {
-						["healthBar"] = {
-							["right"] = {
-								["tagline"] = "",
-							},
-							["left"] = {
-								["tagline"] = "",
-							},
-						},
 						["powerBar"] = {
 							["right"] = {
 								["tagline"] = "",
 							},
 							["left"] = {
+								["tagline"] = "[levelcolor][level]",
+							},
+							["size"] = 15,
+						},
+						["healthBar"] = {
+							["right"] = {
 								["tagline"] = "",
 							},
+							["size"] = 20,
 						},
 					},
 					["squares"] = {
 						["height"] = 0.5,
 					},
-					["y"] = 200,
-					["x"] = 450,
+					["y"] = 518.28125,
 					["fader"] = {
 						["height"] = 0.5,
 					},
@@ -144,19 +145,15 @@ LunaUFDB = {
 						["height"] = 0.5,
 					},
 					["height"] = 60,
-					["indicators"] = {
-						["height"] = 0.5,
-					},
 					["incHeal"] = {
 						["height"] = 0.5,
 					},
-					["portrait"] = {
-						["enabled"] = false,
-						["isBar"] = false,
+					["indicators"] = {
+						["height"] = 0.5,
 					},
 				},
 				["target"] = {
-					["indicators"] = {
+					["highlight"] = {
 						["height"] = 0.5,
 					},
 					["anchorTo"] = "UIParent",
@@ -203,7 +200,7 @@ LunaUFDB = {
 					["incHeal"] = {
 						["height"] = 0.5,
 					},
-					["highlight"] = {
+					["indicators"] = {
 						["height"] = 0.5,
 					},
 					["portrait"] = {
@@ -306,48 +303,48 @@ LunaUFDB = {
 						["height"] = 0.5,
 					},
 				},
-				["party"] = {
-					["highlight"] = {
-						["height"] = 0.5,
-					},
-					["anchorTo"] = "LUFHeaderraid1",
-					["portrait"] = {
-						["enabled"] = false,
-						["isBar"] = false,
-					},
-					["range"] = {
-						["height"] = 0.5,
-					},
+				["player"] = {
+					["point"] = "BOTTOMLEFT",
 					["auras"] = {
 						["height"] = 0.5,
 					},
+					["castBar"] = {
+						["enabled"] = false,
+					},
+					["relativePoint"] = "BOTTOMLEFT",
 					["borders"] = {
 						["height"] = 0.5,
 					},
 					["powerBar"] = {
+						["fivesecond"] = false,
 						["height"] = 2,
 					},
+					["highlight"] = {
+						["height"] = 0.5,
+					},
 					["tags"] = {
+						["healthBar"] = {
+							["right"] = {
+								["tagline"] = "",
+							},
+							["left"] = {
+								["tagline"] = "",
+							},
+						},
 						["powerBar"] = {
 							["right"] = {
 								["tagline"] = "",
 							},
 							["left"] = {
-								["tagline"] = "[levelcolor][level]",
-							},
-							["size"] = 15,
-						},
-						["healthBar"] = {
-							["right"] = {
 								["tagline"] = "",
 							},
-							["size"] = 20,
 						},
 					},
 					["squares"] = {
 						["height"] = 0.5,
 					},
-					["y"] = 518.28125,
+					["y"] = 200,
+					["x"] = 450,
 					["fader"] = {
 						["height"] = 0.5,
 					},
@@ -355,17 +352,21 @@ LunaUFDB = {
 						["height"] = 0.5,
 					},
 					["height"] = 60,
+					["indicators"] = {
+						["height"] = 0.5,
+					},
 					["incHeal"] = {
 						["height"] = 0.5,
 					},
-					["indicators"] = {
-						["height"] = 0.5,
+					["portrait"] = {
+						["enabled"] = false,
+						["isBar"] = false,
 					},
 				},
 			},
 			["locked"] = true,
 			["statusbar"] = "Flat",
-			["version"] = 3027,
+			["version"] = 3034,
 		},
 	},
 }

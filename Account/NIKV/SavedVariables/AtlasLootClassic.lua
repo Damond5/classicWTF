@@ -1,10 +1,11 @@
 
 AtlasLootClassicDB = {
 	["global"] = {
-		["__addonrevision"] = 99999999,
+		["__addonrevision"] = 1010006,
 	},
 	["profileKeys"] = {
 		["Damond - Lashlayer"] = "Damond - Lashlayer",
+		["Damond - Razorgore"] = "Damond - Razorgore",
 	},
 	["profiles"] = {
 		["Damond - Lashlayer"] = {
@@ -26,6 +27,21 @@ AtlasLootClassicDB = {
 					1, -- [4]
 					0, -- [5]
 				},
+			},
+		},
+		["Damond - Razorgore"] = {
+			["GUI"] = {
+				["selected"] = {
+					nil, -- [1]
+					"Ragefire", -- [2]
+					nil, -- [3]
+					1, -- [4]
+					0, -- [5]
+				},
+			},
+			["minimap"] = {
+				["shown"] = false,
+				["hide"] = true,
 			},
 		},
 	},

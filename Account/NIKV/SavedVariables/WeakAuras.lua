@@ -2,7 +2,16 @@
 WeakAurasSaved = {
 	["dynamicIconCache"] = {
 	},
-	["editor_theme"] = "Monokai",
+	["login_squelch_time"] = 10,
+	["minimap"] = {
+		["minimapPos"] = 181.591121390456,
+		["hide"] = true,
+	},
+	["history"] = {
+	},
+	["clearOldHistory"] = 30,
+	["registered"] = {
+	},
 	["displays"] = {
 		["Details! Aura Group"] = {
 			["grow"] = "RIGHT",
@@ -119,33 +128,33 @@ WeakAurasSaved = {
 				0.5, -- [4]
 			},
 			["animate"] = true,
+			["useLimit"] = false,
 			["scale"] = 1,
-			["internalVersion"] = 21,
+			["authorOptions"] = {
+			},
 			["border"] = false,
 			["borderEdge"] = "1 Pixel",
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["sort"] = "none",
-			["authorOptions"] = {
-			},
 			["arcLength"] = 360,
+			["internalVersion"] = 23,
 			["constantFactor"] = "RADIUS",
-			["useLimit"] = false,
-			["borderOffset"] = 16,
 			["gridType"] = "RD",
+			["borderOffset"] = 16,
 			["rowSpace"] = 1,
-			["id"] = "Details! Aura Group",
 			["config"] = {
 			},
-			["gridWidth"] = 5,
-			["width"] = 199.999969482422,
+			["id"] = "Details! Aura Group",
 			["frameStrata"] = 1,
-			["borderInset"] = 0,
+			["gridWidth"] = 5,
 			["anchorFrameType"] = "SCREEN",
+			["width"] = 199.999969482422,
+			["uid"] = "NWf6Q37Vrqb",
+			["borderInset"] = 0,
 			["limit"] = 5,
 			["conditions"] = {
 			},
-			["stagger"] = 0,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -160,6 +169,7 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
+			["stagger"] = 0,
 		},
 		["Details! Boss Mods Group"] = {
 			["grow"] = "DOWN",
@@ -275,15 +285,15 @@ WeakAurasSaved = {
 				0.5, -- [4]
 			},
 			["animate"] = true,
+			["useLimit"] = false,
 			["scale"] = 1,
-			["internalVersion"] = 21,
+			["authorOptions"] = {
+			},
 			["border"] = false,
 			["borderEdge"] = "1 Pixel",
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["sort"] = "none",
-			["authorOptions"] = {
-			},
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -298,24 +308,25 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["internalVersion"] = 23,
 			["constantFactor"] = "RADIUS",
-			["useLimit"] = false,
-			["borderOffset"] = 16,
 			["gridType"] = "RD",
+			["borderOffset"] = 16,
 			["rowSpace"] = 1,
-			["id"] = "Details! Boss Mods Group",
 			["config"] = {
 			},
-			["gridWidth"] = 5,
-			["width"] = 359.096801757813,
+			["id"] = "Details! Boss Mods Group",
 			["frameStrata"] = 1,
-			["borderInset"] = 0,
+			["gridWidth"] = 5,
 			["anchorFrameType"] = "SCREEN",
+			["width"] = 359.096801757813,
+			["uid"] = "rKC7x5DcPIY",
+			["borderInset"] = 0,
 			["limit"] = 5,
 			["conditions"] = {
 			},
-			["stagger"] = 0,
 			["arcLength"] = 360,
+			["stagger"] = 0,
 		},
 		["cast bar"] = {
 			["sparkWidth"] = 10,
@@ -325,7 +336,6 @@ WeakAurasSaved = {
 			["anchorPoint"] = "CENTER",
 			["sparkRotation"] = 0,
 			["sparkRotationMode"] = "AUTO",
-			["sparkHidden"] = "NEVER",
 			["backgroundColor"] = {
 				0, -- [1]
 				0, -- [2]
@@ -361,10 +371,9 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 21,
+			["internalVersion"] = 23,
 			["selfPoint"] = "CENTER",
 			["backdropInFront"] = false,
-			["borderBackdrop"] = "Blizzard Tooltip",
 			["barColor"] = {
 				1, -- [1]
 				0.733333333333333, -- [2]
@@ -372,11 +381,11 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["desaturate"] = false,
-			["authorOptions"] = {
-			},
-			["stickyDuration"] = false,
 			["sparkOffsetY"] = 0,
 			["subRegions"] = {
+				{
+					["type"] = "aurabar_bar",
+				}, -- [1]
 				{
 					["text_shadowXOffset"] = 1,
 					["type"] = "subtext",
@@ -399,11 +408,11 @@ WeakAurasSaved = {
 					["text_fontType"] = "None",
 					["text_anchorPoint"] = "INNER_LEFT",
 					["anchorYOffset"] = 0,
-					["text_fontSize"] = 12,
 					["rotateText"] = "NONE",
+					["text_fontSize"] = 12,
 					["anchorXOffset"] = 0,
 					["text_visible"] = false,
-				}, -- [1]
+				}, -- [2]
 				{
 					["text_shadowXOffset"] = 1,
 					["type"] = "subtext",
@@ -426,15 +435,27 @@ WeakAurasSaved = {
 					["text_fontType"] = "None",
 					["text_anchorPoint"] = "INNER_RIGHT",
 					["anchorYOffset"] = 0,
-					["text_fontSize"] = 12,
 					["rotateText"] = "NONE",
+					["text_fontSize"] = 12,
 					["anchorXOffset"] = 0,
 					["text_visible"] = false,
-				}, -- [2]
+				}, -- [3]
+				{
+					["type"] = "subborder",
+					["border_anchor"] = "bar",
+					["border_offset"] = 5,
+					["border_color"] = {
+						1, -- [1]
+						1, -- [2]
+						1, -- [3]
+						0.5, -- [4]
+					},
+					["border_visible"] = false,
+					["border_edge"] = "None",
+					["border_size"] = 16,
+				}, -- [4]
 			},
 			["height"] = 20,
-			["config"] = {
-			},
 			["load"] = {
 				["spec"] = {
 					["multi"] = {
@@ -456,6 +477,11 @@ WeakAurasSaved = {
 				1, -- [3]
 				0.5, -- [4]
 			},
+			["config"] = {
+			},
+			["borderBackdrop"] = "Blizzard Tooltip",
+			["authorOptions"] = {
+			},
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -470,39 +496,36 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["icon"] = false,
 			["uid"] = "phqaWBTHWMD",
 			["useAdjustededMin"] = false,
-			["width"] = 250,
-			["border"] = false,
-			["borderEdge"] = "None",
 			["regionType"] = "aurabar",
 			["borderInFront"] = true,
-			["frameStrata"] = 1,
+			["icon"] = false,
 			["icon_side"] = "RIGHT",
-			["zoom"] = 0,
+			["spark"] = false,
 			["sparkHeight"] = 30,
 			["texture"] = "Flat",
+			["width"] = 250,
+			["zoom"] = 0,
 			["auto"] = true,
-			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-			["spark"] = false,
-			["borderOffset"] = 5,
+			["frameStrata"] = 1,
 			["id"] = "cast bar",
-			["useAdjustededMax"] = false,
+			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
 			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["borderSize"] = 16,
-			["borderInset"] = 11,
-			["inverse"] = false,
+			["sparkHidden"] = "NEVER",
 			["sparkColor"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["inverse"] = false,
+			["useAdjustededMax"] = false,
 			["orientation"] = "HORIZONTAL",
 			["conditions"] = {
 			},
+			["stickyDuration"] = false,
 			["actions"] = {
 				["start"] = {
 				},
@@ -511,25 +534,13 @@ WeakAurasSaved = {
 				["finish"] = {
 				},
 			},
-			["borderColor"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				0.5, -- [4]
-			},
 		},
 	},
-	["registered"] = {
-	},
-	["login_squelch_time"] = 10,
 	["frame"] = {
 		["xOffset"] = -1154.52355957031,
 		["width"] = 830,
 		["height"] = 665.000061035156,
 		["yOffset"] = -179.499877929688,
 	},
-	["minimap"] = {
-		["minimapPos"] = 181.591121390456,
-		["hide"] = true,
-	},
+	["editor_theme"] = "Monokai",
 }

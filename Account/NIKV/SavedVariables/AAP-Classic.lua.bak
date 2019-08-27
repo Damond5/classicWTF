@@ -1,5 +1,16 @@
 
 AAPC1 = {
+	["Razorgore"] = {
+		["Damond"] = {
+			["Elite"] = {
+			},
+			["Zones"] = {
+				["6-12DwarfGnome-Warlock"] = 18,
+			},
+			["Completed"] = {
+			},
+		},
+	},
 	["Lashlayer"] = {
 		["Damond"] = {
 			["Elite"] = {

@@ -6,11 +6,11 @@ QuestieConfig = {
 				{
 					["Party"] = {
 					},
-					["Event"] = "Quest",
 					["SubType"] = "Accept",
-					["Level"] = 2,
-					["Quest"] = 179,
+					["Event"] = "Quest",
 					["Timestamp"] = 1565382006,
+					["Quest"] = 179,
+					["Level"] = 2,
 				}, -- [1]
 				{
 					["Timestamp"] = 1565477227,
@@ -22,47 +22,47 @@ QuestieConfig = {
 				{
 					["Party"] = {
 					},
-					["SubType"] = "Complete",
 					["Event"] = "Quest",
-					["Timestamp"] = 1565477633,
-					["Quest"] = 179,
+					["SubType"] = "Complete",
 					["Level"] = 3,
+					["Quest"] = 179,
+					["Timestamp"] = 1565477633,
 				}, -- [3]
 				{
 					["Party"] = {
 					},
-					["SubType"] = "Accept",
 					["Event"] = "Quest",
-					["Timestamp"] = 1565477633,
-					["Quest"] = 3115,
+					["SubType"] = "Accept",
 					["Level"] = 3,
+					["Quest"] = 3115,
+					["Timestamp"] = 1565477633,
 				}, -- [4]
 				{
 					["Party"] = {
 					},
-					["SubType"] = "Accept",
 					["Event"] = "Quest",
-					["Timestamp"] = 1565477669,
-					["Quest"] = 170,
+					["SubType"] = "Accept",
 					["Level"] = 3,
+					["Quest"] = 170,
+					["Timestamp"] = 1565477669,
 				}, -- [5]
 				{
 					["Party"] = {
 					},
-					["SubType"] = "Accept",
 					["Event"] = "Quest",
-					["Timestamp"] = 1565477673,
-					["Quest"] = 233,
+					["SubType"] = "Accept",
 					["Level"] = 3,
+					["Quest"] = 233,
+					["Timestamp"] = 1565477673,
 				}, -- [6]
 				{
 					["Party"] = {
 					},
-					["SubType"] = "Complete",
 					["Event"] = "Quest",
-					["Timestamp"] = 1565477717,
-					["Quest"] = 3115,
+					["SubType"] = "Complete",
 					["Level"] = 3,
+					["Quest"] = 3115,
+					["Timestamp"] = 1565477717,
 				}, -- [7]
 				{
 					["Party"] = {
@@ -74,29 +74,29 @@ QuestieConfig = {
 				{
 					["Party"] = {
 					},
-					["Level"] = 4,
-					["Quest"] = 170,
 					["Timestamp"] = 1565528429,
-					["SubType"] = "Complete",
+					["Quest"] = 170,
+					["Level"] = 4,
 					["Event"] = "Quest",
+					["SubType"] = "Complete",
 				}, -- [9]
 				{
 					["Party"] = {
 					},
-					["Level"] = 4,
-					["Quest"] = 1599,
 					["Timestamp"] = 1565528465,
-					["SubType"] = "Complete",
+					["Quest"] = 1599,
+					["Level"] = 4,
 					["Event"] = "Quest",
+					["SubType"] = "Complete",
 				}, -- [10]
 				{
 					["Party"] = {
 					},
-					["Level"] = 4,
-					["Quest"] = 2160,
 					["Timestamp"] = 1565528847,
-					["SubType"] = "Accept",
+					["Quest"] = 2160,
+					["Level"] = 4,
 					["Event"] = "Quest",
+					["SubType"] = "Accept",
 				}, -- [11]
 				{
 					["Party"] = {
@@ -108,20 +108,20 @@ QuestieConfig = {
 				{
 					["Party"] = {
 					},
-					["Level"] = 5,
-					["Quest"] = 2160,
 					["Timestamp"] = 1565547183,
-					["SubType"] = "Complete",
+					["Quest"] = 2160,
+					["Level"] = 5,
 					["Event"] = "Quest",
+					["SubType"] = "Complete",
 				}, -- [13]
 				{
 					["Party"] = {
 					},
-					["Level"] = 5,
-					["Quest"] = 384,
 					["Timestamp"] = 1565547196,
-					["SubType"] = "Accept",
+					["Quest"] = 384,
+					["Level"] = 5,
 					["Event"] = "Quest",
+					["SubType"] = "Accept",
 				}, -- [14]
 				{
 					["Party"] = {
@@ -133,11 +133,11 @@ QuestieConfig = {
 				{
 					["Party"] = {
 					},
-					["Level"] = 5,
-					["Quest"] = 384,
 					["Timestamp"] = 1565547936,
-					["SubType"] = "Complete",
+					["Quest"] = 384,
+					["Level"] = 5,
 					["Event"] = "Quest",
+					["SubType"] = "Complete",
 				}, -- [16]
 			},
 			["complete"] = {
@@ -149,9 +149,29 @@ QuestieConfig = {
 				[1599] = true,
 			},
 		},
+		["Damond - Razorgore"] = {
+			["complete"] = {
+				[183] = true,
+				[5541] = true,
+				[1599] = true,
+				[384] = true,
+				[310] = true,
+				[3115] = true,
+				[179] = true,
+				[313] = true,
+				[2160] = true,
+				[400] = true,
+				[320] = true,
+				[317] = true,
+				[318] = true,
+				[319] = true,
+				[182] = true,
+			},
+		},
 	},
 	["profileKeys"] = {
 		["Damond - Lashlayer"] = "Default",
+		["Damond - Razorgore"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

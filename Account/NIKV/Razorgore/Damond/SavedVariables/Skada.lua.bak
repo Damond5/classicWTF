@@ -68,14 +68,14 @@ SkadaPerCharDB = {
 						["criticalamount"] = 27,
 						["max"] = 4,
 						["PARRY"] = 9,
-						["BLOCK"] = 10,
+						["hitmax"] = 3,
 						["min"] = 1,
 						["criticalmax"] = 4,
-						["hitmax"] = 3,
+						["critical"] = 8,
 						["hit"] = 177,
 						["school"] = 1,
 						["id"] = 6603,
-						["critical"] = 8,
+						["BLOCK"] = 10,
 						["hitamount"] = 335,
 					},
 					["Corruption"] = {
@@ -86,17 +86,17 @@ SkadaPerCharDB = {
 						["max"] = 10,
 						["hitmax"] = 10,
 						["hit"] = 177,
-						["totalhits"] = 184,
-						["RESIST"] = 7,
 						["school"] = 32,
+						["RESIST"] = 7,
+						["totalhits"] = 184,
 						["damage"] = 1770,
 					},
 					["Immolate"] = {
 						["hitamount"] = 1687,
-						["EVADE"] = 1,
+						["id"] = 0,
 						["hitmin"] = 4,
 						["criticalamount"] = 75,
-						["id"] = 0,
+						["max"] = 16,
 						["criticalmin"] = 14,
 						["school"] = 4,
 						["hitmax"] = 11,
@@ -106,7 +106,7 @@ SkadaPerCharDB = {
 						["hit"] = 314,
 						["totalhits"] = 324,
 						["RESIST"] = 4,
-						["max"] = 16,
+						["EVADE"] = 1,
 						["damage"] = 1762,
 					},
 					["Shadow Bolt"] = {
@@ -129,125 +129,18 @@ SkadaPerCharDB = {
 				},
 				["role"] = "NONE",
 				["damagetaken"] = 2753,
-				["deathlog"] = {
-					{
-						["ts"] = 1565555045.368,
-						["amount"] = -8,
-						["hp"] = 143,
-						["srcname"] = "Crag Boar",
-						["spellid"] = 88163,
-					}, -- [1]
-					{
-						["ts"] = 1565555047.391,
-						["amount"] = -7,
-						["hp"] = 136,
-						["srcname"] = "Crag Boar",
-						["spellid"] = 88163,
-					}, -- [2]
-					{
-						["ts"] = 1565555049.402,
-						["amount"] = -6,
-						["hp"] = 131,
-						["spellid"] = 88163,
-						["srcname"] = "Crag Boar",
-					}, -- [3]
-					{
-						["ts"] = 1565554940.015,
-						["amount"] = -8,
-						["hp"] = 168,
-						["spellid"] = 88163,
-						["srcname"] = "Large Crag Boar",
-					}, -- [4]
-					{
-						["ts"] = 1565554941.96,
-						["amount"] = -7,
-						["hp"] = 161,
-						["spellid"] = 88163,
-						["srcname"] = "Large Crag Boar",
-					}, -- [5]
-					{
-						["ts"] = 1565554944.062,
-						["amount"] = -7,
-						["hp"] = 155,
-						["spellid"] = 88163,
-						["srcname"] = "Large Crag Boar",
-					}, -- [6]
-					{
-						["ts"] = 1565554945.974,
-						["amount"] = -6,
-						["hp"] = 150,
-						["srcname"] = "Large Crag Boar",
-						["spellid"] = 88163,
-					}, -- [7]
-					{
-						["ts"] = 1565554948.027,
-						["amount"] = -8,
-						["hp"] = 145,
-						["srcname"] = "Large Crag Boar",
-						["spellid"] = 88163,
-					}, -- [8]
-					{
-						["ts"] = 1565555007.664,
-						["amount"] = -10,
-						["hp"] = 168,
-						["srcname"] = "Snow Leopard",
-						["spellid"] = 88163,
-					}, -- [9]
-					{
-						["ts"] = 1565555009.68,
-						["amount"] = -11,
-						["hp"] = 158,
-						["srcname"] = "Snow Leopard",
-						["spellid"] = 88163,
-					}, -- [10]
-					{
-						["ts"] = 1565555011.684,
-						["amount"] = -12,
-						["hp"] = 149,
-						["srcname"] = "Snow Leopard",
-						["spellid"] = 88163,
-					}, -- [11]
-					{
-						["ts"] = 1565555013.686,
-						["amount"] = -11,
-						["hp"] = 138,
-						["srcname"] = "Snow Leopard",
-						["spellid"] = 88163,
-					}, -- [12]
-					{
-						["ts"] = 1565555015.66,
-						["amount"] = -12,
-						["hp"] = 128,
-						["srcname"] = "Snow Leopard",
-						["spellid"] = 88163,
-					}, -- [13]
-					{
-						["ts"] = 1565555019.693,
-						["amount"] = -11,
-						["hp"] = 118,
-						["srcname"] = "Snow Leopard",
-						["spellid"] = 88163,
-					}, -- [14]
-					{
-						["ts"] = 1565555043.342,
-						["amount"] = -8,
-						["hp"] = 150,
-						["srcname"] = "Crag Boar",
-						["spellid"] = 88163,
-					}, -- [15]
-					["pos"] = 4,
-				},
+				["shielding"] = 0,
 				["id"] = "Player-4466-0003818C",
-				["healing"] = 0,
+				["maxhp"] = 168,
 				["time"] = 956,
 				["damagetakenspells"] = {
 					["Eviscerate"] = {
 						["crushing"] = 0,
 						["id"] = 0,
 						["absorbed"] = 0,
-						["glancing"] = 0,
-						["critical"] = 0,
 						["min"] = 13,
+						["critical"] = 0,
+						["glancing"] = 0,
 						["school"] = 1,
 						["name"] = "Eviscerate",
 						["blocked"] = 0,
@@ -260,9 +153,9 @@ SkadaPerCharDB = {
 						["crushing"] = 0,
 						["id"] = 0,
 						["absorbed"] = 0,
-						["glancing"] = 0,
-						["critical"] = 0,
 						["min"] = 22,
+						["critical"] = 0,
+						["glancing"] = 0,
 						["school"] = 1,
 						["name"] = "Backstab",
 						["blocked"] = 0,
@@ -275,9 +168,9 @@ SkadaPerCharDB = {
 						["crushing"] = 0,
 						["id"] = 0,
 						["absorbed"] = 0,
-						["glancing"] = 0,
-						["critical"] = 0,
 						["min"] = 6,
+						["critical"] = 0,
+						["glancing"] = 0,
 						["school"] = 16,
 						["name"] = "Frost Breath",
 						["blocked"] = 0,
@@ -290,9 +183,9 @@ SkadaPerCharDB = {
 						["crushing"] = 0,
 						["id"] = 0,
 						["absorbed"] = 0,
-						["glancing"] = 0,
-						["critical"] = 0,
 						["min"] = 5,
+						["critical"] = 0,
+						["glancing"] = 0,
 						["school"] = 16,
 						["name"] = "Weak Frostbolt",
 						["blocked"] = 0,
@@ -305,9 +198,9 @@ SkadaPerCharDB = {
 						["crushing"] = 0,
 						["id"] = 0,
 						["absorbed"] = 0,
-						["glancing"] = 0,
-						["critical"] = 0,
 						["min"] = 14,
+						["critical"] = 0,
+						["glancing"] = 0,
 						["school"] = 16,
 						["name"] = "Ice Claw",
 						["blocked"] = 0,
@@ -320,9 +213,9 @@ SkadaPerCharDB = {
 						["crushing"] = 0,
 						["id"] = 6603,
 						["absorbed"] = 0,
-						["glancing"] = 0,
-						["critical"] = 0,
 						["min"] = 3,
+						["critical"] = 0,
+						["glancing"] = 0,
 						["school"] = 1,
 						["name"] = "Attack",
 						["blocked"] = 0,
@@ -340,8 +233,115 @@ SkadaPerCharDB = {
 				},
 				["power"] = {
 				},
-				["maxhp"] = 168,
-				["shielding"] = 0,
+				["healing"] = 0,
+				["deathlog"] = {
+					{
+						["ts"] = 1565555045.368,
+						["amount"] = -8,
+						["srcname"] = "Crag Boar",
+						["spellid"] = 88163,
+						["hp"] = 143,
+					}, -- [1]
+					{
+						["ts"] = 1565555047.391,
+						["amount"] = -7,
+						["srcname"] = "Crag Boar",
+						["spellid"] = 88163,
+						["hp"] = 136,
+					}, -- [2]
+					{
+						["ts"] = 1565555049.402,
+						["amount"] = -6,
+						["spellid"] = 88163,
+						["srcname"] = "Crag Boar",
+						["hp"] = 131,
+					}, -- [3]
+					{
+						["ts"] = 1565554940.015,
+						["amount"] = -8,
+						["spellid"] = 88163,
+						["srcname"] = "Large Crag Boar",
+						["hp"] = 168,
+					}, -- [4]
+					{
+						["ts"] = 1565554941.96,
+						["amount"] = -7,
+						["spellid"] = 88163,
+						["srcname"] = "Large Crag Boar",
+						["hp"] = 161,
+					}, -- [5]
+					{
+						["ts"] = 1565554944.062,
+						["amount"] = -7,
+						["spellid"] = 88163,
+						["srcname"] = "Large Crag Boar",
+						["hp"] = 155,
+					}, -- [6]
+					{
+						["ts"] = 1565554945.974,
+						["amount"] = -6,
+						["srcname"] = "Large Crag Boar",
+						["spellid"] = 88163,
+						["hp"] = 150,
+					}, -- [7]
+					{
+						["ts"] = 1565554948.027,
+						["amount"] = -8,
+						["srcname"] = "Large Crag Boar",
+						["spellid"] = 88163,
+						["hp"] = 145,
+					}, -- [8]
+					{
+						["ts"] = 1565555007.664,
+						["amount"] = -10,
+						["srcname"] = "Snow Leopard",
+						["spellid"] = 88163,
+						["hp"] = 168,
+					}, -- [9]
+					{
+						["ts"] = 1565555009.68,
+						["amount"] = -11,
+						["srcname"] = "Snow Leopard",
+						["spellid"] = 88163,
+						["hp"] = 158,
+					}, -- [10]
+					{
+						["ts"] = 1565555011.684,
+						["amount"] = -12,
+						["srcname"] = "Snow Leopard",
+						["spellid"] = 88163,
+						["hp"] = 149,
+					}, -- [11]
+					{
+						["ts"] = 1565555013.686,
+						["amount"] = -11,
+						["srcname"] = "Snow Leopard",
+						["spellid"] = 88163,
+						["hp"] = 138,
+					}, -- [12]
+					{
+						["ts"] = 1565555015.66,
+						["amount"] = -12,
+						["srcname"] = "Snow Leopard",
+						["spellid"] = 88163,
+						["hp"] = 128,
+					}, -- [13]
+					{
+						["ts"] = 1565555019.693,
+						["amount"] = -11,
+						["srcname"] = "Snow Leopard",
+						["spellid"] = 88163,
+						["hp"] = 118,
+					}, -- [14]
+					{
+						["ts"] = 1565555043.342,
+						["amount"] = -8,
+						["srcname"] = "Crag Boar",
+						["spellid"] = 88163,
+						["hp"] = 150,
+					}, -- [15]
+					["pos"] = 4,
+				},
 				["healingspells"] = {
 				},
 			}, -- [1]
@@ -358,30 +358,40 @@ SkadaPerCharDB = {
 					},
 				},
 				["hdone"] = 0,
-				["done"] = 135,
-				["taken"] = 303,
 				["htakenspell"] = {
 				},
+				["taken"] = 303,
+				["done"] = 135,
 				["htaken"] = 0,
 				["hdonespell"] = {
 				},
 			},
-			["Snow Leopard"] = {
+			["Cazzahs"] = {
 				["players"] = {
-					["Damond"] = {
-						["taken"] = 190,
-						["done"] = 67,
-						["role"] = "NONE",
-						["class"] = "WARLOCK",
+				},
+				["hdone"] = 48,
+				["done"] = 0,
+				["taken"] = 0,
+				["htakenspell"] = {
+					["Holy Light"] = {
+						["min"] = 48,
+						["crits"] = 0,
+						["max"] = 48,
+						["healing"] = 48,
+						["overhealing"] = 0,
+						["hits"] = 1,
 					},
 				},
-				["hdone"] = 0,
-				["htakenspell"] = {
-				},
-				["taken"] = 190,
-				["done"] = 67,
-				["htaken"] = 0,
+				["htaken"] = 48,
 				["hdonespell"] = {
+					["Holy Light"] = {
+						["min"] = 48,
+						["crits"] = 0,
+						["max"] = 48,
+						["healing"] = 48,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
 				},
 			},
 			["Young Black Bear"] = {
@@ -394,10 +404,10 @@ SkadaPerCharDB = {
 					},
 				},
 				["hdone"] = 0,
-				["done"] = 197,
-				["taken"] = 1075,
 				["htakenspell"] = {
 				},
+				["taken"] = 1075,
+				["done"] = 197,
 				["htaken"] = 0,
 				["hdonespell"] = {
 				},
@@ -412,28 +422,28 @@ SkadaPerCharDB = {
 					},
 				},
 				["hdone"] = 0,
-				["done"] = 82,
-				["taken"] = 46,
 				["htakenspell"] = {
 				},
+				["taken"] = 46,
+				["done"] = 82,
 				["htaken"] = 0,
 				["hdonespell"] = {
 				},
 			},
-			["Small Crag Boar"] = {
+			["Young Wendigo"] = {
 				["players"] = {
 					["Damond"] = {
-						["taken"] = 71,
-						["done"] = 0,
+						["taken"] = 589,
+						["done"] = 189,
 						["role"] = "NONE",
 						["class"] = "WARLOCK",
 					},
 				},
 				["hdone"] = 0,
-				["done"] = 0,
-				["taken"] = 71,
 				["htakenspell"] = {
 				},
+				["taken"] = 589,
+				["done"] = 189,
 				["htaken"] = 0,
 				["hdonespell"] = {
 				},
@@ -448,10 +458,10 @@ SkadaPerCharDB = {
 					},
 				},
 				["hdone"] = 0,
-				["done"] = 1193,
-				["taken"] = 3196,
 				["htakenspell"] = {
 				},
+				["taken"] = 3196,
+				["done"] = 1193,
 				["htaken"] = 0,
 				["hdonespell"] = {
 				},
@@ -466,40 +476,12 @@ SkadaPerCharDB = {
 					},
 				},
 				["hdone"] = 0,
-				["done"] = 216,
-				["taken"] = 880,
 				["htakenspell"] = {
 				},
+				["taken"] = 880,
+				["done"] = 216,
 				["htaken"] = 0,
 				["hdonespell"] = {
-				},
-			},
-			["Cazzahs"] = {
-				["players"] = {
-				},
-				["hdone"] = 48,
-				["htakenspell"] = {
-					["Holy Light"] = {
-						["min"] = 48,
-						["crits"] = 0,
-						["max"] = 48,
-						["healing"] = 48,
-						["overhealing"] = 0,
-						["hits"] = 1,
-					},
-				},
-				["taken"] = 0,
-				["done"] = 0,
-				["htaken"] = 48,
-				["hdonespell"] = {
-					["Holy Light"] = {
-						["min"] = 48,
-						["crits"] = 0,
-						["max"] = 48,
-						["healing"] = 48,
-						["overhealing"] = 0,
-						["hits"] = 1,
-					},
 				},
 			},
 			["Elder Crag Boar"] = {
@@ -512,40 +494,12 @@ SkadaPerCharDB = {
 					},
 				},
 				["hdone"] = 0,
-				["done"] = 127,
-				["taken"] = 319,
 				["htakenspell"] = {
 				},
+				["taken"] = 319,
+				["done"] = 127,
 				["htaken"] = 0,
 				["hdonespell"] = {
-				},
-			},
-			["Towshi"] = {
-				["players"] = {
-				},
-				["hdone"] = 9,
-				["done"] = 0,
-				["taken"] = 0,
-				["htakenspell"] = {
-					["Renew"] = {
-						["min"] = 9,
-						["crits"] = 0,
-						["max"] = 9,
-						["healing"] = 9,
-						["overhealing"] = 0,
-						["hits"] = 1,
-					},
-				},
-				["htaken"] = 9,
-				["hdonespell"] = {
-					["Renew"] = {
-						["min"] = 9,
-						["crits"] = 0,
-						["max"] = 9,
-						["healing"] = 9,
-						["overhealing"] = 0,
-						["hits"] = 1,
-					},
 				},
 			},
 			["Ice Claw Bear"] = {
@@ -558,8 +512,54 @@ SkadaPerCharDB = {
 					},
 				},
 				["hdone"] = 0,
-				["done"] = 60,
+				["htakenspell"] = {
+				},
 				["taken"] = 166,
+				["done"] = 60,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Towshi"] = {
+				["players"] = {
+				},
+				["hdone"] = 9,
+				["htakenspell"] = {
+					["Renew"] = {
+						["min"] = 9,
+						["crits"] = 0,
+						["max"] = 9,
+						["healing"] = 9,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 9,
+				["hdonespell"] = {
+					["Renew"] = {
+						["min"] = 9,
+						["crits"] = 0,
+						["max"] = 9,
+						["healing"] = 9,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+			},
+			["Snow Leopard"] = {
+				["players"] = {
+					["Damond"] = {
+						["taken"] = 190,
+						["done"] = 67,
+						["role"] = "NONE",
+						["class"] = "WARLOCK",
+					},
+				},
+				["hdone"] = 0,
+				["done"] = 67,
+				["taken"] = 190,
 				["htakenspell"] = {
 				},
 				["htaken"] = 0,
@@ -576,28 +576,10 @@ SkadaPerCharDB = {
 					},
 				},
 				["hdone"] = 0,
-				["done"] = 14,
+				["htakenspell"] = {
+				},
 				["taken"] = 331,
-				["htakenspell"] = {
-				},
-				["htaken"] = 0,
-				["hdonespell"] = {
-				},
-			},
-			["Frostmane Troll Whelp"] = {
-				["players"] = {
-					["Damond"] = {
-						["taken"] = 159,
-						["done"] = 51,
-						["role"] = "NONE",
-						["class"] = "WARLOCK",
-					},
-				},
-				["hdone"] = 0,
-				["done"] = 51,
-				["taken"] = 159,
-				["htakenspell"] = {
-				},
+				["done"] = 14,
 				["htaken"] = 0,
 				["hdonespell"] = {
 				},
@@ -612,10 +594,28 @@ SkadaPerCharDB = {
 					},
 				},
 				["hdone"] = 0,
-				["done"] = 358,
-				["taken"] = 1174,
 				["htakenspell"] = {
 				},
+				["taken"] = 1174,
+				["done"] = 358,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Frostmane Troll Whelp"] = {
+				["players"] = {
+					["Damond"] = {
+						["taken"] = 159,
+						["done"] = 51,
+						["role"] = "NONE",
+						["class"] = "WARLOCK",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 159,
+				["done"] = 51,
 				["htaken"] = 0,
 				["hdonespell"] = {
 				},
@@ -630,28 +630,28 @@ SkadaPerCharDB = {
 					},
 				},
 				["hdone"] = 0,
-				["done"] = 64,
-				["taken"] = 235,
 				["htakenspell"] = {
 				},
+				["taken"] = 235,
+				["done"] = 64,
 				["htaken"] = 0,
 				["hdonespell"] = {
 				},
 			},
-			["Young Wendigo"] = {
+			["Small Crag Boar"] = {
 				["players"] = {
 					["Damond"] = {
-						["taken"] = 589,
-						["done"] = 189,
+						["taken"] = 71,
+						["done"] = 0,
 						["role"] = "NONE",
 						["class"] = "WARLOCK",
 					},
 				},
 				["hdone"] = 0,
-				["done"] = 189,
-				["taken"] = 589,
 				["htakenspell"] = {
 				},
+				["taken"] = 71,
+				["done"] = 0,
 				["htaken"] = 0,
 				["hdonespell"] = {
 				},
@@ -695,10 +695,9 @@ SkadaPerCharDB = {
 					["role"] = "NONE",
 					["time"] = 18,
 					["interrupts"] = 0,
-					["ffdamagedonetargets"] = {
-					},
 					["ffdamagedonespells"] = {
 					},
+					["ffdamagedone"] = 0,
 					["damage"] = 125,
 					["damagespells"] = {
 						["Dagtog: Firebolt"] = {
@@ -713,6 +712,23 @@ SkadaPerCharDB = {
 							["totalhits"] = 5,
 							["damage"] = 38,
 						},
+						["Attack"] = {
+							["hitamount"] = 7,
+							["hitmin"] = 1,
+							["criticalamount"] = 4,
+							["id"] = 6603,
+							["criticalmin"] = 4,
+							["min"] = 1,
+							["school"] = 1,
+							["glancing"] = 4,
+							["criticalmax"] = 4,
+							["hitmax"] = 3,
+							["hit"] = 4,
+							["totalhits"] = 9,
+							["critical"] = 1,
+							["max"] = 4,
+							["damage"] = 16,
+						},
 						["Corruption"] = {
 							["hitmin"] = 10,
 							["id"] = 0,
@@ -724,23 +740,6 @@ SkadaPerCharDB = {
 							["max"] = 10,
 							["totalhits"] = 4,
 							["damage"] = 40,
-						},
-						["Attack"] = {
-							["glancing"] = 4,
-							["hitmin"] = 1,
-							["criticalamount"] = 4,
-							["id"] = 6603,
-							["criticalmin"] = 4,
-							["hitamount"] = 7,
-							["critical"] = 1,
-							["min"] = 1,
-							["criticalmax"] = 4,
-							["hitmax"] = 3,
-							["hit"] = 4,
-							["school"] = 1,
-							["max"] = 4,
-							["totalhits"] = 9,
-							["damage"] = 16,
 						},
 						["Immolate"] = {
 							["hitmin"] = 4,
@@ -755,31 +754,31 @@ SkadaPerCharDB = {
 							["damage"] = 31,
 						},
 						["Shadow Bolt"] = {
-							["id"] = 0,
-							["max"] = 0,
-							["totalhits"] = 1,
-							["RESIST"] = 1,
 							["school"] = 32,
+							["totalhits"] = 1,
+							["max"] = 0,
+							["RESIST"] = 1,
+							["id"] = 0,
 							["damage"] = 0,
 						},
 					},
-					["ffdamagedone"] = 0,
+					["damagetaken"] = 29,
 					["healed"] = {
 					},
 					["power"] = {
 					},
 					["id"] = "Player-4466-0003818C",
-					["first"] = 1565555033,
-					["damagetaken"] = 29,
+					["healing"] = 0,
+					["maxhp"] = 168,
 					["damagetakenspells"] = {
 						["Attack"] = {
 							["crushing"] = 0,
 							["id"] = 6603,
+							["absorbed"] = 0,
+							["glancing"] = 0,
+							["critical"] = 0,
 							["min"] = 6,
 							["school"] = 1,
-							["critical"] = 0,
-							["glancing"] = 0,
-							["absorbed"] = 0,
 							["name"] = "Attack",
 							["blocked"] = 0,
 							["totalhits"] = 4,
@@ -788,26 +787,27 @@ SkadaPerCharDB = {
 							["damage"] = 29,
 						},
 					},
-					["maxhp"] = 168,
 					["overhealing"] = 0,
+					["ffdamagedonetargets"] = {
+					},
 					["name"] = "Damond",
 					["healingspells"] = {
 					},
 					["shielding"] = 0,
-					["healing"] = 0,
+					["first"] = 1565555033,
 					["auras"] = {
 						["Immolate"] = {
-							["school"] = 4,
 							["name"] = "Immolate",
 							["active"] = 0,
+							["school"] = 4,
 							["id"] = 0,
 							["auratype"] = "DEBUFF",
 							["uptime"] = 15,
 						},
 						["Corruption"] = {
-							["school"] = 32,
 							["name"] = "Corruption",
 							["active"] = 0,
+							["school"] = 32,
 							["id"] = 0,
 							["auratype"] = "DEBUFF",
 							["uptime"] = 12,
@@ -828,10 +828,10 @@ SkadaPerCharDB = {
 						},
 					},
 					["hdone"] = 0,
+					["done"] = 29,
+					["taken"] = 125,
 					["htakenspell"] = {
 					},
-					["taken"] = 125,
-					["done"] = 29,
 					["htaken"] = 0,
 					["hdonespell"] = {
 					},
@@ -874,36 +874,35 @@ SkadaPerCharDB = {
 					["role"] = "NONE",
 					["time"] = 16,
 					["interrupts"] = 0,
-					["ffdamagedonetargets"] = {
-					},
 					["ffdamagedonespells"] = {
 					},
+					["ffdamagedone"] = 0,
 					["damage"] = 161,
 					["damagespells"] = {
 						["Corruption"] = {
 							["hitmin"] = 10,
 							["id"] = 0,
-							["max"] = 10,
-							["min"] = 10,
 							["hitamount"] = 30,
+							["min"] = 10,
+							["max"] = 10,
 							["hitmax"] = 10,
 							["hit"] = 3,
-							["school"] = 4,
-							["RESIST"] = 1,
 							["totalhits"] = 4,
+							["RESIST"] = 1,
+							["school"] = 4,
 							["damage"] = 30,
 						},
 						["Attack"] = {
 							["DODGE"] = 1,
 							["hitmin"] = 2,
 							["id"] = 6603,
-							["min"] = 1,
 							["hitamount"] = 2,
+							["min"] = 1,
 							["glancing"] = 3,
-							["school"] = 4,
+							["totalhits"] = 6,
 							["hitmax"] = 2,
 							["hit"] = 1,
-							["totalhits"] = 6,
+							["school"] = 4,
 							["max"] = 2,
 							["MISS"] = 1,
 							["damage"] = 5,
@@ -945,23 +944,23 @@ SkadaPerCharDB = {
 							["damage"] = 25,
 						},
 					},
-					["ffdamagedone"] = 0,
+					["damagetaken"] = 67,
 					["healed"] = {
 					},
 					["power"] = {
 					},
 					["id"] = "Player-4466-0003818C",
-					["first"] = 1565555004,
-					["damagetaken"] = 67,
+					["healing"] = 0,
+					["maxhp"] = 168,
 					["damagetakenspells"] = {
 						["Attack"] = {
 							["crushing"] = 0,
 							["id"] = 6603,
+							["absorbed"] = 0,
+							["glancing"] = 0,
+							["critical"] = 0,
 							["min"] = 10,
 							["school"] = 1,
-							["critical"] = 0,
-							["glancing"] = 0,
-							["absorbed"] = 0,
 							["name"] = "Attack",
 							["blocked"] = 0,
 							["totalhits"] = 6,
@@ -970,26 +969,27 @@ SkadaPerCharDB = {
 							["damage"] = 67,
 						},
 					},
-					["maxhp"] = 168,
 					["overhealing"] = 0,
+					["ffdamagedonetargets"] = {
+					},
 					["name"] = "Damond",
 					["healingspells"] = {
 					},
 					["shielding"] = 0,
-					["healing"] = 0,
+					["first"] = 1565555004,
 					["auras"] = {
 						["Immolate"] = {
-							["school"] = 4,
 							["name"] = "Immolate",
 							["active"] = 0,
+							["school"] = 4,
 							["id"] = 0,
 							["auratype"] = "DEBUFF",
 							["uptime"] = 15,
 						},
 						["Corruption"] = {
-							["school"] = 32,
 							["name"] = "Corruption",
 							["active"] = 0,
+							["school"] = 32,
 							["id"] = 0,
 							["auratype"] = "DEBUFF",
 							["uptime"] = 9,
@@ -1010,10 +1010,10 @@ SkadaPerCharDB = {
 						},
 					},
 					["hdone"] = 0,
+					["done"] = 67,
+					["taken"] = 161,
 					["htakenspell"] = {
 					},
-					["taken"] = 161,
-					["done"] = 67,
 					["htaken"] = 0,
 					["hdonespell"] = {
 					},
@@ -1056,10 +1056,9 @@ SkadaPerCharDB = {
 					["role"] = "NONE",
 					["time"] = 12,
 					["interrupts"] = 0,
-					["ffdamagedonetargets"] = {
-					},
 					["ffdamagedonespells"] = {
 					},
+					["ffdamagedone"] = 0,
 					["damage"] = 122,
 					["damagespells"] = {
 						["Dagtog: Firebolt"] = {
@@ -1074,6 +1073,19 @@ SkadaPerCharDB = {
 							["totalhits"] = 6,
 							["damage"] = 49,
 						},
+						["Attack"] = {
+							["hitmin"] = 1,
+							["id"] = 6603,
+							["hitamount"] = 5,
+							["min"] = 1,
+							["glancing"] = 1,
+							["hitmax"] = 2,
+							["hit"] = 3,
+							["totalhits"] = 4,
+							["max"] = 2,
+							["school"] = 1,
+							["damage"] = 6,
+						},
 						["Corruption"] = {
 							["hitmin"] = 10,
 							["id"] = 0,
@@ -1085,19 +1097,6 @@ SkadaPerCharDB = {
 							["max"] = 10,
 							["totalhits"] = 2,
 							["damage"] = 20,
-						},
-						["Attack"] = {
-							["hitmin"] = 1,
-							["id"] = 6603,
-							["min"] = 1,
-							["glancing"] = 1,
-							["hitamount"] = 5,
-							["hitmax"] = 2,
-							["hit"] = 3,
-							["school"] = 1,
-							["max"] = 2,
-							["totalhits"] = 4,
-							["damage"] = 6,
 						},
 						["Immolate"] = {
 							["hitmin"] = 4,
@@ -1124,23 +1123,23 @@ SkadaPerCharDB = {
 							["damage"] = 25,
 						},
 					},
-					["ffdamagedone"] = 0,
+					["damagetaken"] = 36,
 					["healed"] = {
 					},
 					["power"] = {
 					},
 					["id"] = "Player-4466-0003818C",
-					["first"] = 1565554937,
-					["damagetaken"] = 36,
+					["healing"] = 0,
+					["maxhp"] = 168,
 					["damagetakenspells"] = {
 						["Attack"] = {
 							["crushing"] = 0,
 							["id"] = 6603,
+							["absorbed"] = 0,
+							["glancing"] = 0,
+							["critical"] = 0,
 							["min"] = 6,
 							["school"] = 1,
-							["critical"] = 0,
-							["glancing"] = 0,
-							["absorbed"] = 0,
 							["name"] = "Attack",
 							["blocked"] = 0,
 							["totalhits"] = 5,
@@ -1149,26 +1148,27 @@ SkadaPerCharDB = {
 							["damage"] = 36,
 						},
 					},
-					["maxhp"] = 168,
 					["overhealing"] = 0,
+					["ffdamagedonetargets"] = {
+					},
 					["name"] = "Damond",
 					["healingspells"] = {
 					},
 					["shielding"] = 0,
-					["healing"] = 0,
+					["first"] = 1565554937,
 					["auras"] = {
 						["Immolate"] = {
-							["school"] = 4,
 							["name"] = "Immolate",
 							["active"] = 0,
+							["school"] = 4,
 							["id"] = 0,
 							["auratype"] = "DEBUFF",
 							["uptime"] = 11,
 						},
 						["Corruption"] = {
-							["school"] = 32,
 							["name"] = "Corruption",
 							["active"] = 0,
+							["school"] = 32,
 							["id"] = 0,
 							["auratype"] = "DEBUFF",
 							["uptime"] = 8,
@@ -1189,10 +1189,10 @@ SkadaPerCharDB = {
 						},
 					},
 					["hdone"] = 0,
+					["done"] = 36,
+					["taken"] = 122,
 					["htakenspell"] = {
 					},
-					["taken"] = 122,
-					["done"] = 36,
 					["htaken"] = 0,
 					["hdonespell"] = {
 					},
@@ -1235,10 +1235,9 @@ SkadaPerCharDB = {
 					["role"] = "NONE",
 					["time"] = 5,
 					["interrupts"] = 0,
-					["ffdamagedonetargets"] = {
-					},
 					["ffdamagedonespells"] = {
 					},
+					["ffdamagedone"] = 0,
 					["damage"] = 29,
 					["damagespells"] = {
 						["Immolate"] = {
@@ -1266,36 +1265,37 @@ SkadaPerCharDB = {
 							["damage"] = 14,
 						},
 					},
-					["ffdamagedone"] = 0,
+					["damagetaken"] = 0,
 					["healed"] = {
 					},
 					["power"] = {
 					},
 					["id"] = "Player-4466-0003818C",
-					["first"] = 1565554921,
-					["damagetaken"] = 0,
+					["healing"] = 0,
+					["maxhp"] = 168,
 					["damagetakenspells"] = {
 					},
-					["maxhp"] = 168,
 					["overhealing"] = 0,
+					["ffdamagedonetargets"] = {
+					},
 					["name"] = "Damond",
 					["healingspells"] = {
 					},
 					["shielding"] = 0,
-					["healing"] = 0,
+					["first"] = 1565554921,
 					["auras"] = {
 						["Immolate"] = {
-							["school"] = 4,
 							["name"] = "Immolate",
 							["active"] = 0,
+							["school"] = 4,
 							["id"] = 0,
 							["auratype"] = "DEBUFF",
 							["uptime"] = 5,
 						},
 						["Corruption"] = {
-							["school"] = 32,
 							["name"] = "Corruption",
 							["active"] = 0,
+							["school"] = 32,
 							["id"] = 0,
 							["auratype"] = "DEBUFF",
 							["uptime"] = 3,
@@ -1310,6 +1310,8 @@ SkadaPerCharDB = {
 					["players"] = {
 					},
 					["hdone"] = 48,
+					["done"] = 0,
+					["taken"] = 0,
 					["htakenspell"] = {
 						["Holy Light"] = {
 							["min"] = 48,
@@ -1320,8 +1322,6 @@ SkadaPerCharDB = {
 							["hits"] = 1,
 						},
 					},
-					["taken"] = 0,
-					["done"] = 0,
 					["htaken"] = 48,
 					["hdonespell"] = {
 						["Holy Light"] = {
@@ -1344,10 +1344,10 @@ SkadaPerCharDB = {
 						},
 					},
 					["hdone"] = 0,
+					["done"] = 0,
+					["taken"] = 29,
 					["htakenspell"] = {
 					},
-					["taken"] = 29,
-					["done"] = 0,
 					["htaken"] = 0,
 					["hdonespell"] = {
 					},
@@ -1401,24 +1401,24 @@ SkadaPerCharDB = {
 							["id"] = 6603,
 							["hitamount"] = 7,
 							["criticalmin"] = 3,
-							["hitmax"] = 2,
+							["critical"] = 1,
 							["min"] = 1,
 							["criticalmax"] = 3,
-							["critical"] = 1,
+							["hitmax"] = 2,
 							["hit"] = 4,
-							["totalhits"] = 5,
 							["school"] = 1,
+							["totalhits"] = 5,
 							["max"] = 3,
 							["damage"] = 10,
 						},
 					},
-					["damagetaken"] = 0,
 					["healed"] = {
 					},
+					["damagetaken"] = 0,
 					["power"] = {
 					},
 					["id"] = "Player-4466-0003818C",
-					["healing"] = 0,
+					["first"] = 1565548667,
 					["maxhp"] = 168,
 					["damagetakenspells"] = {
 					},
@@ -1429,7 +1429,7 @@ SkadaPerCharDB = {
 					["healingspells"] = {
 					},
 					["shielding"] = 0,
-					["first"] = 1565548667,
+					["healing"] = 0,
 					["auras"] = {
 					},
 					["ccbreaks"] = 0,
@@ -1447,10 +1447,10 @@ SkadaPerCharDB = {
 						},
 					},
 					["hdone"] = 0,
-					["done"] = 0,
-					["taken"] = 10,
 					["htakenspell"] = {
 					},
+					["taken"] = 10,
+					["done"] = 0,
 					["htaken"] = 0,
 					["hdonespell"] = {
 					},
@@ -1560,22 +1560,22 @@ SkadaPerCharDB = {
 							["damage"] = 23,
 						},
 					},
-					["damagetaken"] = 37,
 					["healed"] = {
 					},
+					["damagetaken"] = 37,
 					["power"] = {
 					},
 					["id"] = "Player-4466-0003818C",
-					["healing"] = 0,
+					["first"] = 1565548640,
 					["maxhp"] = 168,
 					["damagetakenspells"] = {
 						["Attack"] = {
 							["crushing"] = 0,
 							["id"] = 6603,
 							["absorbed"] = 0,
-							["glancing"] = 0,
-							["critical"] = 0,
 							["min"] = 6,
+							["critical"] = 0,
+							["glancing"] = 0,
 							["school"] = 1,
 							["name"] = "Attack",
 							["blocked"] = 0,
@@ -1592,7 +1592,7 @@ SkadaPerCharDB = {
 					["healingspells"] = {
 					},
 					["shielding"] = 0,
-					["first"] = 1565548640,
+					["healing"] = 0,
 					["auras"] = {
 						["Immolate"] = {
 							["name"] = "Immolate",
@@ -1626,10 +1626,10 @@ SkadaPerCharDB = {
 						},
 					},
 					["hdone"] = 0,
-					["done"] = 37,
-					["taken"] = 148,
 					["htakenspell"] = {
 					},
+					["taken"] = 148,
+					["done"] = 37,
 					["htaken"] = 0,
 					["hdonespell"] = {
 					},
@@ -1638,8 +1638,6 @@ SkadaPerCharDB = {
 					["players"] = {
 					},
 					["hdone"] = 9,
-					["done"] = 0,
-					["taken"] = 0,
 					["htakenspell"] = {
 						["Renew"] = {
 							["min"] = 9,
@@ -1650,6 +1648,8 @@ SkadaPerCharDB = {
 							["hits"] = 1,
 						},
 					},
+					["taken"] = 0,
+					["done"] = 0,
 					["htaken"] = 9,
 					["hdonespell"] = {
 						["Renew"] = {
@@ -1711,13 +1711,13 @@ SkadaPerCharDB = {
 							["id"] = 0,
 							["hitamount"] = 17,
 							["criticalmin"] = 12,
-							["critical"] = 3,
+							["hitmax"] = 9,
 							["min"] = 8,
 							["criticalmax"] = 13,
-							["hitmax"] = 9,
+							["critical"] = 3,
 							["hit"] = 2,
-							["totalhits"] = 5,
 							["school"] = 4,
+							["totalhits"] = 5,
 							["max"] = 13,
 							["damage"] = 55,
 						},
@@ -1771,22 +1771,22 @@ SkadaPerCharDB = {
 							["damage"] = 25,
 						},
 					},
-					["damagetaken"] = 36,
 					["healed"] = {
 					},
+					["damagetaken"] = 36,
 					["power"] = {
 					},
 					["id"] = "Player-4466-0003818C",
-					["healing"] = 0,
+					["first"] = 1565548576,
 					["maxhp"] = 168,
 					["damagetakenspells"] = {
 						["Attack"] = {
 							["crushing"] = 0,
 							["id"] = 6603,
 							["absorbed"] = 0,
-							["glancing"] = 0,
-							["critical"] = 0,
 							["min"] = 7,
+							["critical"] = 0,
+							["glancing"] = 0,
 							["school"] = 1,
 							["name"] = "Attack",
 							["blocked"] = 0,
@@ -1803,7 +1803,7 @@ SkadaPerCharDB = {
 					["healingspells"] = {
 					},
 					["shielding"] = 0,
-					["first"] = 1565548576,
+					["healing"] = 0,
 					["auras"] = {
 						["Immolate"] = {
 							["name"] = "Immolate",
@@ -1837,10 +1837,10 @@ SkadaPerCharDB = {
 						},
 					},
 					["hdone"] = 0,
-					["done"] = 36,
-					["taken"] = 123,
 					["htakenspell"] = {
 					},
+					["taken"] = 123,
+					["done"] = 36,
 					["htaken"] = 0,
 					["hdonespell"] = {
 					},
@@ -1909,8 +1909,8 @@ SkadaPerCharDB = {
 							["glancing"] = 3,
 							["criticalmax"] = 3,
 							["critical"] = 1,
-							["totalhits"] = 6,
 							["school"] = 1,
+							["totalhits"] = 6,
 							["max"] = 3,
 							["MISS"] = 1,
 							["damage"] = 6,
@@ -1947,28 +1947,28 @@ SkadaPerCharDB = {
 							["max"] = 25,
 							["hitmax"] = 25,
 							["hit"] = 1,
-							["totalhits"] = 2,
-							["RESIST"] = 1,
 							["school"] = 4,
+							["RESIST"] = 1,
+							["totalhits"] = 2,
 							["damage"] = 25,
 						},
 					},
-					["damagetaken"] = 54,
 					["healed"] = {
 					},
+					["damagetaken"] = 54,
 					["power"] = {
 					},
 					["id"] = "Player-4466-0003818C",
-					["healing"] = 0,
+					["first"] = 1565548544,
 					["maxhp"] = 168,
 					["damagetakenspells"] = {
 						["Attack"] = {
 							["crushing"] = 0,
 							["id"] = 6603,
 							["absorbed"] = 0,
-							["glancing"] = 0,
-							["critical"] = 0,
 							["min"] = 9,
+							["critical"] = 0,
+							["glancing"] = 0,
 							["school"] = 1,
 							["name"] = "Attack",
 							["blocked"] = 0,
@@ -1985,7 +1985,7 @@ SkadaPerCharDB = {
 					["healingspells"] = {
 					},
 					["shielding"] = 0,
-					["first"] = 1565548544,
+					["healing"] = 0,
 					["auras"] = {
 						["Immolate"] = {
 							["name"] = "Immolate",
@@ -2019,10 +2019,10 @@ SkadaPerCharDB = {
 						},
 					},
 					["hdone"] = 0,
-					["done"] = 54,
-					["taken"] = 158,
 					["htakenspell"] = {
 					},
+					["taken"] = 158,
+					["done"] = 54,
 					["htaken"] = 0,
 					["hdonespell"] = {
 					},
@@ -2076,13 +2076,13 @@ SkadaPerCharDB = {
 							["id"] = 0,
 							["hitamount"] = 39,
 							["criticalmin"] = 12,
-							["critical"] = 1,
+							["hitmax"] = 9,
 							["min"] = 7,
 							["criticalmax"] = 12,
-							["hitmax"] = 9,
+							["critical"] = 1,
 							["hit"] = 5,
-							["totalhits"] = 6,
 							["school"] = 4,
+							["totalhits"] = 6,
 							["max"] = 12,
 							["damage"] = 51,
 						},
@@ -2095,9 +2095,9 @@ SkadaPerCharDB = {
 							["min"] = 1,
 							["hitmax"] = 1,
 							["hit"] = 3,
-							["totalhits"] = 6,
-							["max"] = 1,
 							["school"] = 1,
+							["max"] = 1,
+							["totalhits"] = 6,
 							["damage"] = 5,
 						},
 						["Corruption"] = {
@@ -2137,22 +2137,22 @@ SkadaPerCharDB = {
 							["damage"] = 26,
 						},
 					},
-					["damagetaken"] = 48,
 					["healed"] = {
 					},
+					["damagetaken"] = 48,
 					["power"] = {
 					},
 					["id"] = "Player-4466-0003818C",
-					["healing"] = 0,
+					["first"] = 1565548518,
 					["maxhp"] = 168,
 					["damagetakenspells"] = {
 						["Attack"] = {
 							["crushing"] = 0,
 							["id"] = 6603,
 							["absorbed"] = 0,
-							["glancing"] = 0,
-							["critical"] = 0,
 							["min"] = 9,
+							["critical"] = 0,
+							["glancing"] = 0,
 							["school"] = 1,
 							["name"] = "Attack",
 							["blocked"] = 0,
@@ -2169,7 +2169,7 @@ SkadaPerCharDB = {
 					["healingspells"] = {
 					},
 					["shielding"] = 0,
-					["first"] = 1565548518,
+					["healing"] = 0,
 					["auras"] = {
 						["Immolate"] = {
 							["name"] = "Immolate",
@@ -2203,10 +2203,10 @@ SkadaPerCharDB = {
 						},
 					},
 					["hdone"] = 0,
-					["done"] = 48,
-					["taken"] = 138,
 					["htakenspell"] = {
 					},
+					["taken"] = 138,
+					["done"] = 48,
 					["htaken"] = 0,
 					["hdonespell"] = {
 					},
@@ -2255,11 +2255,11 @@ SkadaPerCharDB = {
 					["damage"] = 124,
 					["damagespells"] = {
 						["Corruption"] = {
-							["school"] = 4,
-							["totalhits"] = 1,
-							["max"] = 0,
-							["RESIST"] = 1,
 							["id"] = 0,
+							["max"] = 0,
+							["totalhits"] = 1,
+							["RESIST"] = 1,
+							["school"] = 4,
 							["damage"] = 0,
 						},
 						["Attack"] = {
@@ -2311,22 +2311,22 @@ SkadaPerCharDB = {
 							["damage"] = 50,
 						},
 					},
-					["damagetaken"] = 28,
 					["healed"] = {
 					},
+					["damagetaken"] = 28,
 					["power"] = {
 					},
 					["id"] = "Player-4466-0003818C",
-					["healing"] = 0,
+					["first"] = 1565548491,
 					["maxhp"] = 168,
 					["damagetakenspells"] = {
 						["Attack"] = {
 							["crushing"] = 0,
 							["id"] = 6603,
 							["absorbed"] = 0,
-							["glancing"] = 0,
-							["critical"] = 0,
 							["min"] = 6,
+							["critical"] = 0,
+							["glancing"] = 0,
 							["school"] = 1,
 							["name"] = "Attack",
 							["blocked"] = 0,
@@ -2343,7 +2343,7 @@ SkadaPerCharDB = {
 					["healingspells"] = {
 					},
 					["shielding"] = 0,
-					["first"] = 1565548491,
+					["healing"] = 0,
 					["auras"] = {
 						["Immolate"] = {
 							["name"] = "Immolate",
@@ -2369,10 +2369,10 @@ SkadaPerCharDB = {
 						},
 					},
 					["hdone"] = 0,
-					["done"] = 28,
-					["taken"] = 124,
 					["htakenspell"] = {
 					},
+					["taken"] = 124,
+					["done"] = 28,
 					["htaken"] = 0,
 					["hdonespell"] = {
 					},

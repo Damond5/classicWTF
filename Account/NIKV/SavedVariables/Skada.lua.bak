@@ -2,6 +2,7 @@
 SkadaDB = {
 	["profileKeys"] = {
 		["Damond - Lashlayer"] = "Default",
+		["Damond - Razorgore"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
