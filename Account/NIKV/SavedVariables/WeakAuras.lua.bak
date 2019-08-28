@@ -12,12 +12,6 @@ WeakAurasSaved = {
 	["clearOldHistory"] = 30,
 	["registered"] = {
 	},
-	["frame"] = {
-		["xOffset"] = -1154.52355957031,
-		["yOffset"] = -179.499877929688,
-		["height"] = 665.000061035156,
-		["width"] = 830,
-	},
 	["displays"] = {
 		["Details! Aura Group"] = {
 			["grow"] = "RIGHT",
@@ -134,14 +128,8 @@ WeakAurasSaved = {
 				0.5, -- [4]
 			},
 			["animate"] = true,
-			["uid"] = "NWf6Q37Vrqb",
-			["scale"] = 1,
 			["stagger"] = 0,
-			["border"] = false,
-			["borderEdge"] = "1 Pixel",
-			["regionType"] = "dynamicgroup",
-			["borderSize"] = 2,
-			["sort"] = "none",
+			["scale"] = 1,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -156,14 +144,20 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
+			["border"] = false,
+			["borderEdge"] = "1 Pixel",
+			["regionType"] = "dynamicgroup",
+			["borderSize"] = 2,
+			["sort"] = "none",
 			["useLimit"] = false,
-			["constantFactor"] = "RADIUS",
 			["arcLength"] = 360,
-			["borderOffset"] = 16,
+			["constantFactor"] = "RADIUS",
 			["limit"] = 5,
-			["anchorFrameType"] = "SCREEN",
-			["id"] = "Details! Aura Group",
+			["borderOffset"] = 16,
+			["uid"] = "NWf6Q37Vrqb",
 			["borderInset"] = 0,
+			["id"] = "Details! Aura Group",
+			["anchorFrameType"] = "SCREEN",
 			["gridWidth"] = 5,
 			["width"] = 199.999969482422,
 			["frameStrata"] = 1,
@@ -291,17 +285,15 @@ WeakAurasSaved = {
 				0.5, -- [4]
 			},
 			["animate"] = true,
-			["uid"] = "rKC7x5DcPIY",
-			["scale"] = 1,
 			["stagger"] = 0,
+			["scale"] = 1,
+			["arcLength"] = 360,
 			["border"] = false,
 			["borderEdge"] = "1 Pixel",
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["sort"] = "none",
-			["arcLength"] = 360,
 			["useLimit"] = false,
-			["constantFactor"] = "RADIUS",
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -316,11 +308,13 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["borderOffset"] = 16,
+			["constantFactor"] = "RADIUS",
 			["limit"] = 5,
-			["anchorFrameType"] = "SCREEN",
-			["id"] = "Details! Boss Mods Group",
+			["borderOffset"] = 16,
+			["uid"] = "rKC7x5DcPIY",
 			["borderInset"] = 0,
+			["id"] = "Details! Boss Mods Group",
+			["anchorFrameType"] = "SCREEN",
 			["gridWidth"] = 5,
 			["width"] = 359.096801757813,
 			["frameStrata"] = 1,
@@ -342,7 +336,6 @@ WeakAurasSaved = {
 			["anchorPoint"] = "CENTER",
 			["sparkRotation"] = 0,
 			["sparkRotationMode"] = "AUTO",
-			["id"] = "cast bar",
 			["backgroundColor"] = {
 				0, -- [1]
 				0, -- [2]
@@ -388,15 +381,6 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["desaturate"] = false,
-			["actions"] = {
-				["start"] = {
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
-			["stickyDuration"] = false,
 			["sparkOffsetY"] = 0,
 			["subRegions"] = {
 				{
@@ -472,20 +456,6 @@ WeakAurasSaved = {
 				}, -- [4]
 			},
 			["height"] = 20,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
 			["load"] = {
 				["spec"] = {
 					["multi"] = {
@@ -513,23 +483,47 @@ WeakAurasSaved = {
 				1, -- [3]
 				1, -- [4]
 			},
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
+			["stickyDuration"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["uid"] = "phqaWBTHWMD",
-			["anchorFrameType"] = "SCREEN",
 			["useAdjustededMin"] = false,
 			["regionType"] = "aurabar",
 			["borderInFront"] = true,
-			["alpha"] = 1,
-			["icon_side"] = "RIGHT",
 			["useAdjustededMax"] = false,
+			["icon_side"] = "RIGHT",
+			["zoom"] = 0,
 			["sparkHeight"] = 30,
 			["texture"] = "Flat",
-			["zoom"] = 0,
-			["auto"] = true,
-			["spark"] = false,
-			["sparkHidden"] = "NEVER",
+			["id"] = "cast bar",
 			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
+			["spark"] = false,
+			["anchorFrameType"] = "SCREEN",
+			["sparkHidden"] = "NEVER",
+			["alpha"] = 1,
 			["frameStrata"] = 1,
 			["width"] = 250,
+			["auto"] = true,
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -541,6 +535,12 @@ WeakAurasSaved = {
 			},
 			["borderBackdrop"] = "Blizzard Tooltip",
 		},
+	},
+	["frame"] = {
+		["xOffset"] = -1154.52355957031,
+		["yOffset"] = -179.499877929688,
+		["height"] = 665.000061035156,
+		["width"] = 830,
 	},
 	["editor_theme"] = "Monokai",
 }

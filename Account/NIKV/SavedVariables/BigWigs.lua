@@ -33,6 +33,7 @@ BigWigsClassicDB = {
 	["profileKeys"] = {
 		["Damond - Razorgore"] = "Default",
 	},
+	["discord"] = 8,
 	["profiles"] = {
 		["Default"] = {
 		},

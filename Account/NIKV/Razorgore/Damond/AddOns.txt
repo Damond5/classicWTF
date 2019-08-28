@@ -10,3 +10,5 @@ ClickLinks: disabled
 NeatPlates: enabled
 OPie: disabled
 eCastingBar: disabled
+NugRunning: disabled
+NugRunningOptions: disabled

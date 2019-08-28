@@ -1,3 +1,5 @@
 ElvUI: disabled
 ElvUI_OptionsUI: disabled
 EavesDrop: disabled
+NugRunning: disabled
+NugRunningOptions: disabled

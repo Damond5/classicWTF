@@ -8,87 +8,182 @@ bcmDB = {
 	["savedChat"] = {
 		["ChatFrame4"] = {
 			{
-				["message"] = "|Hplayer:Fxih|h[14:|cFFaad672Fxih|r]|h has come online.",
+				["message"] = "Quest accepted: The Family and the Fishing Pole",
 				["r"] = 1,
 				["extraData"] = {
 					1, -- [1]
 					["n"] = 1,
 				},
-				["timestamp"] = 38200.088,
+				["timestamp"] = 55919.99,
 				["g"] = 1,
 				["b"] = 0,
 			}, -- [1]
 			{
-				["message"] = "|Hplayer:Knusern|h[17:|cFFc69b6dKnusern|r]|h has come online.",
+				["message"] = "|Hplayer:Rocci|h[14:|cFFd3d3d3Rocci|r]|h has come online.",
 				["r"] = 1,
 				["extraData"] = {
 					1, -- [1]
 					["n"] = 1,
 				},
-				["timestamp"] = 38226.568,
+				["timestamp"] = 55922.309,
 				["g"] = 1,
 				["b"] = 0,
 			}, -- [2]
+			{
+				["message"] = "Lidel has gone offline.",
+				["r"] = 1,
+				["extraData"] = {
+					1, -- [1]
+					["n"] = 1,
+				},
+				["timestamp"] = 55935.117,
+				["g"] = 1,
+				["b"] = 0,
+			}, -- [3]
+			{
+				["message"] = "Tenyrea has gone offline.",
+				["r"] = 1,
+				["extraData"] = {
+					1, -- [1]
+					["n"] = 1,
+				},
+				["timestamp"] = 55946.301,
+				["g"] = 1,
+				["b"] = 0,
+			}, -- [4]
+			{
+				["message"] = "|Hplayer:Lidel|h[17:|cFFfff251Lidel|r]|h has come online.",
+				["r"] = 1,
+				["extraData"] = {
+					1, -- [1]
+					["n"] = 1,
+				},
+				["timestamp"] = 55969.581,
+				["g"] = 1,
+				["b"] = 0,
+			}, -- [5]
+		},
+		["ChatFrame3"] = {
+			{
+				["message"] = "|Hchannel:channel:1|h[1]|h |Hplayer:Borker-Razorgore:4093:CHANNEL:1|h[|cffc69b6dBorker|r]:|h cya champ",
+				["r"] = 1,
+				["b"] = 0.752941250801086,
+				["timestamp"] = 55111.666,
+				["extraData"] = {
+					67, -- [1]
+					89, -- [2]
+					315, -- [3]
+					["n"] = 3,
+				},
+				["g"] = 0.752941250801086,
+			}, -- [1]
+			{
+				["message"] = "|cFF33FF99BasicChatMods|r: ---Chat restored from reload---",
+				["timestamp"] = 55111.666,
+			}, -- [2]
+			{
+				["message"] = "|Hchannel:channel:1|h[1]|h |Hplayer:Oxnsepp-Razorgore:4150:CHANNEL:1|h[|cfffff251Oxnsepp|r]:|h selling Spider Ichor2 Bear Meat5 1s each",
+				["r"] = 1,
+				["extraData"] = {
+					67, -- [1]
+					3, -- [2]
+					4, -- [3]
+					["n"] = 3,
+				},
+				["timestamp"] = 55121.749,
+				["g"] = 0.752941250801086,
+				["b"] = 0.752941250801086,
+			}, -- [3]
+			{
+				["message"] = "|Hchannel:channel:1|h[1]|h |Hplayer:Mayi:4209:CHANNEL:1|h[|cffff7c07Mayi|r]:|h selling Tribal Pants /w offer",
+				["r"] = 1,
+				["extraData"] = {
+					67, -- [1]
+					3, -- [2]
+					26, -- [3]
+					["n"] = 3,
+				},
+				["timestamp"] = 55744.98,
+				["g"] = 0.752941250801086,
+				["b"] = 0.752941250801086,
+			}, -- [4]
+			{
+				["message"] = "|Hchannel:channel:1|h[1]|h |Hplayer:Mayi-Razorgore:4223:CHANNEL:1|h[|cffff7c07Mayi|r]:|h Tribal Pants",
+				["r"] = 1,
+				["extraData"] = {
+					67, -- [1]
+					3, -- [2]
+					26, -- [3]
+					["n"] = 3,
+				},
+				["timestamp"] = 55774.264,
+				["g"] = 0.752941250801086,
+				["b"] = 0.752941250801086,
+			}, -- [5]
 		},
 		["ChatFrame1"] = {
 			{
-				["message"] = "Razzle Sprysprocket says: Let me install these Gyromechanic Gears and Restabilization Cogs and we'll fire up The Recombobulator.",
+				["message"] = "|Hchannel:channel:5|h[5]|h |Hplayer:Lassevegas-Razorgore:4289:CHANNEL:5|h[|cffc69b6dLassevegas|r]:|h ssup",
 				["r"] = 1,
 				["extraData"] = {
-					13, -- [1]
-					1, -- [2]
-					2, -- [3]
+					71, -- [1]
+					7, -- [2]
+					37, -- [3]
 					["n"] = 3,
 				},
-				["timestamp"] = 38198.139,
-				["g"] = 1,
-				["b"] = 0.623529434204102,
+				["timestamp"] = 55959.689,
+				["g"] = 0.752941250801086,
+				["b"] = 0.752941250801086,
 			}, -- [1]
 			{
-				["message"] = "|cFF33FF99BasicChatMods|r: Guild Message of the Day: Get to 60 ASAP Join Discord Trials",
+				["message"] = "|Hchannel:GUILD|hG|h |Hplayer:Nonslagter-Razorgore:4290:GUILD:|h[16:|cffaad672Nonslagter|r]|h your luck is insanity",
 				["r"] = 0.250980406999588,
-				["timestamp"] = 38207.436,
+				["extraData"] = {
+					5, -- [1]
+					1, -- [2]
+					5, -- [3]
+					["n"] = 3,
+				},
+				["timestamp"] = 55963.349,
 				["g"] = 1,
 				["b"] = 0.250980406999588,
 			}, -- [2]
 			{
-				["message"] = "Razzle Sprysprocket says: That should do the trick.",
-				["r"] = 1,
+				["message"] = "|Hchannel:GUILD|hG|h |Hplayer:Korner-Razorgore:4291:GUILD:|h[18:|cff68ccffKorner|r]|h sell for twinks later",
+				["r"] = 0.250980406999588,
 				["extraData"] = {
-					13, -- [1]
+					5, -- [1]
 					1, -- [2]
-					2, -- [3]
+					36, -- [3]
 					["n"] = 3,
 				},
-				["timestamp"] = 38207.526,
+				["timestamp"] = 55964.976,
 				["g"] = 1,
-				["b"] = 0.623529434204102,
+				["b"] = 0.250980406999588,
 			}, -- [3]
 			{
-				["message"] = "Razzle Sprysprocket says: Time to save the entire gnomish race. Here goes nothing!",
+				["message"] = "|Hplayer:Lidel|h[17:|cFFfff251Lidel|r]|h has come online.",
 				["r"] = 1,
 				["extraData"] = {
-					13, -- [1]
-					1, -- [2]
-					2, -- [3]
-					["n"] = 3,
+					1, -- [1]
+					["n"] = 1,
 				},
-				["timestamp"] = 38209.754,
+				["timestamp"] = 55969.581,
 				["g"] = 1,
-				["b"] = 0.623529434204102,
+				["b"] = 0,
 			}, -- [4]
 			{
-				["message"] = "Ozzie Togglevolt says: The Recombobulator is shaping up quite nicely. Just a few adjustments to go!",
-				["r"] = 1,
+				["message"] = "|Hchannel:GUILD|hG|h |Hplayer:Nonslagter-Razorgore:4293:GUILD:|h[16:|cffaad672Nonslagter|r]|h ^",
+				["r"] = 0.250980406999588,
 				["extraData"] = {
-					13, -- [1]
+					5, -- [1]
 					1, -- [2]
-					2, -- [3]
+					5, -- [3]
 					["n"] = 3,
 				},
-				["timestamp"] = 38218.054,
+				["timestamp"] = 55970.507,
 				["g"] = 1,
-				["b"] = 0.623529434204102,
+				["b"] = 0.250980406999588,
 			}, -- [5]
 		},
 	},

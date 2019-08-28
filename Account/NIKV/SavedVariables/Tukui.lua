@@ -247,7 +247,7 @@ TukuiSettings = nil
 TukuiUseGlobal = nil
 TukuiGold = {
 	["Razorgore"] = {
-		["Damond"] = 1514,
+		["Damond"] = 4304,
 	},
 	["Lashlayer"] = {
 		["Damond"] = 403,

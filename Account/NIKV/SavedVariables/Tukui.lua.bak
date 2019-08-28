@@ -112,11 +112,11 @@ TukuiData = {
 					108, -- [6]
 				},
 				["Frame4"] = {
-					"BOTTOMRIGHT", -- [1]
-					"BOTTOMRIGHT", -- [2]
-					-34, -- [3]
-					50, -- [4]
-					370, -- [5]
+					"TOPLEFT", -- [1]
+					"TOPLEFT", -- [2]
+					0, -- [3]
+					0, -- [4]
+					370.000030517578, -- [5]
 					108, -- [6]
 				},
 			},
@@ -247,7 +247,7 @@ TukuiSettings = nil
 TukuiUseGlobal = nil
 TukuiGold = {
 	["Razorgore"] = {
-		["Damond"] = 1514,
+		["Damond"] = 4304,
 	},
 	["Lashlayer"] = {
 		["Damond"] = 403,
