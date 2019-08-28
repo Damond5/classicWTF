@@ -8,10 +8,10 @@ ClassicLFG_DB = {
 			["BroadcastDungeonGroupInterval"] = 60,
 			["BroadcastDungeonGroupChannel"] = 1,
 			["ShareTalents"] = true,
-			["AutoAcceptInvite"] = true,
 			["Toast"] = {
 				["X"] = 845.238159179688,
 			},
+			["AutoAcceptInvite"] = true,
 			["minimap"] = {
 				["minimapPos"] = 312.342632869487,
 			},
