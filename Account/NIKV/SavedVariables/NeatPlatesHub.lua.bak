@@ -274,8 +274,8 @@ NeatPlatesHubSettings = {
 		},
 		["WidgetDebuff"] = true,
 		["WidgetMyDebuff"] = true,
-		["WidgetRangeIndicator"] = false,
 		["AdvancedEnableUnitCache"] = true,
+		["WidgetRangeIndicator"] = false,
 		["ColorFriendlyPlayer"] = {
 			["a"] = 0.999997794628143,
 			["r"] = 0,
@@ -371,8 +371,8 @@ NeatPlatesHubSettings = {
 			["g"] = 0,
 			["b"] = 0,
 		},
-		["TextShowServerIndicator"] = true,
 		["UnitSpotlightScale"] = 1.4,
+		["TextShowServerIndicator"] = true,
 		["TextColorHostilePlayer"] = {
 			["a"] = 0.999997794628143,
 			["r"] = 0.999997794628143,
@@ -424,13 +424,13 @@ NeatPlatesHubSettings = {
 		["WidgetAuraTrackDispelFriendly"] = false,
 		["WidgetRangeMax"] = 40,
 		["FriendlyAlphaSpotlightMode"] = "None",
-		["ScaleIgnoreInactive"] = false,
 		["TextColorElite"] = {
 			["a"] = 0.501959681510925,
 			["r"] = 0.901958823204041,
 			["g"] = 0.701959252357483,
 			["b"] = 0.301960110664368,
 		},
+		["ScaleIgnoreInactive"] = false,
 		["ColorPartyAggroGlow"] = true,
 		["ColorNeutral"] = {
 			["a"] = 0.999997794628143,

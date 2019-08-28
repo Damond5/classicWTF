@@ -1,0 +1,3 @@
+VER 3 0000000000000001 "attack" "INV_MISC_QUESTIONMARK"
+/cast !shoot
+END

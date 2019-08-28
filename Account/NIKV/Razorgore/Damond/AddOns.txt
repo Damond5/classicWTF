@@ -12,3 +12,10 @@ OPie: disabled
 eCastingBar: disabled
 NugRunning: disabled
 NugRunningOptions: disabled
+Tukui: disabled
+ElvUI: enabled
+ElvUI_OptionsUI: enabled
+LunaUnitFrames: disabled
+BasicChatMods: disabled
+OmniCC: disabled
+OmniCC_Config: disabled

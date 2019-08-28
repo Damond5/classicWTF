@@ -258,14 +258,14 @@ NeatPlatesHubSettings = {
 			["r"] = 0.999997794628143,
 		},
 		["WidgetMyDebuff"] = true,
+		["ScaleIgnoreInactive"] = false,
+		["AdvancedEnableUnitCache"] = true,
 		["TextColorElite"] = {
 			["a"] = 0.501959681510925,
 			["b"] = 0.301960110664368,
 			["g"] = 0.701959252357483,
 			["r"] = 0.901958823204041,
 		},
-		["WidgetRangeIndicator"] = false,
-		["ScaleIgnoreInactive"] = false,
 		["EnemyStatusTextMode"] = "HealthFunctionNone",
 		["OpacitySpotlightMouseover"] = false,
 		["ColorUnIntpellCast"] = {
@@ -341,7 +341,7 @@ NeatPlatesHubSettings = {
 		},
 		["TextShowLevel"] = false,
 		["HighHealthThreshold"] = 0.7,
-		["TextShowServerIndicator"] = true,
+		["UnitSpotlightScale"] = 1.4,
 		["TextColorHostilePlayer"] = {
 			["a"] = 0.999997794628143,
 			["b"] = 0.125489920377731,
@@ -355,7 +355,7 @@ NeatPlatesHubSettings = {
 			["g"] = 0,
 			["r"] = 0.999997794628143,
 		},
-		["UnitSpotlightScale"] = 1.4,
+		["TextShowServerIndicator"] = true,
 		["ColorLowHealth"] = {
 			["a"] = 0.999997794628143,
 			["b"] = 0,
@@ -414,7 +414,7 @@ NeatPlatesHubSettings = {
 			["g"] = 0,
 			["r"] = 0,
 		},
-		["AdvancedEnableUnitCache"] = true,
+		["WidgetRangeIndicator"] = false,
 		["ColorPartyAggroGlow"] = true,
 		["WidgetDebuff"] = true,
 		["CustomFocusColor"] = false,

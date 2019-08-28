@@ -30,7 +30,7 @@ BigWigsClassicDB = {
 		["BigWigs_Plugins_Wipe"] = {
 		},
 	},
-	["discord"] = 7,
+	["discord"] = 15,
 	["profileKeys"] = {
 		["Damond - Razorgore"] = "Default",
 	},

@@ -8,182 +8,131 @@ bcmDB = {
 	["savedChat"] = {
 		["ChatFrame4"] = {
 			{
-				["message"] = "Quest accepted: The Family and the Fishing Pole",
-				["r"] = 1,
-				["extraData"] = {
-					1, -- [1]
-					["n"] = 1,
-				},
-				["timestamp"] = 55919.99,
-				["g"] = 1,
-				["b"] = 0,
+				["message"] = "|cFF33FF99BasicChatMods|r: ---Chat restored from reload---",
+				["timestamp"] = 34972.326,
 			}, -- [1]
 			{
-				["message"] = "|Hplayer:Rocci|h[14:|cFFd3d3d3Rocci|r]|h has come online.",
-				["r"] = 1,
-				["extraData"] = {
-					1, -- [1]
-					["n"] = 1,
-				},
-				["timestamp"] = 55922.309,
-				["g"] = 1,
-				["b"] = 0,
+				["message"] = "|cFF33FF99BasicChatMods|r: ---Chat restored from reload---",
+				["timestamp"] = 34972.326,
 			}, -- [2]
 			{
-				["message"] = "Lidel has gone offline.",
-				["r"] = 1,
-				["extraData"] = {
-					1, -- [1]
-					["n"] = 1,
-				},
-				["timestamp"] = 55935.117,
-				["g"] = 1,
-				["b"] = 0,
+				["message"] = "|cFF33FF99BasicChatMods|r: ---Chat restored from reload---",
+				["timestamp"] = 34972.326,
 			}, -- [3]
 			{
-				["message"] = "Tenyrea has gone offline.",
-				["r"] = 1,
-				["extraData"] = {
-					1, -- [1]
-					["n"] = 1,
-				},
-				["timestamp"] = 55946.301,
-				["g"] = 1,
-				["b"] = 0,
+				["message"] = "|cFF33FF99BasicChatMods|r: ---Chat restored from reload---",
+				["timestamp"] = 34972.326,
 			}, -- [4]
 			{
-				["message"] = "|Hplayer:Lidel|h[17:|cFFfff251Lidel|r]|h has come online.",
-				["r"] = 1,
-				["extraData"] = {
-					1, -- [1]
-					["n"] = 1,
-				},
-				["timestamp"] = 55969.581,
-				["g"] = 1,
-				["b"] = 0,
+				["message"] = "|cFF33FF99BasicChatMods|r: ---Chat restored from reload---",
+				["timestamp"] = 34972.326,
 			}, -- [5]
 		},
 		["ChatFrame3"] = {
 			{
-				["message"] = "|Hchannel:channel:1|h[1]|h |Hplayer:Borker-Razorgore:4093:CHANNEL:1|h[|cffc69b6dBorker|r]:|h cya champ",
-				["r"] = 1,
-				["b"] = 0.752941250801086,
-				["timestamp"] = 55111.666,
-				["extraData"] = {
-					67, -- [1]
-					89, -- [2]
-					315, -- [3]
-					["n"] = 3,
-				},
-				["g"] = 0.752941250801086,
+				["message"] = "|cFF33FF99BasicChatMods|r: ---Chat restored from reload---",
+				["timestamp"] = 34972.326,
 			}, -- [1]
 			{
-				["message"] = "|cFF33FF99BasicChatMods|r: ---Chat restored from reload---",
-				["timestamp"] = 55111.666,
+				["message"] = "Your skill in Defense has increased to 57.",
+				["r"] = 0.333333343267441,
+				["extraData"] = {
+					27, -- [1]
+					["n"] = 3,
+				},
+				["timestamp"] = 35048.556,
+				["g"] = 0.333333343267441,
+				["b"] = 1,
 			}, -- [2]
 			{
-				["message"] = "|Hchannel:channel:1|h[1]|h |Hplayer:Oxnsepp-Razorgore:4150:CHANNEL:1|h[|cfffff251Oxnsepp|r]:|h selling Spider Ichor2 Bear Meat5 1s each",
-				["r"] = 1,
+				["message"] = "Pygmy Tide Crawler dies, you gain 66 experience.",
+				["r"] = 0.435294151306152,
 				["extraData"] = {
-					67, -- [1]
-					3, -- [2]
-					4, -- [3]
+					34, -- [1]
 					["n"] = 3,
 				},
-				["timestamp"] = 55121.749,
-				["g"] = 0.752941250801086,
-				["b"] = 0.752941250801086,
+				["timestamp"] = 35052.579,
+				["g"] = 0.435294151306152,
+				["b"] = 1,
 			}, -- [3]
 			{
-				["message"] = "|Hchannel:channel:1|h[1]|h |Hplayer:Mayi:4209:CHANNEL:1|h[|cffff7c07Mayi|r]:|h selling Tribal Pants /w offer",
-				["r"] = 1,
+				["message"] = "You receive loot: |cffffffff|Hitem:5523::::::::12:::::::|h[Small Barnacled Clam]|h|r.",
+				["r"] = 0,
 				["extraData"] = {
-					67, -- [1]
-					3, -- [2]
-					26, -- [3]
+					28, -- [1]
 					["n"] = 3,
 				},
-				["timestamp"] = 55744.98,
-				["g"] = 0.752941250801086,
-				["b"] = 0.752941250801086,
+				["timestamp"] = 35054.204,
+				["g"] = 0.666666686534882,
+				["b"] = 0,
 			}, -- [4]
 			{
-				["message"] = "|Hchannel:channel:1|h[1]|h |Hplayer:Mayi-Razorgore:4223:CHANNEL:1|h[|cffff7c07Mayi|r]:|h Tribal Pants",
-				["r"] = 1,
+				["message"] = "You receive loot: |cffffffff|Hitem:2675::::::::12:::::::|h[Crawler Claw]|h|r.",
+				["r"] = 0,
 				["extraData"] = {
-					67, -- [1]
-					3, -- [2]
-					26, -- [3]
+					28, -- [1]
 					["n"] = 3,
 				},
-				["timestamp"] = 55774.264,
-				["g"] = 0.752941250801086,
-				["b"] = 0.752941250801086,
+				["timestamp"] = 35054.204,
+				["g"] = 0.666666686534882,
+				["b"] = 0,
 			}, -- [5]
 		},
 		["ChatFrame1"] = {
 			{
-				["message"] = "|Hchannel:channel:5|h[5]|h |Hplayer:Lassevegas-Razorgore:4289:CHANNEL:5|h[|cffc69b6dLassevegas|r]:|h ssup",
-				["r"] = 1,
-				["extraData"] = {
-					71, -- [1]
-					7, -- [2]
-					37, -- [3]
-					["n"] = 3,
-				},
-				["timestamp"] = 55959.689,
-				["g"] = 0.752941250801086,
-				["b"] = 0.752941250801086,
-			}, -- [1]
-			{
-				["message"] = "|Hchannel:GUILD|hG|h |Hplayer:Nonslagter-Razorgore:4290:GUILD:|h[16:|cffaad672Nonslagter|r]|h your luck is insanity",
+				["message"] = "|Hchannel:GUILD|h[G]|h |Hplayer:Solar-Razorgore:1007:GUILD:|h[21:|cff68ccffSolar|r]:|h nice",
 				["r"] = 0.250980406999588,
 				["extraData"] = {
 					5, -- [1]
 					1, -- [2]
-					5, -- [3]
+					6, -- [3]
 					["n"] = 3,
 				},
-				["timestamp"] = 55963.349,
+				["timestamp"] = 34972.326,
+				["g"] = 1,
+				["b"] = 0.250980406999588,
+			}, -- [1]
+			{
+				["message"] = "|Hchannel:GUILD|h[G]|h |Hplayer:Solar-Razorgore:1010:GUILD:|h[21:|cff68ccffSolar|r]:|h can't wait",
+				["r"] = 0.250980406999588,
+				["extraData"] = {
+					5, -- [1]
+					1, -- [2]
+					6, -- [3]
+					["n"] = 3,
+				},
+				["timestamp"] = 34972.326,
 				["g"] = 1,
 				["b"] = 0.250980406999588,
 			}, -- [2]
 			{
-				["message"] = "|Hchannel:GUILD|hG|h |Hplayer:Korner-Razorgore:4291:GUILD:|h[18:|cff68ccffKorner|r]|h sell for twinks later",
-				["r"] = 0.250980406999588,
+				["message"] = "Welcome to |cff9382c9ElvUI|r |cff1784d1Classic|r version |cff9382c91.01|r, type /ec to access the in-game configuration menu. If you are in need of technical support you can visit us at |cFFFFFFFF[|Hurl:https://www.tukui.org|hhttps://www.tukui.org|h]|r or join our Discord: |cFFFFFFFF[|Hurl:https://discord.gg/xFWcfgE|hhttps://discord.gg/xFWcfgE|h]|r ",
+				["timestamp"] = 34972.326,
 				["extraData"] = {
-					5, -- [1]
-					1, -- [2]
-					36, -- [3]
 					["n"] = 3,
 				},
-				["timestamp"] = 55964.976,
-				["g"] = 1,
-				["b"] = 0.250980406999588,
 			}, -- [3]
 			{
-				["message"] = "|Hplayer:Lidel|h[17:|cFFfff251Lidel|r]|h has come online.",
+				["message"] = "Interface action failed because of an AddOn",
 				["r"] = 1,
 				["extraData"] = {
 					1, -- [1]
-					["n"] = 1,
+					["n"] = 3,
 				},
-				["timestamp"] = 55969.581,
+				["timestamp"] = 35047.334,
 				["g"] = 1,
 				["b"] = 0,
 			}, -- [4]
 			{
-				["message"] = "|Hchannel:GUILD|hG|h |Hplayer:Nonslagter-Razorgore:4293:GUILD:|h[16:|cffaad672Nonslagter|r]|h ^",
-				["r"] = 0.250980406999588,
+				["message"] = "Fxih has gone offline.",
+				["r"] = 1,
 				["extraData"] = {
-					5, -- [1]
-					1, -- [2]
-					5, -- [3]
+					1, -- [1]
 					["n"] = 3,
 				},
-				["timestamp"] = 55970.507,
+				["timestamp"] = 35049.927,
 				["g"] = 1,
-				["b"] = 0.250980406999588,
+				["b"] = 0,
 			}, -- [5]
 		},
 	},

@@ -1,5 +1,11 @@
-ElvUI: disabled
-ElvUI_OptionsUI: disabled
+ElvUI: enabled
+ElvUI_OptionsUI: enabled
 EavesDrop: disabled
 NugRunning: disabled
 NugRunningOptions: disabled
+Tukui: disabled
+LunaUnitFrames: disabled
+NeatPlates: enabled
+BasicChatMods: disabled
+OmniCC: disabled
+OmniCC_Config: disabled

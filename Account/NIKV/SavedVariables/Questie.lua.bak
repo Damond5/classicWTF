@@ -756,12 +756,65 @@ QuestieConfig = {
 					["Event"] = "Quest",
 					["SubType"] = "Accept",
 				}, -- [62]
+				{
+					["Party"] = {
+					},
+					["Timestamp"] = 1567006314,
+					["Quest"] = 3524,
+					["Level"] = 12,
+					["Event"] = "Quest",
+					["SubType"] = "Complete",
+				}, -- [63]
+				{
+					["Party"] = {
+					},
+					["Timestamp"] = 1567006314,
+					["Quest"] = 4681,
+					["Level"] = 12,
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+				}, -- [64]
+				{
+					["Party"] = {
+					},
+					["Timestamp"] = 1567006731,
+					["Quest"] = 983,
+					["Level"] = 12,
+					["Event"] = "Quest",
+					["SubType"] = "Complete",
+				}, -- [65]
+				{
+					["Party"] = {
+					},
+					["Timestamp"] = 1567006732,
+					["Quest"] = 1001,
+					["Level"] = 12,
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+				}, -- [66]
+				{
+					["Party"] = {
+					},
+					["Timestamp"] = 1567007487,
+					["Quest"] = 4681,
+					["Level"] = 12,
+					["Event"] = "Quest",
+					["SubType"] = "Complete",
+				}, -- [67]
+				{
+					["Party"] = {
+					},
+					["Timestamp"] = 1567007826,
+					["Event"] = "Level",
+					["NewLevel"] = 13,
+				}, -- [68]
 			},
 			["complete"] = {
 				[416] = true,
 				[291] = true,
 				[418] = true,
 				[419] = true,
+				[3524] = true,
 				[182] = true,
 				[183] = true,
 				[6387] = true,
@@ -784,10 +837,12 @@ QuestieConfig = {
 				[1599] = true,
 				[267] = true,
 				[400] = true,
+				[983] = true,
+				[287] = true,
 				[179] = true,
 				[5541] = true,
 				[6392] = true,
-				[287] = true,
+				[4681] = true,
 				[2160] = true,
 				[3115] = true,
 				[417] = true,
