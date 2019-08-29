@@ -9,3 +9,4 @@ NeatPlates: enabled
 BasicChatMods: disabled
 OmniCC: disabled
 OmniCC_Config: disabled
+AAP-Classic: enabled

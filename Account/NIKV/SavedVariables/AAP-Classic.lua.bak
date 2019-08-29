@@ -4,11 +4,12 @@ AAPC1 = {
 		["Damond"] = {
 			["Elite"] = {
 			},
+			["Completed"] = {
+			},
 			["Zones"] = {
 				["6-12DwarfGnome-Warlock"] = 173,
-				["12-17Darkshore"] = 80,
-			},
-			["Completed"] = {
+				["17-18HumanDwarfGnome-LochModan"] = 38,
+				["12-17Darkshore"] = 99,
 			},
 		},
 	},
@@ -16,11 +17,11 @@ AAPC1 = {
 		["Damond"] = {
 			["Elite"] = {
 			},
-			["Completed"] = {
-			},
 			["Zones"] = {
 				["6-12DwarfGnome-Warlock"] = 5,
 				["1-6DwarfGnome-Warlock"] = 18,
+			},
+			["Completed"] = {
 			},
 		},
 	},

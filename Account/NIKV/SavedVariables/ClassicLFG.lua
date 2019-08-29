@@ -6,15 +6,15 @@ ClassicLFG_DB = {
 	["profiles"] = {
 		["Damond - Razorgore"] = {
 			["BroadcastDungeonGroupInterval"] = 60,
-			["BroadcastDungeonGroupChannel"] = 1,
+			["BroadcastDungeonGroupChannel"] = 0,
 			["ShareTalents"] = true,
 			["Toast"] = {
 				["X"] = 845.238159179688,
 			},
-			["AutoAcceptInvite"] = true,
 			["minimap"] = {
 				["minimapPos"] = 312.342632869487,
 			},
+			["AutoAcceptInvite"] = true,
 		},
 	},
 }
