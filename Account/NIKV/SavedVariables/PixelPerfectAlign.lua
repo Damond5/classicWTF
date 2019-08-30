@@ -3,8 +3,8 @@ pixelPerfectAlignSaved = {
 	["showSplash"] = 0,
 	["buttonPos"] = {
 		"BOTTOMLEFT", -- [1]
-		1917.96838378906, -- [2]
-		1097.14294433594, -- [3]
+		1888.0029296875, -- [2]
+		1080.00170898438, -- [3]
 	},
 	["addonVersion"] = "v1.07.01-classic",
 	["startWithGridOn"] = false,

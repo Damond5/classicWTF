@@ -5,7 +5,7 @@ ElvDB = {
 	},
 	["gold"] = {
 		["Razorgore"] = {
-			["Damond"] = 50100,
+			["Damond"] = 56698,
 		},
 	},
 	["class"] = {
@@ -687,6 +687,7 @@ ElvDB = {
 				["smoothbars"] = true,
 				["colors"] = {
 					["healthclass"] = true,
+					["colorhealthbyvalue"] = false,
 					["castClassColor"] = true,
 					["castColor"] = {
 						["r"] = 0.1,

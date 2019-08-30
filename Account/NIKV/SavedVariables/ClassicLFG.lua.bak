@@ -13,7 +13,7 @@ ClassicLFG_DB = {
 			},
 			["BroadcastDungeonGroupInterval"] = 60,
 			["minimap"] = {
-				["minimapPos"] = 312.342632869487,
+				["minimapPos"] = 311.860379010162,
 			},
 		},
 	},
