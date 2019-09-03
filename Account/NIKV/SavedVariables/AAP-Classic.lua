@@ -6,10 +6,15 @@ AAPC1 = {
 				[271] = 1,
 			},
 			["Zones"] = {
-				["21-22AshenvaleStonetalon"] = 10,
-				["18-NightElfDwarfGnome-IronforgeRedridge"] = 8,
+				["27-28RedridgeMountains"] = 22,
+				["21-22AshenvaleStonetalon"] = 75,
+				["28-30Duskwood"] = 19,
 				["6-12DwarfGnome-Warlock"] = 173,
+				["30-Ashenvale"] = 2,
+				["22-24Darkshore"] = 17,
+				["18-NightElfDwarfGnome-IronforgeRedridge"] = 8,
 				["17-18HumanDwarfGnome-LochModan"] = 48,
+				["24-Ashenvale"] = 31,
 				["12-17Darkshore"] = 99,
 			},
 			["Completed"] = {

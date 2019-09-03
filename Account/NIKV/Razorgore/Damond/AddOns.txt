@@ -3,11 +3,11 @@ BigWigs_Core: enabled
 BigWigs_Options: enabled
 BigWigs_Plugins: enabled
 WeakAurasCompanion: enabled
-Details: disabled
+Details: enabled
 BigWigs: enabled
 Questie: enabled
 ClickLinks: disabled
-NeatPlates: enabled
+NeatPlates: disabled
 OPie: disabled
 eCastingBar: disabled
 NugRunning: disabled
@@ -19,4 +19,5 @@ LunaUnitFrames: disabled
 BasicChatMods: disabled
 OmniCC: disabled
 OmniCC_Config: disabled
-AAP-Classic: enabled
+AAP-Classic: disabled
+Skada: disabled

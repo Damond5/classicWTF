@@ -5,8 +5,10 @@ NugRunning: disabled
 NugRunningOptions: disabled
 Tukui: disabled
 LunaUnitFrames: disabled
-NeatPlates: enabled
+NeatPlates: disabled
 BasicChatMods: disabled
 OmniCC: disabled
 OmniCC_Config: disabled
-AAP-Classic: enabled
+AAP-Classic: disabled
+Skada: disabled
+Details: enabled
