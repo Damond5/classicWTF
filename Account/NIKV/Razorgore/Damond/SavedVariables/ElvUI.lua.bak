@@ -1,30 +1,52 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/g just get the zulian tiger 4Head", -- [1]
-		"/g no good way no", -- [2]
-		"/g you can start doing the darn quests", -- [3]
-		"/g but its not enough", -- [4]
-		"/g so yea turn ins", -- [5]
-		"/ltp", -- [6]
-		"/6 layer plz", -- [7]
-		"/g less cost of naxx attunement", -- [8]
-		"/6 inv plz", -- [9]
-		"/s just looking for the damn flower", -- [10]
-		"/s but found it", -- [11]
-		"/s idk if im blind", -- [12]
-		"/s but that was the hardest challenge yet", -- [13]
-		"/p this is true", -- [14]
-		"/p got it?", -- [15]
-		"/p take care", -- [16]
-		"/p hello", -- [17]
-		"/g no", -- [18]
-		"/g yes", -- [19]
-		"/reload", -- [20]
+		"/p ok 3 shards", -- [1]
+		"/p some1 hearth", -- [2]
+		"/p just 1", -- [3]
+		"/p warr afk", -- [4]
+		"/p wait", -- [5]
+		"/p summon", -- [6]
+		"/p plz", -- [7]
+		"/p summon dank", -- [8]
+		"/p stay outside", -- [9]
+		"/p discourage the horde", -- [10]
+		"/p summoning myself", -- [11]
+		"/p click", -- [12]
+		"/p where to repair in ss?", -- [13]
+		"/p actually lost", -- [14]
+		"/p ye I didnt get it", -- [15]
+		"/p oh youre out?", -- [16]
+		"/p ill go make dinner if were reforming", -- [17]
+		"/p ill go make dinner, maybe ill catch you later", -- [18]
+		"/g is there a queue today?", -- [19]
+		"/g ty", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"less cost of naxx attunement", -- [1]
+			"yikes", -- [1]
+			"Odíe-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Odíe", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4182, -- [11]
+			"Player-4478-01556F01", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dOdíe|r",
+			[51] = 1567953419,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [1]
+		{
+			"aight now we know the limit", -- [1]
 			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -34,7 +56,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7440, -- [11]
+			4186, -- [11]
 			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -42,1099 +64,1077 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff8787edDamond|r",
-			[51] = 1567540650,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [1]
-		{
-			"And good food if not a Mage", -- [1]
-			"Broly-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Broly", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			7452, -- [11]
-			"Player-4478-01328AD6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBroly|r",
-			[51] = 1567540661,
-			[50] = "CHAT_MSG_GUILD",
+			[51] = 1567953422,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [2]
 		{
-			"thanks ", -- [1]
-			"Ikforbørn-Razorgore", -- [2]
+			"got ss", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ikforbørn", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7480, -- [11]
-			"Player-4478-01669322", -- [12]
+			4191, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaIkforbørn|r",
-			[51] = 1567540714,
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567953432,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [3]
 		{
-			"Oh no that's revered", -- [1]
-			"Broly-Razorgore", -- [2]
+			"Myrmidons are issues", -- [1]
+			"Dankenstein-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Broly", -- [5]
+			"Dankenstein", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7482, -- [11]
-			"Player-4478-01328AD6", -- [12]
+			4194, -- [11]
+			"Player-4478-0142B8EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dBroly|r",
-			[51] = 1567540715,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567953437,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [4]
 		{
-			"Alright thanks :)", -- [1]
-			"Jk-Razorgore", -- [2]
+			"mb", -- [1]
+			"Rookendgames-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jk", -- [5]
+			"Rookendgames", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7483, -- [11]
-			"Player-4478-013C1CFF", -- [12]
+			4200, -- [11]
+			"Player-4478-0144563A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaJk|r",
-			[51] = 1567540717,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaRookendgames|r",
+			[51] = 1567953445,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [5]
 		{
-			"|cffffffff|Hitem:13813::::::::30:::::::|h[Blessed Sunfruit Juice]|h|r|cffffffff|Hitem:13810::::::::30:::::::|h[Blessed Sunfruit]|h|r", -- [1]
-			"Broly-Razorgore", -- [2]
+			"ye", -- [1]
+			"Gothgirl-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Broly", -- [5]
+			"Gothgirl", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7484, -- [11]
-			"Player-4478-01328AD6", -- [12]
+			4202, -- [11]
+			"Player-4478-0145D67C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dBroly|r",
-			[51] = 1567540721,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaGothgirl|r",
+			[51] = 1567953447,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [6]
 		{
-			"not a good one sadly", -- [1]
-			"Ikforbørn-Razorgore", -- [2]
+			"completely forgot about the agate", -- [1]
+			"Rookendgames-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ikforbørn", -- [5]
+			"Rookendgames", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7493, -- [11]
-			"Player-4478-01669322", -- [12]
+			4211, -- [11]
+			"Player-4478-0144563A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaIkforbørn|r",
-			[51] = 1567540736,
+			[52] = "|cff3fc6eaRookendgames|r",
+			[51] = 1567953460,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [7]
 		{
-			"questing is so much work", -- [1]
-			"Decessus-Razorgore", -- [2]
+			"shouldn't have wiped", -- [1]
+			"Rookendgames-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Decessus", -- [5]
+			"Rookendgames", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7501, -- [11]
-			"Player-4478-013CCA39", -- [12]
+			4212, -- [11]
+			"Player-4478-0144563A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Decessus|r",
-			[51] = 1567540754,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaRookendgames|r",
+			[51] = 1567953462,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [8]
 		{
-			"anyone up for Stranglethorn Fever in stv?", -- [1]
-			"Fxih-Razorgore", -- [2]
+			"ty", -- [1]
+			"Gothgirl-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Fxih", -- [5]
+			"Gothgirl", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7503, -- [11]
-			"Player-4478-012A915D", -- [12]
+			4232, -- [11]
+			"Player-4478-0145D67C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Fxih|r",
-			[51] = 1567540763,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaGothgirl|r",
+			[51] = 1567953499,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [9]
 		{
-			"ikr", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"am almost all red", -- [1]
+			"Rookendgames-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Rookendgames", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7504, -- [11]
-			"Player-4478-013E0174", -- [12]
+			4277, -- [11]
+			"Player-4478-0144563A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1567540764,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaRookendgames|r",
+			[51] = 1567953569,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [10]
 		{
-			"i get other ppl to lvl me", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"shoot", -- [1]
+			"Gothgirl-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Gothgirl", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7510, -- [11]
-			"Player-4478-013E0174", -- [12]
+			4282, -- [11]
+			"Player-4478-0145D67C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1567540774,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaGothgirl|r",
+			[51] = 1567953578,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [11]
 		{
-			"toss a renew on the tank every 20s and keep fapping", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"we can summon you after", -- [1]
+			"Odíe-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Odíe", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7520, -- [11]
-			"Player-4478-013E0174", -- [12]
+			4283, -- [11]
+			"Player-4478-01556F01", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1567540798,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dOdíe|r",
+			[51] = 1567953579,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [12]
 		{
-			"Dungeons don't seem to get me more exp", -- [1]
-			"Decessus-Razorgore", -- [2]
+			"ok ty", -- [1]
+			"Rookendgames-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Decessus", -- [5]
+			"Rookendgames", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7522, -- [11]
-			"Player-4478-013CCA39", -- [12]
+			4288, -- [11]
+			"Player-4478-0144563A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Decessus|r",
-			[51] = 1567540809,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaRookendgames|r",
+			[51] = 1567953588,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [13]
 		{
-			"cuz you need 4 mages and a priest", -- [1]
-			"Gigawoot-Razorgore", -- [2]
+			"When mage is back, I might as well also repair and sell grays from inventory. :p", -- [1]
+			"Dankenstein-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gigawoot", -- [5]
+			"Dankenstein", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7531, -- [11]
-			"Player-4478-0141BDB6", -- [12]
+			4296, -- [11]
+			"Player-4478-0142B8EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Gigawoot|r",
-			[51] = 1567540827,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567953610,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [14]
 		{
-			"and spend all the time waiting for drinking", -- [1]
-			"Decessus-Razorgore", -- [2]
+			"mage is afk", -- [1]
+			"Odíe-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Decessus", -- [5]
+			"Odíe", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7535, -- [11]
-			"Player-4478-013CCA39", -- [12]
+			4304, -- [11]
+			"Player-4478-01556F01", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Decessus|r",
-			[51] = 1567540841,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dOdíe|r",
+			[51] = 1567953627,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [15]
 		{
-			"you need a decent team for it to be better yeah", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"+", -- [1]
+			"Odíe-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Odíe", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7538, -- [11]
-			"Player-4478-013E0174", -- [12]
+			4306, -- [11]
+			"Player-4478-01556F01", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1567540845,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dOdíe|r",
+			[51] = 1567953628,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [16]
 		{
-			"my approach is get as many warriors as possible and have them cleave everything", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"?", -- [1]
+			"Odíe-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Odíe", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7544, -- [11]
-			"Player-4478-013E0174", -- [12]
+			4307, -- [11]
+			"Player-4478-01556F01", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1567540869,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dOdíe|r",
+			[51] = 1567953629,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [17]
 		{
-			"need Blade Flurry to be shorter CD", -- [1]
-			"Decessus-Razorgore", -- [2]
+			"ere", -- [1]
+			"Gothgirl-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Decessus", -- [5]
+			"Gothgirl", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7562, -- [11]
-			"Player-4478-013CCA39", -- [12]
+			4314, -- [11]
+			"Player-4478-0145D67C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Decessus|r",
-			[51] = 1567540903,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaGothgirl|r",
+			[51] = 1567953636,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [18]
 		{
-			"gotta get ravager first ;p", -- [1]
-			"Darkhollow-Razorgore", -- [2]
+			"this mage isn't", -- [1]
+			"Rookendgames-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Darkhollow", -- [5]
+			"Rookendgames", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7564, -- [11]
-			"Player-4478-0180235E", -- [12]
+			4315, -- [11]
+			"Player-4478-0144563A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dDarkhollow|r",
-			[51] = 1567540907,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaRookendgames|r",
+			[51] = 1567953636,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [19]
 		{
-			"need fan of knives", -- [1]
-			"Gigawoot-Razorgore", -- [2]
+			"<-", -- [1]
+			"Rookendgames-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gigawoot", -- [5]
+			"Rookendgames", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7572, -- [11]
-			"Player-4478-0141BDB6", -- [12]
+			4316, -- [11]
+			"Player-4478-0144563A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Gigawoot|r",
-			[51] = 1567540921,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaRookendgames|r",
+			[51] = 1567953638,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [20]
 		{
-			"you dont", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"gotta kill stuff", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7574, -- [11]
-			"Player-4478-013E0174", -- [12]
+			4331, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1567540922,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567953656,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [21]
 		{
-			"regular cleave is enough", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"if im to summon", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7578, -- [11]
-			"Player-4478-013E0174", -- [12]
+			4336, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1567540928,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567953660,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [22]
 		{
-			"LF SM GY farm", -- [1]
-			"Dotzz-Razorgore", -- [2]
+			"1 shard", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dotzz", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7580, -- [11]
-			"Player-4478-0153EF2F", -- [12]
+			4337, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edDotzz|r",
-			[51] = 1567540929,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567953663,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [23]
 		{
-			"but yes ravager is ideal", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"were almost done", -- [1]
+			"Odíe-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Odíe", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7585, -- [11]
-			"Player-4478-013E0174", -- [12]
+			4342, -- [11]
+			"Player-4478-01556F01", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1567540935,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dOdíe|r",
+			[51] = 1567953678,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [24]
 		{
-			"LF tank and 2 dps for SM GY farm", -- [1]
-			"Dotzz-Razorgore", -- [2]
+			"Where are you guys going? :o", -- [1]
+			"Dankenstein-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dotzz", -- [5]
+			"Dankenstein", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7594, -- [11]
-			"Player-4478-0153EF2F", -- [12]
+			4346, -- [11]
+			"Player-4478-0142B8EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edDotzz|r",
-			[51] = 1567540942,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567953680,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [25]
 		{
-			"want to cata toggle Blade Flurry", -- [1]
-			"Decessus-Razorgore", -- [2]
+			"yes", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Decessus", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7596, -- [11]
-			"Player-4478-013CCA39", -- [12]
+			4348, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Decessus|r",
-			[51] = 1567540944,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567953685,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [26]
 		{
-			"wtb jeeves", -- [1]
-			"Trapsrgay-Razorgore", -- [2]
+			"yeah let's just do this ", -- [1]
+			"Rookendgames-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Trapsrgay", -- [5]
+			"Rookendgames", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7599, -- [11]
-			"Player-4478-0146AE73", -- [12]
+			4350, -- [11]
+			"Player-4478-0144563A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Trapsrgay|r",
-			[51] = 1567540955,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaRookendgames|r",
+			[51] = 1567953686,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [27]
 		{
-			"that thing is BIS for dungeon cleave untill mara", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"so lets finish", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7601, -- [11]
-			"Player-4478-013E0174", -- [12]
+			4352, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1567540963,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567953688,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [28]
 		{
-			"thx", -- [1]
-			"Quiesel-Razorgore", -- [2]
+			"for now", -- [1]
+			"Rookendgames-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Quiesel", -- [5]
+			"Rookendgames", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7701, -- [11]
-			"Player-4478-012ABB61", -- [12]
+			4355, -- [11]
+			"Player-4478-0144563A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffQuiesel|r",
-			[51] = 1567541160,
+			[52] = "|cff3fc6eaRookendgames|r",
+			[51] = 1567953692,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [29]
 		{
-			"first try |cffffffff|Hitem:8428::::::::48:::::::|h[Laden Dew Gland]|h|r", -- [1]
-			"Laika-Razorgore", -- [2]
+			"oh lol", -- [1]
+			"Odíe-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Laika", -- [5]
+			"Odíe", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7710, -- [11]
-			"Player-4478-0146BF2A", -- [12]
+			4358, -- [11]
+			"Player-4478-01556F01", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLaika|r",
-			[51] = 1567541169,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dOdíe|r",
+			[51] = 1567953697,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [30]
 		{
-			"i dont believe it", -- [1]
-			"Laika-Razorgore", -- [2]
+			"finish then do all our stuff", -- [1]
+			"Gothgirl-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Laika", -- [5]
+			"Gothgirl", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7711, -- [11]
-			"Player-4478-0146BF2A", -- [12]
+			4360, -- [11]
+			"Player-4478-0145D67C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLaika|r",
-			[51] = 1567541171,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaGothgirl|r",
+			[51] = 1567953702,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [31]
 		{
-			"literally first mob", -- [1]
-			"Laika-Razorgore", -- [2]
+			"LOL", -- [1]
+			"Gothgirl-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Laika", -- [5]
+			"Gothgirl", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7715, -- [11]
-			"Player-4478-0146BF2A", -- [12]
+			4368, -- [11]
+			"Player-4478-0145D67C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLaika|r",
-			[51] = 1567541178,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaGothgirl|r",
+			[51] = 1567953717,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [32]
 		{
-			"are you now dazed?", -- [1]
-			"Regargler-Razorgore", -- [2]
+			"anyone wanne tank for mara?", -- [1]
+			"Barkz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Regargler", -- [5]
+			"Barkz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7721, -- [11]
-			"Player-4478-014066F1", -- [12]
+			4372, -- [11]
+			"Player-4478-014F1BC0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaRegargler|r",
-			[51] = 1567541183,
+			[52] = "|cffaad372Barkz|r",
+			[51] = 1567953726,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [33]
 		{
-			"this is an actual \"once in a lifetime\"", -- [1]
-			"Fuja-Razorgore", -- [2]
+			"Focus Myrmidons", -- [1]
+			"Dankenstein-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Fuja", -- [5]
+			"Dankenstein", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7725, -- [11]
-			"Player-4478-012A7751", -- [12]
+			4383, -- [11]
+			"Player-4478-0142B8EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aFuja|r",
-			[51] = 1567541186,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567953747,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [34]
 		{
-			"fo ra", -- [1]
-			"Laika-Razorgore", -- [2]
+			"gotta hurry baby pooped", -- [1]
+			"Odíe-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Laika", -- [5]
+			"Odíe", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7730, -- [11]
-			"Player-4478-0146BF2A", -- [12]
+			4418, -- [11]
+			"Player-4478-01556F01", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLaika|r",
-			[51] = 1567541196,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dOdíe|r",
+			[51] = 1567953783,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [35]
 		{
-			"real", -- [1]
-			"Laika-Razorgore", -- [2]
+			"xd", -- [1]
+			"Gothgirl-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Laika", -- [5]
+			"Gothgirl", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7731, -- [11]
-			"Player-4478-0146BF2A", -- [12]
+			4420, -- [11]
+			"Player-4478-0145D67C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLaika|r",
-			[51] = 1567541197,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaGothgirl|r",
+			[51] = 1567953788,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [36]
 		{
-			"the time of leveling new chars yearly is gone ", -- [1]
-			"Fuja-Razorgore", -- [2]
+			"just dont breathe", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Fuja", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7745, -- [11]
-			"Player-4478-012A7751", -- [12]
+			4427, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aFuja|r",
-			[51] = 1567541214,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567953809,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [37]
 		{
-			".", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"Grab a respirator", -- [1]
+			"Dankenstein-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Dankenstein", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7754, -- [11]
-			"Player-4478-013E0174", -- [12]
+			4432, -- [11]
+			"Player-4478-0142B8EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1567541225,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567953819,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [38]
 		{
-			"monthly you mean", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"oom", -- [1]
+			"Rookendgames-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Rookendgames", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7758, -- [11]
-			"Player-4478-013E0174", -- [12]
+			4461, -- [11]
+			"Player-4478-0144563A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1567541231,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaRookendgames|r",
+			[51] = 1567953861,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [39]
 		{
-			"DING", -- [1]
-			"Onishadows-Razorgore", -- [2]
+			"Focus Myrmidons. xP", -- [1]
+			"Dankenstein-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Onishadows", -- [5]
+			"Dankenstein", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7841, -- [11]
-			"Player-4478-01617ADC", -- [12]
+			4467, -- [11]
+			"Player-4478-0142B8EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dOnishadows|r",
-			[51] = 1567541354,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567953876,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [40]
 		{
-			"come in", -- [1]
-			"Hotzz-Razorgore", -- [2]
+			"Come on Damond, stop faking. He barely touched you. :o", -- [1]
+			"Dankenstein-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hotzz", -- [5]
+			"Dankenstein", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7843, -- [11]
-			"Player-4478-015458C9", -- [12]
+			4498, -- [11]
+			"Player-4478-0142B8EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffHotzz|r",
-			[51] = 1567541364,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567953926,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [41]
 		{
-			"gz", -- [1]
-			"Darkhollow-Razorgore", -- [2]
+			"he touched me in my special place", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Darkhollow", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7844, -- [11]
-			"Player-4478-0180235E", -- [12]
+			4504, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dDarkhollow|r",
-			[51] = 1567541365,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567953937,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [42]
 		{
-			"tyty", -- [1]
-			"Onishadows-Razorgore", -- [2]
+			":<", -- [1]
+			"Dankenstein-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Onishadows", -- [5]
+			"Dankenstein", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7855, -- [11]
-			"Player-4478-01617ADC", -- [12]
+			4508, -- [11]
+			"Player-4478-0142B8EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dOnishadows|r",
-			[51] = 1567541384,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567953941,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [43]
 		{
-			"shortest route to SM GY is still from WPL", -- [1]
-			"Dotzz-Razorgore", -- [2]
+			"That's my job. I'm the Priest here.", -- [1]
+			"Dankenstein-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dotzz", -- [5]
+			"Dankenstein", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7861, -- [11]
-			"Player-4478-0153EF2F", -- [12]
+			4517, -- [11]
+			"Player-4478-0142B8EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edDotzz|r",
-			[51] = 1567541400,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567953953,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [44]
 		{
-			"?", -- [1]
-			"Dotzz-Razorgore", -- [2]
+			"wait", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dotzz", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7863, -- [11]
-			"Player-4478-0153EF2F", -- [12]
+			4545, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edDotzz|r",
-			[51] = 1567541402,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567953996,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [45]
 		{
-			"when dinging is actually a acheivement", -- [1]
-			"Onishadows-Razorgore", -- [2]
+			"fak", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Onishadows", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7865, -- [11]
-			"Player-4478-01617ADC", -- [12]
+			4550, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dOnishadows|r",
-			[51] = 1567541410,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954001,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [46]
 		{
-			"yeah", -- [1]
-			"Decessus-Razorgore", -- [2]
+			"..", -- [1]
+			"Rookendgames-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Decessus", -- [5]
+			"Rookendgames", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7881, -- [11]
-			"Player-4478-013CCA39", -- [12]
+			4554, -- [11]
+			"Player-4478-0144563A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Decessus|r",
-			[51] = 1567541455,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaRookendgames|r",
+			[51] = 1567954004,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [47]
 		{
-			"you might die doing it though", -- [1]
-			"Decessus-Razorgore", -- [2]
+			"he kicked", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Decessus", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7884, -- [11]
-			"Player-4478-013CCA39", -- [12]
+			4556, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Decessus|r",
-			[51] = 1567541469,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954005,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [48]
 		{
-			"several times", -- [1]
-			"Onishadows-Razorgore", -- [2]
+			"jk its ok", -- [1]
+			"Rookendgames-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Onishadows", -- [5]
+			"Rookendgames", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7890, -- [11]
-			"Player-4478-01617ADC", -- [12]
+			4559, -- [11]
+			"Player-4478-0144563A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dOnishadows|r",
-			[51] = 1567541493,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaRookendgames|r",
+			[51] = 1567954008,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [49]
 		{
-			"I got it down to one", -- [1]
-			"Decessus-Razorgore", -- [2]
+			"drain soul", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Decessus", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			7894, -- [11]
-			"Player-4478-013CCA39", -- [12]
+			4560, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Decessus|r",
-			[51] = 1567541504,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954008,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [50]
 		{
-			"inv plz", -- [1]
+			"not getting any", -- [1]
 			"Damond-Razorgore", -- [2]
 			"", -- [3]
-			"6. layer", -- [4]
+			"", -- [4]
 			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
-			6, -- [8]
-			"layer", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			8017, -- [11]
+			4565, -- [11]
 			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1142,297 +1142,121 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff8787edDamond|r",
-			[51] = 1567541862,
-			[50] = "CHAT_MSG_CHANNEL",
+			[51] = 1567954015,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [51]
 		{
-			"just looking for the damn flower", -- [1]
-			"Damond-Razorgore", -- [2]
-			"Common", -- [3]
+			"I saw that Rooken. :p", -- [1]
+			"Dankenstein-Razorgore", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Damond", -- [5]
+			"Dankenstein", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8048, -- [11]
-			"Player-4478-012A6DE5", -- [12]
+			4588, -- [11]
+			"Player-4478-0142B8EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1567541999,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567954076,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [52]
 		{
-			"but found it", -- [1]
-			"Damond-Razorgore", -- [2]
-			"Common", -- [3]
+			"|cff1eff00|Hitem:11905::::::::55:::11::::|h[Linken's Boomerang]|h|r pre raid bis, right ?", -- [1]
+			"Gigawoot-Razorgore", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Damond", -- [5]
+			"Gigawoot", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8049, -- [11]
-			"Player-4478-012A6DE5", -- [12]
+			4631, -- [11]
+			"Player-4478-0141BDB6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1567542003,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfffff468Gigawoot|r",
+			[51] = 1567954154,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [53]
 		{
-			"idk if im blind", -- [1]
-			"Damond-Razorgore", -- [2]
-			"Common", -- [3]
+			"we have no damge wat", -- [1]
+			"Odíe-Razorgore", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Damond", -- [5]
+			"Odíe", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8051, -- [11]
-			"Player-4478-012A6DE5", -- [12]
+			4636, -- [11]
+			"Player-4478-01556F01", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1567542006,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dOdíe|r",
+			[51] = 1567954172,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [54]
 		{
-			"but that was the hardest challenge yet", -- [1]
-			"Damond-Razorgore", -- [2]
-			"Common", -- [3]
+			"not while he's spinning", -- [1]
+			"Rookendgames-Razorgore", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Damond", -- [5]
+			"Rookendgames", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8056, -- [11]
-			"Player-4478-012A6DE5", -- [12]
+			4644, -- [11]
+			"Player-4478-0144563A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1567542012,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaRookendgames|r",
+			[51] = 1567954181,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [55]
 		{
-			"wtb cath runs :(", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"also he's red to me", -- [1]
+			"Rookendgames-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Rookendgames", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8130, -- [11]
-			"Player-4478-013E0174", -- [12]
+			4651, -- [11]
+			"Player-4478-0144563A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1567542195,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaRookendgames|r",
+			[51] = 1567954188,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [56]
 		{
-			"anyone for deadmines? we need 1 tank and 1 dps", -- [1]
-			"Zohandvir", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zohandvir", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8133, -- [11]
-			"Player-4478-01711D9B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Zohandvir|r",
-			[51] = 1567542205,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [57]
-		{
-			"we are 3 from the guild for now", -- [1]
-			"Zohandvir-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zohandvir", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8145, -- [11]
-			"Player-4478-01711D9B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Zohandvir|r",
-			[51] = 1567542215,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [58]
-		{
-			"19 mage here for dm", -- [1]
-			"Irvingzisman-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Irvingzisman", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8149, -- [11]
-			"Player-4478-018CA775", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaIrvingzisman|r",
-			[51] = 1567542218,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [59]
-		{
-			"22 Hunter for dm :) ", -- [1]
-			"Tavinho-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tavinho", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8164, -- [11]
-			"Player-4478-0183C684", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Tavinho|r",
-			[51] = 1567542237,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [60]
-		{
-			"pls can we summon a mate?", -- [1]
-			"Inputshema-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Inputshema", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8165, -- [11]
-			"Player-4478-01767923", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dInputshema|r",
-			[51] = 1567542241,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [61]
-		{
-			"inv", -- [1]
-			"Inputshema-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Inputshema", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8167, -- [11]
-			"Player-4478-01767923", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dInputshema|r",
-			[51] = 1567542247,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [62]
-		{
-			"we need 1 tank for deadmines, last spot :D guild run", -- [1]
-			"Zohandvir-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Zohandvir", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8171, -- [11]
-			"Player-4478-01711D9B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Zohandvir|r",
-			[51] = 1567542257,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [63]
-		{
-			"we need 1 more", -- [1]
-			"Inputshema-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Inputshema", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8174, -- [11]
-			"Player-4478-01767923", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dInputshema|r",
-			[51] = 1567542269,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [64]
-		{
-			"this is true", -- [1]
+			"immune", -- [1]
 			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1442,7 +1266,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8175, -- [11]
+			4654, -- [11]
 			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1450,297 +1274,407 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff8787edDamond|r",
-			[51] = 1567542275,
+			[51] = 1567954189,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [57]
+		{
+			"so resist resist resist", -- [1]
+			"Rookendgames-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rookendgames", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4655, -- [11]
+			"Player-4478-0144563A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRookendgames|r",
+			[51] = 1567954191,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [58]
+		{
+			"oh lol", -- [1]
+			"Odíe-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Odíe", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4668, -- [11]
+			"Player-4478-01556F01", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dOdíe|r",
+			[51] = 1567954209,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [59]
+		{
+			"Time to kite", -- [1]
+			"Dankenstein-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dankenstein", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4670, -- [11]
+			"Player-4478-0142B8EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567954209,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [60]
+		{
+			"free wand skill", -- [1]
+			"Rookendgames-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rookendgames", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4672, -- [11]
+			"Player-4478-0144563A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRookendgames|r",
+			[51] = 1567954211,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [61]
+		{
+			"pog", -- [1]
+			"Gothgirl-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gothgirl", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4681, -- [11]
+			"Player-4478-0145D67C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaGothgirl|r",
+			[51] = 1567954227,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [62]
+		{
+			"ez", -- [1]
+			"Odíe-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Odíe", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4689, -- [11]
+			"Player-4478-01556F01", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dOdíe|r",
+			[51] = 1567954240,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [63]
+		{
+			"nice", -- [1]
+			"Rookendgames-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rookendgames", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4690, -- [11]
+			"Player-4478-0144563A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRookendgames|r",
+			[51] = 1567954241,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [64]
+		{
+			"Easy. :o", -- [1]
+			"Dankenstein-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dankenstein", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4694, -- [11]
+			"Player-4478-0142B8EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567954244,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [65]
 		{
-			"What dungeons can i do at 28 ?", -- [1]
-			"Onishadows-Razorgore", -- [2]
+			"noicee", -- [1]
+			"Gothgirl-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Onishadows", -- [5]
+			"Gothgirl", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8179, -- [11]
-			"Player-4478-01617ADC", -- [12]
+			4715, -- [11]
+			"Player-4478-0145D67C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dOnishadows|r",
-			[51] = 1567542301,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaGothgirl|r",
+			[51] = 1567954259,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [66]
 		{
-			"stockade, gnomeregan, RFK", -- [1]
-			"Valo-Razorgore", -- [2]
+			"nova", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Valo", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8183, -- [11]
-			"Player-4478-0145044F", -- [12]
+			4718, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Valo|r",
-			[51] = 1567542321,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954265,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [67]
 		{
-			"SM gy", -- [1]
-			"Valo-Razorgore", -- [2]
+			"SORRY", -- [1]
+			"Rookendgames-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Valo", -- [5]
+			"Rookendgames", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8184, -- [11]
-			"Player-4478-0145044F", -- [12]
+			4767, -- [11]
+			"Player-4478-0144563A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Valo|r",
-			[51] = 1567542327,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaRookendgames|r",
+			[51] = 1567954284,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [68]
 		{
-			"whats best for gear ?", -- [1]
-			"Onishadows-Razorgore", -- [2]
+			"ok 3 shards", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Onishadows", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8186, -- [11]
-			"Player-4478-01617ADC", -- [12]
+			4774, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dOnishadows|r",
-			[51] = 1567542330,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954289,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [69]
 		{
-			"sm gy", -- [1]
-			"Fear-Razorgore", -- [2]
+			"gotta brb", -- [1]
+			"Odíe-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Fear", -- [5]
+			"Odíe", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8189, -- [11]
-			"Player-4478-013C3E37", -- [12]
+			4789, -- [11]
+			"Player-4478-01556F01", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edFear|r",
-			[51] = 1567542338,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dOdíe|r",
+			[51] = 1567954296,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [70]
 		{
-			"any tank for deadmines? last spot, we have lvl 29 healer", -- [1]
-			"Zohandvir-Razorgore", -- [2]
+			"any tank for mara :D", -- [1]
+			"Barkz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Zohandvir", -- [5]
+			"Barkz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8190, -- [11]
-			"Player-4478-01711D9B", -- [12]
+			4808, -- [11]
+			"Player-4478-014F1BC0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Zohandvir|r",
-			[51] = 1567542344,
+			[52] = "|cffaad372Barkz|r",
+			[51] = 1567954305,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [71]
 		{
-			"RFK", -- [1]
-			"Valo-Razorgore", -- [2]
+			"'on follow danken", -- [1]
+			"Odíe-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Valo", -- [5]
+			"Odíe", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8191, -- [11]
-			"Player-4478-0145044F", -- [12]
+			4810, -- [11]
+			"Player-4478-01556F01", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Valo|r",
-			[51] = 1567542345,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dOdíe|r",
+			[51] = 1567954308,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [72]
 		{
-			"helm+weapon", -- [1]
-			"Valo-Razorgore", -- [2]
+			"leg it?", -- [1]
+			"Gothgirl-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Valo", -- [5]
+			"Gothgirl", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8196, -- [11]
-			"Player-4478-0145044F", -- [12]
+			4863, -- [11]
+			"Player-4478-0145D67C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Valo|r",
-			[51] = 1567542354,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaGothgirl|r",
+			[51] = 1567954399,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [73]
 		{
-			"GY has no warrior gear", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"some1 hearth", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8197, -- [11]
-			"Player-4478-013E0174", -- [12]
+			4903, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1567542358,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954449,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [74]
 		{
-			"yo", -- [1]
-			"Steamrolled-Razorgore", -- [2]
+			"just 1", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Steamrolled", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8199, -- [11]
-			"Player-4478-0198E895", -- [12]
+			4905, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Steamrolled|r",
-			[51] = 1567542360,
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954451,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [75]
 		{
-			"sumon steam pls", -- [1]
-			"Inputshema-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Inputshema", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8201, -- [11]
-			"Player-4478-01767923", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dInputshema|r",
-			[51] = 1567542361,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [76]
-		{
-			"okay sweet", -- [1]
-			"Onishadows-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Onishadows", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8204, -- [11]
-			"Player-4478-01617ADC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dOnishadows|r",
-			[51] = 1567542366,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [77]
-		{
-			"hey guys", -- [1]
-			"Lundbak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lundbak", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8205, -- [11]
-			"Player-4478-014AB656", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dLundbak|r",
-			[51] = 1567542366,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [78]
-		{
-			"got it?", -- [1]
+			"warr afk", -- [1]
 			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1750,7 +1684,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8207, -- [11]
+			4907, -- [11]
 			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1758,187 +1692,99 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff8787edDamond|r",
-			[51] = 1567542376,
+			[51] = 1567954454,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [76]
+		{
+			"i think i'm out guys", -- [1]
+			"Rookendgames-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rookendgames", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4924, -- [11]
+			"Player-4478-0144563A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRookendgames|r",
+			[51] = 1567954469,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [77]
+		{
+			"thanks for the group :)", -- [1]
+			"Rookendgames-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rookendgames", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4927, -- [11]
+			"Player-4478-0144563A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRookendgames|r",
+			[51] = 1567954472,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [78]
+		{
+			"wait", -- [1]
+			"Damond-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Damond", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4930, -- [11]
+			"Player-4478-012A6DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954475,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [79]
 		{
-			"|cff0070dd|Hitem:7689::::::::32:::::::|h[Morbid Dawn]|h|r", -- [1]
-			"Viggi-Razorgore", -- [2]
+			"nw", -- [1]
+			"Gothgirl-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Viggi", -- [5]
+			"Gothgirl", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8210, -- [11]
-			"Player-4478-014B94BE", -- [12]
+			4931, -- [11]
+			"Player-4478-0145D67C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Viggi|r",
-			[51] = 1567542379,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaGothgirl|r",
+			[51] = 1567954476,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [80]
 		{
-			"there is some from rare spawns", -- [1]
-			"Swagrlicious-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Swagrlicious", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8211, -- [11]
-			"Player-4478-012A4F21", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edSwagrlicious|r",
-			[51] = 1567542380,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [81]
-		{
-			"this", -- [1]
-			"Viggi-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Viggi", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8212, -- [11]
-			"Player-4478-014B94BE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Viggi|r",
-			[51] = 1567542381,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [82]
-		{
-			"Coolers!", -- [1]
-			"Mirakel-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mirakel", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8213, -- [11]
-			"Player-4478-0150D179", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffMirakel|r",
-			[51] = 1567542383,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [83]
-		{
-			"tnx mate", -- [1]
-			"Inputshema-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Inputshema", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8214, -- [11]
-			"Player-4478-01767923", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dInputshema|r",
-			[51] = 1567542384,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [84]
-		{
-			"Cya", -- [1]
-			"Mirakel-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mirakel", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8215, -- [11]
-			"Player-4478-0150D179", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffMirakel|r",
-			[51] = 1567542385,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [85]
-		{
-			"|cff0070dd|Hitem:7688::::::::32:::::::|h[Ironspine's Ribcage]|h|r", -- [1]
-			"Viggi-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Viggi", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8217, -- [11]
-			"Player-4478-014B94BE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Viggi|r",
-			[51] = 1567542387,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [86]
-		{
-			"nice", -- [1]
-			"Onishadows-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Onishadows", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8219, -- [11]
-			"Player-4478-01617ADC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dOnishadows|r",
-			[51] = 1567542388,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [87]
-		{
-			"take care", -- [1]
+			"summon", -- [1]
 			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1948,7 +1794,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8220, -- [11]
+			4933, -- [11]
 			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1956,188 +1802,958 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff8787edDamond|r",
-			[51] = 1567542390,
+			[51] = 1567954477,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [81]
+		{
+			"plz", -- [1]
+			"Damond-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Damond", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4937, -- [11]
+			"Player-4478-012A6DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954481,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [82]
+		{
+			"?", -- [1]
+			"Rookendgames-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rookendgames", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4939, -- [11]
+			"Player-4478-0144563A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRookendgames|r",
+			[51] = 1567954485,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [83]
+		{
+			"click", -- [1]
+			"Damond-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Damond", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4940, -- [11]
+			"Player-4478-012A6DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954485,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [84]
+		{
+			"summon dank", -- [1]
+			"Damond-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Damond", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4943, -- [11]
+			"Player-4478-012A6DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954488,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [85]
+		{
+			"Got it. :)", -- [1]
+			"Dankenstein-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dankenstein", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4964, -- [11]
+			"Player-4478-0142B8EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567954510,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [86]
+		{
+			"try get another mage", -- [1]
+			"Gothgirl-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gothgirl", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4965, -- [11]
+			"Player-4478-0145D67C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaGothgirl|r",
+			[51] = 1567954513,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [87]
+		{
+			"stay outside", -- [1]
+			"Damond-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Damond", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4966, -- [11]
+			"Player-4478-012A6DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954515,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [88]
 		{
-			"these two", -- [1]
-			"Viggi-Razorgore", -- [2]
+			"good aoes", -- [1]
+			"Gothgirl-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Viggi", -- [5]
+			"Gothgirl", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8224, -- [11]
-			"Player-4478-014B94BE", -- [12]
+			4967, -- [11]
+			"Player-4478-0145D67C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Viggi|r",
-			[51] = 1567542396,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaGothgirl|r",
+			[51] = 1567954517,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [89]
 		{
-			"can drop in gy", -- [1]
-			"Viggi-Razorgore", -- [2]
+			"discourage the horde", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Viggi", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8225, -- [11]
-			"Player-4478-014B94BE", -- [12]
+			4975, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Viggi|r",
-			[51] = 1567542401,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954526,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [90]
 		{
-			"ironspine so rare i saw him once in 20 runs", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"summoning myself", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8227, -- [11]
-			"Player-4478-013E0174", -- [12]
+			4995, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1567542406,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954551,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [91]
 		{
-			"LF warrior last spot for SM GY farm", -- [1]
-			"Dotzz-Razorgore", -- [2]
+			"click", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Dotzz", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8329, -- [11]
-			"Player-4478-0153EF2F", -- [12]
+			5001, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edDotzz|r",
-			[51] = 1567542538,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954565,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [92]
 		{
-			"tyvm", -- [1]
-			"Hemzk-Razorgore", -- [2]
+			"where to repair in ss?", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hemzk", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8360, -- [11]
-			"Player-4478-0133579F", -- [12]
+			5013, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Hemzk|r",
-			[51] = 1567542597,
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954579,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [93]
 		{
-			"welcome", -- [1]
-			"Chemo-Razorgore", -- [2]
+			"Building next to inn", -- [1]
+			"Dankenstein", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chemo", -- [5]
+			"Dankenstein", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8392, -- [11]
-			"Player-4478-013C9085", -- [12]
+			5020, -- [11]
+			"Player-4478-0142B8EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Chemo|r",
-			[51] = 1567542671,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567954588,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [94]
 		{
-			"Welcome !", -- [1]
-			"Bims-Razorgore", -- [2]
+			"Behind it", -- [1]
+			"Dankenstein-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bims", -- [5]
+			"Dankenstein", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8393, -- [11]
-			"Player-4478-0148B886", -- [12]
+			5023, -- [11]
+			"Player-4478-0142B8EF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffBims|r",
-			[51] = 1567542672,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567954589,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [95]
 		{
-			"welcome", -- [1]
-			"Órin-Razorgore", -- [2]
+			"actually lost", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Órin", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8394, -- [11]
-			"Player-4478-013CD45B", -- [12]
+			5048, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffÓrin|r",
-			[51] = 1567542673,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954642,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [96]
 		{
-			"wc", -- [1]
-			"Impulse-Razorgore", -- [2]
+			"There's a small building next to the inn", -- [1]
+			"Dankenstein-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dankenstein", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5053, -- [11]
+			"Player-4478-0142B8EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567954656,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [97]
+		{
+			"Outside behind it", -- [1]
+			"Dankenstein-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dankenstein", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5055, -- [11]
+			"Player-4478-0142B8EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567954660,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [98]
+		{
+			"There's a repair dude", -- [1]
+			"Dankenstein-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dankenstein", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5057, -- [11]
+			"Player-4478-0142B8EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567954664,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [99]
+		{
+			"go right building by Ah", -- [1]
+			"Gothgirl-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gothgirl", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5062, -- [11]
+			"Player-4478-0145D67C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaGothgirl|r",
+			[51] = 1567954668,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [100]
+		{
+			"wepons shop", -- [1]
+			"Gothgirl-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gothgirl", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5065, -- [11]
+			"Player-4478-0145D67C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaGothgirl|r",
+			[51] = 1567954674,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [101]
+		{
+			"He's in Southshore :P", -- [1]
+			"Dankenstein-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dankenstein", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5072, -- [11]
+			"Player-4478-0142B8EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567954682,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [102]
+		{
+			"oh xD", -- [1]
+			"Gothgirl-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gothgirl", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5073, -- [11]
+			"Player-4478-0145D67C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaGothgirl|r",
+			[51] = 1567954689,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [103]
+		{
+			"Building north of the inn", -- [1]
+			"Dankenstein", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dankenstein", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5077, -- [11]
+			"Player-4478-0142B8EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567954692,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [104]
+		{
+			"ye I didnt get it", -- [1]
+			"Damond-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Damond", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5088, -- [11]
+			"Player-4478-012A6DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954700,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [105]
+		{
+			":c", -- [1]
+			"Dankenstein-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dankenstein", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5091, -- [11]
+			"Player-4478-0142B8EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567954707,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [106]
+		{
+			"giving you lead danken if you want more", -- [1]
+			"Odíe-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Odíe", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5098, -- [11]
+			"Player-4478-01556F01", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dOdíe|r",
+			[51] = 1567954713,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [107]
+		{
+			"oh youre out?", -- [1]
+			"Damond-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Damond", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5103, -- [11]
+			"Player-4478-012A6DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954723,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [108]
+		{
+			"gotta entertain baby for a few min", -- [1]
+			"Odíe-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Odíe", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5105, -- [11]
+			"Player-4478-01556F01", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dOdíe|r",
+			[51] = 1567954724,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [109]
+		{
+			"ill be back", -- [1]
+			"Odíe-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Odíe", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5106, -- [11]
+			"Player-4478-01556F01", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dOdíe|r",
+			[51] = 1567954728,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [110]
+		{
+			"Okay!", -- [1]
+			"Dankenstein-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dankenstein", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5110, -- [11]
+			"Player-4478-0142B8EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567954737,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [111]
+		{
+			"try get mage", -- [1]
+			"Gothgirl-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gothgirl", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5113, -- [11]
+			"Player-4478-0145D67C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaGothgirl|r",
+			[51] = 1567954743,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [112]
+		{
+			"Gonna leave the group? :o Or stay afk? :P", -- [1]
+			"Dankenstein-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dankenstein", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5119, -- [11]
+			"Player-4478-0142B8EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567954751,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [113]
+		{
+			"ill go make dinner if were reforming", -- [1]
+			"Damond-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Damond", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5133, -- [11]
+			"Player-4478-012A6DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954770,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [114]
+		{
+			"Take a small break then? ^^", -- [1]
+			"Dankenstein-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dankenstein", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5149, -- [11]
+			"Player-4478-0142B8EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567954784,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [115]
+		{
+			"I'm up for spamming SM though", -- [1]
+			"Dankenstein-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dankenstein", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5151, -- [11]
+			"Player-4478-0142B8EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567954789,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [116]
+		{
+			"ye ill grab some munch", -- [1]
+			"Gothgirl-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gothgirl", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5153, -- [11]
+			"Player-4478-0145D67C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaGothgirl|r",
+			[51] = 1567954793,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [117]
+		{
+			"same", -- [1]
+			"Gothgirl-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gothgirl", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5158, -- [11]
+			"Player-4478-0145D67C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaGothgirl|r",
+			[51] = 1567954797,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [118]
+		{
+			"ill be back in 2mins", -- [1]
+			"Gothgirl-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gothgirl", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5163, -- [11]
+			"Player-4478-0145D67C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaGothgirl|r",
+			[51] = 1567954803,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [119]
+		{
+			"then ill post for mage", -- [1]
+			"Gothgirl-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gothgirl", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5166, -- [11]
+			"Player-4478-0145D67C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaGothgirl|r",
+			[51] = 1567954808,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [120]
+		{
+			"ill go make dinner, maybe ill catch you later", -- [1]
+			"Damond-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Damond", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5185, -- [11]
+			"Player-4478-012A6DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954851,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [121]
+		{
+			"1 dps for emperor runs?", -- [1]
+			"Holmgaard-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Holmgaard", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5186, -- [11]
+			"Player-4478-0149702B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffHolmgaard|r",
+			[51] = 1567954851,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [122]
+		{
+			"Alrighty~", -- [1]
+			"Dankenstein-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dankenstein", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5197, -- [11]
+			"Player-4478-0142B8EF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffDankenstein|r",
+			[51] = 1567954861,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [123]
+		{
+			"is there a queue today?", -- [1]
+			"Damond-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Damond", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5204, -- [11]
+			"Player-4478-012A6DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954879,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [124]
+		{
+			"n", -- [1]
+			"Impulse", -- [2]
 			"", -- [3]
 			"", -- [4]
 			"Impulse", -- [5]
@@ -2146,7 +2762,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8398, -- [11]
+			5211, -- [11]
 			"Player-4478-013FE403", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2154,667 +2770,51 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff3fc6eaImpulse|r",
-			[51] = 1567542676,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [97]
-		{
-			"welcome", -- [1]
-			"Wharfman", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wharfman", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8401, -- [11]
-			"Player-4478-0155B391", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Wharfman|r",
-			[51] = 1567542685,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [98]
-		{
-			"Thx ^^", -- [1]
-			"Mightyjedi", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mightyjedi", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8407, -- [11]
-			"Player-4478-0172365F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edMightyjedi|r",
-			[51] = 1567542699,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [99]
-		{
-			"LF DPS last spot for SM GY farm", -- [1]
-			"Dotzz-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dotzz", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8442, -- [11]
-			"Player-4478-0153EF2F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edDotzz|r",
-			[51] = 1567542817,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [100]
-		{
-			"30+ pref", -- [1]
-			"Dotzz-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dotzz", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8446, -- [11]
-			"Player-4478-0153EF2F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edDotzz|r",
-			[51] = 1567542824,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [101]
-		{
-			"inv pls", -- [1]
-			"Potema-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Potema", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8448, -- [11]
-			"Player-4478-014632A0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edPotema|r",
-			[51] = 1567542830,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [102]
-		{
-			"hello", -- [1]
-			"Damond-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Damond", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8467, -- [11]
-			"Player-4478-012A6DE5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1567542874,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [103]
-		{
-			"yo", -- [1]
-			"Clarencex-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Clarencex", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8471, -- [11]
-			"Player-4478-01317B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaClarencex|r",
-			[51] = 1567542881,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [104]
-		{
-			"ty", -- [1]
-			"Clarencex-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Clarencex", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8472, -- [11]
-			"Player-4478-01317B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaClarencex|r",
-			[51] = 1567542881,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [105]
-		{
-			"same layer tho", -- [1]
-			"Clarencex-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Clarencex", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8473, -- [11]
-			"Player-4478-01317B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaClarencex|r",
-			[51] = 1567542886,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [106]
-		{
-			":/", -- [1]
-			"Clarencex-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Clarencex", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8474, -- [11]
-			"Player-4478-01317B5D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaClarencex|r",
-			[51] = 1567542886,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [107]
-		{
-			"i have a question", -- [1]
-			"Brucechillis-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Brucechillis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8515, -- [11]
-			"Player-4478-01304264", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaBrucechillis|r",
-			[51] = 1567542991,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [108]
-		{
-			"i have found a level 18 horde player im level 32", -- [1]
-			"Brucechillis-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Brucechillis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8522, -- [11]
-			"Player-4478-01304264", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaBrucechillis|r",
-			[51] = 1567542998,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [109]
-		{
-			"why cant i attack him is it the level difference?", -- [1]
-			"Brucechillis-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Brucechillis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8527, -- [11]
-			"Player-4478-01304264", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaBrucechillis|r",
-			[51] = 1567543006,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [110]
-		{
-			"it's the zone", -- [1]
-			"Dotzz-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dotzz", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8536, -- [11]
-			"Player-4478-0153EF2F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edDotzz|r",
-			[51] = 1567543015,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [111]
-		{
-			"no", -- [1]
-			"Damond-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Damond", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8537, -- [11]
-			"Player-4478-012A6DE5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1567543015,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [112]
-		{
-			"The barrens is safe for him", -- [1]
-			"Melo-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Melo", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8538, -- [11]
-			"Player-4478-012AB4AF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaMelo|r",
-			[51] = 1567543016,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [113]
-		{
-			"ahhhh", -- [1]
-			"Brucechillis-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Brucechillis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8539, -- [11]
-			"Player-4478-01304264", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaBrucechillis|r",
-			[51] = 1567543020,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [114]
-		{
-			"because barrens is horde teritory", -- [1]
-			"Darkhollow-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Darkhollow", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8540, -- [11]
-			"Player-4478-0180235E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dDarkhollow|r",
-			[51] = 1567543021,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [115]
-		{
-			"could he attack me?", -- [1]
-			"Brucechillis-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Brucechillis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8543, -- [11]
-			"Player-4478-01304264", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaBrucechillis|r",
-			[51] = 1567543031,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [116]
-		{
-			"yes", -- [1]
-			"Darkhollow-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Darkhollow", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8547, -- [11]
-			"Player-4478-0180235E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dDarkhollow|r",
-			[51] = 1567543034,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [117]
-		{
-			"yes", -- [1]
-			"Damond-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Damond", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8548, -- [11]
-			"Player-4478-012A6DE5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1567543034,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [118]
-		{
-			"then u can attack him back ", -- [1]
-			"Darkhollow-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Darkhollow", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8550, -- [11]
-			"Player-4478-0180235E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dDarkhollow|r",
-			[51] = 1567543038,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [119]
-		{
-			"fair enough ty", -- [1]
-			"Brucechillis-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Brucechillis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8552, -- [11]
-			"Player-4478-01304264", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaBrucechillis|r",
-			[51] = 1567543044,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [120]
-		{
-			"they can write /pvp", -- [1]
-			"Alphaheal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Alphaheal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8553, -- [11]
-			"Player-4478-014D0D5A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAlphaheal|r",
-			[51] = 1567543045,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [121]
-		{
-			"KILL THE HORDE SCUM", -- [1]
-			"Onishadows-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Onishadows", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8554, -- [11]
-			"Player-4478-01617ADC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dOnishadows|r",
-			[51] = 1567543047,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [122]
-		{
-			"so they are open for pvp", -- [1]
-			"Alphaheal-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Alphaheal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8558, -- [11]
-			"Player-4478-014D0D5A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAlphaheal|r",
-			[51] = 1567543058,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [123]
-		{
-			"this is  pvp server its always on", -- [1]
-			"Onishadows-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Onishadows", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8559, -- [11]
-			"Player-4478-01617ADC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dOnishadows|r",
-			[51] = 1567543062,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [124]
-		{
-			"no", -- [1]
-			"Alphaheal-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Alphaheal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			8560, -- [11]
-			"Player-4478-014D0D5A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaAlphaheal|r",
-			[51] = 1567543069,
+			[51] = 1567954889,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [125]
 		{
-			"you can activate in safe zone", -- [1]
-			"Alphaheal-Razorgore", -- [2]
+			"i got in instantly just now even tho it said sever was full", -- [1]
+			"Whiteprowler", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Alphaheal", -- [5]
+			"Whiteprowler", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8563, -- [11]
-			"Player-4478-014D0D5A", -- [12]
+			5224, -- [11]
+			"Player-4478-0136315C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaAlphaheal|r",
-			[51] = 1567543075,
+			[52] = "|cfffff468Whiteprowler|r",
+			[51] = 1567954910,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [126]
 		{
-			"Hey any tank for Gnomergan?", -- [1]
-			"Svestenik-Razorgore", -- [2]
+			"ty", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Svestenik", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			8585, -- [11]
-			"Player-4478-0147FA6F", -- [12]
+			5228, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffSvestenik|r",
-			[51] = 1567543183,
+			[52] = "|cff8787edDamond|r",
+			[51] = 1567954921,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},

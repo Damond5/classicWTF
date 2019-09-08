@@ -12,3 +12,7 @@ OmniCC_Config: disabled
 AAP-Classic: disabled
 Skada: disabled
 Details: enabled
+AtlasQuest: disabled
+Atlas: disabled
+Atlas_ClassicWoW: disabled
+Leatrix_Plus: enabled
