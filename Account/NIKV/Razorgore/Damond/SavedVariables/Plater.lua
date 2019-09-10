@@ -1,9 +1,6 @@
 
 PlaterDBChr = {
-	["spellRangeCheck"] = {
-		[266] = "Shadow Bolt",
-		[265] = "Curse of Agony",
-	},
+	["spellRangeCheck"] = "",
 	["buffsBanned"] = {
 	},
 	["debuffsBanned"] = {

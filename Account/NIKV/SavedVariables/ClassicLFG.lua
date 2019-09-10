@@ -11,10 +11,10 @@ ClassicLFG_DB = {
 			["Toast"] = {
 				["X"] = 845.238159179688,
 			},
-			["BroadcastDungeonGroupInterval"] = 60,
 			["minimap"] = {
 				["minimapPos"] = 309.942837782273,
 			},
+			["BroadcastDungeonGroupInterval"] = 60,
 		},
 	},
 }
