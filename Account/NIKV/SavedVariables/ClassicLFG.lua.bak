@@ -11,10 +11,10 @@ ClassicLFG_DB = {
 			["Toast"] = {
 				["X"] = 845.238159179688,
 			},
-			["AutoAcceptInvite"] = true,
 			["minimap"] = {
 				["minimapPos"] = 309.942837782273,
 			},
+			["AutoAcceptInvite"] = true,
 		},
 	},
 }

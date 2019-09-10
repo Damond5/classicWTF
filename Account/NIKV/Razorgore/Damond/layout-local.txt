@@ -1,9 +1,9 @@
 Version: 1
 Frame: AllyRoute_MainFrame
 FrameLevel: 1
-Anchor: LEFT
-X: 2
-Y: -135
+Anchor: BOTTOMRIGHT
+X: -6
+Y: 157
 W: 300
 H: 100
 Frame: ColorPickerFrame
