@@ -26,3 +26,4 @@ Atlas: disabled
 Atlas_ClassicWoW: disabled
 Leatrix_Plus: enabled
 PixelPerfectAlign: disabled
+AuctionFaster: enabled

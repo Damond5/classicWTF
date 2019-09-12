@@ -5,7 +5,7 @@ ElvDB = {
 	},
 	["gold"] = {
 		["Razorgore"] = {
-			["Damond"] = 567068,
+			["Damond"] = 650737,
 		},
 	},
 	["class"] = {
