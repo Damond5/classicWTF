@@ -1,3 +1,9 @@
 VER 3 0000000000000001 "attack" "INV_MISC_QUESTIONMARK"
-/cast !Attack
+/cast !shoot
+END
+VER 3 0000000000000002 "LFG" "INV_MISC_QUESTIONMARK"
+/1 LFG ZF (farm or full run) - 46 lock
+/4 LFG ZF (farm or full run) - 46 lock
+/5 LFG ZF (farm or full run) - 46 lock
+/7 LFG ZF (farm or full run) - 46 lock
 END

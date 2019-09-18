@@ -128,7 +128,7 @@ WeakAurasSaved = {
 				0.5, -- [4]
 			},
 			["animate"] = true,
-			["useLimit"] = false,
+			["internalVersion"] = 23,
 			["scale"] = 1,
 			["authorOptions"] = {
 			},
@@ -137,8 +137,8 @@ WeakAurasSaved = {
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["sort"] = "none",
-			["arcLength"] = 360,
-			["internalVersion"] = 23,
+			["stagger"] = 0,
+			["useLimit"] = false,
 			["constantFactor"] = "RADIUS",
 			["gridType"] = "RD",
 			["borderOffset"] = 16,
@@ -146,12 +146,12 @@ WeakAurasSaved = {
 			["config"] = {
 			},
 			["id"] = "Details! Aura Group",
-			["frameStrata"] = 1,
 			["gridWidth"] = 5,
-			["anchorFrameType"] = "SCREEN",
+			["frameStrata"] = 1,
 			["width"] = 199.999969482422,
-			["uid"] = "NWf6Q37Vrqb",
+			["anchorFrameType"] = "SCREEN",
 			["borderInset"] = 0,
+			["uid"] = "NWf6Q37Vrqb",
 			["limit"] = 5,
 			["conditions"] = {
 			},
@@ -169,7 +169,7 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
-			["stagger"] = 0,
+			["arcLength"] = 360,
 		},
 		["Details! Boss Mods Group"] = {
 			["grow"] = "DOWN",
@@ -285,7 +285,7 @@ WeakAurasSaved = {
 				0.5, -- [4]
 			},
 			["animate"] = true,
-			["useLimit"] = false,
+			["internalVersion"] = 23,
 			["scale"] = 1,
 			["authorOptions"] = {
 			},
@@ -294,6 +294,25 @@ WeakAurasSaved = {
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 2,
 			["sort"] = "none",
+			["stagger"] = 0,
+			["useLimit"] = false,
+			["constantFactor"] = "RADIUS",
+			["gridType"] = "RD",
+			["borderOffset"] = 16,
+			["rowSpace"] = 1,
+			["config"] = {
+			},
+			["id"] = "Details! Boss Mods Group",
+			["gridWidth"] = 5,
+			["frameStrata"] = 1,
+			["width"] = 359.096801757813,
+			["anchorFrameType"] = "SCREEN",
+			["borderInset"] = 0,
+			["uid"] = "rKC7x5DcPIY",
+			["limit"] = 5,
+			["conditions"] = {
+			},
+			["arcLength"] = 360,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -308,25 +327,6 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["internalVersion"] = 23,
-			["constantFactor"] = "RADIUS",
-			["gridType"] = "RD",
-			["borderOffset"] = 16,
-			["rowSpace"] = 1,
-			["config"] = {
-			},
-			["id"] = "Details! Boss Mods Group",
-			["frameStrata"] = 1,
-			["gridWidth"] = 5,
-			["anchorFrameType"] = "SCREEN",
-			["width"] = 359.096801757813,
-			["uid"] = "rKC7x5DcPIY",
-			["borderInset"] = 0,
-			["limit"] = 5,
-			["conditions"] = {
-			},
-			["arcLength"] = 360,
-			["stagger"] = 0,
 		},
 		["cast bar"] = {
 			["sparkWidth"] = 10,
@@ -408,8 +408,8 @@ WeakAurasSaved = {
 					["text_fontType"] = "None",
 					["text_anchorPoint"] = "INNER_LEFT",
 					["anchorYOffset"] = 0,
-					["rotateText"] = "NONE",
 					["text_fontSize"] = 12,
+					["rotateText"] = "NONE",
 					["anchorXOffset"] = 0,
 					["text_visible"] = false,
 				}, -- [2]
@@ -435,8 +435,8 @@ WeakAurasSaved = {
 					["text_fontType"] = "None",
 					["text_anchorPoint"] = "INNER_RIGHT",
 					["anchorYOffset"] = 0,
-					["rotateText"] = "NONE",
 					["text_fontSize"] = 12,
+					["rotateText"] = "NONE",
 					["anchorXOffset"] = 0,
 					["text_visible"] = false,
 				}, -- [3]
@@ -505,15 +505,15 @@ WeakAurasSaved = {
 			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
 			["sparkHeight"] = 30,
 			["texture"] = "Flat",
-			["auto"] = true,
-			["zoom"] = 0,
 			["spark"] = false,
+			["zoom"] = 0,
+			["auto"] = true,
 			["width"] = 250,
-			["id"] = "cast bar",
+			["sparkHidden"] = "NEVER",
 			["frameStrata"] = 1,
 			["alpha"] = 1,
 			["anchorFrameType"] = "SCREEN",
-			["sparkHidden"] = "NEVER",
+			["id"] = "cast bar",
 			["sparkColor"] = {
 				1, -- [1]
 				1, -- [2]

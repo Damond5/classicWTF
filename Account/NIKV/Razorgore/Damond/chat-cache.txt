@@ -8,6 +8,7 @@ Trade 0 2 0
 LocalDefense 0 3 0
 world 1 5 0
 layer 1 6 0
+LookingForGroup 1 7 0
 END
 
 ZONECHANNELS 0
@@ -233,6 +234,7 @@ END
 
 CHANNELS
 world
+LookingForGroup
 END
 
 ZONECHANNELS 0

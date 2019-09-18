@@ -1,976 +1,998 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"you need to kill stuff though so cant solo", -- [1]
-		"you need ot do UBRS twice I think", -- [2]
-		"idk, maybe", -- [3]
-		"pull with pet", -- [4]
-		"feign", -- [5]
-		"/kb", -- [6]
-		"/reload", -- [7]
-		"/cw adi for tuesday", -- [8]
-		"/cw adi and then start working on the ony chain, gonna take a while", -- [9]
-		"/g fury paladin", -- [10]
-		"/g new meta", -- [11]
-		"/g in dungeons? sure you can", -- [12]
-		"/cw Adi 30 hours is insane", -- [13]
-		"/cw Adi first part of ony quest is not dungeons", -- [14]
-		"/cw Adi but cant remember specifics", -- [15]
-		"/cw Adi im sure wowhead has a guide", -- [16]
-		"/cw Adi did you check if you can farm devilsaur?", -- [17]
-		"/cw Adi maybe worth staying raid spec and farm that instead of maraudon?", -- [18]
-		"/cw Adi already in debt", -- [19]
-		"/tar zam", -- [20]
+		"/p oh ok", -- [1]
+		"/p rip then", -- [2]
+		"/p but", -- [3]
+		"/p you can nolife till they cut your internet", -- [4]
+		"/p might be worth", -- [5]
+		"/p later", -- [6]
+		"/p im gonna log as well", -- [7]
+		"/p likewise", -- [8]
+		"/cw Xprz lmao", -- [9]
+		"/cw Xprz mail me back the gold for mount ye?", -- [10]
+		"/cw Xprz the gold im gonna give you", -- [11]
+		"/cw Xprz or was before I got fucked", -- [12]
+		"/cw Xprz cant trade you", -- [13]
+		"/tar xpr", -- [14]
+		"/cw Xprz ill come to the corner", -- [15]
+		"/cw Xprz y", -- [16]
+		"/cw Xprz ye no worries, just mail it whenever", -- [17]
+		"/cw Xprz aight, logging", -- [18]
+		"/cw Xprz ill cya", -- [19]
+		"/reload", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"casters aint a problem to find", -- [1]
-			"Swagrlicious-Razorgore", -- [2]
+			"lol", -- [1]
+			"Eldoc-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Swagrlicious", -- [5]
+			"Eldoc", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3428, -- [11]
-			"Player-4478-012A4F21", -- [12]
+			11243, -- [11]
+			"Player-4478-016E70A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSwagrlicious|r",
-			[51] = 1568319983,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dEldoc|r",
+			[51] = 1568838534,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [1]
 		{
-			"think kinryu and holm ", -- [1]
-			"Zarisu-Razorgore", -- [2]
+			"th", -- [1]
+			"Eldoc-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Zarisu", -- [5]
+			"Eldoc", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3429, -- [11]
-			"Player-4478-014D8710", -- [12]
+			11252, -- [11]
+			"Player-4478-016E70A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaZarisu|r",
-			[51] = 1568319988,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dEldoc|r",
+			[51] = 1568838550,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [2]
 		{
-			"is down", -- [1]
-			"Zarisu-Razorgore", -- [2]
+			"there", -- [1]
+			"Eldoc-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Zarisu", -- [5]
+			"Eldoc", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3430, -- [11]
-			"Player-4478-014D8710", -- [12]
+			11253, -- [11]
+			"Player-4478-016E70A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaZarisu|r",
-			[51] = 1568319989,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dEldoc|r",
+			[51] = 1568838551,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [3]
 		{
-			"awful run :<", -- [1]
-			"Whiteprowler-Razorgore", -- [2]
+			"lol", -- [1]
+			"Eldoc-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Whiteprowler", -- [5]
+			"Eldoc", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3433, -- [11]
-			"Player-4478-0136315C", -- [12]
+			11266, -- [11]
+			"Player-4478-016E70A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Whiteprowler|r",
-			[51] = 1568319999,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dEldoc|r",
+			[51] = 1568838559,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [4]
 		{
-			"10 g a run", -- [1]
-			"Holmgaard-Razorgore", -- [2]
+			"ez", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Holmgaard", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3434, -- [11]
-			"Player-4478-0149702B", -- [12]
+			11306, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffHolmgaard|r",
-			[51] = 1568319999,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568838601,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [5]
 		{
-			"its just the lack of tank loot thats frustrating", -- [1]
-			"Swagrlicious-Razorgore", -- [2]
+			"worthy sacrifice", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Swagrlicious", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3435, -- [11]
-			"Player-4478-012A4F21", -- [12]
+			11307, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSwagrlicious|r",
-			[51] = 1568320000,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568838605,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [6]
 		{
-			"i need loads of LBRS, prebis pants are from there", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"lol", -- [1]
+			"Eldoc-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Eldoc", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3438, -- [11]
-			"Player-4478-013E0174", -- [12]
+			11310, -- [11]
+			"Player-4478-016E70A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1568320003,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dEldoc|r",
+			[51] = 1568838608,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [7]
 		{
-			"3g repair", -- [1]
-			"Catloaf-Razorgore", -- [2]
+			"sacrifice the gnum", -- [1]
+			"Eldoc-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Catloaf", -- [5]
+			"Eldoc", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3439, -- [11]
-			"Player-4478-014DCA58", -- [12]
+			11312, -- [11]
+			"Player-4478-016E70A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1568320003,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dEldoc|r",
+			[51] = 1568838610,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [8]
 		{
-			"lol", -- [1]
-			"Catloaf-Razorgore", -- [2]
+			"yeah more xp", -- [1]
+			"Bolae-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Catloaf", -- [5]
+			"Bolae", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3440, -- [11]
-			"Player-4478-014DCA58", -- [12]
+			11313, -- [11]
+			"Player-4478-01668AEF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1568320005,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Bolae|r",
+			[51] = 1568838613,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [9]
 		{
-			"100 g to not take gloves hostage", -- [1]
-			"Holmgaard-Razorgore", -- [2]
+			":p", -- [1]
+			"Bolae-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Holmgaard", -- [5]
+			"Bolae", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3441, -- [11]
-			"Player-4478-0149702B", -- [12]
+			11316, -- [11]
+			"Player-4478-01668AEF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffHolmgaard|r",
-			[51] = 1568320006,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Bolae|r",
+			[51] = 1568838614,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [10]
 		{
-			"LOL", -- [1]
-			"Kinryu-Razorgore", -- [2]
+			"gz", -- [1]
+			"Bolae-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kinryu", -- [5]
+			"Bolae", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3444, -- [11]
-			"Player-4478-014564B3", -- [12]
+			11411, -- [11]
+			"Player-4478-01668AEF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aKinryu|r",
-			[51] = 1568320012,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Bolae|r",
+			[51] = 1568838722,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [11]
 		{
-			"Can I need for healing speczzz", -- [1]
-			"Kinryu-Razorgore", -- [2]
+			"so are you mad if i need?", -- [1]
+			"Lumigan-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kinryu", -- [5]
+			"Lumigan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3448, -- [11]
-			"Player-4478-014564B3", -- [12]
+			11418, -- [11]
+			"Player-4478-0137CD63", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aKinryu|r",
-			[51] = 1568320017,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffLumigan|r",
+			[51] = 1568838732,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [12]
 		{
-			"I'd get MC attunement sorted real quick", -- [1]
-			"Adi-Razorgore", -- [2]
+			"lol take it", -- [1]
+			"Eldoc-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Eldoc", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3453, -- [11]
-			"Player-4478-01452766", -- [12]
+			11427, -- [11]
+			"Player-4478-016E70A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320021,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cffc69b6dEldoc|r",
+			[51] = 1568838742,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [13]
 		{
-			"or maybe boomkin", -- [1]
-			"Kinryu-Razorgore", -- [2]
+			"its better than the mage who needed it last", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kinryu", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3454, -- [11]
-			"Player-4478-014564B3", -- [12]
+			11433, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aKinryu|r",
-			[51] = 1568320023,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1568838746,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [14]
 		{
-			"any enchanter wants free |cff1eff00|Hitem:16215::::::::60:::1::::|h[Formula: Enchant Boots - Greater Stamina]|h|r", -- [1]
-			"Catloaf-Razorgore", -- [2]
+			"well it's just as good for shadow priest", -- [1]
+			"Lumigan-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Catloaf", -- [5]
+			"Lumigan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3457, -- [11]
-			"Player-4478-014DCA58", -- [12]
+			11450, -- [11]
+			"Player-4478-0137CD63", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1568320029,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffLumigan|r",
+			[51] = 1568838760,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [15]
 		{
-			"for tuesday", -- [1]
-			"Adi-Razorgore", -- [2]
+			"where is the reagent vendor in if", -- [1]
+			"Fmajin-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Fmajin", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3458, -- [11]
-			"Player-4478-01452766", -- [12]
+			11552, -- [11]
+			"Player-4478-015F352B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320029,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cff3fc6eaFmajin|r",
+			[51] = 1568838917,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [16]
 		{
-			"boomkin best spec", -- [1]
-			"Gigawoot-Razorgore", -- [2]
+			"Yes ofc", -- [1]
+			"Fear-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gigawoot", -- [5]
+			"Fear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3461, -- [11]
-			"Player-4478-0141BDB6", -- [12]
+			11553, -- [11]
+			"Player-4478-013C3E37", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Gigawoot|r",
-			[51] = 1568320032,
+			[52] = "|cff8787edFear|r",
+			[51] = 1568838918,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [17]
 		{
-			"sure :D", -- [1]
-			"Mightyjedi-Razorgore", -- [2]
+			"left of bank when you look at it", -- [1]
+			"Gieralt-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mightyjedi", -- [5]
+			"Gieralt", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3466, -- [11]
-			"Player-4478-0172365F", -- [12]
+			11560, -- [11]
+			"Player-4478-01565179", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edMightyjedi|r",
-			[51] = 1568320041,
+			[52] = "|cffc69b6dGieralt|r",
+			[51] = 1568838930,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [18]
 		{
-			"and then start working on the ony chain, gonna take a while", -- [1]
-			"Adi-Razorgore", -- [2]
+			"next to the inn by the auction house", -- [1]
+			"Selaith-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Selaith", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3471, -- [11]
-			"Player-4478-01452766", -- [12]
+			11561, -- [11]
+			"Player-4478-015050A3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320044,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cff8787edSelaith|r",
+			[51] = 1568838933,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [19]
 		{
-			"to the enchant :-)", -- [1]
-			"Mightyjedi-Razorgore", -- [2]
+			"just when you enter mystic ward", -- [1]
+			"Gieralt-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mightyjedi", -- [5]
+			"Gieralt", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3472, -- [11]
-			"Player-4478-0172365F", -- [12]
+			11563, -- [11]
+			"Player-4478-01565179", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edMightyjedi|r",
-			[51] = 1568320054,
+			[52] = "|cffc69b6dGieralt|r",
+			[51] = 1568838935,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [20]
 		{
-			"what is the max gold cap on talent respec? 50g?", -- [1]
-			"Evastina-Razorgore", -- [2]
+			"oh", -- [1]
+			"Gieralt-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Evastina", -- [5]
+			"Gieralt", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3476, -- [11]
-			"Player-4478-0155D03B", -- [12]
+			11572, -- [11]
+			"Player-4478-01565179", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaEvastina|r",
-			[51] = 1568320060,
+			[52] = "|cffc69b6dGieralt|r",
+			[51] = 1568838944,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [21]
 		{
-			"300g", -- [1]
-			"Elufson-Razorgore", -- [2]
+			"didnt know that oen", -- [1]
+			"Gieralt-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Elufson", -- [5]
+			"Gieralt", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3482, -- [11]
-			"Player-4478-015F1C78", -- [12]
+			11576, -- [11]
+			"Player-4478-01565179", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Elufson|r",
-			[51] = 1568320067,
+			[52] = "|cffc69b6dGieralt|r",
+			[51] = 1568838950,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [22]
 		{
-			"y", -- [1]
-			"Chemo-Razorgore", -- [2]
+			"cheer", -- [1]
+			"Fmajin-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chemo", -- [5]
+			"Fmajin", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3483, -- [11]
-			"Player-4478-013C9085", -- [12]
+			11607, -- [11]
+			"Player-4478-015F352B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Chemo|r",
-			[51] = 1568320068,
+			[52] = "|cff3fc6eaFmajin|r",
+			[51] = 1568838981,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [23]
 		{
-			"50", -- [1]
-			"Chemo-Razorgore", -- [2]
+			"do they stun?", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chemo", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3485, -- [11]
-			"Player-4478-013C9085", -- [12]
+			11610, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Chemo|r",
-			[51] = 1568320071,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1568838984,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [24]
 		{
-			"infing", -- [1]
-			"Nonslagter-Razorgore", -- [2]
+			"or maybe it was just gcd", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nonslagter", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3486, -- [11]
-			"Player-4478-01477252", -- [12]
+			11624, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Nonslagter|r",
-			[51] = 1568320073,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1568838998,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [25]
 		{
-			"does it ever decay", -- [1]
-			"Ryujiin-Razorgore", -- [2]
+			"dont think they stun", -- [1]
+			"Eldoc-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ryujiin", -- [5]
+			"Eldoc", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3495, -- [11]
-			"Player-4478-016104AE", -- [12]
+			11632, -- [11]
+			"Player-4478-016E70A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dRyujiin|r",
-			[51] = 1568320087,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dEldoc|r",
+			[51] = 1568839009,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [26]
 		{
-			"or does it stay 50", -- [1]
-			"Ryujiin-Razorgore", -- [2]
+			"or mby im tired", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ryujiin", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3496, -- [11]
-			"Player-4478-016104AE", -- [12]
+			11634, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dRyujiin|r",
-			[51] = 1568320090,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1568839010,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [27]
 		{
-			"it definately stay", -- [1]
-			"Evastina-Razorgore", -- [2]
+			"maybe lol", -- [1]
+			"Eldoc-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Evastina", -- [5]
+			"Eldoc", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3504, -- [11]
-			"Player-4478-0155D03B", -- [12]
+			11643, -- [11]
+			"Player-4478-016E70A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaEvastina|r",
-			[51] = 1568320097,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dEldoc|r",
+			[51] = 1568839018,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [28]
 		{
-			"it decays 5 g every month", -- [1]
-			"Zergt-Razorgore", -- [2]
+			"Bolae?", -- [1]
+			"Eldoc-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Zergt", -- [5]
+			"Eldoc", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3512, -- [11]
-			"Player-4478-0142E472", -- [12]
+			11670, -- [11]
+			"Player-4478-016E70A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edZergt|r",
-			[51] = 1568320112,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dEldoc|r",
+			[51] = 1568839050,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [29]
 		{
-			"really ?", -- [1]
-			"Ryujiin-Razorgore", -- [2]
+			"lets goooo", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ryujiin", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3515, -- [11]
-			"Player-4478-016104AE", -- [12]
+			11676, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dRyujiin|r",
-			[51] = 1568320123,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839059,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [30]
 		{
-			"it decays wut ?", -- [1]
-			"Catloaf-Razorgore", -- [2]
+			"sry", -- [1]
+			"Bolae-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Catloaf", -- [5]
+			"Bolae", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3518, -- [11]
-			"Player-4478-014DCA58", -- [12]
+			11686, -- [11]
+			"Player-4478-01668AEF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1568320126,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Bolae|r",
+			[51] = 1568839073,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [31]
 		{
-			"p sure it does", -- [1]
-			"Zergt-Razorgore", -- [2]
+			"phone", -- [1]
+			"Bolae-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Zergt", -- [5]
+			"Bolae", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3521, -- [11]
-			"Player-4478-0142E472", -- [12]
+			11690, -- [11]
+			"Player-4478-01668AEF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edZergt|r",
-			[51] = 1568320131,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Bolae|r",
+			[51] = 1568839074,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [32]
 		{
-			"so every month it only cost 95g to tank 1 instance for friends", -- [1]
-			"Evastina-Razorgore", -- [2]
+			"some lend me 15g for mount ;)", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Evastina", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3526, -- [11]
-			"Player-4478-0155D03B", -- [12]
+			11799, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaEvastina|r",
-			[51] = 1568320146,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839188,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [33]
 		{
-			":p", -- [1]
-			"Catloaf-Razorgore", -- [2]
+			"dazed :(", -- [1]
+			"Eldoc-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Catloaf", -- [5]
+			"Eldoc", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3533, -- [11]
-			"Player-4478-014DCA58", -- [12]
+			11810, -- [11]
+			"Player-4478-016E70A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1568320152,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dEldoc|r",
+			[51] = 1568839203,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [34]
 		{
-			"so u can do 3 respect per month to keep it at 1g", -- [1]
-			"Catloaf-Razorgore", -- [2]
+			"feels bad", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Catloaf", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3537, -- [11]
-			"Player-4478-014DCA58", -- [12]
+			11812, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1568320160,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839204,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [35]
 		{
-			"tbh you can tank as fury, so no need to respec", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"you good?", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3560, -- [11]
-			"Player-4478-013E0174", -- [12]
+			11825, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1568320194,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1568839222,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [36]
 		{
-			"or you just tank as fury", -- [1]
-			"Nonslagter-Razorgore", -- [2]
+			"should be", -- [1]
+			"Eldoc-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nonslagter", -- [5]
+			"Eldoc", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3563, -- [11]
-			"Player-4478-01477252", -- [12]
+			11829, -- [11]
+			"Player-4478-016E70A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Nonslagter|r",
-			[51] = 1568320199,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dEldoc|r",
+			[51] = 1568839227,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [37]
 		{
-			"cba dungeon quests tonight been awake 30 hours", -- [1]
-			"Adi-Razorgore", -- [2]
+			"going gadge  2secs", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3568, -- [11]
-			"Player-4478-01452766", -- [12]
+			11856, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320213,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839255,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [38]
 		{
-			"ill get them done tomorrow prob", -- [1]
-			"Adi-Razorgore", -- [2]
+			"kill or ?", -- [1]
+			"Eldoc-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Eldoc", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3575, -- [11]
-			"Player-4478-01452766", -- [12]
+			11868, -- [11]
+			"Player-4478-016E70A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320219,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffc69b6dEldoc|r",
+			[51] = 1568839273,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [39]
 		{
-			"fury paladin", -- [1]
-			"Damond-Razorgore", -- [2]
+			"nvm im hexd lol", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Damond", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3576, -- [11]
-			"Player-4478-012A6DE5", -- [12]
+			11874, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1568320219,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839278,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [40]
 		{
-			"new meta", -- [1]
-			"Damond-Razorgore", -- [2]
+			"fcking pats ", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Damond", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3577, -- [11]
-			"Player-4478-012A6DE5", -- [12]
+			11880, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1568320221,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839291,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [41]
 		{
-			"well if youre a pala youre not tanking regardless", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"got hexd twice", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3586, -- [11]
-			"Player-4478-013E0174", -- [12]
+			11884, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1568320237,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839297,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [42]
 		{
-			"until wotlk", -- [1]
-			"Winn-Razorgore", -- [2]
+			"if i hs can you summon me dam?", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Winn", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3591, -- [11]
-			"Player-4478-018F3227", -- [12]
+			11906, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWinn|r",
-			[51] = 1568320251,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839319,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [43]
 		{
-			"in dungeons? sure you can", -- [1]
+			"bags full", -- [1]
+			"Xprz-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Xprz", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			11908, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839322,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [44]
+		{
+			"if no horde", -- [1]
 			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -980,7 +1002,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3593, -- [11]
+			11916, -- [11]
 			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -988,1834 +1010,1812 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff8787edDamond|r",
-			[51] = 1568320254,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [44]
-		{
-			"|cff0070dd|Hitem:11686::::::::58:::::::|h[Girdle of Beastial Fury]|h|r|cff0070dd|Hitem:13252::::::::58:::1::::|h[Cloudrunner Girdle]|h|r", -- [1]
-			"Chemo-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chemo", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3594, -- [11]
-			"Player-4478-013C9085", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Chemo|r",
-			[51] = 1568320255,
-			[50] = "CHAT_MSG_GUILD",
+			[51] = 1568839328,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [45]
 		{
-			"50gold on new spells >.<", -- [1]
-			"Adi-Razorgore", -- [2]
+			"dont be a pussy do it in the middle of them", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3595, -- [11]
-			"Player-4478-01452766", -- [12]
+			11949, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320255,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839341,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [46]
 		{
-			"until tbc actually", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"summon the god ", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3598, -- [11]
-			"Player-4478-013E0174", -- [12]
+			11958, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1568320260,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839347,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [47]
 		{
-			"which one for rogue.. |cff0070dd|Hitem:13252::::::::58:::1::::|h[Cloudrunner Girdle]|h|r right?", -- [1]
-			"Chemo-Razorgore", -- [2]
+			"i need to HS as well to gadz", -- [1]
+			"Eldoc-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chemo", -- [5]
+			"Eldoc", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3602, -- [11]
-			"Player-4478-013C9085", -- [12]
+			11959, -- [11]
+			"Player-4478-016E70A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Chemo|r",
-			[51] = 1568320266,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dEldoc|r",
+			[51] = 1568839347,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [48]
 		{
-			"pala tanks are awesome in hyjal", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"i need to log ", -- [1]
+			"Lumigan-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Lumigan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3604, -- [11]
-			"Player-4478-013E0174", -- [12]
+			11966, -- [11]
+			"Player-4478-0137CD63", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1568320271,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffLumigan|r",
+			[51] = 1568839358,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [49]
 		{
-			"when did they add divine plea", -- [1]
-			"Gigawoot-Razorgore", -- [2]
+			"for sleep", -- [1]
+			"Lumigan-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gigawoot", -- [5]
+			"Lumigan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3605, -- [11]
-			"Player-4478-0141BDB6", -- [12]
+			11968, -- [11]
+			"Player-4478-0137CD63", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Gigawoot|r",
-			[51] = 1568320271,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffLumigan|r",
+			[51] = 1568839360,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [50]
 		{
-			"why would you do that to yourself though", -- [1]
-			"Adi-Razorgore", -- [2]
+			"oh ok", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3606, -- [11]
-			"Player-4478-01452766", -- [12]
+			11971, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320273,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1568839364,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [51]
 		{
-			"oh yeah", -- [1]
-			"Winn-Razorgore", -- [2]
+			"sleep is the worst boss", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Winn", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3608, -- [11]
-			"Player-4478-018F3227", -- [12]
+			11972, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWinn|r",
-			[51] = 1568320274,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839365,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [52]
 		{
-			"mybad", -- [1]
-			"Winn-Razorgore", -- [2]
+			"rip then", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Winn", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3609, -- [11]
-			"Player-4478-018F3227", -- [12]
+			11974, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWinn|r",
-			[51] = 1568320281,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1568839366,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [53]
 		{
-			"30 hours is insane", -- [1]
-			"Adi-Razorgore", -- [2]
+			"dont be silly", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3611, -- [11]
-			"Player-4478-01452766", -- [12]
+			11976, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320281,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839368,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [54]
 		{
-			"idk last week i done 37 and it felt like nothing", -- [1]
-			"Adi-Razorgore", -- [2]
+			"work tomorrow", -- [1]
+			"Lumigan-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Lumigan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3623, -- [11]
-			"Player-4478-01452766", -- [12]
+			11978, -- [11]
+			"Player-4478-0137CD63", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320299,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffffffffLumigan|r",
+			[51] = 1568839371,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [55]
 		{
-			"so i done another 34", -- [1]
-			"Adi-Razorgore", -- [2]
+			"stay and defeat the boss", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3625, -- [11]
-			"Player-4478-01452766", -- [12]
+			11980, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320304,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839374,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [56]
 		{
-			"i'd go cloudrunner yeah", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"lol", -- [1]
+			"Eldoc-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Eldoc", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3630, -- [11]
-			"Player-4478-013E0174", -- [12]
+			11981, -- [11]
+			"Player-4478-016E70A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1568320311,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dEldoc|r",
+			[51] = 1568839375,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [57]
 		{
-			"and today 30", -- [1]
-			"Adi-Razorgore", -- [2]
+			"work is the mini boss", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3632, -- [11]
-			"Player-4478-01452766", -- [12]
+			11983, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320313,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839379,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [58]
 		{
-			"dayum", -- [1]
-			"Adi-Razorgore", -- [2]
+			"drops no loot", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3638, -- [11]
-			"Player-4478-01452766", -- [12]
+			11987, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320322,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839384,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [59]
 		{
-			"less AP more crit", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"no salary => no internet", -- [1]
+			"Lumigan-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Lumigan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3639, -- [11]
-			"Player-4478-013E0174", -- [12]
+			11998, -- [11]
+			"Player-4478-0137CD63", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1568320324,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffLumigan|r",
+			[51] = 1568839401,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [60]
 		{
-			"as long as im occupied im fine", -- [1]
-			"Adi-Razorgore", -- [2]
+			"then no loot", -- [1]
+			"Lumigan-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Lumigan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3640, -- [11]
-			"Player-4478-01452766", -- [12]
+			12001, -- [11]
+			"Player-4478-0137CD63", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320328,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffffffffLumigan|r",
+			[51] = 1568839403,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [61]
 		{
-			"LFM LBRS first two boss farm", -- [1]
-			"Catloaf-Razorgore", -- [2]
+			"but", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Catloaf", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3653, -- [11]
-			"Player-4478-014DCA58", -- [12]
+			12004, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1568320352,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1568839411,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [62]
 		{
-			"if youre not going to bed", -- [1]
-			"Adi-Razorgore", -- [2]
+			"anyone wanna tank Strath UD?", -- [1]
+			"Sevenfold-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Sevenfold", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3663, -- [11]
-			"Player-4478-01452766", -- [12]
+			12011, -- [11]
+			"Player-4478-014424A7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320379,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cfff48cbaSevenfold|r",
+			[51] = 1568839418,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [63]
 		{
-			"first part of ony quest is not dungeons", -- [1]
-			"Adi-Razorgore", -- [2]
+			"you can nolife till they cut your internet", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3668, -- [11]
-			"Player-4478-01452766", -- [12]
+			12017, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320390,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1568839422,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [64]
 		{
-			"ive done that part i think", -- [1]
-			"Adi-Razorgore", -- [2]
+			"yeah you got a month or 2", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3672, -- [11]
-			"Player-4478-01452766", -- [12]
+			12020, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320398,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839429,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [65]
 		{
-			"[58+] A Taste of Flame", -- [1]
-			"Adi-Razorgore", -- [2]
+			"might be worth", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3677, -- [11]
-			"Player-4478-01452766", -- [12]
+			12023, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320415,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1568839430,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [66]
 		{
-			"cant remember", -- [1]
-			"Adi-Razorgore", -- [2]
+			"lol", -- [1]
+			"Lumigan-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Lumigan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3684, -- [11]
-			"Player-4478-01452766", -- [12]
+			12027, -- [11]
+			"Player-4478-0137CD63", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320423,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cffffffffLumigan|r",
+			[51] = 1568839436,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [67]
 		{
-			"im on this part (i think this is part of chain)", -- [1]
-			"Adi-Razorgore", -- [2]
+			"good runs, cya", -- [1]
+			"Lumigan-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Lumigan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3685, -- [11]
-			"Player-4478-01452766", -- [12]
+			12035, -- [11]
+			"Player-4478-0137CD63", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320423,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffffffffLumigan|r",
+			[51] = 1568839450,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [68]
 		{
-			"its brd", -- [1]
-			"Adi-Razorgore", -- [2]
+			"fucking hordes lol", -- [1]
+			"Bolae-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Bolae", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3689, -- [11]
-			"Player-4478-01452766", -- [12]
+			12037, -- [11]
+			"Player-4478-01668AEF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320430,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cfffff468Bolae|r",
+			[51] = 1568839452,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [69]
 		{
-			"brd is def part of the ony chain ye", -- [1]
-			"Adi-Razorgore", -- [2]
+			"later", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3697, -- [11]
-			"Player-4478-01452766", -- [12]
+			12038, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320439,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1568839454,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [70]
 		{
-			"but cant remember specifics", -- [1]
-			"Adi-Razorgore", -- [2]
+			"cheers lumi", -- [1]
+			"Eldoc-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Eldoc", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3700, -- [11]
-			"Player-4478-01452766", -- [12]
+			12039, -- [11]
+			"Player-4478-016E70A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320448,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cffc69b6dEldoc|r",
+			[51] = 1568839456,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [71]
 		{
-			":D", -- [1]
-			"Adi-Razorgore", -- [2]
+			"fuck im 10 g from mount", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3701, -- [11]
-			"Player-4478-01452766", -- [12]
+			12043, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320451,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839457,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [72]
 		{
-			"im sure wowhead has a guide", -- [1]
-			"Adi-Razorgore", -- [2]
+			"should be few ZF runs lol", -- [1]
+			"Eldoc-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Eldoc", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3702, -- [11]
-			"Player-4478-01452766", -- [12]
+			12055, -- [11]
+			"Player-4478-016E70A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320452,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cffc69b6dEldoc|r",
+			[51] = 1568839477,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [73]
 		{
-			"idk if i should go maraudon solo spec or raid spec >.<", -- [1]
-			"Adi-Razorgore", -- [2]
+			"u guys up for next one?", -- [1]
+			"Bolae-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Bolae", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3717, -- [11]
-			"Player-4478-01452766", -- [12]
+			12072, -- [11]
+			"Player-4478-01668AEF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320476,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cfffff468Bolae|r",
+			[51] = 1568839515,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [74]
 		{
-			"LFM 1 tank and 1 healer LBRS first two boss gem farm", -- [1]
-			"Catloaf-Razorgore", -- [2]
+			"easy got 3g from vendor", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Catloaf", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3726, -- [11]
-			"Player-4478-014DCA58", -- [12]
+			12075, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1568320509,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839519,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [75]
 		{
-			"did you check if you can farm devilsaur?", -- [1]
-			"Adi-Razorgore", -- [2]
+			"im gonna log as well", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3729, -- [11]
-			"Player-4478-01452766", -- [12]
+			12076, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320517,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1568839520,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [76]
 		{
-			"i can 100%", -- [1]
-			"Adi-Razorgore", -- [2]
+			"np dude", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3731, -- [11]
-			"Player-4478-01452766", -- [12]
+			12078, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320524,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839526,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [77]
 		{
-			"was almost doing it at like 56", -- [1]
-			"Adi-Razorgore", -- [2]
+			"cheers for the runs", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3735, -- [11]
-			"Player-4478-01452766", -- [12]
+			12086, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320532,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839532,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [78]
 		{
-			"do items have any spell coefficients? i mean if you have a sword that does 100dmg proc. can that be increased somehow?", -- [1]
-			"Evastina-Razorgore", -- [2]
+			"cheers", -- [1]
+			"Eldoc-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Evastina", -- [5]
+			"Eldoc", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3739, -- [11]
-			"Player-4478-0155D03B", -- [12]
+			12090, -- [11]
+			"Player-4478-016E70A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaEvastina|r",
-			[51] = 1568320540,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dEldoc|r",
+			[51] = 1568839537,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [79]
 		{
-			"maybe worth staying raid spec and farm that instead of maraudon?", -- [1]
-			"Adi-Razorgore", -- [2]
+			"thx guys", -- [1]
+			"Bolae-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Bolae", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3743, -- [11]
-			"Player-4478-01452766", -- [12]
+			12091, -- [11]
+			"Player-4478-01668AEF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320549,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cfffff468Bolae|r",
+			[51] = 1568839537,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [80]
 		{
-			"for shadow dmg yea", -- [1]
-			"Catloaf-Razorgore", -- [2]
+			"cya later", -- [1]
+			"Bolae-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Catloaf", -- [5]
+			"Bolae", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3744, -- [11]
-			"Player-4478-014DCA58", -- [12]
+			12093, -- [11]
+			"Player-4478-01668AEF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1568320557,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Bolae|r",
+			[51] = 1568839540,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [81]
 		{
-			"some do yeah", -- [1]
-			"Swagrlicious-Razorgore", -- [2]
+			"likewise", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Swagrlicious", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3745, -- [11]
-			"Player-4478-012A4F21", -- [12]
+			12095, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSwagrlicious|r",
-			[51] = 1568320558,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1568839541,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [82]
 		{
-			"yeah true", -- [1]
-			"Adi-Razorgore", -- [2]
+			"gn", -- [1]
+			"Eldoc-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Eldoc", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3748, -- [11]
-			"Player-4478-01452766", -- [12]
+			12110, -- [11]
+			"Player-4478-016E70A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320562,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffc69b6dEldoc|r",
+			[51] = 1568839556,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [83]
 		{
-			"shadow weave incrase sword dps but doesnt consume it", -- [1]
-			"Catloaf-Razorgore", -- [2]
+			"lol tf", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Catloaf", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3750, -- [11]
-			"Player-4478-014DCA58", -- [12]
+			12117, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1568320566,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839562,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [84]
 		{
-			"i owe giga a devilsaur set for giving me legs recipie", -- [1]
-			"Adi-Razorgore", -- [2]
+			"wtf", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3765, -- [11]
-			"Player-4478-01452766", -- [12]
+			12119, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320579,
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839564,
 			[50] = "CHAT_MSG_WHISPER",
 		}, -- [85]
 		{
-			"lost chat log, who signed for 12-slot bags?", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"lmao", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3776, -- [11]
-			"Player-4478-013E0174", -- [12]
+			12125, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1568320591,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839566,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [86]
 		{
-			"+", -- [1]
-			"Ryujiin-Razorgore", -- [2]
+			"mail me back the gold for mount ye?", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ryujiin", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3782, -- [11]
-			"Player-4478-016104AE", -- [12]
+			12126, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dRyujiin|r",
-			[51] = 1568320596,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839572,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [87]
 		{
-			"already in debt", -- [1]
-			"Adi-Razorgore", -- [2]
+			"what gold?", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3783, -- [11]
-			"Player-4478-01452766", -- [12]
+			12133, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320597,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839578,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [88]
 		{
-			"+", -- [1]
-			"Nonslagter-Razorgore", -- [2]
+			"the gold im gonna give you", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nonslagter", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3786, -- [11]
-			"Player-4478-01477252", -- [12]
+			12137, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Nonslagter|r",
-			[51] = 1568320600,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839584,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [89]
 		{
-			"not really just i'd feel like scumbag if i dont repay him giving it to me randomly :P", -- [1]
-			"Adi-Razorgore", -- [2]
+			"or was before I got fucked", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3801, -- [11]
-			"Player-4478-01452766", -- [12]
+			12142, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320620,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839589,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [90]
 		{
-			"ive got no idea what the recipe is worth", -- [1]
-			"Adi-Razorgore", -- [2]
+			"ah ha", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3813, -- [11]
-			"Player-4478-01452766", -- [12]
+			12149, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320660,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839594,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [91]
 		{
-			"same but its big bucks in AH atm", -- [1]
-			"Adi-Razorgore", -- [2]
+			"this guys trying to kill me", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3819, -- [11]
-			"Player-4478-01452766", -- [12]
+			12152, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320678,
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839598,
 			[50] = "CHAT_MSG_WHISPER",
 		}, -- [92]
 		{
-			"LF3M SM Lib -> Arm -> Cath: Tank, Healer + 1 DPS", -- [1]
-			"Melo-Razorgore", -- [2]
+			"yeah sure", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Melo", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3824, -- [11]
-			"Player-4478-012AB4AF", -- [12]
+			12157, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaMelo|r",
-			[51] = 1568320684,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839606,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [93]
 		{
-			"then its worth big bucks I guess", -- [1]
-			"Adi-Razorgore", -- [2]
+			"add me", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Adi", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3840, -- [11]
-			"Player-4478-01452766", -- [12]
+			12158, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adi|r",
-			[51] = 1568320709,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839607,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [94]
 		{
-			"dps for BRD General + golemlord", -- [1]
-			"Diavoluss-Razorgore", -- [2]
+			"lmao", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Diavoluss", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4033, -- [11]
-			"Player-4478-013896DA", -- [12]
+			12159, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Diavoluss|r",
-			[51] = 1568321237,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839614,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [95]
 		{
-			"is fishing worth or strickly for cucks?", -- [1]
-			"Chemo-Razorgore", -- [2]
+			"didnt get it lolll", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chemo", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4034, -- [11]
-			"Player-4478-013C9085", -- [12]
+			12162, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Chemo|r",
-			[51] = 1568321244,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839616,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [96]
 		{
-			"fuck of you non-fishing scum", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"cant trade you", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4045, -- [11]
-			"Player-4478-013E0174", -- [12]
+			12163, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1568321268,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839617,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [97]
 		{
-			"LF 1 Healer LBRS gem farm first two boss", -- [1]
-			"Catloaf-Razorgore", -- [2]
+			"what the fuck is the point of gurds", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Catloaf", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4051, -- [11]
-			"Player-4478-014DCA58", -- [12]
+			12170, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1568321280,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839624,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [98]
 		{
-			"lol", -- [1]
-			"Chemo-Razorgore", -- [2]
+			"if they cant kill anything", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chemo", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4052, -- [11]
-			"Player-4478-013C9085", -- [12]
+			12175, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Chemo|r",
-			[51] = 1568321281,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839628,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [99]
 		{
-			"pay me 20g per stack of grilled squid like a good cuck", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"a mount is 100g right", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4055, -- [11]
-			"Player-4478-013E0174", -- [12]
+			12181, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1568321284,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839637,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [100]
 		{
-			"isnt the best agi food from a fish", -- [1]
-			"Gigawoot-Razorgore", -- [2]
+			"not if youre honored", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gigawoot", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4060, -- [11]
-			"Player-4478-0141BDB6", -- [12]
+			12188, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Gigawoot|r",
-			[51] = 1568321288,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839650,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [101]
 		{
-			"jeez its hard to get an SM group, any tips?", -- [1]
-			"Impulse-Razorgore", -- [2]
+			"and even less if exalted", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Impulse", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4069, -- [11]
-			"Player-4478-013FE403", -- [12]
+			12198, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaImpulse|r",
-			[51] = 1568321317,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839659,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [102]
 		{
-			"|cffffffff|Hitem:13928::::::::59:::::::|h[Grilled Squid]|h|r", -- [1]
-			"Gigawoot-Razorgore", -- [2]
+			"ah cool", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gigawoot", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4071, -- [11]
-			"Player-4478-0141BDB6", -- [12]
+			12203, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Gigawoot|r",
-			[51] = 1568321318,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839665,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [103]
 		{
-			"yummy", -- [1]
-			"Gigawoot-Razorgore", -- [2]
+			"so you dont even need more gold maybe?", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gigawoot", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4072, -- [11]
-			"Player-4478-0141BDB6", -- [12]
+			12209, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Gigawoot|r",
-			[51] = 1568321323,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839674,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [104]
 		{
-			"get good", -- [1]
-			"Justawoman-Razorgore", -- [2]
+			"thought it was 100g for training", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Justawoman", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4076, -- [11]
-			"Player-4478-01398E59", -- [12]
+			12210, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dJustawoman|r",
-			[51] = 1568321325,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839674,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [105]
 		{
-			"best on here m8", -- [1]
-			"Impulse-Razorgore", -- [2]
+			"and 10g for mount", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Impulse", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4079, -- [11]
-			"Player-4478-013FE403", -- [12]
+			12213, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaImpulse|r",
-			[51] = 1568321331,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839676,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [106]
 		{
-			":)", -- [1]
-			"Impulse-Razorgore", -- [2]
+			"nah 100 total pretty sure", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Impulse", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4082, -- [11]
-			"Player-4478-013FE403", -- [12]
+			12217, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaImpulse|r",
-			[51] = 1568321336,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839685,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [107]
 		{
-			":)))", -- [1]
-			"Justawoman-Razorgore", -- [2]
+			"duno", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Justawoman", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4087, -- [11]
-			"Player-4478-01398E59", -- [12]
+			12219, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dJustawoman|r",
-			[51] = 1568321344,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839686,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [108]
 		{
-			"gn guys", -- [1]
-			"Rocci-Razorgore", -- [2]
+			"spnt all my g on lw lol", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rocci", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4140, -- [11]
-			"Player-4478-013E0174", -- [12]
+			12226, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRocci|r",
-			[51] = 1568321478,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839701,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [109]
 		{
-			"casual", -- [1]
-			"Stormwall-Razorgore", -- [2]
+			"did you die gain lol", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Stormwall", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4143, -- [11]
-			"Player-4478-013E0D2A", -- [12]
+			12245, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dStormwall|r",
-			[51] = 1568321483,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839728,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [110]
 		{
-			"gn", -- [1]
-			"Fxih-Razorgore", -- [2]
+			"ill come to the corner", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Fxih", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4144, -- [11]
-			"Player-4478-012A915D", -- [12]
+			12257, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Fxih|r",
-			[51] = 1568321484,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839736,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [111]
 		{
-			"lol", -- [1]
-			"Fxih-Razorgore", -- [2]
+			"was hiding behind the buillding for you", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Fxih", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4145, -- [11]
-			"Player-4478-012A915D", -- [12]
+			12261, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Fxih|r",
-			[51] = 1568321486,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839739,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [112]
 		{
-			"xD", -- [1]
-			"Winn-Razorgore", -- [2]
+			"they must hate gnomes", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Winn", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4147, -- [11]
-			"Player-4478-018F3227", -- [12]
+			12270, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWinn|r",
-			[51] = 1568321489,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839751,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [113]
 		{
-			"wich one should i choose |cff1eff00|Hitem:15109::::::::27:::11:1:3524:::|h[Staff of Soran'ruk]|h|r or |cff1eff00|Hitem:6898::::::::27:::11:1:3524:::|h[Orb of Soran'ruk]|h|r ", -- [1]
-			"Mightyjedi-Razorgore", -- [2]
+			"indeed", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mightyjedi", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4148, -- [11]
-			"Player-4478-0172365F", -- [12]
+			12274, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edMightyjedi|r",
-			[51] = 1568321489,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839761,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [114]
 		{
-			"just need to return quest to winterspring and i'm done with onyxia attunement", -- [1]
-			"Fxih-Razorgore", -- [2]
+			"can you res by me", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Fxih", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4155, -- [11]
-			"Player-4478-012A915D", -- [12]
+			12277, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Fxih|r",
-			[51] = 1568321502,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839765,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [115]
 		{
-			"skinning weapon didn't drop from beast", -- [1]
-			"Fxih-Razorgore", -- [2]
+			"or inside?", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Fxih", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4169, -- [11]
-			"Player-4478-012A915D", -- [12]
+			12278, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Fxih|r",
-			[51] = 1568321522,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839768,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [116]
 		{
-			"run again", -- [1]
-			"Nonslagter-Razorgore", -- [2]
+			"y", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nonslagter", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4174, -- [11]
-			"Player-4478-01477252", -- [12]
+			12280, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Nonslagter|r",
-			[51] = 1568321530,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839768,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [117]
 		{
-			"=)", -- [1]
-			"Fxih-Razorgore", -- [2]
+			"pressy", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Fxih", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4176, -- [11]
-			"Player-4478-012A915D", -- [12]
+			12296, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Fxih|r",
-			[51] = 1568321533,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839784,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [118]
 		{
-			";)", -- [1]
-			"Nonslagter-Razorgore", -- [2]
+			"thanks man", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nonslagter", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4181, -- [11]
-			"Player-4478-01477252", -- [12]
+			12301, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Nonslagter|r",
-			[51] = 1568321544,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839788,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [119]
 		{
-			"what level to start running Maraudon? 46?", -- [1]
-			"Potema-Razorgore", -- [2]
+			"ill send it back tomorrow", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Potema", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4205, -- [11]
-			"Player-4478-014632A0", -- [12]
+			12306, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edPotema|r",
-			[51] = 1568321612,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839791,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [120]
 		{
-			"yea", -- [1]
-			"Catloaf-Razorgore", -- [2]
+			"thats enough to be sure right?", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Catloaf", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4209, -- [11]
-			"Player-4478-014DCA58", -- [12]
+			12307, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1568321617,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839793,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [121]
 		{
-			"nice", -- [1]
-			"Potema-Razorgore", -- [2]
+			"100g babyyy", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Potema", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4210, -- [11]
-			"Player-4478-014632A0", -- [12]
+			12311, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edPotema|r",
-			[51] = 1568321622,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839798,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [122]
 		{
-			"it's 46-55lvl", -- [1]
-			"Fxih-Razorgore", -- [2]
+			"ye no worries, just mail it whenever", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Fxih", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4214, -- [11]
-			"Player-4478-012A915D", -- [12]
+			12320, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Fxih|r",
-			[51] = 1568321631,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839815,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [123]
 		{
-			"can someone please invite me in party ?", -- [1]
-			"Kibadachi-Razorgore", -- [2]
+			"now for the 34hr journey to goldshire", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Kibadachi", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4224, -- [11]
-			"Player-4478-016ADE6E", -- [12]
+			12322, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffKibadachi|r",
-			[51] = 1568321659,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839822,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [124]
 		{
-			"how many runs of molten core does it take to get honored?", -- [1]
-			"Fxih-Razorgore", -- [2]
+			"aight, logging", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Fxih", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4300, -- [11]
-			"Player-4478-012A915D", -- [12]
+			12335, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Fxih|r",
-			[51] = 1568321803,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839856,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [125]
 		{
-			"1 maybe", -- [1]
-			"Sobrania-Razorgore", -- [2]
+			"ill cya", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sobrania", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4320, -- [11]
-			"Player-4478-01935679", -- [12]
+			12336, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Sobrania|r",
-			[51] = 1568321829,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839857,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [126]
 		{
-			"lol", -- [1]
-			"Swagrlicious-Razorgore", -- [2]
+			"laters", -- [1]
+			"Xprz-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Swagrlicious", -- [5]
+			"Xprz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4327, -- [11]
-			"Player-4478-012A4F21", -- [12]
+			12340, -- [11]
+			"Player-4478-01AC4D3D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSwagrlicious|r",
-			[51] = 1568321841,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Xprz|r",
+			[51] = 1568839874,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [127]
 	},
 }

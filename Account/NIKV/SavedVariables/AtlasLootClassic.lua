@@ -1,7 +1,7 @@
 
 AtlasLootClassicDB = {
 	["global"] = {
-		["__addonrevision"] = 1010009,
+		["__addonrevision"] = 1010011,
 	},
 	["profileKeys"] = {
 		["Damond - Lashlayer"] = "Damond - Lashlayer",
@@ -31,7 +31,7 @@ AtlasLootClassicDB = {
 		},
 		["Damond - Razorgore"] = {
 			["minimap"] = {
-				["minimapPos"] = 167.005352094079,
+				["minimapPos"] = 162.897263936815,
 				["hide"] = false,
 			},
 			["GUI"] = {
@@ -44,8 +44,8 @@ AtlasLootClassicDB = {
 				},
 				["selected"] = {
 					nil, -- [1]
-					"ScarletMonasteryCathedral", -- [2]
-					2, -- [3]
+					"Zul'Farrak", -- [2]
+					nil, -- [3]
 					1, -- [4]
 					0, -- [5]
 				},
