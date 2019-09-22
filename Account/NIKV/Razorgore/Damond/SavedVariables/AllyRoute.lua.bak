@@ -1,9 +1,9 @@
 
 allyRoute_Conf = {
-	["currPage"] = 13,
+	["size"] = 1.4,
 	["lock"] = false,
 	["currChapter"] = 23,
-	["currChapterMaxPage"] = 25,
 	["hidden"] = true,
-	["size"] = 1.4,
+	["currChapterMaxPage"] = 25,
+	["currPage"] = 13,
 }

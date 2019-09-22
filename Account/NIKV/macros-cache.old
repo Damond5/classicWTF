@@ -2,8 +2,20 @@ VER 3 0000000000000001 "attack" "INV_MISC_QUESTIONMARK"
 /cast !shoot
 END
 VER 3 0000000000000002 "LFG" "INV_MISC_QUESTIONMARK"
-/1 LFG ZF (farm or full run) - 46 lock
-/4 LFG ZF (farm or full run) - 46 lock
-/5 LFG ZF (farm or full run) - 46 lock
-/7 LFG ZF (farm or full run) - 46 lock
+/1 LFG ZF (farm or full run) - 48 lock
+/4 LFG ZF (farm or full run) - 48 lock
+/5 LFG ZF (farm or full run) - 48 lock
+/7 LFG ZF (farm or full run) - 48 lock
+END
+VER 3 0000000000000003 "LFM" "INV_MISC_QUESTIONMARK"
+/1 LF1M mage ZF GY spellcleave farm
+/4 LF1M mage ZF GY spellcleave farm
+/5 LF1M mage ZF GY spellcleave farm
+/7 LF1M mage ZF GY spellcleave farm
+END
+VER 3 0000000000000004 "torch" "132093"
+/1 LFG BRD torch runs - 48 lock                                             
+/4 LFG BRD torch runs - 48 lock
+/5 LFG BRD torch runs - 48 lock
+/7 LFG BRD torch runs - 48 lock
 END

@@ -7,13 +7,13 @@ AtlasDB = {
 		["Default"] = {
 			["dropdowns"] = {
 				["Instances Under Level 45"] = 12,
+				["Instances Level 45-60"] = 9,
 			},
 			["options"] = {
 				["autoSelect"] = true,
 				["dropdowns"] = {
-					["module"] = 3,
 					["menuType"] = 3,
-					["zone"] = 12,
+					["zone"] = 9,
 				},
 			},
 			["minimap"] = {

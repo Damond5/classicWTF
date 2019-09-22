@@ -8,7 +8,7 @@ BigWigs: enabled
 Questie: enabled
 ClickLinks: disabled
 NeatPlates: disabled
-OPie: disabled
+OPie: enabled
 eCastingBar: disabled
 NugRunning: disabled
 NugRunningOptions: disabled
@@ -21,12 +21,13 @@ OmniCC: disabled
 OmniCC_Config: disabled
 AAP-Classic: disabled
 Skada: disabled
-AtlasQuest: disabled
-Atlas: disabled
-Atlas_ClassicWoW: disabled
+AtlasQuest: enabled
+Atlas: enabled
+Atlas_ClassicWoW: enabled
 Leatrix_Plus: enabled
 PixelPerfectAlign: disabled
 AuctionFaster: enabled
 VendorPrice: disabled
 ExtendedCharacterStats: disabled
-AllyRoute: enabled
+AllyRoute: disabled
+OPie_Classic: disabled
