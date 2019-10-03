@@ -1,14 +1,17 @@
 
 AtlasLootClassicDB = {
+	["global"] = {
+		["__addonrevision"] = 1020002,
+	},
 	["profileKeys"] = {
 		["Damond - Lashlayer"] = "Damond - Lashlayer",
 		["Damond - Razorgore"] = "Damond - Razorgore",
 	},
-	["global"] = {
-		["__addonrevision"] = 1010012,
-	},
 	["profiles"] = {
 		["Damond - Lashlayer"] = {
+			["minimap"] = {
+				["minimapPos"] = 306.472924630715,
+			},
 			["GUI"] = {
 				["point"] = {
 					nil, -- [1]
@@ -25,13 +28,10 @@ AtlasLootClassicDB = {
 					0, -- [5]
 				},
 			},
-			["minimap"] = {
-				["minimapPos"] = 306.472924630715,
-			},
 		},
 		["Damond - Razorgore"] = {
 			["minimap"] = {
-				["minimapPos"] = 162.897263936815,
+				["minimapPos"] = 166.879538931952,
 				["hide"] = false,
 			},
 			["GUI"] = {
@@ -44,9 +44,9 @@ AtlasLootClassicDB = {
 				},
 				["selected"] = {
 					nil, -- [1]
-					"Maraudon", -- [2]
-					8, -- [3]
-					1, -- [4]
+					"MoltenCore", -- [2]
+					nil, -- [3]
+					3, -- [4]
 					0, -- [5]
 				},
 			},

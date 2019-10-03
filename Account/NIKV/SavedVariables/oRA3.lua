@@ -7,13 +7,19 @@ oRA3DB = {
 		},
 		["Invite"] = {
 		},
-		["Tanks"] = {
+		["Alerts"] = {
 		},
 		["ReadyCheck"] = {
+			["profiles"] = {
+				["Default"] = {
+					["readyByGroup"] = false,
+					["showWindow"] = false,
+				},
+			},
 		},
 		["Promote"] = {
 		},
-		["Alerts"] = {
+		["Tanks"] = {
 		},
 	},
 	["profileKeys"] = {
@@ -21,6 +27,12 @@ oRA3DB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["lastSelectedList"] = 1,
+			["positions"] = {
+				["oRA3ReadyCheck"] = {
+				},
+			},
+			["lastSelectedPanel"] = "Checks",
 		},
 	},
 }

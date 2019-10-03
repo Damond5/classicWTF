@@ -6,18 +6,18 @@ Emoticons_Settings = {
 	["CHAT_MSG_GUILD"] = true,
 	["CHAT_MSG_RAID_WARNING"] = true,
 	["CHAT_MSG_CHANNEL"] = true,
-	["CHAT_MSG_SAY"] = true,
+	["MinimapPos"] = 46.4564741376301,
 	["CHAT_MSG_WHISPER"] = true,
 	["CHAT_MSG_PARTY_GUIDE"] = true,
 	["CHAT_MSG_PARTY"] = true,
-	["CHAT_MSG_WHISPER_INFORM"] = true,
+	["CHAT_MSG_RAID_LEADER"] = true,
 	["CHAT_MSG_INSTANCE_CHAT_LEADER"] = true,
 	["CHAT_MSG_RAID"] = true,
 	["CHAT_MSG_OFFICER"] = true,
-	["CHAT_MSG_YELL"] = true,
-	["TWITCHBUTTON"] = true,
 	["MINIMAPBUTTON"] = false,
-	["CHAT_MSG_BN_WHISPER"] = true,
+	["TWITCHBUTTON"] = true,
+	["CHAT_MSG_YELL"] = true,
+	["sliderY"] = 0,
 	["FAVEMOTES"] = {
 		true, -- [1]
 		true, -- [2]
@@ -56,11 +56,11 @@ Emoticons_Settings = {
 		true, -- [35]
 		true, -- [36]
 	},
-	["CHAT_MSG_BN_CONVERSATION"] = true,
 	["MAIL"] = true,
-	["sliderY"] = 0,
+	["CHAT_MSG_BN_CONVERSATION"] = true,
+	["CHAT_MSG_BN_WHISPER"] = true,
 	["CHAT_MSG_BN_WHISPER_INFORM"] = true,
-	["CHAT_MSG_RAID_LEADER"] = true,
-	["MinimapPos"] = 46.4564741376301,
+	["CHAT_MSG_WHISPER_INFORM"] = true,
+	["CHAT_MSG_SAY"] = true,
 }
 Emoticons_Eyecandy = false

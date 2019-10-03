@@ -1,6 +1,6 @@
 
 AtlasQuest_Options = {
-	["Version"] = "4.11.53",
+	["Version"] = "4.11.54",
 	["Damond"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,

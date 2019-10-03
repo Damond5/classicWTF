@@ -27,7 +27,20 @@ WIM3_Data = {
 				["autofocus"] = true,
 				["onReceive"] = true,
 			},
-			["alwaysOther"] = false,
+			["pvp"] = {
+				["keepfocus"] = false,
+				["supress"] = true,
+				["onSend"] = true,
+				["autofocus"] = false,
+				["onReceive"] = true,
+			},
+			["party"] = {
+				["keepfocus"] = false,
+				["supress"] = true,
+				["onSend"] = true,
+				["autofocus"] = false,
+				["onReceive"] = true,
+			},
 			["raid"] = {
 				["keepfocus"] = false,
 				["supress"] = true,
@@ -42,20 +55,7 @@ WIM3_Data = {
 				["autofocus"] = false,
 				["onReceive"] = false,
 			},
-			["party"] = {
-				["keepfocus"] = false,
-				["supress"] = true,
-				["onSend"] = true,
-				["autofocus"] = false,
-				["onReceive"] = true,
-			},
-			["pvp"] = {
-				["keepfocus"] = false,
-				["supress"] = true,
-				["onSend"] = true,
-				["autofocus"] = false,
-				["onReceive"] = true,
-			},
+			["alwaysOther"] = false,
 		},
 		["chat"] = {
 			["other"] = {
@@ -88,7 +88,20 @@ WIM3_Data = {
 				["autofocus"] = false,
 				["onReceive"] = false,
 			},
-			["alwaysOther"] = true,
+			["pvp"] = {
+				["keepfocus"] = false,
+				["supress"] = false,
+				["onSend"] = false,
+				["autofocus"] = false,
+				["onReceive"] = false,
+			},
+			["party"] = {
+				["keepfocus"] = false,
+				["supress"] = false,
+				["onSend"] = false,
+				["autofocus"] = false,
+				["onReceive"] = false,
+			},
 			["raid"] = {
 				["keepfocus"] = false,
 				["supress"] = false,
@@ -103,20 +116,7 @@ WIM3_Data = {
 				["autofocus"] = false,
 				["onReceive"] = false,
 			},
-			["party"] = {
-				["keepfocus"] = false,
-				["supress"] = false,
-				["onSend"] = false,
-				["autofocus"] = false,
-				["onReceive"] = false,
-			},
-			["pvp"] = {
-				["keepfocus"] = false,
-				["supress"] = false,
-				["onSend"] = false,
-				["autofocus"] = false,
-				["onReceive"] = false,
-			},
+			["alwaysOther"] = true,
 		},
 	},
 	["timeStampFormat"] = "%H:%M",
@@ -145,9 +145,9 @@ WIM3_Data = {
 			["custom_sml"] = "Chat Blip",
 			["say_sml"] = "Chat Blip",
 			["raid_sml"] = "Chat Blip",
+			["guild_sml"] = "Chat Blip",
 			["raidleader_sml"] = "Chat Blip",
 			["officer_sml"] = "Chat Blip",
-			["guild_sml"] = "Chat Blip",
 			["battlegroundleader_sml"] = "Chat Blip",
 			["battleground_sml"] = "Chat Blip",
 		},
@@ -171,51 +171,51 @@ WIM3_Data = {
 	["lastState"] = "other",
 	["displayColors"] = {
 		["wispOut"] = {
-			["b"] = 0.988235294117647,
-			["g"] = 0.0784313725490196,
 			["r"] = 1,
+			["g"] = 0.0784313725490196,
+			["b"] = 0.988235294117647,
 		},
 		["wispIn"] = {
-			["b"] = 0.76078431372549,
-			["g"] = 0.0313725490196078,
 			["r"] = 0.56078431372549,
+			["g"] = 0.0313725490196078,
+			["b"] = 0.76078431372549,
 		},
 		["sysMsg"] = {
-			["b"] = 0,
-			["g"] = 0.662745098039216,
 			["r"] = 1,
+			["g"] = 0.662745098039216,
+			["b"] = 0,
 		},
 		["BNwispOut"] = {
-			["b"] = 1,
-			["g"] = 0.635294117647059,
 			["r"] = 0.172549019607843,
+			["g"] = 0.635294117647059,
+			["b"] = 1,
 		},
 		["historyIn"] = {
-			["b"] = 0.470588235294118,
-			["g"] = 0.470588235294118,
 			["r"] = 0.470588235294118,
+			["g"] = 0.470588235294118,
+			["b"] = 0.470588235294118,
 		},
 		["errorMsg"] = {
-			["b"] = 0,
+			["r"] = 1,
 			["g"] = 0,
-			["r"] = 1,
-		},
-		["webAddress"] = {
-			["b"] = 1,
-			["g"] = 1,
-			["r"] = 1,
-		},
-		["BNwispIn"] = {
-			["b"] = 0.654901960784314,
-			["g"] = 0.486274509803922,
-			["r"] = 0,
-		},
-		["historyOut"] = {
-			["b"] = 0.705882352941177,
-			["g"] = 0.705882352941177,
-			["r"] = 0.705882352941177,
+			["b"] = 0,
 		},
 		["useSkin"] = true,
+		["BNwispIn"] = {
+			["r"] = 0,
+			["g"] = 0.486274509803922,
+			["b"] = 0.654901960784314,
+		},
+		["historyOut"] = {
+			["r"] = 0.705882352941177,
+			["g"] = 0.705882352941177,
+			["b"] = 0.705882352941177,
+		},
+		["webAddress"] = {
+			["r"] = 1,
+			["g"] = 1,
+			["b"] = 1,
+		},
 	},
 	["fontSize"] = 12,
 	["showToolTips"] = true,
@@ -225,24 +225,29 @@ WIM3_Data = {
 			["x"] = -151.466576127918,
 			["point"] = "TOPRIGHT",
 		},
-		["free"] = true,
-		["rightClickNew"] = true,
 		["position"] = 198.434950375108,
+		["rightClickNew"] = true,
+		["free"] = true,
 	},
 	["winAnimation"] = true,
 	["expose"] = {
 		["protect"] = 1,
 		["borderSize"] = 20,
 		["combat"] = true,
-		["groupOnly"] = false,
-		["border"] = false,
 		["direction"] = 1,
+		["border"] = false,
+		["groupOnly"] = false,
 	},
 	["alias"] = {
 		["title_string"] = "{n} - {a}",
 	},
-	["menuSortActivity"] = true,
-	["whoLookups"] = true,
+	["winSize"] = {
+		["height"] = 220,
+		["strata"] = "DIALOG",
+		["scale"] = 100,
+		["width"] = 333,
+	},
+	["windowOnTop"] = true,
 	["modules"] = {
 		["ChatSounds"] = {
 			["enabled"] = true,
@@ -283,17 +288,73 @@ WIM3_Data = {
 		["URLHandler"] = {
 			["enabled"] = true,
 		},
-		["Tabs"] = {
-			["enabled"] = true,
-		},
-		["ClickControl"] = {
+		["Filters"] = {
 			["enabled"] = true,
 		},
 		["Menu"] = {
 			["enabled"] = true,
 		},
-		["Filters"] = {
+		["ClickControl"] = {
 			["enabled"] = true,
+		},
+		["Tabs"] = {
+			["enabled"] = true,
+		},
+	},
+	["ignoreArrowKeys"] = true,
+	["coloredNames"] = true,
+	["winLoc"] = {
+		["left"] = 217,
+		["top"] = 664,
+	},
+	["clampToScreen"] = true,
+	["stats"] = {
+		["startDate"] = "",
+		["versions"] = 1,
+		["whispers"] = 0,
+		["mostConvos"] = 0,
+	},
+	["winFade"] = true,
+	["skin"] = {
+		["font_outline"] = "",
+		["selected"] = "WIM Classic",
+		["font"] = "ChatFontNormal",
+		["suggest"] = true,
+	},
+	["ClickControl"] = {
+		["clickSensitivity"] = 0.2,
+	},
+	["tabs"] = {
+		["sortBy"] = 2,
+		["whispers"] = {
+			["enabled"] = false,
+			["guild"] = false,
+			["friends"] = false,
+		},
+		["chat"] = {
+			["enabled"] = false,
+			["aswhisper"] = false,
+		},
+	},
+	["history"] = {
+		["ageLimit"] = true,
+		["maxPer"] = true,
+		["previewCount"] = 25,
+		["whispers"] = {
+			["friends"] = true,
+			["all"] = false,
+			["guild"] = true,
+		},
+		["maxAge"] = 1209600,
+		["preview"] = true,
+		["maxCount"] = 500,
+		["chat"] = {
+			["ageLimit"] = true,
+			["maxAge"] = 1209600,
+			["maxPer"] = true,
+			["preview"] = true,
+			["maxCount"] = 500,
+			["previewCount"] = 25,
 		},
 	},
 	["chat"] = {
@@ -313,7 +374,10 @@ WIM3_Data = {
 		},
 		["say"] = {
 		},
-		["battleground"] = {
+		["world"] = {
+			["enabled"] = false,
+			["channelSettings"] = {
+			},
 		},
 		["raid"] = {
 			["showAlerts"] = true,
@@ -321,76 +385,12 @@ WIM3_Data = {
 		["officer"] = {
 			["showAlerts"] = true,
 		},
-		["world"] = {
-			["enabled"] = false,
-			["channelSettings"] = {
-			},
+		["battleground"] = {
 		},
 	},
-	["ClickControl"] = {
-		["clickSensitivity"] = 0.2,
-	},
-	["tabs"] = {
-		["sortBy"] = 2,
-		["whispers"] = {
-			["enabled"] = false,
-			["guild"] = false,
-			["friends"] = false,
-		},
-		["chat"] = {
-			["enabled"] = false,
-			["aswhisper"] = false,
-		},
-	},
-	["history"] = {
-		["ageLimit"] = true,
-		["previewCount"] = 25,
-		["maxPer"] = true,
-		["whispers"] = {
-			["friends"] = true,
-			["all"] = false,
-			["guild"] = true,
-		},
-		["maxAge"] = 1209600,
-		["preview"] = true,
-		["maxCount"] = 500,
-		["chat"] = {
-			["ageLimit"] = true,
-			["maxAge"] = 1209600,
-			["previewCount"] = 25,
-			["preview"] = true,
-			["maxCount"] = 500,
-			["maxPer"] = true,
-		},
-	},
-	["skin"] = {
-		["font_outline"] = "",
-		["selected"] = "WIM Classic",
-		["font"] = "ChatFontNormal",
-		["suggest"] = true,
-	},
-	["winFade"] = true,
-	["stats"] = {
-		["startDate"] = "",
-		["versions"] = 1,
-		["whispers"] = 0,
-		["mostConvos"] = 0,
-	},
-	["clampToScreen"] = true,
-	["winLoc"] = {
-		["left"] = 217,
-		["top"] = 664,
-	},
-	["coloredNames"] = true,
-	["ignoreArrowKeys"] = true,
 	["tabAdvance"] = false,
-	["windowOnTop"] = true,
-	["winSize"] = {
-		["height"] = 220,
-		["strata"] = "DIALOG",
-		["scale"] = 100,
-		["width"] = 333,
-	},
+	["whoLookups"] = true,
+	["menuSortActivity"] = true,
 }
 WIM3_Cache = {
 	["Razorgore"] = {
@@ -400,240 +400,236 @@ WIM3_Cache = {
 				["|Km1|k"] = 2,
 				["|Km17|k"] = 2,
 				["|Km19|k"] = 2,
+				["Rdest"] = 1,
 				["|Km15|k"] = 2,
 				["|Km9|k"] = 2,
-				["|Km16|k"] = 2,
-				["|Km10|k"] = 2,
-				["|Km5|k"] = 2,
-				["|Km2|k"] = 2,
-				["|Km23|k"] = 2,
-				["|Km25|k"] = 2,
-				["|Km3|k"] = 2,
-				["|Km22|k"] = 2,
-				["Heals"] = 1,
-				["|Km7|k"] = 2,
-				["|Km24|k"] = 2,
-				["|Km18|k"] = 2,
-				["|Km14|k"] = 2,
-				["|Km4|k"] = 2,
-				["|Km21|k"] = 2,
-				["|Km6|k"] = 2,
-				["|Km20|k"] = 2,
-				["Prutten"] = 1,
-				["Chimichanga"] = 1,
-				["|Km13|k"] = 2,
-				["|Km12|k"] = 2,
 				["|Km8|k"] = 2,
-				["Rdest"] = 1,
+				["|Km26|k"] = 2,
+				["Chimichanga"] = 1,
+				["|Km12|k"] = 2,
+				["|Km23|k"] = 2,
+				["|Km13|k"] = 2,
+				["|Km3|k"] = 2,
+				["|Km25|k"] = 2,
+				["Heals"] = 1,
+				["Prutten"] = 1,
+				["|Km24|k"] = 2,
+				["|Km21|k"] = 2,
+				["|Km7|k"] = 2,
+				["|Km6|k"] = 2,
+				["|Km18|k"] = 2,
+				["|Km4|k"] = 2,
+				["|Km20|k"] = 2,
+				["|Km14|k"] = 2,
+				["|Km22|k"] = 2,
+				["|Km2|k"] = 2,
+				["|Km5|k"] = 2,
+				["|Km10|k"] = 2,
+				["|Km16|k"] = 2,
 			},
 			["guildList"] = {
-				["Zaccos"] = 132,
-				["Kibadachi"] = 13,
-				["Xwiper"] = 2,
-				["Nerevah"] = 46,
-				["Kontra"] = 42,
-				["Mightyjedi"] = 106,
-				["Gigawoot"] = 198,
-				["Virk"] = 108,
-				["Yerjado"] = 109,
-				["Carl"] = 75,
-				["Regiss"] = 31,
-				["Kwep"] = 159,
-				["Dotyou"] = 16,
-				["Ididntpull"] = 33,
-				["Holmgaard"] = 38,
+				["Arthastj"] = 91,
+				["Kibadachi"] = 16,
+				["Ehc"] = 11,
+				["Xwiper"] = 95,
+				["Nerevah"] = 188,
+				["Naroh"] = 37,
+				["Mightyjedi"] = 112,
+				["Twinbro"] = 152,
+				["Virk"] = 4,
+				["Roolig"] = 89,
+				["Yerjado"] = 5,
+				["Rorroh"] = 44,
+				["Regiss"] = 166,
+				["Adi"] = 53,
+				["Dotyou"] = 161,
+				["Ididntpull"] = 162,
+				["Holmgaard"] = 183,
 				["Melobank"] = 72,
-				["Stormwall"] = 67,
-				["Catloaf"] = 174,
-				["Yunus"] = 6,
-				["Fumlefinger"] = 128,
-				["Knobend"] = 205,
-				["Natnat"] = 183,
-				["Ninefingers"] = 184,
-				["Bubble"] = 195,
-				["Spacedout"] = 126,
-				["Wesli"] = 105,
-				["Fear"] = 197,
-				["Archwizard"] = 172,
-				["Vayze"] = 30,
-				["Sunkulta"] = 107,
-				["Gaunter"] = 124,
-				["Zezar"] = 84,
-				["Setris"] = 125,
-				["Wayze"] = 32,
-				["Jk"] = 40,
-				["Iloin"] = 21,
-				["Narco"] = 150,
-				["Ýra"] = 144,
-				["Honingdas"] = 39,
-				["Nerf"] = 47,
-				["Hunty"] = 80,
-				["Vaku"] = 54,
-				["Fxih"] = 36,
-				["Impulse"] = 58,
-				["Demonicrock"] = 61,
-				["Tivn"] = 52,
-				["Potema"] = 138,
-				["Brucey"] = 81,
-				["Melo"] = 11,
-				["Fjieze"] = 152,
-				["Hodl"] = 65,
-				["Suhei"] = 188,
-				["Scarloc"] = 160,
+				["Limeyana"] = 163,
+				["Catloaf"] = 177,
+				["Yunus"] = 10,
+				["Fumlefinger"] = 133,
+				["Knobend"] = 67,
+				["Natnat"] = 38,
+				["Ninefingers"] = 60,
+				["Bubble"] = 175,
+				["Zariisu"] = 78,
+				["Whiteprowler"] = 196,
+				["Stillmatic"] = 84,
+				["Kontkrabber"] = 127,
+				["Archwizard"] = 145,
+				["Vayze"] = 47,
+				["Sunkulta"] = 113,
+				["Gaunter"] = 126,
+				["Zezar"] = 90,
+				["Setris"] = 12,
+				["Wayze"] = 49,
+				["Nikuis"] = 132,
+				["Iloin"] = 148,
+				["Narco"] = 120,
+				["Riku"] = 167,
+				["Wtbheals"] = 100,
+				["Nerf"] = 59,
+				["Vaku"] = 170,
+				["Fxih"] = 182,
+				["Laleh"] = 21,
+				["Demonicrock"] = 178,
+				["Tivn"] = 64,
+				["Brucey"] = 96,
+				["Melo"] = 15,
+				["Fjieze"] = 6,
+				["Hodl"] = 198,
+				["Suhei"] = 46,
+				["Scarloc"] = 129,
 				["Chemobank"] = 71,
-				["Vodu"] = 202,
-				["Yardbird"] = 119,
-				["Somz"] = 165,
-				["Grubbis"] = 93,
-				["Narcosmic"] = 79,
-				["Cuttor"] = 19,
-				["Maldy"] = 45,
-				["Sneakie"] = 207,
-				["Hanoi"] = 83,
-				["Ullert"] = 17,
-				["Eternalbank"] = 206,
-				["Korner"] = 178,
-				["Chemo"] = 204,
-				["Syrah"] = 203,
-				["Skrra"] = 77,
-				["Bulle"] = 104,
-				["Derpina"] = 175,
-				["Freenuuds"] = 177,
-				["Irvingzisman"] = 112,
-				["Nonslagter"] = 193,
-				["Rupcapatana"] = 200,
-				["Reetale"] = 199,
-				["Ussares"] = 94,
+				["Vodu"] = 195,
+				["Themurian"] = 192,
+				["Hanzi"] = 142,
+				["Grubbis"] = 103,
+				["Narcosmic"] = 86,
+				["Cuttor"] = 30,
+				["Swilkie"] = 83,
+				["Dippos"] = 8,
+				["Korner"] = 187,
+				["Stabbi"] = 77,
+				["Thingol"] = 169,
+				["Skrra"] = 81,
+				["Saewnes"] = 87,
+				["Syrah"] = 88,
+				["Adii"] = 74,
+				["Irvingzisman"] = 116,
+				["Ussares"] = 108,
 				["Vodubank"] = 73,
-				["Ufo"] = 53,
-				["Zohandvir"] = 7,
-				["Cadareria"] = 196,
-				["Ryujiin"] = 148,
-				["Adi"] = 194,
-				["Magnum"] = 86,
-				["Narthorn"] = 146,
-				["Vibe"] = 201,
-				["Robbem"] = 15,
-				["Dyno"] = 27,
-				["Kinryu"] = 41,
-				["Pevi"] = 192,
-				["Microsaurus"] = 103,
-				["Winn"] = 191,
-				["Sjas"] = 101,
-				["Bloem"] = 20,
-				["Tychi"] = 166,
-				["Weiless"] = 190,
-				["Onishadows"] = 153,
-				["Gallo"] = 76,
-				["Rupeoase"] = 4,
-				["Justawoman"] = 155,
-				["Themurian"] = 189,
-				["Brân"] = 120,
-				["Diphda"] = 29,
-				["Shyftylock"] = 114,
-				["Zoewy"] = 96,
-				["Pinchem"] = 1,
-				["Saddii"] = 186,
-				["Diavoluss"] = 62,
-				["Sobrania"] = 28,
-				["Laey"] = 43,
-				["Zarisu"] = 57,
-				["Marlene"] = 182,
-				["Harna"] = 162,
-				["Leats"] = 181,
-				["Hotzz"] = 135,
-				["Drowranger"] = 82,
-				["Gloyn"] = 37,
-				["Snáák"] = 50,
-				["Buffering"] = 14,
-				["Lawlock"] = 180,
-				["Laro"] = 179,
-				["Evastina"] = 176,
-				["Gaycum"] = 68,
-				["Pissycutzu"] = 170,
-				["Wharfman"] = 131,
-				["Limeyana"] = 169,
-				["Rorroh"] = 48,
-				["Lanariel"] = 90,
-				["Damond"] = 59,
-				["Gipsydanger"] = 8,
-				["Deserter"] = 34,
-				["Hanzi"] = 168,
-				["Gieralt"] = 167,
-				["Dnz"] = 151,
-				["Selaith"] = 187,
-				["Kinae"] = 164,
-				["Fríða"] = 121,
-				["Belle"] = 123,
-				["Sevenfold"] = 23,
-				["Dosman"] = 25,
-				["Roog"] = 185,
-				["Iberya"] = 163,
-				["Benndover"] = 26,
-				["Kitteh"] = 127,
-				["Realzy"] = 111,
-				["Zéphyr"] = 156,
-				["Mártyr"] = 154,
-				["Bagels"] = 173,
-				["Pokimane"] = 22,
-				["Powerranger"] = 136,
-				["Sandersen"] = 9,
-				["Flessji"] = 141,
-				["Trapsrgay"] = 149,
-				["Wtbheals"] = 147,
-				["Inferal"] = 117,
-				["Arthastj"] = 145,
-				["Vaynerond"] = 55,
-				["Zariisu"] = 69,
-				["Marvlin"] = 142,
-				["Chelios"] = 139,
-				["Somebody"] = 143,
-				["Whiteprowler"] = 56,
-				["Ljenkins"] = 137,
-				["Bignob"] = 157,
-				["Knifem"] = 18,
-				["Talibang"] = 134,
-				["Movingfusion"] = 88,
-				["Emir"] = 133,
-				["Pyp"] = 24,
-				["Nikuis"] = 130,
-				["Chromie"] = 35,
-				["Kein"] = 129,
-				["Decessus"] = 140,
-				["Slugdge"] = 98,
-				["Elufson"] = 5,
-				["Karasakal"] = 122,
-				["Viggi"] = 161,
-				["Dippos"] = 116,
-				["Aktaeon"] = 115,
-				["Fmajin"] = 10,
-				["Rythe"] = 113,
+				["Pevi"] = 50,
+				["Ensidium"] = 31,
+				["Talibang"] = 25,
+				["Chimichanga"] = 159,
+				["Pissycutzu"] = 41,
+				["Magnum"] = 92,
+				["Narthorn"] = 94,
+				["Vibe"] = 194,
+				["Robbem"] = 43,
+				["Rythe"] = 118,
+				["Kinryu"] = 56,
+				["Katzenhammer"] = 185,
+				["Microsaurus"] = 3,
+				["Solvena"] = 191,
+				["Gaycum"] = 69,
+				["Bloem"] = 146,
+				["Tychi"] = 158,
+				["Weiless"] = 154,
+				["Sneakie"] = 201,
+				["Gallo"] = 85,
+				["Rupeoase"] = 111,
+				["Justawoman"] = 135,
+				["Lidel"] = 58,
+				["Brân"] = 125,
+				["Rupcapatana"] = 61,
+				["Ljenkins"] = 144,
+				["Zoewy"] = 102,
+				["Pinchem"] = 2,
+				["Underling"] = 93,
+				["Diavoluss"] = 54,
+				["Ciocanel"] = 106,
+				["Swagrlicious"] = 68,
+				["Zarisu"] = 66,
+				["Sobrania"] = 24,
+				["Harna"] = 134,
+				["Marlene"] = 36,
+				["Strydar"] = 98,
+				["Bulle"] = 114,
+				["Icyu"] = 115,
+				["Snáák"] = 168,
+				["Buffering"] = 29,
+				["Shyftylock"] = 117,
+				["Cadareria"] = 176,
+				["Munja"] = 138,
+				["Karasakal"] = 140,
+				["Impulse"] = 173,
+				["Wharfman"] = 17,
+				["Canish"] = 119,
+				["Yardbird"] = 122,
+				["Lanariel"] = 99,
+				["Damond"] = 52,
+				["Gipsydanger"] = 131,
+				["Deserter"] = 160,
+				["Diphda"] = 28,
+				["Nonslagter"] = 51,
+				["Dosman"] = 20,
+				["Selaith"] = 45,
+				["Xanaxpower"] = 110,
+				["Quantanpally"] = 107,
+				["Belle"] = 124,
+				["Elufson"] = 128,
+				["Evastina"] = 180,
+				["Plagues"] = 42,
+				["Pbg"] = 40,
+				["Mártyr"] = 130,
+				["Kitteh"] = 136,
+				["Lundbak"] = 1,
+				["Maldy"] = 35,
+				["Zohandvir"] = 137,
+				["Bagels"] = 174,
+				["Pokimane"] = 150,
+				["Winn"] = 171,
+				["Sandersen"] = 143,
+				["Medusagorgon"] = 104,
+				["Saddii"] = 63,
+				["Nify"] = 80,
+				["Zaccos"] = 141,
+				["Dyno"] = 22,
+				["Vaynerond"] = 193,
+				["Emir"] = 13,
+				["Fixmachine"] = 14,
+				["Knifem"] = 19,
+				["Somebody"] = 151,
+				["Slugdge"] = 101,
+				["Marvlin"] = 149,
+				["Bignob"] = 9,
+				["Solar"] = 190,
+				["Niify"] = 164,
+				["Movingfusion"] = 97,
+				["Wejne"] = 76,
+				["Pyp"] = 156,
+				["Ullert"] = 153,
+				["Chromie"] = 18,
+				["Trapsrgay"] = 155,
+				["Decessus"] = 147,
+				["Pakhet"] = 39,
+				["Chemo"] = 197,
+				["Iberya"] = 26,
+				["Viggi"] = 23,
+				["Papaz"] = 165,
+				["Aktaeon"] = 123,
+				["Fmajin"] = 32,
+				["Shortyguy"] = 82,
 				["Bannky"] = 70,
-				["Gaylord"] = 158,
-				["Lundbak"] = 100,
-				["Daprofessor"] = 12,
-				["Xanaxpower"] = 102,
-				["Nightknight"] = 118,
-				["Vladonis"] = 171,
-				["Icyu"] = 99,
-				["Órin"] = 110,
-				["Loboo"] = 97,
-				["Eldrawyn"] = 92,
-				["Xpose"] = 95,
-				["Ciocanel"] = 91,
-				["Toetie"] = 89,
-				["Underling"] = 87,
-				["Strydar"] = 3,
-				["Swilkie"] = 78,
-				["Rvn"] = 49,
-				["Solarka"] = 74,
-				["Rocci"] = 66,
-				["Noobiedoo"] = 85,
-				["Lidel"] = 44,
-				["Swagrlicious"] = 64,
-				["Solvena"] = 63,
-				["Katzenhammer"] = 60,
-				["Solar"] = 51,
+				["Gaylord"] = 157,
+				["Benndover"] = 7,
+				["Daprofessor"] = 27,
+				["Eternalbank"] = 200,
+				["Nightknight"] = 121,
+				["Vladonis"] = 48,
+				["Ýra"] = 172,
+				["Carl"] = 79,
+				["Fearbank"] = 75,
+				["Gieralt"] = 33,
+				["Xpose"] = 109,
+				["Derpina"] = 179,
+				["Gigawoot"] = 55,
+				["Gloyn"] = 34,
+				["Rocci"] = 199,
+				["Jk"] = 184,
+				["Rvn"] = 62,
+				["Kontra"] = 186,
+				["Reetale"] = 189,
+				["Noobiedoo"] = 105,
+				["Donatell"] = 139,
+				["Laey"] = 57,
+				["Ufo"] = 65,
+				["Fear"] = 181,
+				["Stormwall"] = 202,
 			},
 		},
 	},
@@ -647,9 +643,9 @@ WIM3_Filters = {
 		["sent"] = true,
 		["name"] = "Whispers Sent by Addons",
 		["received"] = true,
-		["action"] = 2,
-		["stats"] = 0,
 		["protected"] = true,
+		["stats"] = 0,
+		["action"] = 2,
 		["tag"] = "addons",
 	}, -- [1]
 	{
@@ -659,487 +655,955 @@ WIM3_Filters = {
 		["friend"] = true,
 		["party"] = true,
 		["name"] = "WhisperSelect Part 1",
-		["guild"] = true,
+		["stats"] = 0,
 		["raid"] = true,
 		["received"] = true,
-		["stats"] = 0,
+		["guild"] = true,
 	}, -- [2]
 	{
 		["enabled"] = false,
 		["type"] = 3,
 		["name"] = "Example Spam Blocker",
 		["notify"] = true,
-		["action"] = 3,
+		["stats"] = 0,
 		["level"] = 2,
 		["received"] = true,
-		["stats"] = 0,
+		["action"] = 3,
 	}, -- [3]
 	{
 		["enabled"] = false,
 		["type"] = 2,
 		["name"] = "WhisperSelect Part 2",
-		["action"] = 2,
+		["stats"] = 0,
 		["all"] = true,
 		["received"] = true,
-		["stats"] = 0,
+		["action"] = 2,
 	}, -- [4]
 }
 WIM3_History = {
 	["Razorgore"] = {
 		["Damond"] = {
+			["Viggi"] = {
+				{
+					["type"] = 1,
+					["time"] = 1569873198,
+					["from"] = "Viggi",
+					["msg"] = "wanna come BRD?",
+					["inbound"] = true,
+					["convo"] = "Viggi",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1569873210,
+					["from"] = "Viggi",
+					["msg"] = "got 60 priest and warrior with me",
+					["inbound"] = true,
+					["convo"] = "Viggi",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1569873225,
+					["from"] = "Damond",
+					["msg"] = "sry im gathering a party for attunement",
+					["inbound"] = false,
+					["convo"] = "Viggi",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1569873243,
+					["from"] = "Viggi",
+					["msg"] = "k",
+					["inbound"] = true,
+					["convo"] = "Viggi",
+				}, -- [4]
+				["info"] = {
+				},
+			},
 			["Chimichanga"] = {
 				{
 					["type"] = 1,
-					["time"] = 1568733885,
+					["time"] = 1569431979,
 					["from"] = "Damond",
-					["msg"] = "you wanna farm gy again? |cfff48cbapevi|r should be on in ~30 min",
+					["msg"] = "yo what lvl would I need to join for brd?",
 					["inbound"] = false,
 					["convo"] = "Chimichanga",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1568734287,
+					["time"] = 1569431986,
 					["from"] = "Chimichanga",
-					["msg"] = "yo",
+					["msg"] = "around 54",
 					["inbound"] = true,
 					["convo"] = "Chimichanga",
 				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1568734289,
-					["from"] = "Chimichanga",
-					["msg"] = "sure dude",
-					["inbound"] = true,
+					["time"] = 1569432020,
+					["from"] = "Damond",
+					["msg"] = "oh well, still a bit to go then",
+					["inbound"] = false,
 					["convo"] = "Chimichanga",
 				}, -- [3]
 				{
 					["type"] = 1,
-					["time"] = 1568734291,
+					["time"] = 1569432025,
 					["from"] = "Chimichanga",
-					["msg"] = " i was afk for a bit",
+					["msg"] = "ye",
 					["inbound"] = true,
 					["convo"] = "Chimichanga",
 				}, -- [4]
 				{
 					["type"] = 1,
-					["time"] = 1568734313,
+					["time"] = 1569432047,
 					["from"] = "Damond",
-					["msg"] = "awesome",
+					["msg"] = "arent there groups just running the beginning? at lower levels",
 					["inbound"] = false,
 					["convo"] = "Chimichanga",
 				}, -- [5]
 				{
 					["type"] = 1,
-					["time"] = 1568734338,
+					["time"] = 1569432049,
 					["from"] = "Damond",
-					["msg"] = "lets wait another 15m see if |cfff48cbapevi|r is gonna come",
+					["msg"] = "maybe with arena",
 					["inbound"] = false,
 					["convo"] = "Chimichanga",
 				}, -- [6]
 				{
 					["type"] = 1,
-					["time"] = 1568734342,
+					["time"] = 1569432056,
 					["from"] = "Chimichanga",
-					["msg"] = "sure",
+					["msg"] = "maybe they are",
 					["inbound"] = true,
 					["convo"] = "Chimichanga",
 				}, -- [7]
 				{
 					["type"] = 1,
-					["time"] = 1568735094,
-					["from"] = "Chimichanga",
-					["msg"] = "i'll join a prty for quest",
-					["inbound"] = true,
+					["time"] = 1569432072,
+					["from"] = "Damond",
+					["msg"] = "aight ill have a look out, thx",
+					["inbound"] = false,
 					["convo"] = "Chimichanga",
 				}, -- [8]
 				{
 					["type"] = 1,
-					["time"] = 1568735168,
+					["time"] = 1569873967,
 					["from"] = "Damond",
-					["msg"] = "kk",
+					["msg"] = "you need mc attunement?",
 					["inbound"] = false,
 					["convo"] = "Chimichanga",
 				}, -- [9]
 				{
 					["type"] = 1,
-					["time"] = 1568735498,
+					["time"] = 1569873974,
 					["from"] = "Damond",
-					["msg"] = "idk he's not responding on discord",
+					["msg"] = "trying to do it, need a tank",
 					["inbound"] = false,
 					["convo"] = "Chimichanga",
 				}, -- [10]
 				{
 					["type"] = 1,
-					["time"] = 1568735503,
-					["from"] = "Damond",
-					["msg"] = "mby we just start finding ppl",
-					["inbound"] = false,
+					["time"] = 1569873989,
+					["from"] = "Chimichanga",
+					["msg"] = "i've done it yesterday also im dps sry :/",
+					["inbound"] = true,
 					["convo"] = "Chimichanga",
 				}, -- [11]
 				{
 					["type"] = 1,
-					["time"] = 1568735519,
-					["from"] = "Chimichanga",
-					["msg"] = "we might do that",
-					["inbound"] = true,
+					["time"] = 1569874002,
+					["from"] = "Damond",
+					["msg"] = "ive seen you tank",
+					["inbound"] = false,
 					["convo"] = "Chimichanga",
 				}, -- [12]
 				{
 					["type"] = 1,
-					["time"] = 1568735531,
-					["from"] = "Damond",
-					["msg"] = "lmk when youre done with your party q",
-					["inbound"] = false,
+					["time"] = 1569874009,
+					["from"] = "Chimichanga",
+					["msg"] = "yeah not anymore",
+					["inbound"] = true,
 					["convo"] = "Chimichanga",
 				}, -- [13]
 				{
 					["type"] = 1,
-					["time"] = 1568735538,
-					["from"] = "Chimichanga",
-					["msg"] = "kk almost done",
-					["inbound"] = true,
+					["time"] = 1569874009,
+					["from"] = "Damond",
+					["msg"] = "dont try to fool me!",
+					["inbound"] = false,
 					["convo"] = "Chimichanga",
 				}, -- [14]
 				{
 					["type"] = 1,
-					["time"] = 1568735724,
+					["time"] = 1569874012,
 					["from"] = "Chimichanga",
-					["msg"] = "do u have this Q? Find OOX-17/TN!",
+					["msg"] = "respec to fury",
 					["inbound"] = true,
 					["convo"] = "Chimichanga",
 				}, -- [15]
 				{
 					["type"] = 1,
-					["time"] = 1568735729,
-					["from"] = "Damond",
-					["msg"] = "no sry",
-					["inbound"] = false,
+					["time"] = 1569874015,
+					["from"] = "Chimichanga",
+					["msg"] = "ahaha |Helvmoji:%eEQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin.tga:16:16|t",
+					["inbound"] = true,
 					["convo"] = "Chimichanga",
 				}, -- [16]
 				{
 					["type"] = 1,
-					["time"] = 1568735732,
-					["from"] = "Chimichanga",
-					["msg"] = "kk",
-					["inbound"] = true,
+					["time"] = 1569874018,
+					["from"] = "Damond",
+					["msg"] = "but its so few mobs anyway",
+					["inbound"] = false,
 					["convo"] = "Chimichanga",
 				}, -- [17]
 				{
 					["type"] = 1,
-					["time"] = 1568735733,
+					["time"] = 1569874036,
 					["from"] = "Chimichanga",
-					["msg"] = "im rdy",
+					["msg"] = "ur name is fimiliar",
 					["inbound"] = true,
 					["convo"] = "Chimichanga",
 				}, -- [18]
 				{
 					["type"] = 1,
-					["time"] = 1568752411,
-					["from"] = "Chimichanga",
-					["msg"] = "we are so much slower with this new mage",
-					["inbound"] = true,
+					["time"] = 1569874073,
+					["from"] = "Damond",
+					["msg"] = "we just did dungeons",
+					["inbound"] = false,
 					["convo"] = "Chimichanga",
 				}, -- [19]
 				{
 					["type"] = 1,
-					["time"] = 1568752426,
-					["from"] = "Damond",
-					["msg"] = "ye idk whats going on",
-					["inbound"] = false,
+					["time"] = 1569874157,
+					["from"] = "Chimichanga",
+					["msg"] = "aah now i remember",
+					["inbound"] = true,
 					["convo"] = "Chimichanga",
 				}, -- [20]
+				{
+					["type"] = 1,
+					["time"] = 1569874160,
+					["from"] = "Chimichanga",
+					["msg"] = "we did ZF Runs",
+					["inbound"] = true,
+					["convo"] = "Chimichanga",
+				}, -- [21]
+				{
+					["type"] = 1,
+					["time"] = 1569874167,
+					["from"] = "Damond",
+					["msg"] = "ye believe it was zf",
+					["inbound"] = false,
+					["convo"] = "Chimichanga",
+				}, -- [22]
+				{
+					["type"] = 1,
+					["time"] = 1569874176,
+					["from"] = "Chimichanga",
+					["msg"] = "with ur friend priest",
+					["inbound"] = true,
+					["convo"] = "Chimichanga",
+				}, -- [23]
+				{
+					["type"] = 1,
+					["time"] = 1569874183,
+					["from"] = "Damond",
+					["msg"] = "idk",
+					["inbound"] = false,
+					["convo"] = "Chimichanga",
+				}, -- [24]
+				["info"] = {
+				},
+			},
+			["Knobend"] = {
+				{
+					["type"] = 1,
+					["time"] = 1569778640,
+					["from"] = "Knobend",
+					["msg"] = "u raiding tonight |cff8787eddamond|r?",
+					["inbound"] = true,
+					["convo"] = "Knobend",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1569778652,
+					["from"] = "Knobend",
+					["msg"] = "u can do ony at 55 right? ",
+					["inbound"] = true,
+					["convo"] = "Knobend",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1569778665,
+					["from"] = "Damond",
+					["msg"] = "still working on ony attunement though",
+					["inbound"] = false,
+					["convo"] = "Knobend",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1569778673,
+					["from"] = "Knobend",
+					["msg"] = "ah damn",
+					["inbound"] = true,
+					["convo"] = "Knobend",
+				}, -- [4]
+				["info"] = {
+				},
+			},
+			["Powerranger"] = {
+				{
+					["type"] = 1,
+					["time"] = 1569435424,
+					["from"] = "Damond",
+					["msg"] = "id be down if 52 is fine",
+					["inbound"] = false,
+					["convo"] = "Powerranger",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1569435447,
+					["from"] = "Powerranger",
+					["msg"] = "yeah think so, would be great getting a guild run togather",
+					["inbound"] = true,
+					["convo"] = "Powerranger",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1569435463,
+					["from"] = "Damond",
+					["msg"] = "if we just do beginning, maybe arena",
+					["inbound"] = false,
+					["convo"] = "Powerranger",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1569436058,
+					["from"] = "Damond",
+					["msg"] = "what did you say we are doing?",
+					["inbound"] = false,
+					["convo"] = "Powerranger",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1569436062,
+					["from"] = "Damond",
+					["msg"] = "so I can spam chats",
+					["inbound"] = false,
+					["convo"] = "Powerranger",
+				}, -- [5]
+				{
+					["type"] = 1,
+					["time"] = 1569436068,
+					["from"] = "Powerranger",
+					["msg"] = "BRD ^^",
+					["inbound"] = true,
+					["convo"] = "Powerranger",
+				}, -- [6]
+				{
+					["type"] = 1,
+					["time"] = 1569436072,
+					["from"] = "Damond",
+					["msg"] = "thats all?",
+					["inbound"] = false,
+					["convo"] = "Powerranger",
+				}, -- [7]
+				{
+					["type"] = 1,
+					["time"] = 1569436102,
+					["from"] = "Powerranger",
+					["msg"] = "yeah BRD runs for xp, think they are up for more runs",
+					["inbound"] = true,
+					["convo"] = "Powerranger",
+				}, -- [8]
+				{
+					["type"] = 1,
+					["time"] = 1569436106,
+					["from"] = "Powerranger",
+					["msg"] = "since |cffc69b6dbárnes|r just needs xp",
+					["inbound"] = true,
+					["convo"] = "Powerranger",
+				}, -- [9]
+				{
+					["type"] = 1,
+					["time"] = 1569436111,
+					["from"] = "Powerranger",
+					["msg"] = "and |cffffffffbloem|r is helping him out",
+					["inbound"] = true,
+					["convo"] = "Powerranger",
+				}, -- [10]
+				{
+					["type"] = 1,
+					["time"] = 1569436116,
+					["from"] = "Damond",
+					["msg"] = "aight",
+					["inbound"] = false,
+					["convo"] = "Powerranger",
+				}, -- [11]
+				{
+					["type"] = 1,
+					["time"] = 1569436117,
+					["from"] = "Powerranger",
+					["msg"] = "they are friends on discord",
+					["inbound"] = true,
+					["convo"] = "Powerranger",
+				}, -- [12]
+				{
+					["type"] = 1,
+					["time"] = 1569436200,
+					["from"] = "Damond",
+					["msg"] = "zirre - 55 war",
+					["inbound"] = false,
+					["convo"] = "Powerranger",
+				}, -- [13]
+				{
+					["type"] = 1,
+					["time"] = 1569436215,
+					["from"] = "Damond",
+					["msg"] = "karmie 59 rogue",
+					["inbound"] = false,
+					["convo"] = "Powerranger",
+				}, -- [14]
+				{
+					["type"] = 1,
+					["time"] = 1569436221,
+					["from"] = "Powerranger",
+					["msg"] = "oh fuck",
+					["inbound"] = true,
+					["convo"] = "Powerranger",
+				}, -- [15]
+				{
+					["type"] = 1,
+					["time"] = 1569436226,
+					["from"] = "Powerranger",
+					["msg"] = "oh well",
+					["inbound"] = true,
+					["convo"] = "Powerranger",
+				}, -- [16]
+				{
+					["type"] = 1,
+					["time"] = 1569436234,
+					["from"] = "Damond",
+					["msg"] = "its cool",
+					["inbound"] = false,
+					["convo"] = "Powerranger",
+				}, -- [17]
+				{
+					["type"] = 1,
+					["time"] = 1569436239,
+					["from"] = "Damond",
+					["msg"] = "had a LOT of whispers",
+					["inbound"] = false,
+					["convo"] = "Powerranger",
+				}, -- [18]
+				{
+					["type"] = 1,
+					["time"] = 1569436255,
+					["from"] = "Powerranger",
+					["msg"] = "good then we can throw again msg incase someone leaves after run ^^",
+					["inbound"] = true,
+					["convo"] = "Powerranger",
+				}, -- [19]
+				["info"] = {
+				},
+			},
+			["Gigawoot"] = {
+				{
+					["type"] = 1,
+					["time"] = 1569962005,
+					["from"] = "Damond",
+					["msg"] = "whisper storm, he's making the group",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1569962017,
+					["from"] = "Damond",
+					["msg"] = "6 in group raid though",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1569962020,
+					["from"] = "Damond",
+					["msg"] = "and no healers yet",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1569962042,
+					["from"] = "Gigawoot",
+					["msg"] = "how do you know",
+					["inbound"] = true,
+					["convo"] = "Gigawoot",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1569962048,
+					["from"] = "Damond",
+					["msg"] = "im in",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [5]
+				{
+					["type"] = 1,
+					["time"] = 1569962064,
+					["from"] = "Damond",
+					["msg"] = "need ony att for tomorrow",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [6]
+				{
+					["type"] = 1,
+					["time"] = 1569962079,
+					["from"] = "Gigawoot",
+					["msg"] = "I dunno, I asked in gchat if they're full",
+					["inbound"] = true,
+					["convo"] = "Gigawoot",
+				}, -- [7]
+				{
+					["type"] = 1,
+					["time"] = 1569962082,
+					["from"] = "Gigawoot",
+					["msg"] = "and they're not asking",
+					["inbound"] = true,
+					["convo"] = "Gigawoot",
+				}, -- [8]
+				{
+					["type"] = 1,
+					["time"] = 1569962088,
+					["from"] = "Gigawoot",
+					["msg"] = "kinda meh to ask in whispers",
+					["inbound"] = true,
+					["convo"] = "Gigawoot",
+				}, -- [9]
+				{
+					["type"] = 1,
+					["time"] = 1569962092,
+					["from"] = "Gigawoot",
+					["msg"] = "as in rude",
+					["inbound"] = true,
+					["convo"] = "Gigawoot",
+				}, -- [10]
+				{
+					["type"] = 1,
+					["time"] = 1569962093,
+					["from"] = "Damond",
+					["msg"] = "storm was afk I think",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [11]
+				{
+					["type"] = 1,
+					["time"] = 1569962280,
+					["from"] = "Gigawoot",
+					["msg"] = "does hodl have mh ?",
+					["inbound"] = true,
+					["convo"] = "Gigawoot",
+				}, -- [12]
+				{
+					["type"] = 1,
+					["time"] = 1569962294,
+					["from"] = "Damond",
+					["msg"] = "|cffa335ee|Hitem:18805:1900:::::::57:::::::|h[Core Hound Tooth]|h|r|cff0070dd|Hitem:13368::::::::57:::1::::|h[Bonescraper]|h|r",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [13]
+				{
+					["type"] = 1,
+					["time"] = 1569962317,
+					["from"] = "Gigawoot",
+					["msg"] = "still 6 ?",
+					["inbound"] = true,
+					["convo"] = "Gigawoot",
+				}, -- [14]
+				{
+					["type"] = 1,
+					["time"] = 1569962332,
+					["from"] = "Damond",
+					["msg"] = "8 (1 healer)",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [15]
+				{
+					["type"] = 1,
+					["time"] = 1569962484,
+					["from"] = "Gigawoot",
+					["msg"] = "\"its basically full\"",
+					["inbound"] = true,
+					["convo"] = "Gigawoot",
+				}, -- [16]
+				{
+					["type"] = 1,
+					["time"] = 1569962504,
+					["from"] = "Damond",
+					["msg"] = "rip",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [17]
+				{
+					["type"] = 1,
+					["time"] = 1569962519,
+					["from"] = "Damond",
+					["msg"] = "we're prolly waiting for some1 then",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [18]
+				{
+					["type"] = 1,
+					["time"] = 1570040249,
+					["from"] = "Damond",
+					["msg"] = "yo can I get normal |cff9382c9elvui|r raidframes in MC?",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [19]
+				{
+					["type"] = 1,
+					["time"] = 1570040257,
+					["from"] = "Damond",
+					["msg"] = "or only raid-40 frames?",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [20]
+				{
+					["type"] = 1,
+					["time"] = 1570040266,
+					["from"] = "Gigawoot",
+					["msg"] = "I dont use |cff9382c9elvui|r",
+					["inbound"] = true,
+					["convo"] = "Gigawoot",
+				}, -- [21]
+				{
+					["type"] = 1,
+					["time"] = 1570040285,
+					["from"] = "Damond",
+					["msg"] = "|TInterface\\AddOns\\TwitchEmotes\\GuildEmotes\\WeirdChamp.tga:28:28|t",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [22]
+				{
+					["type"] = 1,
+					["time"] = 1570040479,
+					["from"] = "Gigawoot",
+					["msg"] = "they're crazy for doing 2 raids ",
+					["inbound"] = true,
+					["convo"] = "Gigawoot",
+				}, -- [23]
+				{
+					["type"] = 1,
+					["time"] = 1570040485,
+					["from"] = "Damond",
+					["msg"] = "yes",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [24]
+				{
+					["type"] = 1,
+					["time"] = 1570040509,
+					["from"] = "Gigawoot",
+					["msg"] = "every week there's gonna be 5-10 ppl not showing up",
+					["inbound"] = true,
+					["convo"] = "Gigawoot",
+				}, -- [25]
+				{
+					["type"] = 1,
+					["time"] = 1570040529,
+					["from"] = "Damond",
+					["msg"] = "yop, this early on its bound to happen",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [26]
+				{
+					["type"] = 1,
+					["time"] = 1570040541,
+					["from"] = "Damond",
+					["msg"] = "gotta groom the roster to have stable ppl",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [27]
+				{
+					["type"] = 1,
+					["time"] = 1570040576,
+					["from"] = "Damond",
+					["msg"] = "also I dont think they can handle 2 raids anyway",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [28]
+				{
+					["type"] = 1,
+					["time"] = 1570040661,
+					["from"] = "Gigawoot",
+					["msg"] = "ye way better to have a stable 40",
+					["inbound"] = true,
+					["convo"] = "Gigawoot",
+				}, -- [29]
+				{
+					["type"] = 1,
+					["time"] = 1570040680,
+					["from"] = "Damond",
+					["msg"] = "we were in a perfect spot as well",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [30]
+				{
+					["type"] = 1,
+					["time"] = 1570040684,
+					["from"] = "Damond",
+					["msg"] = "having too many ppl",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [31]
+				{
+					["type"] = 1,
+					["time"] = 1570040690,
+					["from"] = "Damond",
+					["msg"] = "could just pick and choose",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [32]
+				{
+					["type"] = 1,
+					["time"] = 1570040700,
+					["from"] = "Damond",
+					["msg"] = "and let the rest know we dont have a raiding spot for them",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [33]
+				{
+					["type"] = 1,
+					["time"] = 1570042488,
+					["from"] = "Damond",
+					["msg"] = "thank god I can curse",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [34]
+				{
+					["type"] = 1,
+					["time"] = 1570042493,
+					["from"] = "Damond",
+					["msg"] = "im so useless",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [35]
+				{
+					["type"] = 1,
+					["time"] = 1570042499,
+					["from"] = "Gigawoot",
+					["msg"] = "agreed",
+					["inbound"] = true,
+					["convo"] = "Gigawoot",
+				}, -- [36]
+				{
+					["type"] = 1,
+					["time"] = 1570042503,
+					["from"] = "Damond",
+					["msg"] = "wow",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [37]
+				{
+					["type"] = 1,
+					["time"] = 1570042514,
+					["from"] = "Damond",
+					["msg"] = "bulli",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [38]
+				{
+					["type"] = 1,
+					["time"] = 1570049204,
+					["from"] = "Damond",
+					["msg"] = "if I cant hit the mob",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [39]
+				{
+					["type"] = 1,
+					["time"] = 1570049212,
+					["from"] = "Damond",
+					["msg"] = "can I kill myself on reflect?",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [40]
+				{
+					["type"] = 1,
+					["time"] = 1570049234,
+					["from"] = "Gigawoot",
+					["msg"] = "if you miss ?",
+					["inbound"] = true,
+					["convo"] = "Gigawoot",
+				}, -- [41]
+				{
+					["type"] = 1,
+					["time"] = 1570049240,
+					["from"] = "Damond",
+					["msg"] = "yes",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [42]
+				{
+					["type"] = 1,
+					["time"] = 1570049248,
+					["from"] = "Gigawoot",
+					["msg"] = "that would make no sense",
+					["inbound"] = true,
+					["convo"] = "Gigawoot",
+				}, -- [43]
+				{
+					["type"] = 1,
+					["time"] = 1570049291,
+					["from"] = "Damond",
+					["msg"] = "well its a resist technically",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [44]
+				{
+					["type"] = 1,
+					["time"] = 1570053373,
+					["from"] = "Damond",
+					["msg"] = "the same paladin in whelps twice",
+					["inbound"] = false,
+					["convo"] = "Gigawoot",
+				}, -- [45]
+				["info"] = {
+				},
+			},
+			["Fxih"] = {
+				{
+					["type"] = 1,
+					["time"] = 1569961762,
+					["from"] = "Damond",
+					["msg"] = "inv",
+					["inbound"] = false,
+					["convo"] = "Fxih",
+				}, -- [1]
+				["info"] = {
+				},
+			},
+			["Voelund#21427"] = {
+				{
+					["type"] = 1,
+					["time"] = 1569788410,
+					["from"] = "Voelund#21427",
+					["msg"] = "Not even lvl 60 LUL nub.",
+					["inbound"] = true,
+					["convo"] = "Voelund#21427",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1569789812,
+					["from"] = "Voelund#21427",
+					["msg"] = "Skipping things you cant skip... Nice one plebs",
+					["inbound"] = true,
+					["convo"] = "Voelund#21427",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1569859737,
+					["from"] = "Voelund#21427",
+					["msg"] = "1 time 15 minutter på én quest.. pga droprate...",
+					["inbound"] = true,
+					["convo"] = "Voelund#21427",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1569859966,
+					["from"] = "Damond",
+					["msg"] = "dayum",
+					["inbound"] = false,
+					["convo"] = "Voelund#21427",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1569859977,
+					["from"] = "Damond",
+					["msg"] = "hvilken?",
+					["inbound"] = false,
+					["convo"] = "Voelund#21427",
+				}, -- [5]
+				{
+					["type"] = 1,
+					["time"] = 1569859980,
+					["from"] = "Voelund#21427",
+					["msg"] = "Seriøst.. så meget spild af tid :P men lvl 15 tho",
+					["inbound"] = true,
+					["convo"] = "Voelund#21427",
+				}, -- [6]
+				{
+					["type"] = 1,
+					["time"] = 1569859999,
+					["from"] = "Voelund#21427",
+					["msg"] = "En hvor man skulle dræbe noge Moonwalkers (tigers) og få en fang",
+					["inbound"] = true,
+					["convo"] = "Voelund#21427",
+				}, -- [7]
+				{
+					["type"] = 1,
+					["time"] = 1569860014,
+					["from"] = "Voelund#21427",
+					["msg"] = "Moonstalker*",
+					["inbound"] = true,
+					["convo"] = "Voelund#21427",
+				}, -- [8]
+				{
+					["type"] = 1,
+					["time"] = 1569860020,
+					["from"] = "Damond",
+					["msg"] = "ye du leveler stærkt tbh",
+					["inbound"] = false,
+					["convo"] = "Voelund#21427",
+				}, -- [9]
+				{
+					["type"] = 1,
+					["time"] = 1569860035,
+					["from"] = "Voelund#21427",
+					["msg"] = "hvis ALT ikke var contested var det mega ez",
+					["inbound"] = true,
+					["convo"] = "Voelund#21427",
+				}, -- [10]
+				{
+					["type"] = 1,
+					["time"] = 1569860118,
+					["from"] = "Damond",
+					["msg"] = "disc?",
+					["inbound"] = false,
+					["convo"] = "Voelund#21427",
+				}, -- [11]
+				{
+					["type"] = 1,
+					["time"] = 1569860130,
+					["from"] = "Voelund#21427",
+					["msg"] = "sure",
+					["inbound"] = true,
+					["convo"] = "Voelund#21427",
+				}, -- [12]
+				{
+					["type"] = 1,
+					["time"] = 1569862565,
+					["from"] = "Voelund#21427",
+					["msg"] = "NO IM DYING!",
+					["inbound"] = true,
+					["convo"] = "Voelund#21427",
+				}, -- [13]
+				["info"] = {
+				},
+			},
+			["Brucey"] = {
+				{
+					["type"] = 1,
+					["time"] = 1569957690,
+					["from"] = "Brucey",
+					["msg"] = "sorted bro",
+					["inbound"] = true,
+					["convo"] = "Brucey",
+				}, -- [1]
 				["info"] = {
 				},
 			},
 			["Adi"] = {
-				{
-					["type"] = 1,
-					["time"] = 1568320021,
-					["from"] = "Damond",
-					["msg"] = "I'd get MC attunement sorted real quick",
-					["inbound"] = false,
-					["convo"] = "Adi",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1568320029,
-					["from"] = "Damond",
-					["msg"] = "for tuesday",
-					["inbound"] = false,
-					["convo"] = "Adi",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1568320044,
-					["from"] = "Damond",
-					["msg"] = "and then start working on the ony chain, gonna take a while",
-					["inbound"] = false,
-					["convo"] = "Adi",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1568320213,
-					["from"] = "Adi",
-					["msg"] = "cba dungeon quests tonight been awake 30 hours",
-					["inbound"] = true,
-					["convo"] = "Adi",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1568320219,
-					["from"] = "Adi",
-					["msg"] = "ill get them done tomorrow prob",
-					["inbound"] = true,
-					["convo"] = "Adi",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1568320255,
-					["from"] = "Adi",
-					["msg"] = "50gold on new spells >.<",
-					["inbound"] = true,
-					["convo"] = "Adi",
-				}, -- [6]
-				{
-					["type"] = 1,
-					["time"] = 1568320273,
-					["from"] = "Damond",
-					["msg"] = "why would you do that to yourself though",
-					["inbound"] = false,
-					["convo"] = "Adi",
-				}, -- [7]
-				{
-					["type"] = 1,
-					["time"] = 1568320281,
-					["from"] = "Damond",
-					["msg"] = "30 hours is insane",
-					["inbound"] = false,
-					["convo"] = "Adi",
-				}, -- [8]
-				{
-					["type"] = 1,
-					["time"] = 1568320299,
-					["from"] = "Adi",
-					["msg"] = "idk last week i done 37 and it felt like nothing",
-					["inbound"] = true,
-					["convo"] = "Adi",
-				}, -- [9]
-				{
-					["type"] = 1,
-					["time"] = 1568320304,
-					["from"] = "Adi",
-					["msg"] = "so i done another 34",
-					["inbound"] = true,
-					["convo"] = "Adi",
-				}, -- [10]
-				{
-					["type"] = 1,
-					["time"] = 1568320313,
-					["from"] = "Adi",
-					["msg"] = "and today 30",
-					["inbound"] = true,
-					["convo"] = "Adi",
-				}, -- [11]
-				{
-					["type"] = 1,
-					["time"] = 1568320322,
-					["from"] = "Damond",
-					["msg"] = "dayum",
-					["inbound"] = false,
-					["convo"] = "Adi",
-				}, -- [12]
-				{
-					["type"] = 1,
-					["time"] = 1568320328,
-					["from"] = "Adi",
-					["msg"] = "as long as im occupied im fine",
-					["inbound"] = true,
-					["convo"] = "Adi",
-				}, -- [13]
-				{
-					["type"] = 1,
-					["time"] = 1568320379,
-					["from"] = "Damond",
-					["msg"] = "if youre not going to bed",
-					["inbound"] = false,
-					["convo"] = "Adi",
-				}, -- [14]
-				{
-					["type"] = 1,
-					["time"] = 1568320390,
-					["from"] = "Damond",
-					["msg"] = "first part of ony quest is not dungeons",
-					["inbound"] = false,
-					["convo"] = "Adi",
-				}, -- [15]
-				{
-					["type"] = 1,
-					["time"] = 1568320398,
-					["from"] = "Adi",
-					["msg"] = "ive done that part i think",
-					["inbound"] = true,
-					["convo"] = "Adi",
-				}, -- [16]
-				{
-					["type"] = 1,
-					["time"] = 1568320415,
-					["from"] = "Adi",
-					["msg"] = "[58+] A Taste of Flame",
-					["inbound"] = true,
-					["convo"] = "Adi",
-				}, -- [17]
-				{
-					["type"] = 1,
-					["time"] = 1568320423,
-					["from"] = "Damond",
-					["msg"] = "cant remember",
-					["inbound"] = false,
-					["convo"] = "Adi",
-				}, -- [18]
-				{
-					["type"] = 1,
-					["time"] = 1568320423,
-					["from"] = "Adi",
-					["msg"] = "im on this part (i think this is part of chain)",
-					["inbound"] = true,
-					["convo"] = "Adi",
-				}, -- [19]
-				{
-					["type"] = 1,
-					["time"] = 1568320430,
-					["from"] = "Adi",
-					["msg"] = "its brd",
-					["inbound"] = true,
-					["convo"] = "Adi",
-				}, -- [20]
-				{
-					["type"] = 1,
-					["time"] = 1568320439,
-					["from"] = "Damond",
-					["msg"] = "brd is def part of the ony chain ye",
-					["inbound"] = false,
-					["convo"] = "Adi",
-				}, -- [21]
-				{
-					["type"] = 1,
-					["time"] = 1568320448,
-					["from"] = "Damond",
-					["msg"] = "but cant remember specifics",
-					["inbound"] = false,
-					["convo"] = "Adi",
-				}, -- [22]
-				{
-					["type"] = 1,
-					["time"] = 1568320451,
-					["from"] = "Adi",
-					["msg"] = "|Helvmoji:%OkQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin.tga:16:16|t",
-					["inbound"] = true,
-					["convo"] = "Adi",
-				}, -- [23]
-				{
-					["type"] = 1,
-					["time"] = 1568320452,
-					["from"] = "Damond",
-					["msg"] = "im sure wowhead has a guide",
-					["inbound"] = false,
-					["convo"] = "Adi",
-				}, -- [24]
-				{
-					["type"] = 1,
-					["time"] = 1568320476,
-					["from"] = "Adi",
-					["msg"] = "idk if i should go maraudon solo spec or raid spec >.<",
-					["inbound"] = true,
-					["convo"] = "Adi",
-				}, -- [25]
-				{
-					["type"] = 1,
-					["time"] = 1568320517,
-					["from"] = "Damond",
-					["msg"] = "did you check if you can farm devilsaur?",
-					["inbound"] = false,
-					["convo"] = "Adi",
-				}, -- [26]
-				{
-					["type"] = 1,
-					["time"] = 1568320524,
-					["from"] = "Adi",
-					["msg"] = "i can 100%",
-					["inbound"] = true,
-					["convo"] = "Adi",
-				}, -- [27]
-				{
-					["type"] = 1,
-					["time"] = 1568320532,
-					["from"] = "Adi",
-					["msg"] = "was almost doing it at like 56",
-					["inbound"] = true,
-					["convo"] = "Adi",
-				}, -- [28]
-				{
-					["type"] = 1,
-					["time"] = 1568320549,
-					["from"] = "Damond",
-					["msg"] = "maybe worth staying raid spec and farm that instead of maraudon?",
-					["inbound"] = false,
-					["convo"] = "Adi",
-				}, -- [29]
-				{
-					["type"] = 1,
-					["time"] = 1568320562,
-					["from"] = "Adi",
-					["msg"] = "yeah true",
-					["inbound"] = true,
-					["convo"] = "Adi",
-				}, -- [30]
-				{
-					["type"] = 1,
-					["time"] = 1568320579,
-					["from"] = "Adi",
-					["msg"] = "i owe giga a devilsaur set for giving me legs recipie",
-					["inbound"] = true,
-					["convo"] = "Adi",
-				}, -- [31]
-				{
-					["type"] = 1,
-					["time"] = 1568320597,
-					["from"] = "Damond",
-					["msg"] = "already in debt",
-					["inbound"] = false,
-					["convo"] = "Adi",
-				}, -- [32]
-				{
-					["type"] = 1,
-					["time"] = 1568320620,
-					["from"] = "Adi",
-					["msg"] = "not really just i'd feel like scumbag if i dont repay him giving it to me randomly |Helvmoji:%OlA=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\StuckOutTongue.tga:16:16|t",
-					["inbound"] = true,
-					["convo"] = "Adi",
-				}, -- [33]
-				{
-					["type"] = 1,
-					["time"] = 1568320660,
-					["from"] = "Damond",
-					["msg"] = "ive got no idea what the recipe is worth",
-					["inbound"] = false,
-					["convo"] = "Adi",
-				}, -- [34]
-				{
-					["type"] = 1,
-					["time"] = 1568320678,
-					["from"] = "Adi",
-					["msg"] = "same but its big bucks in AH atm",
-					["inbound"] = true,
-					["convo"] = "Adi",
-				}, -- [35]
-				{
-					["type"] = 1,
-					["time"] = 1568320709,
-					["from"] = "Damond",
-					["msg"] = "then its worth big bucks I guess",
-					["inbound"] = false,
-					["convo"] = "Adi",
-				}, -- [36]
 				{
 					["type"] = 1,
 					["time"] = 1569175779,
@@ -1147,7 +1611,7 @@ WIM3_History = {
 					["msg"] = "my bnet is slow as fuck",
 					["inbound"] = true,
 					["convo"] = "Adi",
-				}, -- [37]
+				}, -- [1]
 				{
 					["type"] = 1,
 					["time"] = 1569175788,
@@ -1155,7 +1619,7 @@ WIM3_History = {
 					["msg"] = "well GG has some good players",
 					["inbound"] = false,
 					["convo"] = "Adi",
-				}, -- [38]
+				}, -- [2]
 				{
 					["type"] = 1,
 					["time"] = 1569175789,
@@ -1163,7 +1627,7 @@ WIM3_History = {
 					["msg"] = "the split raid with good game was better",
 					["inbound"] = true,
 					["convo"] = "Adi",
-				}, -- [39]
+				}, -- [3]
 				{
 					["type"] = 1,
 					["time"] = 1569175809,
@@ -1171,7 +1635,7 @@ WIM3_History = {
 					["msg"] = "we wiped twice with full guild grp",
 					["inbound"] = true,
 					["convo"] = "Adi",
-				}, -- [40]
+				}, -- [4]
 				{
 					["type"] = 1,
 					["time"] = 1569175821,
@@ -1179,7 +1643,7 @@ WIM3_History = {
 					["msg"] = "once on majordomo once on trash before lucifron",
 					["inbound"] = true,
 					["convo"] = "Adi",
-				}, -- [41]
+				}, -- [5]
 				{
 					["type"] = 1,
 					["time"] = 1569175852,
@@ -1187,7 +1651,7 @@ WIM3_History = {
 					["msg"] = "good games main tank is a player from eugenic wildstar",
 					["inbound"] = true,
 					["convo"] = "Adi",
-				}, -- [42]
+				}, -- [6]
 				{
 					["type"] = 1,
 					["time"] = 1569175857,
@@ -1195,7 +1659,7 @@ WIM3_History = {
 					["msg"] = "pre-ds 40man lol",
 					["inbound"] = true,
 					["convo"] = "Adi",
-				}, -- [43]
+				}, -- [7]
 				{
 					["type"] = 1,
 					["time"] = 1569175861,
@@ -1203,7 +1667,7 @@ WIM3_History = {
 					["msg"] = "i recognised his name lol",
 					["inbound"] = true,
 					["convo"] = "Adi",
-				}, -- [44]
+				}, -- [8]
 				{
 					["type"] = 1,
 					["time"] = 1569175902,
@@ -1211,7 +1675,7 @@ WIM3_History = {
 					["msg"] = "oh ye the guy you linked on TS",
 					["inbound"] = false,
 					["convo"] = "Adi",
-				}, -- [45]
+				}, -- [9]
 				{
 					["type"] = 1,
 					["time"] = 1569175917,
@@ -1219,7 +1683,7 @@ WIM3_History = {
 					["msg"] = "he was medic healer for eu first ghuun",
 					["inbound"] = true,
 					["convo"] = "Adi",
-				}, -- [46]
+				}, -- [10]
 				{
 					["type"] = 1,
 					["time"] = 1569175919,
@@ -1227,7 +1691,7 @@ WIM3_History = {
 					["msg"] = "yeah",
 					["inbound"] = true,
 					["convo"] = "Adi",
-				}, -- [47]
+				}, -- [11]
 				{
 					["type"] = 1,
 					["time"] = 1569175927,
@@ -1235,7 +1699,7 @@ WIM3_History = {
 					["msg"] = "storm and I used to play in GG",
 					["inbound"] = false,
 					["convo"] = "Adi",
-				}, -- [48]
+				}, -- [12]
 				{
 					["type"] = 1,
 					["time"] = 1569175931,
@@ -1243,7 +1707,7 @@ WIM3_History = {
 					["msg"] = "in tbc",
 					["inbound"] = false,
 					["convo"] = "Adi",
-				}, -- [49]
+				}, -- [13]
 				{
 					["type"] = 1,
 					["time"] = 1569175941,
@@ -1251,7 +1715,7 @@ WIM3_History = {
 					["msg"] = "oh cool",
 					["inbound"] = true,
 					["convo"] = "Adi",
-				}, -- [50]
+				}, -- [14]
 				{
 					["type"] = 1,
 					["time"] = 1569175957,
@@ -1259,7 +1723,7 @@ WIM3_History = {
 					["msg"] = "we didnt realize till a few weeks before classic",
 					["inbound"] = false,
 					["convo"] = "Adi",
-				}, -- [51]
+				}, -- [15]
 				{
 					["type"] = 1,
 					["time"] = 1569175998,
@@ -1267,7 +1731,7 @@ WIM3_History = {
 					["msg"] = "one of my officers from retail guild is in good game",
 					["inbound"] = true,
 					["convo"] = "Adi",
-				}, -- [52]
+				}, -- [16]
 				{
 					["type"] = 1,
 					["time"] = 1569176006,
@@ -1275,7 +1739,7 @@ WIM3_History = {
 					["msg"] = "i think he played there also",
 					["inbound"] = true,
 					["convo"] = "Adi",
-				}, -- [53]
+				}, -- [17]
 				{
 					["type"] = 1,
 					["time"] = 1569176052,
@@ -1283,7 +1747,7 @@ WIM3_History = {
 					["msg"] = "I played with |cffc69b6decology|r through all of vanilla and tbc",
 					["inbound"] = false,
 					["convo"] = "Adi",
-				}, -- [54]
+				}, -- [18]
 				{
 					["type"] = 1,
 					["time"] = 1569176081,
@@ -1291,7 +1755,7 @@ WIM3_History = {
 					["msg"] = "cant remember many of the other names tbh",
 					["inbound"] = false,
 					["convo"] = "Adi",
-				}, -- [55]
+				}, -- [19]
 				{
 					["type"] = 1,
 					["time"] = 1569176085,
@@ -1299,1427 +1763,159 @@ WIM3_History = {
 					["msg"] = "I was too young I guess",
 					["inbound"] = false,
 					["convo"] = "Adi",
-				}, -- [56]
-				["info"] = {
-				},
-			},
-			["Knifem"] = {
-				{
-					["type"] = 1,
-					["time"] = 1568736109,
-					["from"] = "Knifem",
-					["msg"] = "you get a healer bro?",
-					["inbound"] = true,
-					["convo"] = "Knifem",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1568736117,
-					["from"] = "Damond",
-					["msg"] = "no healer yet",
-					["inbound"] = false,
-					["convo"] = "Knifem",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1568736119,
-					["from"] = "Knifem",
-					["msg"] = "i got a healer if you need",
-					["inbound"] = true,
-					["convo"] = "Knifem",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1568736127,
-					["from"] = "Knifem",
-					["msg"] = "ok take mine",
-					["inbound"] = true,
-					["convo"] = "Knifem",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1568736132,
-					["from"] = "Damond",
-					["msg"] = "who?",
-					["inbound"] = false,
-					["convo"] = "Knifem",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1568736134,
-					["from"] = "Knifem",
-					["msg"] = "im struggling to get grp",
-					["inbound"] = true,
-					["convo"] = "Knifem",
-				}, -- [6]
-				{
-					["type"] = 1,
-					["time"] = 1568736142,
-					["from"] = "Knifem",
-					["msg"] = "heals",
-					["inbound"] = true,
-					["convo"] = "Knifem",
-				}, -- [7]
-				{
-					["type"] = 1,
-					["time"] = 1568736148,
-					["from"] = "Knifem",
-					["msg"] = "46 priest",
-					["inbound"] = true,
-					["convo"] = "Knifem",
-				}, -- [8]
-				["info"] = {
-				},
-			},
-			["Pevi"] = {
-				{
-					["type"] = 1,
-					["time"] = 1568664210,
-					["from"] = "Pevi",
-					["msg"] = "we gonna suffer here bad mate",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1568664214,
-					["from"] = "Pevi",
-					["msg"] = "lvl 45 tank |Helvmoji:%OkQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin.tga:16:16|t",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1568664227,
-					["from"] = "Damond",
-					["msg"] = "cant suffer more than I just did",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1568664279,
-					["from"] = "Pevi",
-					["msg"] = "i had some awful grps",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1568664295,
-					["from"] = "Pevi",
-					["msg"] = "feels so bad that i couldnt get 60 for our first raid",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1568664307,
-					["from"] = "Damond",
-					["msg"] = "I knew I wouldnt make first raid",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [6]
-				{
-					["type"] = 1,
-					["time"] = 1568664315,
-					["from"] = "Damond",
-					["msg"] = "my last group though",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [7]
-				{
-					["type"] = 1,
-					["time"] = 1568664324,
-					["from"] = "Damond",
-					["msg"] = "2 healers quit before even making it in",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [8]
-				{
-					["type"] = 1,
-					["time"] = 1568664337,
-					["from"] = "Pevi",
-					["msg"] = "LOL this warrior is in cloth and leather",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [9]
-				{
-					["type"] = 1,
-					["time"] = 1568664338,
-					["from"] = "Damond",
-					["msg"] = "tank was actually mentally challenged",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [10]
-				{
-					["type"] = 1,
-					["time"] = 1568664340,
-					["from"] = "Damond",
-					["msg"] = "im not even flaming",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [11]
-				{
-					["type"] = 1,
-					["time"] = 1568664365,
-					["from"] = "Damond",
-					["msg"] = "the rogue told me to chill cause I kept telling them to come summon",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [12]
-				{
-					["type"] = 1,
-					["time"] = 1568664369,
-					["from"] = "Damond",
-					["msg"] = "then 4 packs in",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [13]
-				{
-					["type"] = 1,
-					["time"] = 1568664371,
-					["from"] = "Damond",
-					["msg"] = "he ragequits",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [14]
-				{
-					["type"] = 1,
-					["time"] = 1568664374,
-					["from"] = "Pevi",
-					["msg"] = ":DDD",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [15]
-				{
-					["type"] = 1,
-					["time"] = 1568664377,
-					["from"] = "Damond",
-					["msg"] = "cause this group wont succeed",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [16]
-				{
-					["type"] = 1,
-					["time"] = 1568664379,
-					["from"] = "Pevi",
-					["msg"] = "ppl are mental here",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [17]
-				{
-					["type"] = 1,
-					["time"] = 1568664385,
-					["from"] = "Damond",
-					["msg"] = "he told me to chill, hello?",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [18]
-				{
-					["type"] = 1,
-					["time"] = 1568664388,
-					["from"] = "Pevi",
-					["msg"] = "it wasnt like that on Lightshope",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [19]
-				{
-					["type"] = 1,
-					["time"] = 1568664400,
-					["from"] = "Damond",
-					["msg"] = "mostly quested on lightshope",
-					["inbound"] = false,
-					["convo"] = "Pevi",
 				}, -- [20]
 				{
 					["type"] = 1,
-					["time"] = 1568664405,
-					["from"] = "Pevi",
-					["msg"] = "same",
-					["inbound"] = true,
-					["convo"] = "Pevi",
+					["time"] = 1569953647,
+					["from"] = "Damond",
+					["msg"] = "you doing princess?",
+					["inbound"] = false,
+					["convo"] = "Adi",
 				}, -- [21]
 				{
 					["type"] = 1,
-					["time"] = 1568664417,
-					["from"] = "Pevi",
-					["msg"] = "these stupid cleave grps wernt a thing",
+					["time"] = 1569953697,
+					["from"] = "Adi",
+					["msg"] = "yeah",
 					["inbound"] = true,
-					["convo"] = "Pevi",
+					["convo"] = "Adi",
 				}, -- [22]
 				{
 					["type"] = 1,
-					["time"] = 1568664450,
-					["from"] = "Damond",
-					["msg"] = "no idea why its so bad",
-					["inbound"] = false,
-					["convo"] = "Pevi",
+					["time"] = 1569953711,
+					["from"] = "Adi",
+					["msg"] = "or i will do",
+					["inbound"] = true,
+					["convo"] = "Adi",
 				}, -- [23]
 				{
 					["type"] = 1,
-					["time"] = 1568664491,
-					["from"] = "Pevi",
-					["msg"] = "1st pull -> wipe",
+					["time"] = 1569953712,
+					["from"] = "Adi",
+					["msg"] = "why",
 					["inbound"] = true,
-					["convo"] = "Pevi",
+					["convo"] = "Adi",
 				}, -- [24]
 				{
 					["type"] = 1,
-					["time"] = 1568664496,
-					["from"] = "Pevi",
-					["msg"] = "hes like paper",
-					["inbound"] = true,
-					["convo"] = "Pevi",
+					["time"] = 1569953723,
+					["from"] = "Damond",
+					["msg"] = "|cffc69b6densidium|r was asking for it in guild not long ago",
+					["inbound"] = false,
+					["convo"] = "Adi",
 				}, -- [25]
 				{
 					["type"] = 1,
-					["time"] = 1568664515,
+					["time"] = 1569953728,
 					["from"] = "Damond",
-					["msg"] = "lmao",
+					["msg"] = "I assume he needs ring",
 					["inbound"] = false,
-					["convo"] = "Pevi",
+					["convo"] = "Adi",
 				}, -- [26]
-				{
-					["type"] = 1,
-					["time"] = 1568665917,
-					["from"] = "Pevi",
-					["msg"] = "told you its gonna be painful |Helvmoji:%Oig=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\SlightFrown.tga:16:16|t",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [27]
-				{
-					["type"] = 1,
-					["time"] = 1568665924,
-					["from"] = "Damond",
-					["msg"] = "as bad as it is",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [28]
-				{
-					["type"] = 1,
-					["time"] = 1568665930,
-					["from"] = "Damond",
-					["msg"] = "its still better than my last group",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [29]
-				{
-					["type"] = 1,
-					["time"] = 1568666547,
-					["from"] = "Damond",
-					["msg"] = "salv is pretty epic",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [30]
-				{
-					["type"] = 1,
-					["time"] = 1568666552,
-					["from"] = "Damond",
-					["msg"] = "I can just keep hellfiring",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [31]
-				{
-					["type"] = 1,
-					["time"] = 1568666555,
-					["from"] = "Pevi",
-					["msg"] = "yeah |Helvmoji:%OkQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin.tga:16:16|t",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [32]
-				{
-					["type"] = 1,
-					["time"] = 1568666556,
-					["from"] = "Damond",
-					["msg"] = "without taking aggro",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [33]
-				{
-					["type"] = 1,
-					["time"] = 1568666704,
-					["from"] = "Damond",
-					["msg"] = "lmao",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [34]
-				{
-					["type"] = 1,
-					["time"] = 1568666708,
-					["from"] = "Damond",
-					["msg"] = "\"I got it now\"",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [35]
-				{
-					["type"] = 1,
-					["time"] = 1568666711,
-					["from"] = "Pevi",
-					["msg"] = "|Helvmoji:%OkQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin.tga:16:16|t",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [36]
-				{
-					["type"] = 1,
-					["time"] = 1568666722,
-					["from"] = "Pevi",
-					["msg"] = "the problem is that eve if he got it",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [37]
-				{
-					["type"] = 1,
-					["time"] = 1568666724,
-					["from"] = "Damond",
-					["msg"] = "im actually laughing my ass off",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [38]
-				{
-					["type"] = 1,
-					["time"] = 1568666725,
-					["from"] = "Pevi",
-					["msg"] = "hes so quishy",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [39]
-				{
-					["type"] = 1,
-					["time"] = 1568666729,
-					["from"] = "Pevi",
-					["msg"] = "*squishy",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [40]
-				{
-					["type"] = 1,
-					["time"] = 1568666735,
-					["from"] = "Damond",
-					["msg"] = "true",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [41]
-				{
-					["type"] = 1,
-					["time"] = 1568666873,
-					["from"] = "Damond",
-					["msg"] = "still pulling with 2h",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [42]
-				{
-					["type"] = 1,
-					["time"] = 1568666876,
-					["from"] = "Damond",
-					["msg"] = "ayy",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [43]
-				{
-					["type"] = 1,
-					["time"] = 1568667724,
-					["from"] = "Pevi",
-					["msg"] = " you are Arnak now",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [44]
-				{
-					["type"] = 1,
-					["time"] = 1568667730,
-					["from"] = "Damond",
-					["msg"] = "thmm?",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [45]
-				{
-					["type"] = 1,
-					["time"] = 1568667751,
-					["from"] = "Pevi",
-					["msg"] = "alreqady forgot Arnak? |Helvmoji:%OkQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin.tga:16:16|t",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [46]
-				{
-					["type"] = 1,
-					["time"] = 1568667757,
-					["from"] = "Damond",
-					["msg"] = "no but",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [47]
-				{
-					["type"] = 1,
-					["time"] = 1568667757,
-					["from"] = "Pevi",
-					["msg"] = "already*",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [48]
-				{
-					["type"] = 1,
-					["time"] = 1568667759,
-					["from"] = "Damond",
-					["msg"] = "what did he do?",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [49]
-				{
-					["type"] = 1,
-					["time"] = 1568667766,
-					["from"] = "Pevi",
-					["msg"] = "i bop him  all teh time",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [50]
-				{
-					["type"] = 1,
-					["time"] = 1568667773,
-					["from"] = "Damond",
-					["msg"] = "ah",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [51]
-				{
-					["type"] = 1,
-					["time"] = 1568667775,
-					["from"] = "Pevi",
-					["msg"] = "and save his ass",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [52]
-				{
-					["type"] = 1,
-					["time"] = 1568667776,
-					["from"] = "Damond",
-					["msg"] = "ye I like that",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [53]
-				{
-					["type"] = 1,
-					["time"] = 1568667795,
-					["from"] = "Damond",
-					["msg"] = "though I usually dont depent on getting saved",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [54]
-				{
-					["type"] = 1,
-					["time"] = 1568667799,
-					["from"] = "Damond",
-					["msg"] = "always have HS",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [55]
-				{
-					["type"] = 1,
-					["time"] = 1568667803,
-					["from"] = "Damond",
-					["msg"] = "or deathcoil",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [56]
-				{
-					["type"] = 1,
-					["time"] = 1568667803,
-					["from"] = "Pevi",
-					["msg"] = "you warrs dont even know what kind of fights went on for paladins BoP",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [57]
-				{
-					["type"] = 1,
-					["time"] = 1568667838,
-					["from"] = "Pevi",
-					["msg"] = "aranak wanted to buy all bop for a lots of gold",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [58]
-				{
-					["type"] = 1,
-					["time"] = 1568667839,
-					["from"] = "Damond",
-					["msg"] = "haha",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [59]
-				{
-					["type"] = 1,
-					["time"] = 1568667844,
-					["from"] = "Damond",
-					["msg"] = "lmao",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [60]
-				{
-					["type"] = 1,
-					["time"] = 1568669056,
-					["from"] = "Pevi",
-					["msg"] = "17:45 tomorrow",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [61]
-				{
-					["type"] = 1,
-					["time"] = 1568669071,
-					["from"] = "Pevi",
-					["msg"] = "we can make a grp",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [62]
-				{
-					["type"] = 1,
-					["time"] = 1568669074,
-					["from"] = "Damond",
-					["msg"] = "lets try getting a group",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [63]
-				{
-					["type"] = 1,
-					["time"] = 1568669081,
-					["from"] = "Damond",
-					["msg"] = "ill be home after 17",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [64]
-				{
-					["type"] = 1,
-					["time"] = 1568669087,
-					["from"] = "Pevi",
-					["msg"] = "nice",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [65]
-				{
-					["type"] = 1,
-					["time"] = 1568669096,
-					["from"] = "Pevi",
-					["msg"] = "see you tomorrow! good night",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [66]
-				{
-					["type"] = 1,
-					["time"] = 1568739780,
-					["from"] = "Pevi",
-					["msg"] = "Hey. Should i try to form / joi na grp ?",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [67]
-				{
-					["type"] = 1,
-					["time"] = 1568739816,
-					["from"] = "Damond",
-					["msg"] = "almost done with this run",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [68]
-				{
-					["type"] = 1,
-					["time"] = 1568739826,
-					["from"] = "Pevi",
-					["msg"] = "you can stay if the grp is good",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [69]
-				{
-					["type"] = 1,
-					["time"] = 1568739826,
-					["from"] = "Damond",
-					["msg"] = "will keep the healer if he wants though",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [70]
-				{
-					["type"] = 1,
-					["time"] = 1568739839,
-					["from"] = "Damond",
-					["msg"] = "ye its some of the same ppl form yesterday",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [71]
-				{
-					["type"] = 1,
-					["time"] = 1568739853,
-					["from"] = "Pevi",
-					["msg"] = "okay mate, ill try to form an another one",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [72]
-				{
-					["type"] = 1,
-					["time"] = 1568739891,
-					["from"] = "Damond",
-					["msg"] = "aight",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [73]
-				{
-					["type"] = 1,
-					["time"] = 1568740340,
-					["from"] = "Damond",
-					["msg"] = "our healer has dinner in 20m",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [74]
-				{
-					["type"] = 1,
-					["time"] = 1568740358,
-					["from"] = "Pevi",
-					["msg"] = "okaaay",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [75]
-				{
-					["type"] = 1,
-					["time"] = 1568740361,
-					["from"] = "Pevi",
-					["msg"] = "ill join you!",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [76]
-				{
-					["type"] = 1,
-					["time"] = 1568740396,
-					["from"] = "Damond",
-					["msg"] = "hold on",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [77]
-				{
-					["type"] = 1,
-					["time"] = 1568741593,
-					["from"] = "Damond",
-					["msg"] = "try not giving mages salv",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [78]
-				{
-					["type"] = 1,
-					["time"] = 1568741599,
-					["from"] = "Damond",
-					["msg"] = "I can aoe forever then",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [79]
-				{
-					["type"] = 1,
-					["time"] = 1568741612,
-					["from"] = "Pevi",
-					["msg"] = "okay",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [80]
-				{
-					["type"] = 1,
-					["time"] = 1568741619,
-					["from"] = "Damond",
-					["msg"] = "I think",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [81]
-				{
-					["type"] = 1,
-					["time"] = 1568741620,
-					["from"] = "Damond",
-					["msg"] = "lets see",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [82]
-				{
-					["type"] = 1,
-					["time"] = 1568741696,
-					["from"] = "Damond",
-					["msg"] = "ye this is |TInterface\\AddOns\\TwitchEmotes\\GuildEmotes\\Pog.tga:28:28|t",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [83]
-				{
-					["type"] = 1,
-					["time"] = 1568741719,
-					["from"] = "Damond",
-					["msg"] = "can aoe for days like this",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [84]
-				{
-					["type"] = 1,
-					["time"] = 1568741805,
-					["from"] = "Damond",
-					["msg"] = "getting off full hellfires",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [85]
-				{
-					["type"] = 1,
-					["time"] = 1568741810,
-					["from"] = "Damond",
-					["msg"] = "never done that before",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [86]
-				{
-					["type"] = 1,
-					["time"] = 1568741821,
-					["from"] = "Pevi",
-					["msg"] = "|Helvmoji:%OkQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin.tga:16:16|t haha go for it, im healin you",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [87]
-				{
-					["type"] = 1,
-					["time"] = 1568741835,
-					["from"] = "Damond",
-					["msg"] = "wwont need much ehaling when im not being hit",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [88]
-				{
-					["type"] = 1,
-					["time"] = 1568748945,
-					["from"] = "Damond",
-					["msg"] = "plz no salv mages",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [89]
-				{
-					["type"] = 1,
-					["time"] = 1568748949,
-					["from"] = "Damond",
-					["msg"] = "im getting fucked again",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [90]
-				{
-					["type"] = 1,
-					["time"] = 1568748958,
-					["from"] = "Pevi",
-					["msg"] = "the 50 mage will pull |cffc69b6daggro|r",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [91]
-				{
-					["type"] = 1,
-					["time"] = 1568748961,
-					["from"] = "Pevi",
-					["msg"] = "so  bad",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [92]
-				{
-					["type"] = 1,
-					["time"] = 1568748965,
-					["from"] = "Damond",
-					["msg"] = "from who?",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [93]
-				{
-					["type"] = 1,
-					["time"] = 1568748966,
-					["from"] = "Damond",
-					["msg"] = "him self?",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [94]
-				{
-					["type"] = 1,
-					["time"] = 1568748970,
-					["from"] = "Pevi",
-					["msg"] = ":DD true",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [95]
-				{
-					["type"] = 1,
-					["time"] = 1568748972,
-					["from"] = "Damond",
-					["msg"] = "he has |cffc69b6daggro|r anyway",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [96]
-				{
-					["type"] = 1,
-					["time"] = 1568748983,
-					["from"] = "Pevi",
-					["msg"] = "aight ",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [97]
-				{
-					["type"] = 1,
-					["time"] = 1568750808,
-					["from"] = "Damond",
-					["msg"] = "you wanna keep going or?",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [98]
-				{
-					["type"] = 1,
-					["time"] = 1568750817,
-					["from"] = "Damond",
-					["msg"] = "down to 3",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [99]
-				{
-					["type"] = 1,
-					["time"] = 1568750825,
-					["from"] = "Pevi",
-					["msg"] = "3 what?",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [100]
-				{
-					["type"] = 1,
-					["time"] = 1568750828,
-					["from"] = "Damond",
-					["msg"] = "players",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [101]
-				{
-					["type"] = 1,
-					["time"] = 1568750845,
-					["from"] = "Pevi",
-					["msg"] = "should find  one more",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [102]
-				{
-					["type"] = 1,
-					["time"] = 1568750850,
-					["from"] = "Pevi",
-					["msg"] = "and we can keep goin",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [103]
-				{
-					["type"] = 1,
-					["time"] = 1568750861,
-					["from"] = "Pevi",
-					["msg"] = "im chillin, listening to podcasts",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [104]
-				{
-					["type"] = 1,
-					["time"] = 1568750867,
-					["from"] = "Pevi",
-					["msg"] = "it doesmt take much efffort",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [105]
-				{
-					["type"] = 1,
-					["time"] = 1568750868,
-					["from"] = "Damond",
-					["msg"] = "looking",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [106]
-				{
-					["type"] = 1,
-					["time"] = 1568827391,
-					["from"] = "Damond",
-					["msg"] = "lmk if you need a lock",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [107]
-				{
-					["type"] = 1,
-					["time"] = 1568827404,
-					["from"] = "Pevi",
-					["msg"] = "okay, but we just started with a grp |Helvmoji:%Oig=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\SlightFrown.tga:16:16|t",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [108]
-				{
-					["type"] = 1,
-					["time"] = 1568827408,
-					["from"] = "Pevi",
-					["msg"] = "ill tell if we need",
-					["inbound"] = true,
-					["convo"] = "Pevi",
-				}, -- [109]
-				{
-					["type"] = 1,
-					["time"] = 1568827412,
-					["from"] = "Damond",
-					["msg"] = "cool",
-					["inbound"] = false,
-					["convo"] = "Pevi",
-				}, -- [110]
 				["info"] = {
 				},
 			},
-			["Gigawoot"] = {
+			["Rocci"] = {
 				{
 					["type"] = 1,
-					["time"] = 1568234562,
+					["time"] = 1570043928,
 					["from"] = "Damond",
-					["msg"] = "then you just stay far back when he dies and his pops comes and avenges his death |Helvmoji:%OkQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin.tga:16:16|t freakin sweet",
+					["msg"] = "need to adjust your push to talk",
 					["inbound"] = false,
-					["convo"] = "Gigawoot",
+					["convo"] = "Rocci",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1568234575,
+					["time"] = 1570043932,
 					["from"] = "Damond",
-					["msg"] = "he's supposed to die I guess?",
+					["msg"] = "you cut out a lot",
 					["inbound"] = false,
-					["convo"] = "Gigawoot",
+					["convo"] = "Rocci",
+				}, -- [2]
+				["info"] = {
+				},
+			},
+			["Diphda"] = {
+				{
+					["type"] = 1,
+					["time"] = 1569699997,
+					["from"] = "Damond",
+					["msg"] = "need a 55 lock?",
+					["inbound"] = false,
+					["convo"] = "Diphda",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1569700002,
+					["from"] = "Diphda",
+					["msg"] = "yep",
+					["inbound"] = true,
+					["convo"] = "Diphda",
 				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1568234583,
-					["from"] = "Gigawoot",
-					["msg"] = "he died on the 4 elites and it failed",
-					["inbound"] = true,
-					["convo"] = "Gigawoot",
+					["time"] = 1569700008,
+					["from"] = "Damond",
+					["msg"] = "just a sec",
+					["inbound"] = false,
+					["convo"] = "Diphda",
 				}, -- [3]
 				{
 					["type"] = 1,
-					["time"] = 1568234613,
+					["time"] = 1569700022,
 					["from"] = "Damond",
-					["msg"] = "welp idk then",
+					["msg"] = "inv",
 					["inbound"] = false,
-					["convo"] = "Gigawoot",
+					["convo"] = "Diphda",
 				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1568653105,
-					["from"] = "Damond",
-					["msg"] = "fiery is fire dmg no?",
-					["inbound"] = false,
-					["convo"] = "Gigawoot",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1568653119,
-					["from"] = "Gigawoot",
-					["msg"] = "40 additional fire damage yes",
-					["inbound"] = true,
-					["convo"] = "Gigawoot",
-				}, -- [6]
-				{
-					["type"] = 1,
-					["time"] = 1568653124,
-					["from"] = "Damond",
-					["msg"] = "ye dont get that",
-					["inbound"] = false,
-					["convo"] = "Gigawoot",
-				}, -- [7]
-				{
-					["type"] = 1,
-					["time"] = 1568653129,
-					["from"] = "Gigawoot",
-					["msg"] = "but striking on oh is useless aswell",
-					["inbound"] = true,
-					["convo"] = "Gigawoot",
-				}, -- [8]
-				{
-					["type"] = 1,
-					["time"] = 1568653136,
-					["from"] = "Damond",
-					["msg"] = "fire dmg is rip until AQ",
-					["inbound"] = false,
-					["convo"] = "Gigawoot",
-				}, -- [9]
-				{
-					["type"] = 1,
-					["time"] = 1568653159,
-					["from"] = "Gigawoot",
-					["msg"] = "is literally everything fire immune ?",
-					["inbound"] = true,
-					["convo"] = "Gigawoot",
-				}, -- [10]
-				{
-					["type"] = 1,
-					["time"] = 1568653179,
-					["from"] = "Damond",
-					["msg"] = "immune or high fire resist",
-					["inbound"] = false,
-					["convo"] = "Gigawoot",
-				}, -- [11]
-				{
-					["type"] = 1,
-					["time"] = 1568653188,
-					["from"] = "Gigawoot",
-					["msg"] = "it would be nice outside of MC",
-					["inbound"] = true,
-					["convo"] = "Gigawoot",
-				}, -- [12]
-				{
-					["type"] = 1,
-					["time"] = 1568653191,
-					["from"] = "Gigawoot",
-					["msg"] = "thats the idea",
-					["inbound"] = true,
-					["convo"] = "Gigawoot",
-				}, -- [13]
-				{
-					["type"] = 1,
-					["time"] = 1568653223,
-					["from"] = "Damond",
-					["msg"] = "ye outside raids it should be fine",
-					["inbound"] = false,
-					["convo"] = "Gigawoot",
-				}, -- [14]
-				{
-					["type"] = 1,
-					["time"] = 1568653530,
-					["from"] = "Damond",
-					["msg"] = "dont rogues have a theorycrafting discord?",
-					["inbound"] = false,
-					["convo"] = "Gigawoot",
-				}, -- [15]
-				{
-					["type"] = 1,
-					["time"] = 1568653535,
-					["from"] = "Damond",
-					["msg"] = "with sheets and shit",
-					["inbound"] = false,
-					["convo"] = "Gigawoot",
-				}, -- [16]
-				{
-					["type"] = 1,
-					["time"] = 1568653540,
-					["from"] = "Damond",
-					["msg"] = "I know warriors do",
-					["inbound"] = false,
-					["convo"] = "Gigawoot",
-				}, -- [17]
-				{
-					["type"] = 1,
-					["time"] = 1568653546,
-					["from"] = "Damond",
-					["msg"] = "and ive got a sheet for locks as well",
-					["inbound"] = false,
-					["convo"] = "Gigawoot",
-				}, -- [18]
-				{
-					["type"] = 1,
-					["time"] = 1568653557,
-					["from"] = "Gigawoot",
-					["msg"] = "why would I need that",
-					["inbound"] = true,
-					["convo"] = "Gigawoot",
-				}, -- [19]
-				{
-					["type"] = 1,
-					["time"] = 1568653615,
-					["from"] = "Damond",
-					["msg"] = "for exactly this",
-					["inbound"] = false,
-					["convo"] = "Gigawoot",
-				}, -- [20]
-				{
-					["type"] = 1,
-					["time"] = 1568653620,
-					["from"] = "Damond",
-					["msg"] = "checking enchants",
-					["inbound"] = false,
-					["convo"] = "Gigawoot",
-				}, -- [21]
-				{
-					["type"] = 1,
-					["time"] = 1568653621,
-					["from"] = "Damond",
-					["msg"] = "etc",
-					["inbound"] = false,
-					["convo"] = "Gigawoot",
-				}, -- [22]
-				{
-					["type"] = 1,
-					["time"] = 1568653625,
-					["from"] = "Gigawoot",
-					["msg"] = "I imagine a rogue discord would be filled with anal jokes and ass pictures",
-					["inbound"] = true,
-					["convo"] = "Gigawoot",
-				}, -- [23]
-				{
-					["type"] = 1,
-					["time"] = 1568653640,
-					["from"] = "Gigawoot",
-					["msg"] = "tho that is a good reason to join it",
-					["inbound"] = true,
-					["convo"] = "Gigawoot",
-				}, -- [24]
-				{
-					["type"] = 1,
-					["time"] = 1568653645,
-					["from"] = "Damond",
-					["msg"] = "lmao",
-					["inbound"] = false,
-					["convo"] = "Gigawoot",
-				}, -- [25]
-				{
-					["type"] = 1,
-					["time"] = 1568653651,
-					["from"] = "Damond",
-					["msg"] = "ye why wouldnt you need that",
-					["inbound"] = false,
-					["convo"] = "Gigawoot",
-				}, -- [26]
-				{
-					["type"] = 1,
-					["time"] = 1568653671,
-					["from"] = "Damond",
-					["msg"] = "might even be some female asses in there as well",
-					["inbound"] = false,
-					["convo"] = "Gigawoot",
-				}, -- [27]
-				{
-					["type"] = 1,
-					["time"] = 1568653672,
-					["from"] = "Gigawoot",
-					["msg"] = "mh enchant: crusader, oh enchant: crusader",
-					["inbound"] = true,
-					["convo"] = "Gigawoot",
-				}, -- [28]
-				{
-					["type"] = 1,
-					["time"] = 1568653678,
-					["from"] = "Gigawoot",
-					["msg"] = "\"mh enchant: crusader, oh enchant: crusader\"",
-					["inbound"] = true,
-					["convo"] = "Gigawoot",
-				}, -- [29]
-				{
-					["type"] = 1,
-					["time"] = 1568653725,
-					["from"] = "Damond",
-					["msg"] = "isnt there some agi enchant?",
-					["inbound"] = false,
-					["convo"] = "Gigawoot",
-				}, -- [30]
-				{
-					["type"] = 1,
-					["time"] = 1568653729,
-					["from"] = "Damond",
-					["msg"] = "or is that later mby",
-					["inbound"] = false,
-					["convo"] = "Gigawoot",
-				}, -- [31]
-				{
-					["type"] = 1,
-					["time"] = 1568653738,
-					["from"] = "Damond",
-					["msg"] = "or 2h",
-					["inbound"] = false,
-					["convo"] = "Gigawoot",
-				}, -- [32]
-				{
-					["type"] = 1,
-					["time"] = 1568653836,
-					["from"] = "Damond",
-					["msg"] = "idk",
-					["inbound"] = false,
-					["convo"] = "Gigawoot",
-				}, -- [33]
-				{
-					["type"] = 1,
-					["time"] = 1568653839,
-					["from"] = "Gigawoot",
-					["msg"] = "Requires Timbermaw Hold - Honored",
-					["inbound"] = true,
-					["convo"] = "Gigawoot",
-				}, -- [34]
-				{
-					["type"] = 1,
-					["time"] = 1568653844,
-					["from"] = "Damond",
-					["msg"] = "anyway logging to eat",
-					["inbound"] = false,
-					["convo"] = "Gigawoot",
-				}, -- [35]
-				{
-					["type"] = 1,
-					["time"] = 1568653860,
-					["from"] = "Damond",
-					["msg"] = "ah ok",
-					["inbound"] = false,
-					["convo"] = "Gigawoot",
-				}, -- [36]
 				["info"] = {
 				},
 			},
-			["Fríða"] = {
+			["Fear"] = {
 				{
 					["type"] = 1,
-					["time"] = 1568473934,
+					["time"] = 1570050521,
 					["from"] = "Damond",
-					["msg"] = "sm cath?",
+					["msg"] = "got 3",
 					["inbound"] = false,
-					["convo"] = "Fríða",
+					["convo"] = "Fear",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1568473941,
-					["from"] = "Damond",
-					["msg"] = "can summon",
-					["inbound"] = false,
-					["convo"] = "Fríða",
+					["time"] = 1570050529,
+					["from"] = "Fear",
+					["msg"] = "Is 4g okay? ",
+					["inbound"] = true,
+					["convo"] = "Fear",
 				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1568473954,
-					["from"] = "Fríða",
-					["msg"] = "in a few minutes",
-					["inbound"] = true,
-					["convo"] = "Fríða",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1568473975,
+					["time"] = 1570050534,
 					["from"] = "Damond",
 					["msg"] = "sure",
 					["inbound"] = false,
-					["convo"] = "Fríða",
+					["convo"] = "Fear",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1570050542,
+					["from"] = "Damond",
+					["msg"] = "how many do you want?",
+					["inbound"] = false,
+					["convo"] = "Fear",
 				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1570050547,
+					["from"] = "Fear",
+					["msg"] = "just 1 ",
+					["inbound"] = true,
+					["convo"] = "Fear",
+				}, -- [5]
 				["info"] = {
 				},
 			},
 			["Adieu#2823"] = {
-				{
-					["type"] = 1,
-					["time"] = 1568319810,
-					["from"] = "Adieu#2823",
-					["msg"] = "so what do i do now",
-					["inbound"] = true,
-					["convo"] = "Adieu#2823",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1568319828,
-					["from"] = "Damond",
-					["msg"] = "are you attuned?",
-					["inbound"] = false,
-					["convo"] = "Adieu#2823",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1568319835,
-					["from"] = "Damond",
-					["msg"] = "to MC and ony",
-					["inbound"] = false,
-					["convo"] = "Adieu#2823",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1568319836,
-					["from"] = "Adieu#2823",
-					["msg"] = "negative",
-					["inbound"] = true,
-					["convo"] = "Adieu#2823",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1568319858,
-					["from"] = "Damond",
-					["msg"] = "MC attunement is super fast, its just half a lava run",
-					["inbound"] = false,
-					["convo"] = "Adieu#2823",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1568319862,
-					["from"] = "Adieu#2823",
-					["msg"] = "mc is just [60+] Attunement to the Core right",
-					["inbound"] = true,
-					["convo"] = "Adieu#2823",
-				}, -- [6]
-				{
-					["type"] = 1,
-					["time"] = 1568319864,
-					["from"] = "Adieu#2823",
-					["msg"] = "?",
-					["inbound"] = true,
-					["convo"] = "Adieu#2823",
-				}, -- [7]
-				{
-					["type"] = 1,
-					["time"] = 1568319867,
-					["from"] = "Damond",
-					["msg"] = "ye",
-					["inbound"] = false,
-					["convo"] = "Adieu#2823",
-				}, -- [8]
-				{
-					["type"] = 1,
-					["time"] = 1568319876,
-					["from"] = "Damond",
-					["msg"] = "you just jump through the lava to the MC entrance",
-					["inbound"] = false,
-					["convo"] = "Adieu#2823",
-				}, -- [9]
-				{
-					["type"] = 1,
-					["time"] = 1568319880,
-					["from"] = "Damond",
-					["msg"] = "and click a stone",
-					["inbound"] = false,
-					["convo"] = "Adieu#2823",
-				}, -- [10]
-				{
-					["type"] = 1,
-					["time"] = 1568319903,
-					["from"] = "Damond",
-					["msg"] = "you need to kill stuff though so cant solo",
-					["inbound"] = false,
-					["convo"] = "Adieu#2823",
-				}, -- [11]
-				{
-					["type"] = 1,
-					["time"] = 1568319918,
-					["from"] = "Damond",
-					["msg"] = "ony chain is pretty long",
-					["inbound"] = false,
-					["convo"] = "Adieu#2823",
-				}, -- [12]
-				{
-					["type"] = 1,
-					["time"] = 1568319923,
-					["from"] = "Adieu#2823",
-					["msg"] = "can i feign through",
-					["inbound"] = true,
-					["convo"] = "Adieu#2823",
-				}, -- [13]
-				{
-					["type"] = 1,
-					["time"] = 1568319926,
-					["from"] = "Damond",
-					["msg"] = "you need ot do UBRS twice I think",
-					["inbound"] = false,
-					["convo"] = "Adieu#2823",
-				}, -- [14]
-				{
-					["type"] = 1,
-					["time"] = 1568319930,
-					["from"] = "Damond",
-					["msg"] = "idk, maybe",
-					["inbound"] = false,
-					["convo"] = "Adieu#2823",
-				}, -- [15]
-				{
-					["type"] = 1,
-					["time"] = 1568319936,
-					["from"] = "Damond",
-					["msg"] = "pull with pet",
-					["inbound"] = false,
-					["convo"] = "Adieu#2823",
-				}, -- [16]
-				{
-					["type"] = 1,
-					["time"] = 1568319938,
-					["from"] = "Damond",
-					["msg"] = "feign",
-					["inbound"] = false,
-					["convo"] = "Adieu#2823",
-				}, -- [17]
 				{
 					["type"] = 1,
 					["time"] = 1569175196,
@@ -2727,7 +1923,7 @@ WIM3_History = {
 					["msg"] = "how's leveling",
 					["inbound"] = true,
 					["convo"] = "Adieu#2823",
-				}, -- [18]
+				}, -- [1]
 				{
 					["type"] = 1,
 					["time"] = 1569175314,
@@ -2735,7 +1931,7 @@ WIM3_History = {
 					["msg"] = "this your 3rd time leveling to 60?",
 					["inbound"] = true,
 					["convo"] = "Adieu#2823",
-				}, -- [19]
+				}, -- [2]
 				{
 					["type"] = 1,
 					["time"] = 1569175335,
@@ -2743,7 +1939,7 @@ WIM3_History = {
 					["msg"] = "so was i but i had 2 weeks off lol",
 					["inbound"] = true,
 					["convo"] = "Adieu#2823",
-				}, -- [20]
+				}, -- [3]
 				{
 					["type"] = 1,
 					["time"] = 1569175399,
@@ -2751,7 +1947,7 @@ WIM3_History = {
 					["msg"] = "4th if you count back in 2005",
 					["inbound"] = false,
 					["convo"] = "Adieu#2823",
-				}, -- [21]
+				}, -- [4]
 				{
 					["type"] = 1,
 					["time"] = 1569175401,
@@ -2759,7 +1955,7 @@ WIM3_History = {
 					["msg"] = "stormwall was talking about u the other day",
 					["inbound"] = true,
 					["convo"] = "Adieu#2823",
-				}, -- [22]
+				}, -- [5]
 				{
 					["type"] = 1,
 					["time"] = 1569175404,
@@ -2767,7 +1963,7 @@ WIM3_History = {
 					["msg"] = "he said some of our hardcore players havent got 60 yet in discord",
 					["inbound"] = true,
 					["convo"] = "Adieu#2823",
-				}, -- [23]
+				}, -- [6]
 				{
 					["type"] = 1,
 					["time"] = 1569175411,
@@ -2775,7 +1971,7 @@ WIM3_History = {
 					["msg"] = "mentioned you and a couple others",
 					["inbound"] = true,
 					["convo"] = "Adieu#2823",
-				}, -- [24]
+				}, -- [7]
 				{
 					["type"] = 1,
 					["time"] = 1569175412,
@@ -2783,7 +1979,7 @@ WIM3_History = {
 					["msg"] = "nonslaughter i think",
 					["inbound"] = true,
 					["convo"] = "Adieu#2823",
-				}, -- [25]
+				}, -- [8]
 				{
 					["type"] = 1,
 					["time"] = 1569175451,
@@ -2791,7 +1987,7 @@ WIM3_History = {
 					["msg"] = "ye nonslag is decent",
 					["inbound"] = false,
 					["convo"] = "Adieu#2823",
-				}, -- [26]
+				}, -- [9]
 				{
 					["type"] = 1,
 					["time"] = 1569175703,
@@ -2799,7 +1995,7 @@ WIM3_History = {
 					["msg"] = "how was the raid?",
 					["inbound"] = false,
 					["convo"] = "Adieu#2823",
-				}, -- [27]
+				}, -- [10]
 				{
 					["type"] = 1,
 					["time"] = 1569175747,
@@ -2807,7 +2003,7 @@ WIM3_History = {
 					["msg"] = "worse then our pug raid with good game actually lol",
 					["inbound"] = true,
 					["convo"] = "Adieu#2823",
-				}, -- [28]
+				}, -- [11]
 				{
 					["type"] = 1,
 					["time"] = 1569175756,
@@ -2815,7 +2011,7 @@ WIM3_History = {
 					["msg"] = "but not bad overall i guess",
 					["inbound"] = true,
 					["convo"] = "Adieu#2823",
-				}, -- [29]
+				}, -- [12]
 				{
 					["type"] = 1,
 					["time"] = 1569175790,
@@ -2823,299 +2019,927 @@ WIM3_History = {
 					["msg"] = "lmao",
 					["inbound"] = false,
 					["convo"] = "Adieu#2823",
+				}, -- [13]
+				{
+					["type"] = 1,
+					["time"] = 1569446010,
+					["from"] = "Adieu#2823",
+					["msg"] = "next week mc split",
+					["inbound"] = true,
+					["convo"] = "Adieu#2823",
+				}, -- [14]
+				{
+					["type"] = 1,
+					["time"] = 1569446015,
+					["from"] = "Adieu#2823",
+					["msg"] = "better get attuned boi ^^",
+					["inbound"] = true,
+					["convo"] = "Adieu#2823",
+				}, -- [15]
+				{
+					["type"] = 1,
+					["time"] = 1569446030,
+					["from"] = "Adieu#2823",
+					["msg"] = "need them banish resists",
+					["inbound"] = true,
+					["convo"] = "Adieu#2823",
+				}, -- [16]
+				{
+					["type"] = 1,
+					["time"] = 1569446031,
+					["from"] = "Damond",
+					["msg"] = "mc split",
+					["inbound"] = false,
+					["convo"] = "Adieu#2823",
+				}, -- [17]
+				{
+					["type"] = 1,
+					["time"] = 1569446035,
+					["from"] = "Damond",
+					["msg"] = "worst idea yet",
+					["inbound"] = false,
+					["convo"] = "Adieu#2823",
+				}, -- [18]
+				{
+					["type"] = 1,
+					["time"] = 1569446050,
+					["from"] = "Adieu#2823",
+					["msg"] = "our roster is like 70 people or something i think",
+					["inbound"] = true,
+					["convo"] = "Adieu#2823",
+				}, -- [19]
+				{
+					["type"] = 1,
+					["time"] = 1569446105,
+					["from"] = "Damond",
+					["msg"] = "I dont believe we can handle 2 raids",
+					["inbound"] = false,
+					["convo"] = "Adieu#2823",
+				}, -- [20]
+				{
+					["type"] = 1,
+					["time"] = 1569446118,
+					["from"] = "Damond",
+					["msg"] = "but we'll see",
+					["inbound"] = false,
+					["convo"] = "Adieu#2823",
+				}, -- [21]
+				{
+					["type"] = 1,
+					["time"] = 1569446289,
+					["from"] = "Damond",
+					["msg"] = "should be attuned next week",
+					["inbound"] = false,
+					["convo"] = "Adieu#2823",
+				}, -- [22]
+				{
+					["type"] = 1,
+					["time"] = 1569446298,
+					["from"] = "Damond",
+					["msg"] = "dunno bout 60",
+					["inbound"] = false,
+					["convo"] = "Adieu#2823",
+				}, -- [23]
+				{
+					["type"] = 1,
+					["time"] = 1570050801,
+					["from"] = "Adieu#2823",
+					["msg"] = "are you attuned for ony yet?",
+					["inbound"] = true,
+					["convo"] = "Adieu#2823",
+				}, -- [24]
+				{
+					["type"] = 1,
+					["time"] = 1570050808,
+					["from"] = "Damond",
+					["msg"] = "ye",
+					["inbound"] = false,
+					["convo"] = "Adieu#2823",
+				}, -- [25]
+				{
+					["type"] = 1,
+					["time"] = 1570050809,
+					["from"] = "Adieu#2823",
+					["msg"] = "think i saw you do a ubrs right?",
+					["inbound"] = true,
+					["convo"] = "Adieu#2823",
+				}, -- [26]
+				{
+					["type"] = 1,
+					["time"] = 1570050811,
+					["from"] = "Adieu#2823",
+					["msg"] = "noice",
+					["inbound"] = true,
+					["convo"] = "Adieu#2823",
+				}, -- [27]
+				{
+					["type"] = 1,
+					["time"] = 1570050835,
+					["from"] = "Damond",
+					["msg"] = "im completely useless though",
+					["inbound"] = false,
+					["convo"] = "Adieu#2823",
+				}, -- [28]
+				{
+					["type"] = 1,
+					["time"] = 1570050853,
+					["from"] = "Adieu#2823",
+					["msg"] = "we killed rag .5s before submerge",
+					["inbound"] = true,
+					["convo"] = "Adieu#2823",
+				}, -- [29]
+				{
+					["type"] = 1,
+					["time"] = 1570050861,
+					["from"] = "Adieu#2823",
+					["msg"] = "fucking batching like ds40",
+					["inbound"] = true,
+					["convo"] = "Adieu#2823",
 				}, -- [30]
+				{
+					["type"] = 1,
+					["time"] = 1570050867,
+					["from"] = "Adieu#2823",
+					["msg"] = "he sat on 20k hp for 10s",
+					["inbound"] = true,
+					["convo"] = "Adieu#2823",
+				}, -- [31]
+				{
+					["type"] = 1,
+					["time"] = 1570050883,
+					["from"] = "Damond",
+					["msg"] = "we wiped .5s after submerge",
+					["inbound"] = false,
+					["convo"] = "Adieu#2823",
+				}, -- [32]
+				{
+					["type"] = 1,
+					["time"] = 1570050886,
+					["from"] = "Damond",
+					["msg"] = ":done:",
+					["inbound"] = false,
+					["convo"] = "Adieu#2823",
+				}, -- [33]
+				{
+					["type"] = 1,
+					["time"] = 1570050896,
+					["from"] = "Adieu#2823",
+					["msg"] = ":s",
+					["inbound"] = true,
+					["convo"] = "Adieu#2823",
+				}, -- [34]
+				{
+					["type"] = 1,
+					["time"] = 1570051067,
+					["from"] = "Damond",
+					["msg"] = "we did it reddit!",
+					["inbound"] = false,
+					["convo"] = "Adieu#2823",
+				}, -- [35]
+				{
+					["type"] = 1,
+					["time"] = 1570051071,
+					["from"] = "Adieu#2823",
+					["msg"] = "yeeey",
+					["inbound"] = true,
+					["convo"] = "Adieu#2823",
+				}, -- [36]
+				{
+					["type"] = 1,
+					["time"] = 1570051086,
+					["from"] = "Damond",
+					["msg"] = "28 on dps",
+					["inbound"] = false,
+					["convo"] = "Adieu#2823",
+				}, -- [37]
+				{
+					["type"] = 1,
+					["time"] = 1570051091,
+					["from"] = "Damond",
+					["msg"] = "barely above healers",
+					["inbound"] = false,
+					["convo"] = "Adieu#2823",
+				}, -- [38]
+				{
+					["type"] = 1,
+					["time"] = 1570051410,
+					["from"] = "Damond",
+					["msg"] = "lmao I actually forgot to turn in the quest",
+					["inbound"] = false,
+					["convo"] = "Adieu#2823",
+				}, -- [39]
+				{
+					["type"] = 1,
+					["time"] = 1570051422,
+					["from"] = "Adieu#2823",
+					["msg"] = "lmao",
+					["inbound"] = true,
+					["convo"] = "Adieu#2823",
+				}, -- [40]
+				{
+					["type"] = 1,
+					["time"] = 1570053150,
+					["from"] = "Damond",
+					["msg"] = "I just saw |cff8787edfear|r the warlock |cff3fc6eacast|r half a felhunter summon during ony",
+					["inbound"] = false,
+					["convo"] = "Adieu#2823",
+				}, -- [41]
+				{
+					["type"] = 1,
+					["time"] = 1570053155,
+					["from"] = "Damond",
+					["msg"] = "what the actual fuck",
+					["inbound"] = false,
+					["convo"] = "Adieu#2823",
+				}, -- [42]
+				{
+					["type"] = 1,
+					["time"] = 1570053193,
+					["from"] = "Adieu#2823",
+					["msg"] = "welcome back to ds40 players",
+					["inbound"] = true,
+					["convo"] = "Adieu#2823",
+				}, -- [43]
+				{
+					["type"] = 1,
+					["time"] = 1570053214,
+					["from"] = "Damond",
+					["msg"] = "we have fucking 80 players for some reason",
+					["inbound"] = false,
+					["convo"] = "Adieu#2823",
+				}, -- [44]
 				["info"] = {
 				},
 			},
-			["Svestenik"] = {
+			["Somz"] = {
 				{
 					["type"] = 1,
-					["time"] = 1568453302,
-					["from"] = "Damond",
-					["msg"] = "you got an SM group?",
-					["inbound"] = false,
-					["convo"] = "Svestenik",
+					["time"] = 1569433055,
+					["from"] = "Somz",
+					["msg"] = "inv pls",
+					["inbound"] = true,
+					["convo"] = "Somz",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1568453311,
-					["from"] = "Svestenik",
-					["msg"] = "yeah a bad one |Helvmoji:%eEQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin.tga:16:16|t",
-					["inbound"] = true,
-					["convo"] = "Svestenik",
+					["time"] = 1569433606,
+					["from"] = "Damond",
+					["msg"] = "thx!",
+					["inbound"] = false,
+					["convo"] = "Somz",
 				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1568453326,
-					["from"] = "Damond",
-					["msg"] = "we are 3 mages and me just looking for a priest",
-					["inbound"] = false,
-					["convo"] = "Svestenik",
+					["time"] = 1569433614,
+					["from"] = "Somz",
+					["msg"] = "no worries, thanks for the group",
+					["inbound"] = true,
+					["convo"] = "Somz",
 				}, -- [3]
 				{
 					["type"] = 1,
-					["time"] = 1568453337,
-					["from"] = "Svestenik",
-					["msg"] = "got 4 mages in my grp |Helvmoji:%OlA=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\StuckOutTongue.tga:16:16|t",
+					["time"] = 1569433624,
+					["from"] = "Damond",
+					["msg"] = "likewise and thanks for wanting to help",
+					["inbound"] = false,
+					["convo"] = "Somz",
+				}, -- [4]
+				["info"] = {
+				},
+			},
+			["Ecology#1957"] = {
+				{
+					["type"] = 1,
+					["time"] = 1569522760,
+					["from"] = "Damond",
+					["msg"] = "er der noget xp at hente i dine arena runs?",
+					["inbound"] = false,
+					["convo"] = "Ecology#1957",
+				}, -- [1]
+				["info"] = {
+				},
+			},
+			["Diavoluss"] = {
+				{
+					["type"] = 1,
+					["time"] = 1569952603,
+					["from"] = "Damond",
+					["msg"] = "need a lock? only 56 though",
+					["inbound"] = false,
+					["convo"] = "Diavoluss",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1569952715,
+					["from"] = "Damond",
+					["msg"] = "guess not",
+					["inbound"] = false,
+					["convo"] = "Diavoluss",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1569952745,
+					["from"] = "Diavoluss",
+					["msg"] = "was on phone",
 					["inbound"] = true,
-					["convo"] = "Svestenik",
+					["convo"] = "Diavoluss",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1569952752,
+					["from"] = "Diavoluss",
+					["msg"] = "56 is bit too low",
+					["inbound"] = true,
+					["convo"] = "Diavoluss",
 				}, -- [4]
 				{
 					["type"] = 1,
-					["time"] = 1568453355,
+					["time"] = 1569952766,
 					["from"] = "Damond",
-					["msg"] = "you should be golden then",
+					["msg"] = "alright",
 					["inbound"] = false,
-					["convo"] = "Svestenik",
+					["convo"] = "Diavoluss",
+				}, -- [5]
+				["info"] = {
+				},
+			},
+			["Stormwall"] = {
+				{
+					["type"] = 1,
+					["time"] = 1569789146,
+					["from"] = "Stormwall",
+					["msg"] = "hey mate",
+					["inbound"] = true,
+					["convo"] = "Stormwall",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1569789152,
+					["from"] = "Stormwall",
+					["msg"] = "Kinae, know whats happened to him?",
+					["inbound"] = true,
+					["convo"] = "Stormwall",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1569789177,
+					["from"] = "Damond",
+					["msg"] = "nope, guess he gave up on leveling",
+					["inbound"] = false,
+					["convo"] = "Stormwall",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1569789181,
+					["from"] = "Damond",
+					["msg"] = "can ask if you want",
+					["inbound"] = false,
+					["convo"] = "Stormwall",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1569789188,
+					["from"] = "Stormwall",
+					["msg"] = "yeah please",
+					["inbound"] = true,
+					["convo"] = "Stormwall",
 				}, -- [5]
 				{
 					["type"] = 1,
-					["time"] = 1568453387,
+					["time"] = 1569789409,
 					["from"] = "Damond",
-					["msg"] = "aight we got one, gl!",
+					["msg"] = "on a side node, ill finally be able to raid if im needed",
 					["inbound"] = false,
-					["convo"] = "Svestenik",
+					["convo"] = "Stormwall",
 				}, -- [6]
 				{
 					["type"] = 1,
-					["time"] = 1568453394,
-					["from"] = "Svestenik",
-					["msg"] = "thanks man gl",
-					["inbound"] = true,
-					["convo"] = "Svestenik",
+					["time"] = 1569789427,
+					["from"] = "Damond",
+					["msg"] = "just need to lava jump once",
+					["inbound"] = false,
+					["convo"] = "Stormwall",
 				}, -- [7]
 				{
 					["type"] = 1,
-					["time"] = 1568453397,
-					["from"] = "Svestenik",
-					["msg"] = "will log off anyway",
+					["time"] = 1569789437,
+					["from"] = "Stormwall",
+					["msg"] = "wooo",
 					["inbound"] = true,
-					["convo"] = "Svestenik",
+					["convo"] = "Stormwall",
 				}, -- [8]
 				{
 					["type"] = 1,
-					["time"] = 1568552331,
+					["time"] = 1569955766,
 					["from"] = "Damond",
-					["msg"] = "if you need a lock lmk",
+					["msg"] = "lmk if you want me in that ubrs run",
 					["inbound"] = false,
-					["convo"] = "Svestenik",
-				}, -- [9]
-				["info"] = {
-				},
-			},
-			["Daprofessor"] = {
-				{
-					["type"] = 1,
-					["time"] = 1568404630,
-					["from"] = "Damond",
-					["msg"] = "you in an SM group?",
-					["inbound"] = false,
-					["convo"] = "Daprofessor",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1568404715,
-					["from"] = "Daprofessor",
-					["msg"] = "ye soz",
-					["inbound"] = true,
-					["convo"] = "Daprofessor",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1568404721,
-					["from"] = "Damond",
-					["msg"] = "np gl",
-					["inbound"] = false,
-					["convo"] = "Daprofessor",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1568404737,
-					["from"] = "Daprofessor",
-					["msg"] = "u2",
-					["inbound"] = true,
-					["convo"] = "Daprofessor",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1568404793,
-					["from"] = "Daprofessor",
-					["msg"] = "gi",
-					["inbound"] = true,
-					["convo"] = "Daprofessor",
-				}, -- [5]
-				["info"] = {
-				},
-			},
-			["Pissycutzu"] = {
-				{
-					["type"] = 1,
-					["time"] = 1568301403,
-					["from"] = "Pissycutzu",
-					["msg"] = "wanna come cath spellcleave runs ?",
-					["inbound"] = true,
-					["convo"] = "Pissycutzu",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1568301418,
-					["from"] = "Pissycutzu",
-					["msg"] = "hello |Helvmoji:%Oik=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Smile.tga:16:16|t",
-					["inbound"] = true,
-					["convo"] = "Pissycutzu",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1568301456,
-					["from"] = "Damond",
-					["msg"] = "hey",
-					["inbound"] = false,
-					["convo"] = "Pissycutzu",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1568301465,
-					["from"] = "Damond",
-					["msg"] = "im kinda half afk, making food and stuff",
-					["inbound"] = false,
-					["convo"] = "Pissycutzu",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1568301482,
-					["from"] = "Pissycutzu",
-					["msg"] = "sure mate, enjoy the meal",
-					["inbound"] = true,
-					["convo"] = "Pissycutzu",
-				}, -- [5]
-				["info"] = {
-				},
-			},
-			["Rdest"] = {
-				{
-					["type"] = 1,
-					["time"] = 1568734763,
-					["from"] = "Damond",
-					["msg"] = "gonna try to farm again tonight if you want in",
-					["inbound"] = false,
-					["convo"] = "Rdest",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1568734771,
-					["from"] = "Damond",
-					["msg"] = "waiting for |cfff48cbapevi|r to log atm",
-					["inbound"] = false,
-					["convo"] = "Rdest",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1568735744,
-					["from"] = "Damond",
-					["msg"] = "up for gy farm again?",
-					["inbound"] = false,
-					["convo"] = "Rdest",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1568735785,
-					["from"] = "Rdest",
-					["msg"] = "Sure",
-					["inbound"] = true,
-					["convo"] = "Rdest",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1568735789,
-					["from"] = "Rdest",
-					["msg"] = "now?",
-					["inbound"] = true,
-					["convo"] = "Rdest",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1568735802,
-					["from"] = "Damond",
-					["msg"] = "ye soon as we get 1 more mage and a healer",
-					["inbound"] = false,
-					["convo"] = "Rdest",
-				}, -- [6]
-				{
-					["type"] = 1,
-					["time"] = 1568735822,
-					["from"] = "Rdest",
-					["msg"] = "let me know when youll find rest ill complete one quest real quick",
-					["inbound"] = true,
-					["convo"] = "Rdest",
-				}, -- [7]
-				{
-					["type"] = 1,
-					["time"] = 1568735831,
-					["from"] = "Damond",
-					["msg"] = "k, np",
-					["inbound"] = false,
-					["convo"] = "Rdest",
-				}, -- [8]
-				{
-					["type"] = 1,
-					["time"] = 1568736200,
-					["from"] = "Damond",
-					["msg"] = "we are rdy now",
-					["inbound"] = false,
-					["convo"] = "Rdest",
+					["convo"] = "Stormwall",
 				}, -- [9]
 				{
 					["type"] = 1,
-					["time"] = 1568736208,
+					["time"] = 1569957033,
 					["from"] = "Damond",
-					["msg"] = "well gotta run there",
+					["msg"] = "still gonna do urbs tonight? and do you want me in there for ony attunement?",
 					["inbound"] = false,
-					["convo"] = "Rdest",
+					["convo"] = "Stormwall",
 				}, -- [10]
 				{
 					["type"] = 1,
-					["time"] = 1568736212,
-					["from"] = "Damond",
-					["msg"] = "you can wait a little",
-					["inbound"] = false,
-					["convo"] = "Rdest",
+					["time"] = 1569957040,
+					["from"] = "Stormwall",
+					["msg"] = "yeah",
+					["inbound"] = true,
+					["convo"] = "Stormwall",
 				}, -- [11]
 				{
 					["type"] = 1,
-					["time"] = 1568736227,
-					["from"] = "Rdest",
-					["msg"] = "ok inv",
-					["inbound"] = true,
-					["convo"] = "Rdest",
+					["time"] = 1569957129,
+					["from"] = "Damond",
+					["msg"] = "aight awesome, let me know when",
+					["inbound"] = false,
+					["convo"] = "Stormwall",
 				}, -- [12]
+				{
+					["type"] = 1,
+					["time"] = 1569960973,
+					["from"] = "Damond",
+					["msg"] = "rdy for ubrs",
+					["inbound"] = false,
+					["convo"] = "Stormwall",
+				}, -- [13]
 				["info"] = {
 				},
 			},
-			["Elufson"] = {
+			["Cadareria"] = {
 				{
 					["type"] = 1,
-					["time"] = 1568386926,
-					["from"] = "Elufson",
-					["msg"] = "wanna do armory and cath?",
-					["inbound"] = true,
-					["convo"] = "Elufson",
+					["time"] = 1570038666,
+					["from"] = "Damond",
+					["msg"] = "we using /join eternallock?",
+					["inbound"] = false,
+					["convo"] = "Cadareria",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1568386941,
-					["from"] = "Damond",
-					["msg"] = "no thx, not right now",
-					["inbound"] = false,
-					["convo"] = "Elufson",
+					["time"] = 1570038683,
+					["from"] = "Cadareria",
+					["msg"] = "y",
+					["inbound"] = true,
+					["convo"] = "Cadareria",
 				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1568387040,
-					["from"] = "Elufson",
-					["msg"] = "wanna do sm armory and cath?",
-					["inbound"] = true,
-					["convo"] = "Elufson",
+					["time"] = 1570043133,
+					["from"] = "Damond",
+					["msg"] = "ss out?",
+					["inbound"] = false,
+					["convo"] = "Cadareria",
 				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1570043140,
+					["from"] = "Cadareria",
+					["msg"] = "y",
+					["inbound"] = true,
+					["convo"] = "Cadareria",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1570043150,
+					["from"] = "Cadareria",
+					["msg"] = "need shards=/",
+					["inbound"] = true,
+					["convo"] = "Cadareria",
+				}, -- [5]
+				{
+					["type"] = 1,
+					["time"] = 1570043154,
+					["from"] = "Damond",
+					["msg"] = "can do",
+					["inbound"] = false,
+					["convo"] = "Cadareria",
+				}, -- [6]
+				["info"] = {
+				},
+			},
+			["Pevi"] = {
+				{
+					["type"] = 1,
+					["time"] = 1569433559,
+					["from"] = "Pevi",
+					["msg"] = "hey",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1569433563,
+					["from"] = "Pevi",
+					["msg"] = "got room?",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1569433573,
+					["from"] = "Damond",
+					["msg"] = "fuck",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1569433574,
+					["from"] = "Damond",
+					["msg"] = "wait",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1569433582,
+					["from"] = "Damond",
+					["msg"] = "ye",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [5]
+				{
+					["type"] = 1,
+					["time"] = 1569433585,
+					["from"] = "Pevi",
+					["msg"] = "noice",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [6]
+				{
+					["type"] = 1,
+					["time"] = 1569433593,
+					["from"] = "Damond",
+					["msg"] = "leave",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [7]
+				{
+					["type"] = 1,
+					["time"] = 1569433606,
+					["from"] = "Pevi",
+					["msg"] = "thank you",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [8]
+				{
+					["type"] = 1,
+					["time"] = 1569433621,
+					["from"] = "Pevi",
+					["msg"] = "there is a Ud rog her somewhere ganking",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [9]
+				{
+					["type"] = 1,
+					["time"] = 1569434228,
+					["from"] = "Pevi",
+					["msg"] = "I feel like leadership has made a misstake with overrecruiting",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [10]
+				{
+					["type"] = 1,
+					["time"] = 1569434255,
+					["from"] = "Damond",
+					["msg"] = "storm made |cffffffffrocci|r an officer",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [11]
+				{
+					["type"] = 1,
+					["time"] = 1569434259,
+					["from"] = "Damond",
+					["msg"] = "its all downhill from there",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [12]
+				{
+					["type"] = 1,
+					["time"] = 1569434265,
+					["from"] = "Pevi",
+					["msg"] = "sadly yes",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [13]
+				{
+					["type"] = 1,
+					["time"] = 1569434281,
+					["from"] = "Pevi",
+					["msg"] = "i spent too many time with |cffffffffrocci|r farming DM for gold",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [14]
+				{
+					["type"] = 1,
+					["time"] = 1569434284,
+					["from"] = "Damond",
+					["msg"] = "overrecruiting isnt really an issue though",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [15]
+				{
+					["type"] = 1,
+					["time"] = 1569434290,
+					["from"] = "Damond",
+					["msg"] = "the problem is if we dont get rid of ppl",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [16]
+				{
+					["type"] = 1,
+					["time"] = 1569434360,
+					["from"] = "Damond",
+					["msg"] = "the idea is recruiting a lot during leveling",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [17]
+				{
+					["type"] = 1,
+					["time"] = 1569434372,
+					["from"] = "Damond",
+					["msg"] = "then pick the good ppl for the roster",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [18]
+				{
+					["type"] = 1,
+					["time"] = 1569434378,
+					["from"] = "Damond",
+					["msg"] = "and say goodbye to the rest",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [19]
+				{
+					["type"] = 1,
+					["time"] = 1569434421,
+					["from"] = "Damond",
+					["msg"] = "making 2 raids is yikes",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [20]
+				{
+					["type"] = 1,
+					["time"] = 1569434437,
+					["from"] = "Pevi",
+					["msg"] = "i dont  really want to be that person but...",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [21]
+				{
+					["type"] = 1,
+					["time"] = 1569434443,
+					["from"] = "Pevi",
+					["msg"] = "im not raiding in raid B",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [22]
+				{
+					["type"] = 1,
+					["time"] = 1569434457,
+					["from"] = "Damond",
+					["msg"] = "exactly",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [23]
+				{
+					["type"] = 1,
+					["time"] = 1569434467,
+					["from"] = "Damond",
+					["msg"] = "and we cant handle 2 raids",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [24]
+				{
+					["type"] = 1,
+					["time"] = 1569434476,
+					["from"] = "Damond",
+					["msg"] = "atleast I highly doubt it",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [25]
+				{
+					["type"] = 1,
+					["time"] = 1569434483,
+					["from"] = "Pevi",
+					["msg"] = "me too",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [26]
+				{
+					["type"] = 1,
+					["time"] = 1569434492,
+					["from"] = "Damond",
+					["msg"] = "its better to just |cff3fc6ealet|r ppl know we cant accomodate them",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [27]
+				{
+					["type"] = 1,
+					["time"] = 1569434500,
+					["from"] = "Damond",
+					["msg"] = "and they can be socials or search for another raid team",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [28]
+				{
+					["type"] = 1,
+					["time"] = 1569434525,
+					["from"] = "Pevi",
+					["msg"] = "and as im not liking the guild that much, i lost motivation to stay up late after work for leveling",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [29]
+				{
+					["type"] = 1,
+					["time"] = 1569434555,
+					["from"] = "Pevi",
+					["msg"] = "its harder than i thought  with a job",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [30]
+				{
+					["type"] = 1,
+					["time"] = 1569434595,
+					["from"] = "Damond",
+					["msg"] = "lmao",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [31]
+				{
+					["type"] = 1,
+					["time"] = 1569434605,
+					["from"] = "Damond",
+					["msg"] = "just as we are talking about |cffffffffrocci|r being a poor fit",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [32]
+				{
+					["type"] = 1,
+					["time"] = 1569434625,
+					["from"] = "Damond",
+					["msg"] = "he shows |cffffffffhis|r leadership skills and makes that guy gquit",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [33]
+				{
+					["type"] = 1,
+					["time"] = 1569434652,
+					["from"] = "Pevi",
+					["msg"] = "haha i missed that",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [34]
+				{
+					["type"] = 1,
+					["time"] = 1569434672,
+					["from"] = "Damond",
+					["msg"] = "some1 called the dude gay",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [35]
+				{
+					["type"] = 1,
+					["time"] = 1569434681,
+					["from"] = "Damond",
+					["msg"] = "he asked if homophobism is ok in this guild",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [36]
+				{
+					["type"] = 1,
+					["time"] = 1569434686,
+					["from"] = "Damond",
+					["msg"] = "|cffffffffrocci|r said its encouraged",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [37]
+				{
+					["type"] = 1,
+					["time"] = 1569434688,
+					["from"] = "Pevi",
+					["msg"] = "|Helvmoji:%eEQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin.tga:16:16|t",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [38]
+				{
+					["type"] = 1,
+					["time"] = 1569952229,
+					["from"] = "Pevi",
+					["msg"] = "hey, wanna join a BRD full q run? we need 1 caster",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [39]
+				{
+					["type"] = 1,
+					["time"] = 1569952386,
+					["from"] = "Damond",
+					["msg"] = "hmm idk, need to get in on storms ubrs, but maybe we could finish this before",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [40]
+				{
+					["type"] = 1,
+					["time"] = 1569952405,
+					["from"] = "Damond",
+					["msg"] = "but I guess your group disbanded?",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [41]
+				{
+					["type"] = 1,
+					["time"] = 1569952412,
+					["from"] = "Pevi",
+					["msg"] = "no, just the tank left",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [42]
+				{
+					["type"] = 1,
+					["time"] = 1569952428,
+					["from"] = "Pevi",
+					["msg"] = "if you wanna come and wait for a tank, feel free",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [43]
+				{
+					["type"] = 1,
+					["time"] = 1569952429,
+					["from"] = "Pevi",
+					["msg"] = "|Helvmoji:%OkQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin.tga:16:16|t",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [44]
+				{
+					["type"] = 1,
+					["time"] = 1569955874,
+					["from"] = "Pevi",
+					["msg"] = "kay, now  i have a team, only need a caster for BRD |Helvmoji:%OkQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin.tga:16:16|t",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [45]
+				{
+					["type"] = 1,
+					["time"] = 1569955897,
+					["from"] = "Pevi",
+					["msg"] = "if wanna come",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [46]
+				{
+					["type"] = 1,
+					["time"] = 1569955954,
+					["from"] = "Damond",
+					["msg"] = "just asked storm whats up with the ubrs run",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [47]
+				{
+					["type"] = 1,
+					["time"] = 1569955958,
+					["from"] = "Damond",
+					["msg"] = "no answer though",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [48]
+				{
+					["type"] = 1,
+					["time"] = 1569955971,
+					["from"] = "Pevi",
+					["msg"] = "okay , if you wanna join, whisp",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [49]
+				{
+					["type"] = 1,
+					["time"] = 1569955989,
+					["from"] = "Damond",
+					["msg"] = "ye I kinda cant miss the ubrs run",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [50]
+				{
+					["type"] = 1,
+					["time"] = 1569955994,
+					["from"] = "Damond",
+					["msg"] = "if im needed on ony tomorrow",
+					["inbound"] = false,
+					["convo"] = "Pevi",
+				}, -- [51]
+				{
+					["type"] = 1,
+					["time"] = 1569955998,
+					["from"] = "Pevi",
+					["msg"] = "sure",
+					["inbound"] = true,
+					["convo"] = "Pevi",
+				}, -- [52]
 				["info"] = {
 				},
 			},

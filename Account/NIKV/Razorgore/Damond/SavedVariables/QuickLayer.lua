@@ -3,8 +3,8 @@ QuickLayer = {
 	["message"] = "layer",
 	["guild"] = true,
 	["channel"] = "layer",
-	["inviteInRaid"] = false,
+	["whisper"] = true,
 	["inviteThreshold"] = 0,
 	["delay"] = "1800",
-	["whisper"] = true,
+	["inviteInRaid"] = false,
 }

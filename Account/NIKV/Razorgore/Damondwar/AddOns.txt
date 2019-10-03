@@ -17,9 +17,10 @@ Atlas: enabled
 Atlas_ClassicWoW: enabled
 Leatrix_Plus: enabled
 PixelPerfectAlign: disabled
-AuctionFaster: enabled
+AuctionFaster: disabled
 VendorPrice: disabled
 ExtendedCharacterStats: disabled
 AllyRoute: disabled
 OPie: enabled
 OPie_Classic: disabled
+QuestLogEx: enabled

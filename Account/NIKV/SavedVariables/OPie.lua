@@ -7,11 +7,12 @@ OneRing_Config = {
 	["_OPieVersion"] = "Ancient Walnut 4 (3.101)",
 	["ProfileStorage"] = {
 		["default"] = {
-			["RotationTokens"] = {
-				["ABueh21QF0O"] = "ABueh21QF0n",
-			},
+			["RingAtMouse"] = true,
 			["Bindings"] = {
 				["lock"] = "V",
+			},
+			["RotationTokens"] = {
+				["ABueh21QF0O"] = "ABueh21QF0n",
 			},
 		},
 	},
@@ -33,9 +34,9 @@ OneRing_Config = {
 					["sliceToken"] = "ABueh21QF0n",
 					["id"] = 712,
 				}, -- [3]
-				["name"] = "demons",
-				["save"] = true,
 				["limit"] = "Damond-Razorgore",
+				["save"] = true,
+				["name"] = "demons",
 			},
 			["lock"] = {
 				{
@@ -48,25 +49,29 @@ OneRing_Config = {
 					["id"] = 20756,
 				}, -- [2]
 				{
-					["sliceToken"] = "ABueh21QF0l",
-					["id"] = 11729,
+					["sliceToken"] = "ABueh3SPPze",
+					["id"] = 11730,
 				}, -- [3]
 				{
-					["sliceToken"] = "ABueh21QF0I",
-					["id"] = 126,
+					["sliceToken"] = "ABuehoqlDLe",
+					["id"] = 11734,
 				}, -- [4]
 				{
-					["sliceToken"] = "ABueh21QF0U",
+					["sliceToken"] = "ABuehoqlDLr",
 					["id"] = 5697,
 				}, -- [5]
 				{
-					["sliceToken"] = "ABueh21QF08",
-					["id"] = 698,
+					"macro", -- [1]
+					"summon", -- [2]
+					["sliceToken"] = "ABueh3puYGe",
 				}, -- [6]
-				["limit"] = "Damond-Razorgore",
-				["save"] = true,
 				["name"] = "lock",
+				["save"] = true,
+				["limit"] = "Damond-Razorgore",
 			},
+		},
+		["AutoQuestWhitelist"] = {
+			[11933] = true,
 		},
 	},
 	["_GameLocale"] = "enUS",

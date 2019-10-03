@@ -2,16 +2,21 @@ VER 3 0000000000000001 "attack" "INV_MISC_QUESTIONMARK"
 /cast !shoot
 END
 VER 3 0000000000000002 "LFG" "INV_MISC_QUESTIONMARK"
-/1 LFG Maraudon quest run - 50 lock
-/4 LFG Maraudon quest run - 50 lock
-/5 LFG Maraudon quest run - 50 lock
-/7 LFG Maraudon quest run - 50 lock
+/1 LFG BRD entrance + arena farm - 53 lock
+/4 LFG BRD entrance + arena farm - 53 lock
+/5 LFG BRD entrance + arena farm - 53 lock
+/7 LFG BRD entrance + arena farm - 53 lock
 END
 VER 3 0000000000000003 "LFM" "INV_MISC_QUESTIONMARK"
-/1 LF1M healer Maraudon quest run
-/4 LF1M healer Maraudon quest run
-/5 LF1M healer Maraudon quest run
-/7 LF1M healer Maraudon quest run
+/1 LF3M [60+] Araj's Scarab [60+] Alas, Andorhal
+/4 LF3M [60+] Araj's Scarab [60+] Alas, Andorhal
+/5 LF3M [60+] Araj's Scarab [60+] Alas, Andorhal
+/7 LF3M [60+] Araj's Scarab [60+] Alas, Andorhal
+END
+VER 3 0000000000000005 "summon" "INV_MISC_QUESTIONMARK"
+/cast Ritual of Summoning
+/say Summoning %t
+/raid Summoning %t
 END
 VER 3 0000000000000004 "torch" "132093"
 /1 LFG BRD torch runs - 48 lock                                             
