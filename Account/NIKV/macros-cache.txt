@@ -2,16 +2,16 @@ VER 3 0000000000000001 "attack" "INV_MISC_QUESTIONMARK"
 /cast !shoot
 END
 VER 3 0000000000000002 "LFG" "INV_MISC_QUESTIONMARK"
-/1 LFG BRD entrance + arena farm - 53 lock
-/4 LFG BRD entrance + arena farm - 53 lock
-/5 LFG BRD entrance + arena farm - 53 lock
-/7 LFG BRD entrance + arena farm - 53 lock
+/1 LFG Strat living - lock
+/4 LFG Strat living - lock
+/5 LFG Strat living - lock
+/7 LFG Strat living - lock
 END
 VER 3 0000000000000003 "LFM" "INV_MISC_QUESTIONMARK"
-/1 LF3M [60+] Araj's Scarab [60+] Alas, Andorhal
-/4 LF3M [60+] Araj's Scarab [60+] Alas, Andorhal
-/5 LF3M [60+] Araj's Scarab [60+] Alas, Andorhal
-/7 LF3M [60+] Araj's Scarab [60+] Alas, Andorhal
+/1 WTB UBRS key 10g - can summon
+/4 WTB UBRS key 10g - can summon
+/5 WTB UBRS key 10g - can summon
+/7 WTB UBRS key 10g - can summon
 END
 VER 3 0000000000000005 "summon" "INV_MISC_QUESTIONMARK"
 /cast Ritual of Summoning

@@ -2,16 +2,16 @@ VER 3 0000000000000001 "attack" "INV_MISC_QUESTIONMARK"
 /cast !shoot
 END
 VER 3 0000000000000002 "LFG" "INV_MISC_QUESTIONMARK"
-/1 LFG BRD entrance + arena farm - 53 lock
-/4 LFG BRD entrance + arena farm - 53 lock
-/5 LFG BRD entrance + arena farm - 53 lock
-/7 LFG BRD entrance + arena farm - 53 lock
+/1 LFG Strat living - lock
+/4 LFG Strat living - lock
+/5 LFG Strat living - lock
+/7 LFG Strat living - lock
 END
 VER 3 0000000000000003 "LFM" "INV_MISC_QUESTIONMARK"
-/1 LF1M tank BRD MC attunement lava run
-/4 LF1M tank BRD MC attunement lava run
-/5 LF1M tank BRD MC attunement lava run
-/7 LF1M tank BRD MC attunement lava run
+/1 LF1M tank Strat live
+/4 LF1M tank Strat live
+/5 LF1M tank Strat live
+/7 LF1M tank Strat live
 END
 VER 3 0000000000000005 "summon" "INV_MISC_QUESTIONMARK"
 /cast Ritual of Summoning

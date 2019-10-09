@@ -7,7 +7,7 @@ oRA3DB = {
 		},
 		["Invite"] = {
 		},
-		["Tanks"] = {
+		["Alerts"] = {
 		},
 		["ReadyCheck"] = {
 			["profiles"] = {
@@ -19,7 +19,7 @@ oRA3DB = {
 		},
 		["Promote"] = {
 		},
-		["Alerts"] = {
+		["Tanks"] = {
 		},
 	},
 	["profileKeys"] = {
