@@ -24,3 +24,4 @@ AllyRoute: disabled
 OPie: enabled
 OPie_Classic: disabled
 QuestLogEx: enabled
+Questie: disabled

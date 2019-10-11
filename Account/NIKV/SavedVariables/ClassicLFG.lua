@@ -10,7 +10,7 @@ ClassicLFG_DB = {
 				["hide"] = true,
 			},
 			["ShareTalents"] = false,
-			["BroadcastDungeonGroupChannel"] = 0,
+			["BroadcastDungeonGroupChannel"] = 1,
 		},
 	},
 }

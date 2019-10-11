@@ -12,7 +12,7 @@ OneRing_Config = {
 				["lock"] = "V",
 			},
 			["RotationTokens"] = {
-				["ABueh21QF0O"] = "ABueh21QF0n",
+				["ABueh21QF0O"] = "ABueh21QF0Q",
 			},
 		},
 	},
@@ -23,20 +23,20 @@ OneRing_Config = {
 			},
 			["demons"] = {
 				{
-					["id"] = 688,
 					["sliceToken"] = "ABueh21QF0Q",
+					["id"] = 688,
 				}, -- [1]
 				{
-					["id"] = 697,
 					["sliceToken"] = "ABueh21QF0m",
+					["id"] = 697,
 				}, -- [2]
 				{
-					["id"] = 712,
 					["sliceToken"] = "ABueh21QF0n",
+					["id"] = 712,
 				}, -- [3]
-				["name"] = "demons",
-				["save"] = true,
 				["limit"] = "Damond-Razorgore",
+				["save"] = true,
+				["name"] = "demons",
 			},
 			["lock"] = {
 				{
@@ -65,9 +65,9 @@ OneRing_Config = {
 					"summon", -- [2]
 					["sliceToken"] = "ABueh3puYGe",
 				}, -- [6]
-				["name"] = "lock",
-				["save"] = true,
 				["limit"] = "Damond-Razorgore",
+				["save"] = true,
+				["name"] = "lock",
 			},
 		},
 		["AutoQuestWhitelist"] = {

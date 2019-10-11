@@ -1,514 +1,495 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/p baron is undead side", -- [1]
-		"/p nope", -- [2]
-		"/p behind", -- [3]
-		"/p happens every now and then", -- [4]
-		"/p like everythime we clear a corridor I think", -- [5]
-		"/p healer?", -- [6]
-		"/p no ss now", -- [7]
-		"/p so cr healer if he dies first", -- [8]
-		"/p thx for the run", -- [9]
-		"/p ill cya around", -- [10]
-		"/who ufo", -- [11]
-		"/tar skul", -- [12]
-		"/reload", -- [13]
-		"/tar ecol", -- [14]
-		"/g by ion himself", -- [15]
-		"/g just DM", -- [16]
-		"/g not P2", -- [17]
-		"/who ecol", -- [18]
-		"/lfg", -- [19]
-		"/s ty", -- [20]
+		"/8 ss'ing rocci", -- [1]
+		"/s youre welcome", -- [2]
+		"/8 4 min on ss", -- [3]
+		"/8 knob group", -- [4]
+		"/8 some1 refresh", -- [5]
+		"/8 ssing rocci", -- [6]
+		"/8 get ss up", -- [7]
+		"/g |cff0070dd|Hitem:16309::::::::60:::11::::|h[Drakefire Amulet]|h|r|cff0070dd|Hitem:16309::::::::60:::11::::|h[Drakefire Amulet]|h|r|cff0070dd|Hitem:16309::::::::60:::11::::|h[Drakefire Amulet]|h|r", -- [8]
+		"/cw Fear if youre CoR its covered", -- [9]
+		"/raid |cff1eff00|Hitem:10025::::::::60:::::::|h[Shadoweave Mask]|h|r", -- [10]
+		"/elvui", -- [11]
+		"/reload", -- [12]
+		"/6 layer", -- [13]
+		"/p ty", -- [14]
+		"/p your alt got lead", -- [15]
+		"/p gl", -- [16]
+		"/g the crystal?", -- [17]
+		"/g crystal charge", -- [18]
+		"/script DEFAULT_CHAT_FRAME:AddMessage(\"\\124cffffffff\\124Hitem:11566::::::::60:::::\\124h[Crystal Charge]\\124h\\124r\");", -- [19]
+		"/g |cffffffff|Hitem:11566::::::::60:::::::|h[Crystal Charge]|h|r", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"at most 1 left", -- [1]
-			"Plagues-Razorgore", -- [2]
+			"|cffa335ee|Hitem:18703::::::::60:::::::|h[Ancient Petrified Leaf]|h|r", -- [1]
+			"Catloaf-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Plagues", -- [5]
+			"Catloaf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			522, -- [11]
-			"Player-4478-0170CB94", -- [12]
+			21755, -- [11]
+			"Player-4478-014DCA58", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Plagues|r",
-			[51] = 1570475638,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffaad372Catloaf|r",
+			[51] = 1570657975,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [1]
 		{
-			"i think there are 2 on our server", -- [1]
-			"Pevi-Razorgore", -- [2]
+			"|cffa335ee|Hitem:18705::::::::60:::::::|h[Mature Black Dragon Sinew]|h|r need? :)", -- [1]
+			"Chemo-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pevi", -- [5]
+			"Chemo", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			537, -- [11]
-			"Player-4478-0138D33C", -- [12]
+			21762, -- [11]
+			"Player-4478-013C9085", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaPevi|r",
-			[51] = 1570475651,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Chemo|r",
+			[51] = 1570657978,
+			[50] = "CHAT_MSG_RAID_WARNING",
 		}, -- [2]
 		{
-			"they said if the servers is layered it should say it when you choose the server :)", -- [1]
-			"Niify-Razorgore", -- [2]
+			"need |cffa335ee|Hitem:18703::::::::60:::::::|h[Ancient Petrified Leaf]|h|r", -- [1]
+			"Catloaf-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Niify", -- [5]
+			"Catloaf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			547, -- [11]
-			"Player-4478-01476EFD", -- [12]
+			21768, -- [11]
+			"Player-4478-014DCA58", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aNiify|r",
-			[51] = 1570475657,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffaad372Catloaf|r",
+			[51] = 1570657984,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [3]
 		{
-			"in the realmlist thingy", -- [1]
-			"Niify-Razorgore", -- [2]
+			"i do NOT need sinew, i have bow already.", -- [1]
+			"Vibe-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Niify", -- [5]
+			"Vibe", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			560, -- [11]
-			"Player-4478-01476EFD", -- [12]
+			21769, -- [11]
+			"Player-4478-013C07F7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aNiify|r",
-			[51] = 1570475666,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffaad372Vibe|r",
+			[51] = 1570657985,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [4]
 		{
-			"but idk if its out yet so you can see", -- [1]
-			"Niify-Razorgore", -- [2]
+			"Please ressurect the tiny gnome.", -- [1]
+			"Fear-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Niify", -- [5]
+			"Fear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			579, -- [11]
-			"Player-4478-01476EFD", -- [12]
+			21786, -- [11]
+			"Player-4478-013C3E37", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aNiify|r",
-			[51] = 1570475685,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edFear|r",
+			[51] = 1570658014,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [5]
 		{
-			"they are working on taking all layers away", -- [1]
-			"Decessus-Razorgore", -- [2]
+			"|cffa335ee|Hitem:16929::::::::60:::::::|h[Nemesis Skullcap]|h|r need?", -- [1]
+			"Chemo-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Decessus", -- [5]
+			"Chemo", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			596, -- [11]
-			"Player-4478-013CCA39", -- [12]
+			21787, -- [11]
+			"Player-4478-013C9085", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Decessus|r",
-			[51] = 1570475700,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Chemo|r",
+			[51] = 1570658017,
+			[50] = "CHAT_MSG_RAID_WARNING",
 		}, -- [6]
 		{
-			"would not be suprised if they forces queues on us to make it happen", -- [1]
-			"Decessus-Razorgore", -- [2]
+			"|cff0070dd|Hitem:18727::::::::60:::1::::|h[Crimson Felt Hat]|h|r", -- [1]
+			"Selaith-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Decessus", -- [5]
+			"Selaith", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			641, -- [11]
-			"Player-4478-013CCA39", -- [12]
+			21791, -- [11]
+			"Player-4478-015050A3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Decessus|r",
-			[51] = 1570475724,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edSelaith|r",
+			[51] = 1570658020,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [7]
 		{
-			"same:)", -- [1]
-			"Niify-Razorgore", -- [2]
+			"|cff0070dd|Hitem:10504::::::1861:1467308288:60:::::::|h[Green Lens of Shadow Wrath]|h|r", -- [1]
+			"Fear-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Niify", -- [5]
+			"Fear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			651, -- [11]
-			"Player-4478-01476EFD", -- [12]
+			21796, -- [11]
+			"Player-4478-013C3E37", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aNiify|r",
-			[51] = 1570475732,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edFear|r",
+			[51] = 1570658024,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [8]
 		{
-			"there was que last night", -- [1]
-			"Plagues-Razorgore", -- [2]
+			"i guess youre not taking loot", -- [1]
+			"|Km2|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Plagues", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			656, -- [11]
-			"Player-4478-0170CB94", -- [12]
-			0, -- [13]
+			21798, -- [11]
+			false, -- [12]
+			9, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Plagues|r",
-			[51] = 1570475736,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffaad372Adieu|r",
+			[51] = 1570658026,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Adieu",
 		}, -- [9]
 		{
-			"small queue > layering", -- [1]
-			"Lidel-Razorgore", -- [2]
+			"|cff1eff00|Hitem:10025::::::::60:::::::|h[Shadoweave Mask]|h|r", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Lidel", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			701, -- [11]
-			"Player-4478-012A5DDF", -- [12]
+			21799, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Lidel|r",
-			[51] = 1570475773,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1570658027,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [10]
 		{
-			"don't mind taking a hit so long as its not too bad :p", -- [1]
-			"Lidel-Razorgore", -- [2]
+			"since t1 is pvp", -- [1]
+			"|Km2|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Lidel", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			712, -- [11]
-			"Player-4478-012A5DDF", -- [12]
-			0, -- [13]
+			21803, -- [11]
+			false, -- [12]
+			9, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Lidel|r",
-			[51] = 1570475782,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffaad372Adieu|r",
+			[51] = 1570658031,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Adieu",
 		}, -- [11]
 		{
-			"I have no idea what server tech they are using, would hope they have something so they can have a single layer on multiple physical server", -- [1]
-			"Decessus-Razorgore", -- [2]
+			"thanks all", -- [1]
+			"Regiss-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Decessus", -- [5]
+			"Regiss", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			807, -- [11]
-			"Player-4478-013CCA39", -- [12]
+			21809, -- [11]
+			"Player-4478-0131AD8B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Decessus|r",
-			[51] = 1570475876,
+			[52] = "|cffff7c0aRegiss|r",
+			[51] = 1570658048,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [12]
 		{
-			"tank for LBRS last spot", -- [1]
-			"Pissycutzu-Razorgore", -- [2]
+			"ye felheart is shit", -- [1]
+			"|Km2|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pissycutzu", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1055, -- [11]
-			"Player-4478-0139A6EA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaPissycutzu|r",
-			[51] = 1570476062,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [13]
-		{
-			"|cffffff00Ironforge is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Ironforge", -- [4]
 			"", -- [5]
 			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Ironforge", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1063, -- [11]
+			21813, -- [11]
 			false, -- [12]
+			9, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Adieu|r",
+			[51] = 1570658050,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Adieu",
+		}, -- [13]
+		{
+			"gn", -- [1]
+			"Regiss-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Regiss", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			21814, -- [11]
+			"Player-4478-0131AD8B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "",
-			[51] = 1570476068,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aRegiss|r",
+			[51] = 1570658052,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [14]
 		{
-			"need a lock?", -- [1]
-			"Flips-Razorgore", -- [2]
+			"cya guys", -- [1]
+			"Wayze-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Flips", -- [5]
+			"Wayze", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1154, -- [11]
-			"Player-4478-017E46C9", -- [12]
+			21816, -- [11]
+			"Player-4478-0143B687", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dFlips|r",
-			[51] = 1570476143,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cfffff468Wayze|r",
+			[51] = 1570658056,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [15]
 		{
-			"full sorry ", -- [1]
-			"Flips-Razorgore", -- [2]
+			"next week more loot luck :)", -- [1]
+			"Wayze-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Flips", -- [5]
+			"Wayze", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1161, -- [11]
-			"Player-4478-017E46C9", -- [12]
+			21818, -- [11]
+			"Player-4478-0143B687", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dFlips|r",
-			[51] = 1570476148,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cfffff468Wayze|r",
+			[51] = 1570658062,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [16]
 		{
-			"aight gl", -- [1]
-			"Flips-Razorgore", -- [2]
+			"gz", -- [1]
+			"Selaith-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Flips", -- [5]
+			"Selaith", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1168, -- [11]
-			"Player-4478-017E46C9", -- [12]
+			21843, -- [11]
+			"Player-4478-015050A3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dFlips|r",
-			[51] = 1570476152,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cff8787edSelaith|r",
+			[51] = 1570658100,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [17]
 		{
-			"anyone doing upper?", -- [1]
-			"Ýra-Razorgore", -- [2]
+			"gz", -- [1]
+			"Talibang-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ýra", -- [5]
+			"Talibang", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1214, -- [11]
-			"Player-4478-014B84C7", -- [12]
+			21846, -- [11]
+			"Player-4478-016B0E34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffÝra|r",
-			[51] = 1570476180,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aTalibang|r",
+			[51] = 1570658108,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [18]
 		{
-			"that need healer and imba dps Rorroh", -- [1]
-			"Ýra-Razorgore", -- [2]
+			"ty for raid, gn all", -- [1]
+			"Themurian-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ýra", -- [5]
+			"Themurian", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1233, -- [11]
-			"Player-4478-014B84C7", -- [12]
+			21854, -- [11]
+			"Player-4478-01508E86", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffÝra|r",
-			[51] = 1570476193,
+			[52] = "|cff3fc6eaThemurian|r",
+			[51] = 1570658117,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [19]
 		{
-			"if rorroh is scooby", -- [1]
-			"Ensidium-Razorgore", -- [2]
+			"ty", -- [1]
+			"Catloaf-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ensidium", -- [5]
+			"Catloaf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1274, -- [11]
-			"Player-4478-015DDF8A", -- [12]
+			21875, -- [11]
+			"Player-4478-014DCA58", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dEnsidium|r",
-			[51] = 1570476223,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffaad372Catloaf|r",
+			[51] = 1570658139,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [20]
 		{
-			"what are you", -- [1]
-			"Ensidium-Razorgore", -- [2]
+			"cya all", -- [1]
+			"Talibang-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ensidium", -- [5]
+			"Talibang", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1279, -- [11]
-			"Player-4478-015DDF8A", -- [12]
+			21887, -- [11]
+			"Player-4478-016B0E34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dEnsidium|r",
-			[51] = 1570476225,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aTalibang|r",
+			[51] = 1570658146,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [21]
 		{
-			"im do", -- [1]
-			"Ýra-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ýra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1291, -- [11]
-			"Player-4478-014B84C7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffÝra|r",
-			[51] = 1570476235,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [22]
-		{
-			"BRD Lava run need 1 dps", -- [1]
+			"Thx for run", -- [1]
 			"Demonicrock-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -518,7 +499,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1436, -- [11]
+			21888, -- [11]
 			"Player-4478-0135168F", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -526,737 +507,385 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffc69b6dDemonicrock|r",
-			[51] = 1570476329,
+			[51] = 1570658147,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [22]
+		{
+			"any enchanter in IF?", -- [1]
+			"Ensidium-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ensidium", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22010, -- [11]
+			"Player-4478-015DDF8A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dEnsidium|r",
+			[51] = 1570658239,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [23]
 		{
-			"LFM UBRS /w Wayze for inv", -- [1]
-			"Twinbro-Razorgore", -- [2]
+			"need shield greater stam and minor speed boots", -- [1]
+			"Ensidium-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Twinbro", -- [5]
+			"Ensidium", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1447, -- [11]
-			"Player-4478-015B5F4F", -- [12]
+			22020, -- [11]
+			"Player-4478-015DDF8A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dTwinbro|r",
-			[51] = 1570476334,
+			[52] = "|cffc69b6dEnsidium|r",
+			[51] = 1570658244,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [24]
 		{
-			"spam him", -- [1]
-			"Twinbro-Razorgore", -- [2]
+			"1337 crit ", -- [1]
+			"Naroh-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Twinbro", -- [5]
+			"Naroh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1475, -- [11]
-			"Player-4478-015B5F4F", -- [12]
+			51, -- [11]
+			"Player-4478-01566C77", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dTwinbro|r",
-			[51] = 1570476356,
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570720317,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [25]
 		{
-			"full or jed?", -- [1]
-			"Ýra-Razorgore", -- [2]
+			"Hahahaha that was the best shit i've seen", -- [1]
+			"Naroh-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ýra", -- [5]
+			"Naroh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1536, -- [11]
-			"Player-4478-014B84C7", -- [12]
+			398, -- [11]
+			"Player-4478-01566C77", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffÝra|r",
-			[51] = 1570476398,
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570720607,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [26]
 		{
-			"Full i suppose", -- [1]
-			"Twinbro-Razorgore", -- [2]
+			"soo LEET my dude", -- [1]
+			"Iberya-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Twinbro", -- [5]
+			"Iberya", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1574, -- [11]
-			"Player-4478-015B5F4F", -- [12]
+			430, -- [11]
+			"Player-4478-01492FAB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dTwinbro|r",
-			[51] = 1570476422,
+			[52] = "|cfff48cbaIberya|r",
+			[51] = 1570720631,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [27]
 		{
-			"full on rogues btw", -- [1]
-			"Wayze-Razorgore", -- [2]
+			"I've been killing a lvl 60 enh shammy 5 times now at the elemental fire spot", -- [1]
+			"Naroh-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wayze", -- [5]
+			"Naroh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1595, -- [11]
-			"Player-4478-0143B687", -- [12]
+			436, -- [11]
+			"Player-4478-01566C77", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Wayze|r",
-			[51] = 1570476443,
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570720637,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [28]
 		{
-			"Need more for UBRS, /w wayze ", -- [1]
-			"Twinbro-Razorgore", -- [2]
+			"fuck em", -- [1]
+			"Iberya-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Twinbro", -- [5]
+			"Iberya", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1885, -- [11]
-			"Player-4478-015B5F4F", -- [12]
+			446, -- [11]
+			"Player-4478-01492FAB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dTwinbro|r",
-			[51] = 1570476775,
+			[52] = "|cfff48cbaIberya|r",
+			[51] = 1570720645,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [29]
 		{
-			"Anyone that can do devilsaur gear? ^^", -- [1]
-			"Laleh-Razorgore", -- [2]
+			"whats his name?", -- [1]
+			"Iberya-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Laleh", -- [5]
+			"Iberya", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1934, -- [11]
-			"Player-4478-0159AC2F", -- [12]
+			449, -- [11]
+			"Player-4478-01492FAB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Laleh|r",
-			[51] = 1570476844,
+			[52] = "|cfff48cbaIberya|r",
+			[51] = 1570720648,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [30]
 		{
-			"yeah boi", -- [1]
-			"Wayze-Razorgore", -- [2]
+			"I killed a tauren on top of the rock as soon as he went into vision", -- [1]
+			"Naroh-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wayze", -- [5]
+			"Naroh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1939, -- [11]
-			"Player-4478-0143B687", -- [12]
+			453, -- [11]
+			"Player-4478-01566C77", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Wayze|r",
-			[51] = 1570476852,
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570720654,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [31]
 		{
-			"brinh me the mats", -- [1]
-			"Wayze-Razorgore", -- [2]
+			"He couldnt see me but he saw the tauren", -- [1]
+			"Naroh-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Wayze", -- [5]
+			"Naroh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1953, -- [11]
-			"Player-4478-0143B687", -- [12]
+			462, -- [11]
+			"Player-4478-01566C77", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Wayze|r",
-			[51] = 1570476871,
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570720659,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [32]
 		{
-			"any1 doing LBRS runs? :)", -- [1]
-			"Ehc-Razorgore", -- [2]
+			"I waited a couple seconds", -- [1]
+			"Naroh-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ehc", -- [5]
+			"Naroh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2015, -- [11]
-			"Player-4478-01BF71BC", -- [12]
+			467, -- [11]
+			"Player-4478-01566C77", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaEhc|r",
-			[51] = 1570476987,
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570720663,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [33]
 		{
-			"LF 1tank 1healer 1ranged for UBRS, anyone up for offer?", -- [1]
-			"Daprofessor-Razorgore", -- [2]
+			"and rp walked on top of the rock so he could see me", -- [1]
+			"Naroh-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Daprofessor", -- [5]
+			"Naroh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2066, -- [11]
-			"Player-4478-013D7E57", -- [12]
+			474, -- [11]
+			"Player-4478-01566C77", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaDaprofessor|r",
-			[51] = 1570477067,
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570720671,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [34]
 		{
-			"LFM UBRS still", -- [1]
-			"Twinbro-Razorgore", -- [2]
+			"the guy ran for his life haha", -- [1]
+			"Naroh-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Twinbro", -- [5]
+			"Naroh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2224, -- [11]
-			"Player-4478-015B5F4F", -- [12]
+			479, -- [11]
+			"Player-4478-01566C77", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dTwinbro|r",
-			[51] = 1570477271,
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570720677,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [35]
 		{
-			"Anyone got the green healing wand? was it only +18 healing or was there a wand with higher +healing", -- [1]
-			"Ýra-Razorgore", -- [2]
+			"Lirogon or something", -- [1]
+			"Naroh-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ýra", -- [5]
+			"Naroh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2246, -- [11]
-			"Player-4478-014B84C7", -- [12]
+			494, -- [11]
+			"Player-4478-01566C77", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffÝra|r",
-			[51] = 1570477310,
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570720689,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [36]
 		{
-			"i do", -- [1]
-			"Maldy-Razorgore", -- [2]
+			"He got backup :(", -- [1]
+			"Naroh-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Maldy", -- [5]
+			"Naroh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2251, -- [11]
-			"Player-4478-014A22A1", -- [12]
+			612, -- [11]
+			"Player-4478-01566C77", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMaldy|r",
-			[51] = 1570477318,
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570720861,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [37]
 		{
-			"have 2 spares", -- [1]
-			"Maldy-Razorgore", -- [2]
+			"My killstreak is over :c", -- [1]
+			"Naroh-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Maldy", -- [5]
+			"Naroh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2260, -- [11]
-			"Player-4478-014A22A1", -- [12]
+			623, -- [11]
+			"Player-4478-01566C77", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMaldy|r",
-			[51] = 1570477328,
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570720875,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [38]
 		{
-			"i see them on ah :DS", -- [1]
-			"Ýra-Razorgore", -- [2]
+			"F", -- [1]
+			"Ensidium-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ýra", -- [5]
+			"Ensidium", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2264, -- [11]
-			"Player-4478-014B84C7", -- [12]
+			627, -- [11]
+			"Player-4478-015DDF8A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffÝra|r",
-			[51] = 1570477333,
+			[52] = "|cffc69b6dEnsidium|r",
+			[51] = 1570720879,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [39]
 		{
-			"-S", -- [1]
-			"Ýra-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ýra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2267, -- [11]
-			"Player-4478-014B84C7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffÝra|r",
-			[51] = 1570477337,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [40]
-		{
-			"haha :D", -- [1]
-			"Ýra-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ýra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2270, -- [11]
-			"Player-4478-014B84C7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffÝra|r",
-			[51] = 1570477339,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [41]
-		{
-			"we can arrange a g price :p", -- [1]
-			"Maldy-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Maldy", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2281, -- [11]
-			"Player-4478-014A22A1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffMaldy|r",
-			[51] = 1570477352,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [42]
-		{
-			"what do you need for it", -- [1]
-			"Ensidium-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ensidium", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2290, -- [11]
-			"Player-4478-015DDF8A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dEnsidium|r",
-			[51] = 1570477360,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [43]
-		{
-			"WTB |cff1eff00|Hitem:7080::::::::60:::::::|h[Essence of Water]|h|r |cff1eff00|Hitem:7076::::::::60:::::::|h[Essence of Earth]|h|r", -- [1]
-			"Bushflower-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Bushflower", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2348, -- [11]
-			"Player-4478-016529B5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaBushflower|r",
-			[51] = 1570477440,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [44]
-		{
-			"what do you need for that ubrs>", -- [1]
-			"Ensidium-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ensidium", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2445, -- [11]
-			"Player-4478-015DDF8A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dEnsidium|r",
-			[51] = 1570477575,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [45]
-		{
-			"ty", -- [1]
-			"Damond-Razorgore", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Damond", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2469, -- [11]
-			"Player-4478-012A6DE5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1570477603,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
-		{
-			"|cff0070dd|Hitem:18327::::::::60:::::::|h[Whipvine Cord]|h|r fap", -- [1]
-			"Ýra-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ýra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2480, -- [11]
-			"Player-4478-014B84C7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffÝra|r",
-			[51] = 1570477610,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [47]
-		{
-			"BRD?", -- [1]
-			"Donatell-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Donatell", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2754, -- [11]
-			"Player-4478-019C5500", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dDonatell|r",
-			[51] = 1570477947,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [48]
-		{
-			"im in for BRD or LBRS", -- [1]
-			"Ehc-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ehc", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2760, -- [11]
-			"Player-4478-01BF71BC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaEhc|r",
-			[51] = 1570477954,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [49]
-		{
-			"U fucking leave groups lol", -- [1]
-			"Donatell-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Donatell", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2777, -- [11]
-			"Player-4478-019C5500", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dDonatell|r",
-			[51] = 1570477973,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [50]
-		{
-			"i left bc he was a dickhead?", -- [1]
-			"Ehc-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ehc", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2791, -- [11]
-			"Player-4478-01BF71BC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaEhc|r",
-			[51] = 1570477987,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [51]
-		{
-			"Last time you literally left because you planked", -- [1]
-			"Donatell-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Donatell", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2807, -- [11]
-			"Player-4478-019C5500", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dDonatell|r",
-			[51] = 1570478003,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [52]
-		{
-			"Wasnt even a wipe", -- [1]
-			"Donatell-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Donatell", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2817, -- [11]
-			"Player-4478-019C5500", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dDonatell|r",
-			[51] = 1570478020,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [53]
-		{
-			"lol i guess thats why you were ony my ignroe list", -- [1]
-			"Pevi-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pevi", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2831, -- [11]
-			"Player-4478-0138D33C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaPevi|r",
-			[51] = 1570478039,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [54]
-		{
-			"anyone near AH can tell me a price for |cff0070dd|Hitem:16735::::::::60:::1::::|h[Bracers of Valor]|h|r?", -- [1]
-			"Daprofessor-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daprofessor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2984, -- [11]
-			"Player-4478-013D7E57", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaDaprofessor|r",
-			[51] = 1570478238,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [55]
-		{
-			"3", -- [1]
-			"Stormwall-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Stormwall", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2996, -- [11]
-			"Player-4478-013E0D2A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dStormwall|r",
-			[51] = 1570478249,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [56]
-		{
-			"2g 98", -- [1]
+			"F", -- [1]
 			"Melo-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1266,7 +895,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2998, -- [11]
+			635, -- [11]
 			"Player-4478-012AB4AF", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1274,615 +903,989 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff3fc6eaMelo|r",
-			[51] = 1570478251,
+			[51] = 1570720887,
 			[50] = "CHAT_MSG_GUILD",
+		}, -- [40]
+		{
+			"They're mounted up and camping my corpse :<", -- [1]
+			"Naroh-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Naroh", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			712, -- [11]
+			"Player-4478-01566C77", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570720980,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [41]
+		{
+			"layer", -- [1]
+			"Damond-Razorgore", -- [2]
+			"", -- [3]
+			"6. layer", -- [4]
+			"Damond", -- [5]
+			"", -- [6]
+			0, -- [7]
+			6, -- [8]
+			"layer", -- [9]
+			0, -- [10]
+			912, -- [11]
+			"Player-4478-012A6DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edDamond|r",
+			[51] = 1570721291,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [42]
+		{
+			"ty", -- [1]
+			"Damond-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Damond", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			934, -- [11]
+			"Player-4478-012A6DE5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edDamond|r",
+			[51] = 1570721328,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [43]
+		{
+			"can any 1 make crusader ench in guild", -- [1]
+			"Natnat-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Natnat", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1103, -- [11]
+			"Player-4478-014F0E7E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dNatnat|r",
+			[51] = 1570721538,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [44]
+		{
+			"kinryu can i think", -- [1]
+			"Tivn-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tivn", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1146, -- [11]
+			"Player-4478-01474A7A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaTivn|r",
+			[51] = 1570721572,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [45]
+		{
+			"there are a few, but only know kinryu", -- [1]
+			"Lidel-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lidel", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1153, -- [11]
+			"Player-4478-012A5DDF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Lidel|r",
+			[51] = 1570721575,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [46]
+		{
+			"right ty :)", -- [1]
+			"Natnat-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Natnat", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1166, -- [11]
+			"Player-4478-014F0E7E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dNatnat|r",
+			[51] = 1570721589,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [47]
+		{
+			"Can anyone layer me?", -- [1]
+			"Naroh-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Naroh", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1409, -- [11]
+			"Player-4478-01566C77", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570721815,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [48]
+		{
+			"Can someone else try?", -- [1]
+			"Naroh-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Naroh", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1455, -- [11]
+			"Player-4478-01566C77", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570721885,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [49]
+		{
+			"care, officers do not allow asking for layer in guild", -- [1]
+			"Fancyadriink-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fancyadriink", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1486, -- [11]
+			"Player-4478-01CB79A0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaFancyadriink|r",
+			[51] = 1570721928,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [50]
+		{
+			"Same thing here it seems :<", -- [1]
+			"Naroh-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Naroh", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1487, -- [11]
+			"Player-4478-01566C77", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570721928,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [51]
+		{
+			"damn", -- [1]
+			"Naroh-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Naroh", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1512, -- [11]
+			"Player-4478-01566C77", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570721943,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [52]
+		{
+			"but your allowed to /w a guilde for layer :p", -- [1]
+			"Fancyadriink-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fancyadriink", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1581, -- [11]
+			"Player-4478-01CB79A0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaFancyadriink|r",
+			[51] = 1570722009,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [53]
+		{
+			"could someone inv me and my alt so i can reset my instance?", -- [1]
+			"Lidel-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lidel", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1631, -- [11]
+			"Player-4478-012A5DDF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Lidel|r",
+			[51] = 1570722040,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [54]
+		{
+			"ty, gonna relog to Lidesu", -- [1]
+			"Lidel-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lidel", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1658, -- [11]
+			"Player-4478-012A5DDF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Lidel|r",
+			[51] = 1570722057,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [55]
+		{
+			"inv pretty please =)", -- [1]
+			"Lidesu", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lidesu", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1711, -- [11]
+			"Player-4478-0149B59C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dLidesu|r",
+			[51] = 1570722100,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [56]
+		{
+			"thx", -- [1]
+			"Lidesu-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lidesu", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1721, -- [11]
+			"Player-4478-0149B59C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dLidesu|r",
+			[51] = 1570722113,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [57]
 		{
-			"g", -- [1]
-			"Stormwall-Razorgore", -- [2]
+			"your alt got lead", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Stormwall", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2999, -- [11]
-			"Player-4478-013E0D2A", -- [12]
+			1725, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dStormwall|r",
-			[51] = 1570478251,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1570722115,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [58]
 		{
-			"ok, 0.3% then ", -- [1]
-			"Daprofessor-Razorgore", -- [2]
+			"gl", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Daprofessor", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3022, -- [11]
-			"Player-4478-013D7E57", -- [12]
+			1728, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaDaprofessor|r",
-			[51] = 1570478281,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edDamond|r",
+			[51] = 1570722116,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [59]
 		{
-			"anyone knows if dungeon lockout starts when you enter or when you first reset, some say on classic its when you reset", -- [1]
-			"Swagrlicious-Razorgore", -- [2]
+			"whos your alt", -- [1]
+			"Fancyadriink-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Swagrlicious", -- [5]
+			"Fancyadriink", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3064, -- [11]
-			"Player-4478-012A4F21", -- [12]
+			1731, -- [11]
+			"Player-4478-01CB79A0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSwagrlicious|r",
-			[51] = 1570478330,
+			[52] = "|cff3fc6eaFancyadriink|r",
+			[51] = 1570722118,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [60]
 		{
-			"|cff0070dd|Hitem:12930::::::::60:::1::::|h[Briarwood Reed]|h|r|cff0070dd|Hitem:12930::::::::60:::1::::|h[Briarwood Reed]|h|r|cff0070dd|Hitem:12930::::::::60:::1::::|h[Briarwood Reed]|h|r|cff0070dd|Hitem:12930::::::::60:::1::::|h[Briarwood Reed]|h|r", -- [1]
-			"Maldy-Razorgore", -- [2]
+			"np", -- [1]
+			"Lidesu-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Maldy", -- [5]
+			"Lidesu", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3435, -- [11]
-			"Player-4478-014A22A1", -- [12]
+			1733, -- [11]
+			"Player-4478-0149B59C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMaldy|r",
-			[51] = 1570478705,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dLidesu|r",
+			[51] = 1570722122,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [61]
 		{
-			"58 run", -- [1]
-			"Maldy-Razorgore", -- [2]
+			"Fear how much g have you made by selling runs ?", -- [1]
+			"Fancyadriink-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Maldy", -- [5]
+			"Fancyadriink", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3438, -- [11]
-			"Player-4478-014A22A1", -- [12]
+			2074, -- [11]
+			"Player-4478-01CB79A0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMaldy|r",
-			[51] = 1570478708,
+			[52] = "|cff3fc6eaFancyadriink|r",
+			[51] = 1570722497,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [62]
 		{
-			"gz", -- [1]
-			"Daprofessor-Razorgore", -- [2]
+			"Not to much tbh around 150 there are not that many buying runs", -- [1]
+			"Fear-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Daprofessor", -- [5]
+			"Fear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3440, -- [11]
-			"Player-4478-013D7E57", -- [12]
+			2109, -- [11]
+			"Player-4478-013C3E37", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaDaprofessor|r",
-			[51] = 1570478710,
+			[52] = "|cff8787edFear|r",
+			[51] = 1570722558,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [63]
 		{
-			"atta boiii", -- [1]
-			"Saddii-Razorgore", -- [2]
+			"Most gold i make is by vendoring gold", -- [1]
+			"Fear-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Saddii", -- [5]
+			"Fear", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3448, -- [11]
-			"Player-4478-014975E9", -- [12]
+			2114, -- [11]
+			"Player-4478-013C3E37", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSaddii|r",
-			[51] = 1570478717,
+			[52] = "|cff8787edFear|r",
+			[51] = 1570722575,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [64]
 		{
-			"gz :)", -- [1]
-			"Sobrania-Razorgore", -- [2]
+			"how much do you get when the item drops?", -- [1]
+			"Fancyadriink-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sobrania", -- [5]
+			"Fancyadriink", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3449, -- [11]
-			"Player-4478-01935679", -- [12]
+			2118, -- [11]
+			"Player-4478-01CB79A0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Sobrania|r",
-			[51] = 1570478717,
+			[52] = "|cff3fc6eaFancyadriink|r",
+			[51] = 1570722580,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [65]
 		{
-			"now give it to me :D", -- [1]
-			"Daprofessor-Razorgore", -- [2]
+			"ah oki ", -- [1]
+			"Fancyadriink-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Daprofessor", -- [5]
+			"Fancyadriink", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3452, -- [11]
-			"Player-4478-013D7E57", -- [12]
+			2120, -- [11]
+			"Player-4478-01CB79A0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaDaprofessor|r",
-			[51] = 1570478720,
+			[52] = "|cff3fc6eaFancyadriink|r",
+			[51] = 1570722584,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [66]
 		{
-			"noice!", -- [1]
-			"Stormwall-Razorgore", -- [2]
+			"DM farm will be good :p", -- [1]
+			"Fancyadriink-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Stormwall", -- [5]
+			"Fancyadriink", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3485, -- [11]
-			"Player-4478-013E0D2A", -- [12]
+			2159, -- [11]
+			"Player-4478-01CB79A0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dStormwall|r",
-			[51] = 1570478754,
+			[52] = "|cff3fc6eaFancyadriink|r",
+			[51] = 1570722667,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [67]
 		{
-			"need a lock?", -- [1]
-			"Tinkon-Razorgore", -- [2]
+			"What is the highest dungeon warriors can solo without to much problem?", -- [1]
+			"Naroh-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tinkon", -- [5]
+			"Naroh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3547, -- [11]
-			"Player-4478-01550280", -- [12]
+			2183, -- [11]
+			"Player-4478-01566C77", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaTinkon|r",
-			[51] = 1570478831,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570722728,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [68]
 		{
-			"full mate sry", -- [1]
-			"Tinkon-Razorgore", -- [2]
+			"prolly gnomer or sm?", -- [1]
+			"Tivn-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tinkon", -- [5]
+			"Tivn", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3548, -- [11]
-			"Player-4478-01550280", -- [12]
+			2190, -- [11]
+			"Player-4478-01474A7A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaTinkon|r",
-			[51] = 1570478836,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cff3fc6eaTivn|r",
+			[51] = 1570722744,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [69]
 		{
-			"aight gl!", -- [1]
-			"Tinkon-Razorgore", -- [2]
+			"depends on how fast you wanna go", -- [1]
+			"Tivn-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tinkon", -- [5]
+			"Tivn", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3554, -- [11]
-			"Player-4478-01550280", -- [12]
+			2193, -- [11]
+			"Player-4478-01474A7A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaTinkon|r",
-			[51] = 1570478841,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cff3fc6eaTivn|r",
+			[51] = 1570722756,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [70]
 		{
-			"ty", -- [1]
-			"Tinkon-Razorgore", -- [2]
+			":p", -- [1]
+			"Tivn-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tinkon", -- [5]
+			"Tivn", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3557, -- [11]
-			"Player-4478-01550280", -- [12]
+			2194, -- [11]
+			"Player-4478-01474A7A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaTinkon|r",
-			[51] = 1570478846,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cff3fc6eaTivn|r",
+			[51] = 1570722757,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [71]
 		{
-			"just in time for it to be replaced in dire maul", -- [1]
-			"Holmgaard-Razorgore", -- [2]
+			"Gnomer was really ez", -- [1]
+			"Naroh-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Holmgaard", -- [5]
+			"Naroh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3558, -- [11]
-			"Player-4478-0149702B", -- [12]
+			2199, -- [11]
+			"Player-4478-01566C77", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffHolmgaard|r",
-			[51] = 1570478846,
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570722766,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [72]
 		{
-			"yeah", -- [1]
-			"Maldy-Razorgore", -- [2]
+			"Warriors can make good money off dm if they have a healer :p", -- [1]
+			"Fancyadriink-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Maldy", -- [5]
+			"Fancyadriink", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3563, -- [11]
-			"Player-4478-014A22A1", -- [12]
+			2226, -- [11]
+			"Player-4478-01CB79A0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMaldy|r",
-			[51] = 1570478853,
+			[52] = "|cff3fc6eaFancyadriink|r",
+			[51] = 1570722810,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [73]
 		{
-			"lmao", -- [1]
-			"Maldy-Razorgore", -- [2]
+			"im listening!", -- [1]
+			"Ninefingers-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Maldy", -- [5]
+			"Ninefingers", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3564, -- [11]
-			"Player-4478-014A22A1", -- [12]
+			2230, -- [11]
+			"Player-4478-012E10B5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMaldy|r",
-			[51] = 1570478854,
+			[52] = "|cffc69b6dNinefingers|r",
+			[51] = 1570722836,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [74]
 		{
-			"well its nice", -- [1]
-			"Maldy-Razorgore", -- [2]
+			"Me too :D", -- [1]
+			"Ensidium-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Maldy", -- [5]
+			"Ensidium", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3569, -- [11]
-			"Player-4478-014A22A1", -- [12]
+			2237, -- [11]
+			"Player-4478-015DDF8A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMaldy|r",
-			[51] = 1570478857,
+			[52] = "|cffc69b6dEnsidium|r",
+			[51] = 1570722842,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [75]
 		{
-			"for sh", -- [1]
-			"Maldy-Razorgore", -- [2]
+			"Yeah I know", -- [1]
+			"Naroh-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Maldy", -- [5]
+			"Naroh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3571, -- [11]
-			"Player-4478-014A22A1", -- [12]
+			2238, -- [11]
+			"Player-4478-01566C77", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMaldy|r",
-			[51] = 1570478859,
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570722842,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [76]
 		{
-			"if i ever need to", -- [1]
-			"Maldy-Razorgore", -- [2]
+			"Already have a healer I'm gonna run dm with :)", -- [1]
+			"Naroh-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Maldy", -- [5]
+			"Naroh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3579, -- [11]
-			"Player-4478-014A22A1", -- [12]
+			2246, -- [11]
+			"Player-4478-01566C77", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMaldy|r",
-			[51] = 1570478870,
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570722855,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [77]
 		{
-			"reset", -- [1]
-			"Tinkon-Razorgore", -- [2]
+			"But that's not out yet", -- [1]
+			"Naroh-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tinkon", -- [5]
+			"Naroh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3701, -- [11]
-			"Player-4478-01550280", -- [12]
+			2250, -- [11]
+			"Player-4478-01566C77", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaTinkon|r",
-			[51] = 1570479052,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570722867,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [78]
 		{
-			"sry", -- [1]
-			"Tinkon-Razorgore", -- [2]
+			"And I need these damn edgemasters fast", -- [1]
+			"Naroh-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tinkon", -- [5]
+			"Naroh", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3705, -- [11]
-			"Player-4478-01550280", -- [12]
+			2253, -- [11]
+			"Player-4478-01566C77", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaTinkon|r",
-			[51] = 1570479056,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffc69b6dNaroh|r",
+			[51] = 1570722874,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [79]
 		{
-			"its ok, I reset for good measure", -- [1]
-			"Tinkon-Razorgore", -- [2]
+			"does anyone need to do Uniting the Shattered Amulet quest?", -- [1]
+			"Ninefingers-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tinkon", -- [5]
+			"Ninefingers", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3719, -- [11]
-			"Player-4478-01550280", -- [12]
+			2289, -- [11]
+			"Player-4478-012E10B5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaTinkon|r",
-			[51] = 1570479076,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cffc69b6dNinefingers|r",
+			[51] = 1570722943,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [80]
 		{
-			"1 more for Scholo, caster", -- [1]
-			"Stormwall-Razorgore", -- [2]
+			"DM released 15th???", -- [1]
+			"Wharfman-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Stormwall", -- [5]
+			"Wharfman", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3760, -- [11]
-			"Player-4478-013E0D2A", -- [12]
+			2547, -- [11]
+			"Player-4478-0155B391", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dStormwall|r",
-			[51] = 1570479149,
+			[52] = "|cffaad372Wharfman|r",
+			[51] = 1570723474,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [81]
 		{
-			"ooh", -- [1]
-			"Tivn-Razorgore", -- [2]
+			"yes", -- [1]
+			"Catloaf-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tivn", -- [5]
+			"Catloaf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3763, -- [11]
-			"Player-4478-01474A7A", -- [12]
+			2577, -- [11]
+			"Player-4478-014DCA58", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaTivn|r",
-			[51] = 1570479158,
+			[52] = "|cffaad372Catloaf|r",
+			[51] = 1570723515,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [82]
 		{
-			"inv", -- [1]
-			"Tivn-Razorgore", -- [2]
+			"Aye", -- [1]
+			"Melo-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tivn", -- [5]
+			"Melo", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3764, -- [11]
-			"Player-4478-01474A7A", -- [12]
+			2579, -- [11]
+			"Player-4478-012AB4AF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaTivn|r",
-			[51] = 1570479159,
+			[52] = "|cff3fc6eaMelo|r",
+			[51] = 1570723516,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [83]
 		{
-			"memem", -- [1]
-			"Tivn-Razorgore", -- [2]
+			"sweet", -- [1]
+			"Wharfman-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Tivn", -- [5]
+			"Wharfman", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			3766, -- [11]
-			"Player-4478-01474A7A", -- [12]
+			2588, -- [11]
+			"Player-4478-0155B391", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaTivn|r",
-			[51] = 1570479160,
+			[52] = "|cffaad372Wharfman|r",
+			[51] = 1570723522,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [84]
 		{
-			"|cffffff00Xavian is under attack!|r", -- [1]
+			"|cffffff00Wetlands is under attack!|r", -- [1]
 			"", -- [2]
 			"", -- [3]
-			"3. LocalDefense - Ashenvale", -- [4]
+			"3. LocalDefense - Wetlands", -- [4]
 			"", -- [5]
 			"", -- [6]
 			22, -- [7]
 			3, -- [8]
-			"LocalDefense - Ashenvale", -- [9]
+			"LocalDefense - Wetlands", -- [9]
 			0, -- [10]
-			3773, -- [11]
+			3215, -- [11]
 			false, -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1890,803 +1893,33 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "",
-			[51] = 1570479169,
+			[51] = 1570725991,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [85]
 		{
-			"is bagnon bugging for anyone else?", -- [1]
-			"Fxih-Razorgore", -- [2]
+			"any1 from guild mybe need Jailbrake! ??", -- [1]
+			"Munja-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Fxih", -- [5]
+			"Munja", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			4080, -- [11]
-			"Player-4478-012A915D", -- [12]
+			3680, -- [11]
+			"Player-4478-015011AF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Fxih|r",
-			[51] = 1570479628,
+			[52] = "|cfffff468Munja|r",
+			[51] = 1570726629,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [86]
 		{
-			"just mixing up the inventory sometimes", -- [1]
-			"Fxih-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fxih", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4086, -- [11]
-			"Player-4478-012A915D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Fxih|r",
-			[51] = 1570479638,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [87]
-		{
-			"oh that odd", -- [1]
-			"Decessus-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Decessus", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4091, -- [11]
-			"Player-4478-013CCA39", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Decessus|r",
-			[51] = 1570479644,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [88]
-		{
-			"i mean when pressing the clean up button", -- [1]
-			"Fxih-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fxih", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4151, -- [11]
-			"Player-4478-012A915D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Fxih|r",
-			[51] = 1570479738,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [89]
-		{
-			"when is dire maul relaease", -- [1]
-			"Shortyguy-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Shortyguy", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4206, -- [11]
-			"Player-4478-01E9DBDD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaShortyguy|r",
-			[51] = 1570479791,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [90]
-		{
-			"15th", -- [1]
-			"Kinryu-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Kinryu", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4210, -- [11]
-			"Player-4478-014564B3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aKinryu|r",
-			[51] = 1570479796,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [91]
-		{
-			"phase 2", -- [1]
-			"Diphda-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Diphda", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4213, -- [11]
-			"Player-4478-01491BAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaDiphda|r",
-			[51] = 1570479797,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [92]
-		{
-			"next week", -- [1]
-			"Tivn-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tivn", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4214, -- [11]
-			"Player-4478-01474A7A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaTivn|r",
-			[51] = 1570479797,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [93]
-		{
-			"15 ", -- [1]
-			"Laleh-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Laleh", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4215, -- [11]
-			"Player-4478-0159AC2F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Laleh|r",
-			[51] = 1570479797,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [94]
-		{
-			"ye", -- [1]
-			"Tivn-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tivn", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4216, -- [11]
-			"Player-4478-01474A7A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaTivn|r",
-			[51] = 1570479799,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [95]
-		{
-			"really ?", -- [1]
-			"Diphda-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Diphda", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4220, -- [11]
-			"Player-4478-01491BAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaDiphda|r",
-			[51] = 1570479805,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [96]
-		{
-			"Yea", -- [1]
-			"Laleh-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Laleh", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4223, -- [11]
-			"Player-4478-0159AC2F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Laleh|r",
-			[51] = 1570479808,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [97]
-		{
-			"offcialy confirmed ?", -- [1]
-			"Diphda-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Diphda", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4226, -- [11]
-			"Player-4478-01491BAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaDiphda|r",
-			[51] = 1570479810,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [98]
-		{
-			"by ion himself", -- [1]
-			"Damond-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Damond", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4229, -- [11]
-			"Player-4478-012A6DE5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1570479818,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [99]
-		{
-			"Yep ^^", -- [1]
-			"Laleh-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Laleh", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4231, -- [11]
-			"Player-4478-0159AC2F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Laleh|r",
-			[51] = 1570479819,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [100]
-		{
-			"they said its at the nd of the year", -- [1]
-			"Diphda-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Diphda", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4233, -- [11]
-			"Player-4478-01491BAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaDiphda|r",
-			[51] = 1570479822,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [101]
-		{
-			"just DM", -- [1]
-			"Damond-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Damond", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4238, -- [11]
-			"Player-4478-012A6DE5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1570479829,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [102]
-		{
-			"Its official", -- [1]
-			"Laleh-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Laleh", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4239, -- [11]
-			"Player-4478-0159AC2F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Laleh|r",
-			[51] = 1570479829,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [103]
-		{
-			"not P2", -- [1]
-			"Damond-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Damond", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4243, -- [11]
-			"Player-4478-012A6DE5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1570479833,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [104]
-		{
-			"oh ok", -- [1]
-			"Diphda-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Diphda", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4249, -- [11]
-			"Player-4478-01491BAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaDiphda|r",
-			[51] = 1570479836,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [105]
-		{
-			"Anyone need +7 stam on there shield? for free", -- [1]
-			"Ýra-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ýra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4316, -- [11]
-			"Player-4478-014B84C7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffÝra|r",
-			[51] = 1570479941,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [106]
-		{
-			"and ripping on rolls", -- [1]
-			"Buffering-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Buffering", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			6, -- [11]
-			"Player-4478-014EED8A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Buffering|r",
-			[51] = 1570550565,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [107]
-		{
-			"everyone is struggling to get a group", -- [1]
-			"Gigawoot-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gigawoot", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			11, -- [11]
-			"Player-4478-0141BDB6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Gigawoot|r",
-			[51] = 1570550568,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [108]
-		{
-			"cuz tanks are rip", -- [1]
-			"Gigawoot-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gigawoot", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			15, -- [11]
-			"Player-4478-0141BDB6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Gigawoot|r",
-			[51] = 1570550571,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [109]
-		{
-			"we keep our smile and live on", -- [1]
-			"Buffering-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Buffering", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			22, -- [11]
-			"Player-4478-014EED8A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Buffering|r",
-			[51] = 1570550579,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [110]
-		{
-			"reroll to tank and get everything u want", -- [1]
-			"Wayze-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wayze", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			25, -- [11]
-			"Player-4478-0143B687", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Wayze|r",
-			[51] = 1570550590,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [111]
-		{
-			"like, you can ask but there's gonna be 5 dps willing to help you", -- [1]
-			"Gigawoot-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gigawoot", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			28, -- [11]
-			"Player-4478-0141BDB6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Gigawoot|r",
-			[51] = 1570550591,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [112]
-		{
-			"make a guild so you get even more", -- [1]
-			"Wayze-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wayze", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			33, -- [11]
-			"Player-4478-0143B687", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Wayze|r",
-			[51] = 1570550594,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [113]
-		{
-			"and a group still wont be formed", -- [1]
-			"Gigawoot-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gigawoot", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			34, -- [11]
-			"Player-4478-0141BDB6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Gigawoot|r",
-			[51] = 1570550594,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [114]
-		{
-			"hmm maybe it's time to contact that one guy who keeps spamming strath live and reserves all orbs ", -- [1]
-			"Potmplz-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Potmplz", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			40, -- [11]
-			"Player-4478-014F695C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edPotmplz|r",
-			[51] = 1570550602,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [115]
-		{
-			"^^", -- [1]
-			"Buffering-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Buffering", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			51, -- [11]
-			"Player-4478-014EED8A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Buffering|r",
-			[51] = 1570550609,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [116]
-		{
-			"hahah...", -- [1]
-			"Buffering-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Buffering", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			69, -- [11]
-			"Player-4478-014EED8A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Buffering|r",
-			[51] = 1570550620,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [117]
-		{
-			"Princess run anyone? Got the scepter", -- [1]
-			"Fjieze-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fjieze", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			911, -- [11]
-			"Player-4478-01485AD0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Fjieze|r",
-			[51] = 1570551078,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [118]
-		{
-			"|cff0070dd|Hitem:13144::::::::58:::::::|h[Serenity Belt]|h|r worth any? dont have any ah record on it", -- [1]
-			"Sandersen-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sandersen", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1896, -- [11]
-			"Player-4478-016870A1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaSandersen|r",
-			[51] = 1570551611,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [119]
-		{
-			"yo any miners? ive spotted 2 rich thorium nodes in epl alr", -- [1]
-			"Tivn-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tivn", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1959, -- [11]
-			"Player-4478-01474A7A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaTivn|r",
-			[51] = 1570551656,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [120]
-		{
-			"On my layer alteast", -- [1]
-			"Tivn-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tivn", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1969, -- [11]
-			"Player-4478-01474A7A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaTivn|r",
-			[51] = 1570551660,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [121]
-		{
-			"sandersen dont think so |cff0070dd|Hitem:16685::::::::60:::1::::|h[Magister's Belt]|h|r is like 3g", -- [1]
+			"tank for scholo ?", -- [1]
 			"Pissycutzu-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2696,7 +1929,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2002, -- [11]
+			4058, -- [11]
 			"Player-4478-0139A6EA", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2704,13 +1937,695 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff3fc6eaPissycutzu|r",
-			[51] = 1570551687,
+			[51] = 1570727196,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [122]
+		}, -- [87]
 		{
-			"ty", -- [1]
+			"any dungeon groups?", -- [1]
+			"Fxih-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fxih", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4168, -- [11]
+			"Player-4478-012A915D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Fxih|r",
+			[51] = 1570727359,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [88]
+		{
+			"i should run scholo if you wanna do a run", -- [1]
+			"Lidel-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lidel", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4176, -- [11]
+			"Player-4478-012A5DDF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Lidel|r",
+			[51] = 1570727373,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [89]
+		{
+			"i'm up for it", -- [1]
+			"Fxih-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fxih", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4185, -- [11]
+			"Player-4478-012A915D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Fxih|r",
+			[51] = 1570727380,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [90]
+		{
+			"anyone else for scholo?", -- [1]
+			"Lidel-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lidel", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4238, -- [11]
+			"Player-4478-012A5DDF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Lidel|r",
+			[51] = 1570727443,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [91]
+		{
+			"any healer for the last spot Scholo run?", -- [1]
+			"Lidel-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Lidel", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4727, -- [11]
+			"Player-4478-012A5DDF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Lidel|r",
+			[51] = 1570728297,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [92]
+		{
+			"are there any granades for non engineers", -- [1]
+			"Catloaf-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Catloaf", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4769, -- [11]
+			"Player-4478-014DCA58", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Catloaf|r",
+			[51] = 1570728490,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [93]
+		{
+			"|cffffffff|Hitem:18588::::::::60:::::::|h[Ez-Thro Dynamite II]|h|r", -- [1]
+			"Gigawoot-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gigawoot", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4780, -- [11]
+			"Player-4478-0141BDB6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Gigawoot|r",
+			[51] = 1570728509,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [94]
+		{
+			"what is the some restrictions thing", -- [1]
+			"Catloaf-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Catloaf", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4792, -- [11]
+			"Player-4478-014DCA58", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Catloaf|r",
+			[51] = 1570728527,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [95]
+		{
+			"the usual caveats", -- [1]
+			"Daprofessor", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Daprofessor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4813, -- [11]
+			"Player-4478-013D7E57", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaDaprofessor|r",
+			[51] = 1570728552,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [96]
+		{
+			"that dynamite xD", -- [1]
+			"Talibang-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Talibang", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4815, -- [11]
+			"Player-4478-016B0E34", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aTalibang|r",
+			[51] = 1570728554,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [97]
+		{
+			"it can blow up in your hand", -- [1]
+			"Gigawoot-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gigawoot", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4819, -- [11]
+			"Player-4478-0141BDB6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Gigawoot|r",
+			[51] = 1570728558,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [98]
+		{
+			"seems that as a non engineer you can get 2x the dmg", -- [1]
+			"Ussares-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ussares", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4820, -- [11]
+			"Player-4478-01519477", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aUssares|r",
+			[51] = 1570728558,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [99]
+		{
+			"xD", -- [1]
+			"Talibang-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Talibang", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4833, -- [11]
+			"Player-4478-016B0E34", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aTalibang|r",
+			[51] = 1570728575,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [100]
+		{
+			"it may blow up in your face, it may stun you, it may cause you severe personal anxiety and stress", -- [1]
+			"Daprofessor-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Daprofessor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4839, -- [11]
+			"Player-4478-013D7E57", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaDaprofessor|r",
+			[51] = 1570728580,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [101]
+		{
+			"yep", -- [1]
+			"Talibang-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Talibang", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4844, -- [11]
+			"Player-4478-016B0E34", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aTalibang|r",
+			[51] = 1570728586,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [102]
+		{
+			"rip", -- [1]
+			"Catloaf-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Catloaf", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4848, -- [11]
+			"Player-4478-014DCA58", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Catloaf|r",
+			[51] = 1570728588,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [103]
+		{
+			"it might kill your puppy.", -- [1]
+			"Gigawoot-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gigawoot", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4852, -- [11]
+			"Player-4478-0141BDB6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Gigawoot|r",
+			[51] = 1570728591,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [104]
+		{
+			"if it does its doing double what it says on the tin =p", -- [1]
+			"Talibang-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Talibang", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4858, -- [11]
+			"Player-4478-016B0E34", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aTalibang|r",
+			[51] = 1570728596,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [105]
+		{
+			"sounds like my mother", -- [1]
+			"Ninefingers-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ninefingers", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4859, -- [11]
+			"Player-4478-012E10B5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dNinefingers|r",
+			[51] = 1570728597,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [106]
+		{
+			"is there something else which deals like 1dmg but like granade", -- [1]
+			"Catloaf-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Catloaf", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4860, -- [11]
+			"Player-4478-014DCA58", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Catloaf|r",
+			[51] = 1570728597,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [107]
+		{
+			"Rip hands", -- [1]
+			"Talibang-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Talibang", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4862, -- [11]
+			"Player-4478-016B0E34", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aTalibang|r",
+			[51] = 1570728599,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [108]
+		{
+			"it may EVEN make your kebap disappear", -- [1]
+			"Daprofessor-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Daprofessor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4863, -- [11]
+			"Player-4478-013D7E57", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaDaprofessor|r",
+			[51] = 1570728601,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [109]
+		{
+			"yep, just like my mother", -- [1]
+			"Ninefingers-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ninefingers", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4870, -- [11]
+			"Player-4478-012E10B5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dNinefingers|r",
+			[51] = 1570728612,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [110]
+		{
+			"you mean that has a stun?", -- [1]
+			"Talibang-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Talibang", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4875, -- [11]
+			"Player-4478-016B0E34", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aTalibang|r",
+			[51] = 1570728615,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [111]
+		{
+			"and this is the greatest personal affront a man can suffer", -- [1]
+			"Daprofessor-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Daprofessor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4880, -- [11]
+			"Player-4478-013D7E57", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaDaprofessor|r",
+			[51] = 1570728618,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [112]
+		{
+			"no stun I need something to throw which is aoe", -- [1]
+			"Catloaf-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Catloaf", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4885, -- [11]
+			"Player-4478-014DCA58", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Catloaf|r",
+			[51] = 1570728625,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [113]
+		{
+			"and deals damage", -- [1]
+			"Catloaf-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Catloaf", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4891, -- [11]
+			"Player-4478-014DCA58", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Catloaf|r",
+			[51] = 1570728628,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [114]
+		{
+			"its called \"mage\"", -- [1]
+			"Daprofessor-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Daprofessor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4894, -- [11]
+			"Player-4478-013D7E57", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaDaprofessor|r",
+			[51] = 1570728634,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [115]
+		{
+			"hahaha", -- [1]
+			"Ninefingers-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ninefingers", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4899, -- [11]
+			"Player-4478-012E10B5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dNinefingers|r",
+			[51] = 1570728640,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [116]
+		{
+			"you throw a mage ", -- [1]
+			"Daprofessor-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Daprofessor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4900, -- [11]
+			"Player-4478-013D7E57", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaDaprofessor|r",
+			[51] = 1570728641,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [117]
+		{
+			"and he does aoe", -- [1]
+			"Daprofessor-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Daprofessor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4902, -- [11]
+			"Player-4478-013D7E57", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaDaprofessor|r",
+			[51] = 1570728644,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [118]
+		{
+			"the crystal?", -- [1]
 			"Damond-Razorgore", -- [2]
-			"Common", -- [3]
+			"", -- [3]
 			"", -- [4]
 			"Damond", -- [5]
 			"", -- [6]
@@ -2718,7 +2633,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2411, -- [11]
+			4903, -- [11]
 			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2726,95 +2641,183 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff8787edDamond|r",
-			[51] = 1570552028,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [123]
+			[51] = 1570728644,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [119]
 		{
-			"Any priests and mage wanna do 3man arena runs?", -- [1]
-			"Donatell-Razorgore", -- [2]
+			"no, the mage, the player character.", -- [1]
+			"Daprofessor-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Donatell", -- [5]
+			"Daprofessor", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2434, -- [11]
-			"Player-4478-019C5500", -- [12]
+			4913, -- [11]
+			"Player-4478-013D7E57", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dDonatell|r",
-			[51] = 1570552043,
+			[52] = "|cff3fc6eaDaprofessor|r",
+			[51] = 1570728654,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [120]
+		{
+			"you find a mage and you throw him", -- [1]
+			"Daprofessor-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Daprofessor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4917, -- [11]
+			"Player-4478-013D7E57", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaDaprofessor|r",
+			[51] = 1570728658,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [121]
+		{
+			"you mob tagging?", -- [1]
+			"Talibang-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Talibang", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4922, -- [11]
+			"Player-4478-016B0E34", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aTalibang|r",
+			[51] = 1570728661,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [122]
+		{
+			"...", -- [1]
+			"Dyno-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Dyno", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4924, -- [11]
+			"Player-4478-0150D8AF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaDyno|r",
+			[51] = 1570728662,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [123]
+		{
+			"hmmmm", -- [1]
+			"Talibang-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Talibang", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4928, -- [11]
+			"Player-4478-016B0E34", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aTalibang|r",
+			[51] = 1570728667,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [124]
 		{
-			"hello anyone for ZF or Mara ?", -- [1]
-			"Pyp-Razorgore", -- [2]
+			"crystal charge", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pyp", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2585, -- [11]
-			"Player-4478-0165212A", -- [12]
+			4943, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aPyp|r",
-			[51] = 1570552132,
+			[52] = "|cff8787edDamond|r",
+			[51] = 1570728688,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [125]
 		{
-			"wooot, then im buying that magisters belt", -- [1]
-			"Sandersen-Razorgore", -- [2]
+			"hunter/rogue/warr dps for scholo? last spot can summ", -- [1]
+			"Pissycutzu-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sandersen", -- [5]
+			"Pissycutzu", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2599, -- [11]
-			"Player-4478-016870A1", -- [12]
+			4973, -- [11]
+			"Player-4478-0139A6EA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaSandersen|r",
-			[51] = 1570552138,
+			[52] = "|cff3fc6eaPissycutzu|r",
+			[51] = 1570728732,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [126]
 		{
-			"already have the robe", -- [1]
-			"Sandersen-Razorgore", -- [2]
+			"|cffffffff|Hitem:11566::::::::60:::::::|h[Crystal Charge]|h|r", -- [1]
+			"Damond-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Sandersen", -- [5]
+			"Damond", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2619, -- [11]
-			"Player-4478-016870A1", -- [12]
+			4978, -- [11]
+			"Player-4478-012A6DE5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaSandersen|r",
-			[51] = 1570552153,
+			[52] = "|cff8787edDamond|r",
+			[51] = 1570728738,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [127]
 	},
