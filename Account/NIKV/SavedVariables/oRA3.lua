@@ -23,6 +23,10 @@ oRA3DB = {
 		},
 	},
 	["profileKeys"] = {
+		["Ksumdamond - Razorgore"] = "Default",
+		["Damonddruid - Razorgore"] = "Default",
+		["Fsumdamond - Razorgore"] = "Default",
+		["Damondbank - Razorgore"] = "Default",
 		["Damond - Razorgore"] = "Default",
 	},
 	["profiles"] = {

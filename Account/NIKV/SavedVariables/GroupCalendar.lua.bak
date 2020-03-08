@@ -1,0 +1,302 @@
+
+gGroupCalendar_Settings = {
+	["Debug"] = false,
+	["IconPos"] = -172,
+	["Razorgore_Damond"] = {
+		["UI"] = {
+			["LockWindow"] = false,
+		},
+		["Security"] = {
+			["TrustGuildies"] = true,
+			["Version"] = 0,
+			["MinTrustedRank"] = 0,
+			["TrustAnyone"] = false,
+			["Guild"] = "Good Game",
+			["Player"] = {
+			},
+		},
+	},
+	["Razorgore_Damonddruid"] = {
+		["UI"] = {
+			["LockWindow"] = false,
+		},
+		["Security"] = {
+			["TrustGuildies"] = true,
+			["Version"] = 0,
+			["MinTrustedRank"] = 0,
+			["TrustAnyone"] = false,
+			["Player"] = {
+			},
+		},
+	},
+	["Razorgore_Damondbank"] = {
+		["UI"] = {
+			["LockWindow"] = false,
+		},
+		["Security"] = {
+			["TrustGuildies"] = true,
+			["Version"] = 0,
+			["MinTrustedRank"] = 0,
+			["TrustAnyone"] = false,
+			["Player"] = {
+			},
+		},
+	},
+	["ShowEventsInLocalTime"] = false,
+	["ShowMinimap"] = "ON",
+	["Format"] = 1,
+	["SquareMinimap"] = "OFF",
+	["Use24HrTime"] = false,
+}
+gGroupCalendar_Database = {
+	["Databases"] = {
+	},
+	["Format"] = 12,
+}
+GroupCalendarDB = nil
+gGroupCalendar_MiniMapSettings = {
+	["shown"] = true,
+	["minimapPos"] = 215.618540353589,
+	["locked"] = false,
+}
+gGroupCalendar_Database2 = {
+	["Databases"] = {
+		["Razorgore_Good Game"] = {
+			["Guild"] = "Good Game",
+			["Events"] = {
+			},
+			["Realm"] = "Razorgore",
+		},
+	},
+	["Format"] = 12,
+}
+gGroupCalendar_PlayerDatabases = {
+	["Databases"] = {
+		["Razorgore_Damond"] = {
+			["GuildRank"] = 5,
+			["PlayerClassCode"] = "K",
+			["Events"] = {
+				[20200318] = {
+					{
+						["mMinLevel"] = 0,
+						["mTime"] = 479,
+						["mChangedTime"] = 80027,
+						["mManualConfirm"] = false,
+						["mGUID"] = "Damond15832700277",
+						["mPrivate"] = true,
+						["mChangedDate"] = 20200303,
+						["mUserName"] = "Damond",
+						["mStatus"] = "A",
+						["mType"] = "RSMC",
+						["mDate"] = 20200318,
+						["mAttendance"] = {
+						},
+					}, -- [1]
+					{
+						["mMinLevel"] = 0,
+						["mTime"] = 479,
+						["mChangedTime"] = 54042,
+						["mManualConfirm"] = false,
+						["mGUID"] = "Damond15836760426",
+						["mPrivate"] = true,
+						["mUserName"] = "Damond",
+						["mChangedDate"] = 20200308,
+						["mStatus"] = "A",
+						["mType"] = "RSBWL",
+						["mDate"] = 20200318,
+						["mAttendance"] = {
+						},
+					}, -- [2]
+				},
+				[20200325] = {
+					{
+						["mMinLevel"] = 0,
+						["mTime"] = 479,
+						["mChangedTime"] = 80027,
+						["mManualConfirm"] = false,
+						["mGUID"] = "Damond15832700278",
+						["mPrivate"] = true,
+						["mChangedDate"] = 20200303,
+						["mUserName"] = "Damond",
+						["mStatus"] = "A",
+						["mType"] = "RSMC",
+						["mDate"] = 20200325,
+						["mAttendance"] = {
+						},
+					}, -- [1]
+					{
+						["mMinLevel"] = 0,
+						["mTime"] = 479,
+						["mChangedTime"] = 54042,
+						["mManualConfirm"] = false,
+						["mGUID"] = "Damond15836760427",
+						["mPrivate"] = true,
+						["mUserName"] = "Damond",
+						["mChangedDate"] = 20200308,
+						["mStatus"] = "A",
+						["mType"] = "RSBWL",
+						["mDate"] = 20200325,
+						["mAttendance"] = {
+						},
+					}, -- [2]
+				},
+				[20200319] = {
+					{
+						["mMinLevel"] = 0,
+						["mTime"] = 479,
+						["mChangedTime"] = 54042,
+						["mManualConfirm"] = false,
+						["mGUID"] = "Damond15836760423",
+						["mPrivate"] = true,
+						["mUserName"] = "Damond",
+						["mChangedDate"] = 20200308,
+						["mStatus"] = "A",
+						["mType"] = "RSOny",
+						["mDate"] = 20200319,
+						["mAttendance"] = {
+						},
+					}, -- [1]
+				},
+				[20200314] = {
+					{
+						["mMinLevel"] = 0,
+						["mTime"] = 479,
+						["mChangedTime"] = 54042,
+						["mManualConfirm"] = false,
+						["mGUID"] = "Damond15836760422",
+						["mPrivate"] = true,
+						["mUserName"] = "Damond",
+						["mChangedDate"] = 20200308,
+						["mStatus"] = "A",
+						["mType"] = "RSOny",
+						["mDate"] = 20200314,
+						["mAttendance"] = {
+						},
+					}, -- [1]
+				},
+				[20200311] = {
+					{
+						["mMinLevel"] = 0,
+						["mTime"] = 479,
+						["mChangedTime"] = 80027,
+						["mManualConfirm"] = false,
+						["mGUID"] = "Damond15832700276",
+						["mPrivate"] = true,
+						["mChangedDate"] = 20200303,
+						["mUserName"] = "Damond",
+						["mStatus"] = "A",
+						["mType"] = "RSMC",
+						["mDate"] = 20200311,
+						["mAttendance"] = {
+						},
+					}, -- [1]
+					{
+						["mMinLevel"] = 0,
+						["mTime"] = 479,
+						["mChangedTime"] = 54042,
+						["mManualConfirm"] = false,
+						["mGUID"] = "Damond15836760425",
+						["mPrivate"] = true,
+						["mUserName"] = "Damond",
+						["mChangedDate"] = 20200308,
+						["mStatus"] = "A",
+						["mType"] = "RSBWL",
+						["mDate"] = 20200311,
+						["mAttendance"] = {
+						},
+					}, -- [2]
+				},
+				[20200401] = {
+					{
+						["mMinLevel"] = 0,
+						["mTime"] = 479,
+						["mChangedTime"] = 54042,
+						["mManualConfirm"] = false,
+						["mGUID"] = "Damond15836760428",
+						["mPrivate"] = true,
+						["mUserName"] = "Damond",
+						["mChangedDate"] = 20200308,
+						["mStatus"] = "A",
+						["mType"] = "RSBWL",
+						["mDate"] = 20200401,
+						["mAttendance"] = {
+						},
+					}, -- [1]
+				},
+				[20200324] = {
+					{
+						["mMinLevel"] = 0,
+						["mTime"] = 479,
+						["mChangedTime"] = 54042,
+						["mManualConfirm"] = false,
+						["mGUID"] = "Damond15836760424",
+						["mPrivate"] = true,
+						["mUserName"] = "Damond",
+						["mChangedDate"] = 20200308,
+						["mStatus"] = "A",
+						["mType"] = "RSOny",
+						["mDate"] = 20200324,
+						["mAttendance"] = {
+						},
+					}, -- [1]
+				},
+				[20200309] = {
+					{
+						["mMinLevel"] = 0,
+						["mTime"] = 597,
+						["mChangedTime"] = 52487,
+						["mManualConfirm"] = false,
+						["mGUID"] = "Damond15836744871",
+						["mPrivate"] = true,
+						["mChangedDate"] = 20200308,
+						["mUserName"] = "Damond",
+						["mStatus"] = "A",
+						["mType"] = "RSXmut",
+						["mDate"] = 20200309,
+						["mAttendance"] = {
+						},
+					}, -- [1]
+					{
+						["mMinLevel"] = 0,
+						["mTime"] = 479,
+						["mChangedTime"] = 54042,
+						["mManualConfirm"] = false,
+						["mGUID"] = "Damond15836760421",
+						["mPrivate"] = true,
+						["mUserName"] = "Damond",
+						["mChangedDate"] = 20200308,
+						["mStatus"] = "A",
+						["mType"] = "RSOny",
+						["mDate"] = 20200309,
+						["mAttendance"] = {
+						},
+					}, -- [2]
+				},
+			},
+			["Guild"] = "Good Game",
+			["PlayerLevel"] = 60,
+			["PlayerRaceCode"] = "G",
+			["UserName"] = "Damond",
+			["Realm"] = "Razorgore",
+		},
+		["Razorgore_Damonddruid"] = {
+			["UserName"] = "Damonddruid",
+			["PlayerClassCode"] = "D",
+			["Events"] = {
+			},
+			["PlayerLevel"] = 2,
+			["PlayerRaceCode"] = "N",
+			["Realm"] = "Razorgore",
+		},
+		["Razorgore_Damondbank"] = {
+			["UserName"] = "Damondbank",
+			["PlayerClassCode"] = "K",
+			["Events"] = {
+			},
+			["PlayerLevel"] = 1,
+			["PlayerRaceCode"] = "G",
+			["Realm"] = "Razorgore",
+		},
+	},
+	["Format"] = 12,
+}

@@ -13,10 +13,11 @@ BigWigsClassicDB = {
 			["profiles"] = {
 				["Default"] = {
 					["BigWigsAnchor_x"] = 1047.46658637279,
-					["BigWigsAnchor_width"] = 220.000015258789,
 					["BigWigsAnchor_y"] = 591.644297789302,
-					["BigWigsEmphasizeAnchor_height"] = 22.0000019073486,
-					["BigWigsAnchor_height"] = 16.0000133514404,
+					["BigWigsAnchor_width"] = 220.000061035156,
+					["BigWigsEmphasizeAnchor_width"] = 320.000030517578,
+					["BigWigsEmphasizeAnchor_height"] = 22.0000324249268,
+					["BigWigsAnchor_height"] = 15.9999876022339,
 				},
 			},
 		},
@@ -24,39 +25,39 @@ BigWigsClassicDB = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 		},
-		["BigWigs_Plugins_InfoBox"] = {
-		},
 		["BigWigs_Plugins_Statistics"] = {
-		},
-		["BigWigs_Plugins_AutoReply"] = {
 		},
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BWMessageAnchor_y"] = 594.48873777267,
 					["BWMessageAnchor_x"] = 894.57793726676,
+					["BWMessageAnchor_y"] = 594.48873777267,
 				},
 			},
+		},
+		["BigWigs_Plugins_AutoReply"] = {
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
 					["height"] = 120.000007629395,
-					["posy"] = 259.555734418904,
-					["posx"] = 632.889111575234,
-					["width"] = 139.999954223633,
+					["posy"] = 440.889290189753,
+					["posx"] = 143.644296012981,
+					["width"] = 139.999984741211,
 				},
 			},
 		},
-		["BigWigs_Plugins_Pull"] = {
-		},
 		["BigWigs_Plugins_Wipe"] = {
 		},
+		["BigWigs_Plugins_Pull"] = {
+		},
+		["BigWigs_Plugins_InfoBox"] = {
+		},
 	},
+	["discord"] = 15,
 	["profileKeys"] = {
 		["Damond - Razorgore"] = "Default",
 	},
-	["discord"] = 15,
 	["profiles"] = {
 		["Default"] = {
 			["showZoneMessages"] = false,
@@ -90,7 +91,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Wipe"] = {
+		["BigWigs_Plugins_InfoBox"] = {
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 		},
@@ -98,17 +99,17 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Raid Icons"] = {
 		},
-		["BigWigs_Plugins_AutoReply"] = {
+		["BigWigs_Plugins_Messages"] = {
 		},
-		["BigWigs_Plugins_Statistics"] = {
+		["BigWigs_Plugins_AutoReply"] = {
 		},
 		["BigWigs_Plugins_Proximity"] = {
 		},
-		["BigWigs_Plugins_Messages"] = {
+		["BigWigs_Plugins_Statistics"] = {
 		},
 		["BigWigs_Plugins_Pull"] = {
 		},
-		["BigWigs_Plugins_InfoBox"] = {
+		["BigWigs_Plugins_Wipe"] = {
 		},
 	},
 	["wipe80"] = true,
