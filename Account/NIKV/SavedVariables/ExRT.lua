@@ -36,8 +36,9 @@ VExRT = {
 			"1MCSC Major Domo*", -- [32]
 			"2BWL Flamegor*", -- [33]
 			"2BWL Chromaggus*", -- [34]
+			"1MCSC Golemagg*", -- [35]
 		},
-		["Strata"] = "HIGH",
+		["FontSize"] = 15,
 		["AutoLoad"] = {
 		},
 		["Left"] = 0.999798893928528,
@@ -47,46 +48,45 @@ VExRT = {
 		["OptionsFormatting"] = true,
 		["DefName"] = "2BWL Nefarian",
 		["SaveAllNew"] = true,
-		["LastUpdateName"] = "Ecology-Razorgore",
-		["Alpha"] = 100,
+		["LastUpdateName"] = "Echology-Razorgore",
+		["LastUpdateTime"] = 1584050993,
 		["Width"] = 424.001159667969,
-		["EnableWhenReceive"] = true,
-		["Top"] = 1079.99987792969,
-		["BlackLastUpdateTime"] = {
+		["BlackLastUpdateName"] = {
 			nil, -- [1]
 			nil, -- [2]
 			nil, -- [3]
-			1580930507, -- [4]
-			1580931702, -- [5]
-			1580931321, -- [6]
-			1580931688, -- [7]
-			1580932267, -- [8]
-			1580932577, -- [9]
-			1580932843, -- [10]
-			1580933042, -- [11]
-			1579722116, -- [12]
-			1580934595, -- [13]
-			1580934961, -- [14]
-			1580935477, -- [15]
-			1576696099, -- [16]
-			1580670451, -- [17]
-			1583174544, -- [18]
-			1582570088, -- [19]
-			1583175157, -- [20]
-			1582570755, -- [21]
-			1583177006, -- [22]
-			1583185945, -- [23]
-			1583433647, -- [24]
-			1583434350, -- [25]
-			1583434665, -- [26]
-			1583435664, -- [27]
-			1583437864, -- [28]
-			1583440295, -- [29]
-			1583176116, -- [30]
-			1583176459, -- [31]
-			1583177627, -- [32]
-			1583438057, -- [33]
-			1583438895, -- [34]
+			"Rocci-Razorgore", -- [4]
+			"Rocci-Razorgore", -- [5]
+			"Rocci-Razorgore", -- [6]
+			"Wayze-Razorgore", -- [7]
+			"Rocci-Razorgore", -- [8]
+			"Rocci-Razorgore", -- [9]
+			"Rocci-Razorgore", -- [10]
+			"Rocci-Razorgore", -- [11]
+			"Fear-Razorgore", -- [12]
+			"Rocci-Razorgore", -- [13]
+			"Rocci-Razorgore", -- [14]
+			"Rocci-Razorgore", -- [15]
+			"Wayze-Razorgore", -- [16]
+			"Rocci-Razorgore", -- [17]
+			"Ecology-Razorgore", -- [18]
+			"Ecology-Razorgore", -- [19]
+			"Echology-Razorgore", -- [20]
+			"Echology-Razorgore", -- [21]
+			"Echology-Razorgore", -- [22]
+			"Echology-Razorgore", -- [23]
+			"Echology-Razorgore", -- [24]
+			"Echology-Razorgore", -- [25]
+			"Echology-Razorgore", -- [26]
+			"Echology-Razorgore", -- [27]
+			"Echology-Razorgore", -- [28]
+			"Echology-Razorgore", -- [29]
+			"Echology-Razorgore", -- [30]
+			"Echology-Razorgore", -- [31]
+			"Echology-Razorgore", -- [32]
+			"Echology-Razorgore", -- [33]
+			"Echology-Razorgore", -- [34]
+			"Echology-Razorgore", -- [35]
 		},
 		["Black"] = {
 			"", -- [1]
@@ -111,58 +111,62 @@ VExRT = {
 			"||cffff0000Post-Magmadar||r\nEveryone who can - ||cffee5555Swiftness Potion||r\n||cffffffffPriests||r - buff ||cff8787edShadow Protection||r on everyone\n\n{alliance}||cffff0000Gehennas||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1\n{cross}: Tank 2\n{square}: Tank 3\n\n< ||cff00ff96Healing||r >\n-\n\n< ||cff00ff96Dispels||r >\n||cffa330c9Curses||r: tanks > melee\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Casters - ||cffc41e3aRestrorative Potion||r\nOn pull: Melee - ||cffc41e3aFree Action Potion||r\nAfter 2 seconds: ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r\n\n< ||cff00ff96Douse||r >\n-", -- [20]
 			"{alliance}||cffff0000Garr||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1\nAdds: Tank 2\n\n< ||cff00ff96Healing||r >\n-\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1+DPS warriors - ||cffc41e3aMighty Rage||r\nOn pull: Tank 2 - ||cffc41e3aGreater Stoneshield Potion\n||r\n< ||cff00ff96Douse||r >\n-\n\n||cffff0000Post-Garr - Trash||r\n1st trash pack: Tank 2 - ||cffc41e3aFree Action Potion||r\n2nd trash pack: Tank 3 - ||cffc41e3aFree Action Potion||r\nAfter 1st trash pack: Melee - ||cffc41e3aGreater Fire Protection Potion||r", -- [21]
 			"||cffff0000Post-Shazzarah - Trash||r\n1st trash pack: Tank 2 + Tank 3 - ||cffc41e3aFree Action Potion||r\n2nd trash pack: Tank 1 + Tank 4 - ||cffc41e3aFree Action Potion||r\nMelee stack on {diamond} @Reaver packs\n\n{alliance}||cffff0000Sulfuron||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1\n{cross}: Tank 2\n{square}:  Tank 3\n{moon}: Tank 4\n{triangle}: Tank 5\n\n\n< ||cff00ff96Healing||r >\n-\n\n< ||cff00ff96Interrupt||r >\n{cross}: ||cfffff468Rogue 1||r > ||cffc69b6dFury 1||r\n{square}:  ||cfffff468Rogue 2||r > ||cffc69b6dFury 2||r\n{moon}: ||cfffff468Rogue 3||r > ||cffc69b6dFury 3||r\n{triangle}: ||cfffff468Rogue 4||r > ||cffc69b6dFury 4||r\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tanks+melee - ||cffc41e3aFree Action Potion||r\nOn pull: Casters+healers - ||cffc41e3aRestrorative Potion||r\nAfter 2 seconds: ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r\n\n< ||cff00ff96Douse||r >\n-\n\n||cffff0000Post-Sulfuron - Trash||r\nWhen available: Everyone - ||cffc41e3aGreater Shadow Protection Potion||r", -- [22]
-			" ", -- [23]
+			"||cffff0000Post-Major Domo||r\nRag spawning: ||cfffff468Daxxa||r\nWhen available: Everyone - ||cffee5555Swiftness Potion||r\n\n{alliance}||cffff0000Ragnaros||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r - Taunt after every||cffff0000 wrath||r >\n{alliance}Boss: Tank 1\n{alliance}Boss offtank: Tank 2\n\nSub 30%: After ||cffff0000wrath||r\nTank 2 taunt -> Tank 2 Mocking Blow -> Tank 1 taunt -> Tank 1 Mocking blow\n\n< ||cff00ff96Healing||r >\n-\n\n< ||cff00ff96Barov Peasant Caller Rotation||r - 5 sec before ||cffff0000wrath||r >\n1st wrath: ||cfffff468Rogue 1+2||r > ||cffc69b6dFury 1+2||r\n2nd wrath: ||cfffff468Rogue 3+4||r+ > ||cffc69b6dFury 3+4||r\nFFA: Other melee\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nWhen in position: everyone - ||cffc41e3aGreater Fire Protection Potion||r\nWhen available: DPS warriors - ||cffc41e3aMighty Rage||r", -- [23]
 			"{alliance}||cffff0000Razorgore||r{alliance}\n< ||cff00ff96||r||cff00ff96Tankng||r >\n{alliance}Boss: Tank 2 || Offtanking: Tank 1\n\n< ||cff00ff96Groups||r >\nEntrance side: Odd groups\nVael side: Even groups\n\n< ||cff00ff96Orb control||r >\nOrb till last egg: ||cffaad372Hunter 1||r\nOrb backup: ||cffaad372Hunter 2||r\n\n< ||cff00ff96Healing||r >\n-\n\n< @{alliance}||cff00ff96Razorgore||r >\n\n\n< ||cff00ff96Consumable usage||r||r||r||r >\n@Razorgore: Healers and casters - ||cffc41e3aGreater Fire Protection Potion||r\n@Razorgore: Tanks+Melee - ||cffc41e3aFree Action Potion||r\n\n||cffff0000Post-Razorgore||r\n||cffff0000STOP!||r - Rebuff, get mana and get ready -> Technicians\nTechnicians - Everyone sprint in and engage with them.\nAfter trash: Melee, healers and casters - ||cffc41e3aGreater Fire Protection Potion||r", -- [24]
-			"||cffff0000Post-Razorgore||r\n||cffff0000STOP!||r - Rebuff, get mana and get ready -> Technicians\nTechnicians - Everyone sprint in and engage with them.\nAfter trash: Melee, healers and casters - ||cffc41e3aGreater Fire Protection Potion||r\n\n{alliance}||cffff0000Vael||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1 || Offtanking: Tank 2\n\n< ||cff00ff96Positioning||r||r >\nTanks: Base of stairs\nMelee: Back left leg @{star} ||cffc69b6dEcology||r\n||cffff0000Burning Adrenaline||r - explosion spot: Behind pillar to the left\n\n< ||cff00ff96Threat||r >\nDO NOT go over the threat of the offtank\n||cffc69b6dWarriors use Cleave||r\n\n< ||cff00ff96Healing||r >\n-\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1+ Tank 2 - ||cffc41e3aMighty Rage||r\n\n||cffff0000Post-Vael||r\n||cffff0000First trash||r:  Tank 1, Tank 2 & Tank 3 should wear FR gear.\n||cffaad372Hunter kiting||r - ||cffaad372Hunter 2||r: {moon}Captain\n||cffff7c0aDruid Hibernate||r - {triangle}Wyrmkin: ||cffff7c0aDruid 1||r || {diamond}Wyrmkin: ||cffff7c0aDruid 2||r\n||cffaad372Hunter tranq||r - Seethers: ||cffaad372Hunter 1 & Hunter 3||r\nAfter first trash: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cffff0000Suppression||r: \n||cff3fc6eaMage sheep-interrupts - Mage 1 {square} || Mage 2 {moon} || Mage 3 {triangle}\n||cfffff468Rogue disarm||r - ||cfffff468Rogue 1 -> Rogue 2||r", -- [25]
-			"||cffff0000Post-Vael||r\n||cffff0000First trash||r:  Tank 1, Tank 2 & Tank 3 should wear FR gear.\n||cffaad372Hunter kiting||r - ||cffaad372Hunter 2||r: {moon}Captain\n||cffff7c0aDruid Hibernate||r - {triangle}Wyrmkin: ||cffff7c0aDruid 1||r || {diamond}Wyrmkin: ||cffff7c0aDruid 2||r\n||cffaad372Hunter tranq||r - Seethers: ||cffaad372Hunter 1 & Hunter 3||r\nAfter first trash: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cff3fc6eaMage sheep-interrupts - Mage 1 {square} || Mage 2 {moon} || Mage 3 {triangle}\n||cfffff468Rogue disarm||r - ||cfffff468Rogue 1, Rogue 2||r ||cfffff468& Rogue 3||r||r\n\n{alliance}||cffff0000Broodlord||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1 || Offtanking: Tank 2, Tank 3 & Tank 4\n\n< ||cff00ff96Healing||r >\n-\n\n< @{alliance}||cff00ff96Broodlord||r >\nMelee on: {star}Ecology\nRange on: {circle}Andy\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1 - ||cffc41e3aMighty Rage||r\nOn pull: DPS warriors - ||cffc41e3aGreater Fire Protection Potion||r\n\n||cffff0000Post-Broodlord||r\n||cffff0000STOP!||r - Rebuff, get mana and get ready\nBefore trash: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cffaad372Hunter pull||r - Technician: ||cffaad372Hunter 1||r\n||cff3fc6eaMages AOE||r - Technicians\nMelee - Warlocks -> Spellbinders\nHellpacks tanking - {skull}: Tank 1 || {cross}: Tank 2 || {square}{triangle}:Tank 3 || {moon}: Tank 4", -- [26]
-			"||cffff0000Post-Broodlord||r\n||cffff0000STOP!||r - Rebuff, get mana and get ready\nBefore trash: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cffaad372Hunter pull||r - {skull}: ||cffaad372Hunter 1||r\n||cff3fc6eaMages pull||r - Technicians: ||cff3fc6eaMage 1||r\nMelee - Warlocks -> Spellbinders\nHellpacks tanking - {skull}: Tank 1 || {cross}: Tank 2 || {square}{triangle}:Tank 3 || {moon}: Tank 4\n\n{alliance}||cffff0000Firemaw||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r - Taunt 4-5 sec before ||cffff0000Buffet||r>\n{alliance}Boss: Tank 1\nDebuff swapping: Tank 2\nBuffet taunting: Tank 3\n\n< ||cff00ff96Everyone wear Onyxia Scale Cloak||r >\n\n< ||cff00ff96Debuff resetting||r - 5-6 stacks >\n\n< ||cff00ff96Healing||r >\n-\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1 - ||cffc41e3aMighty Rage||r\nOn pull: DPS warriors - ||cffc41e3aGreater Fire Protection Potion||r\n\n||cffff0000Post-Firemaw||r\n||cffff00004 pack||r\nOverseers - {skull}: Tank 1 || {cross}: Tank 2 || {square}: Tank 3\nWyrmguard - {moon}:Tank 4 - ||cffc41e3aFree Action Potion||r\nCasters - Wyrmguard\nMelee - Overseers - ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r\n||cffff00003 pack||r\nWyrmguards tanking - {skull}: Tank 1 || {cross}: Tank 2 || {square}: Tank 3\nOn pull: Tanks+Melee - ||cffc41e3aFree Action Potion||r & ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r", -- [27]
-			"||cffff0000Post-Firemaw||r\n||cffff00004 pack||r\nOverseers - {skull}: Tank 1 || {cross}: Tank 2 || {square}: Tank 3\nWyrmguard - {moon}:Tank 4 - ||cffc41e3aFree Action Potion||r\nCasters - Wyrmguard\nMelee - Overseers - ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r\n||cffff00003 pack||r\nWyrmguards tanking - {skull}: Tank 1 & Tank 4 || {cross}: Tank 2 & Tank 5 || {square}: Tank 3 & Tank 6\nOn pull: Tanks+Melee - ||cffc41e3aFree Action Potion||r & ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r\n\n{alliance}||cffff0000Ebonroc||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r - Taunt on ||cffff0000Shadow of Ebonroc||r>\n{alliance}Boss: Tank 1\nTaunt priority: Tank 1 > Tank 2 > Tank 3\n\n< ||cff00ff96Everyone wear Onyxia Scale Cloak||r >\n\n< ||cff00ff96Healing||r >\n-\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Warriors - ||cffc41e3aMighty Rage||r", -- [28]
+			"||cffff0000Post-Razorgore||r\n||cffff0000STOP!||r - Rebuff, get mana and get ready -> Technicians\nTechnicians - Everyone sprint in and engage with them.\nAfter trash: Melee, healers and casters - ||cffc41e3aGreater Fire Protection Potion||r\n\n{alliance}||cffff0000Vael||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1 || Offtanking: Tank 2\n\n< ||cff00ff96Positioning||r||r >\nTanks: Base of stairs\nMelee: Back left leg @{star}\n||cffff0000Burning Adrenaline||r - explosion spot: Behind pillar to the left\n\n< ||cff00ff96Threat||r >\nDO NOT go over the threat of the offtank\n||cffc69b6dWarriors use Cleave||r\n\n< ||cff00ff96Healing||r >\nPriest shielding on tank prior to ||cffff0000Flame Breath||r: Priest 1\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1+ Tank 2 - ||cffc41e3aMighty Rage||r\n\n||cffff0000Post-Vael||r\n||cffff0000First trash||r:  Tank 1, Tank 2 & Tank 3 should wear FR gear.\n||cffaad372Hunter kiting||r - ||cffaad372Hunter 2||r: {moon}Captain\n||cffff7c0aDruid Hibernate||r - {triangle}Wyrmkin: ||cffff7c0aDruid 1||r || {diamond}Wyrmkin: ||cffff7c0aDruid 2||r\n||cffaad372Hunter tranq||r - Seethers: ||cffaad372Hunter 1 & Hunter 3||r\nAfter first trash: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cffff0000Suppression||r: \n||cff3fc6eaMage sheep-interrupts - Mage 1 {square} || Mage 2 {moon} || Mage 3 {triangle}\n||cfffff468Rogue disarm||r - ||cfffff468Rogue 1 -> Rogue 2||r", -- [25]
+			"||cffff0000Post-Vael||r\n||cffff0000First trash||r:  Tank 1, Tank 2 & Tank 3 should wear FR gear.\n||cffaad372Hunter kiting||r - ||cffaad372Hunter 2||r: {moon}Captain\n||cffff7c0aDruid Hibernate||r - {diamond}Wyrmkin: ||cffff7c0aDruid 1||r\n||cffaad372Hunter tranq||r - Seethers: ||cffaad372Hunter 1 & Hunter 3||r\nAfter first trash: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cff3fc6eaMage sheep-interrupts - Mage 1 {square} || Mage 2 {moon} || Mage 3 {triangle}\n||cfffff468Rogue disarm||r - ||cfffff468Rogue 1, Rogue 2||r ||cfffff468& Rogue 3||r||r\n\n{alliance}||cffff0000Broodlord||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1 || Offtanking: Tank 2, Tank 3 & Tank 4\n\n< ||cff00ff96Healing||r >\nPriest shielding on tank prior to ||cffff0000Mortal Strike||r: Priest 1\n\n< @{alliance}||cff00ff96Broodlord||r >\nMelee on: {star}\nRange on: {circle}\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1 - ||cffc41e3aMighty Rage||r\nOn pull: DPS warriors - ||cffc41e3aGreater Fire Protection Potion||r\n\n||cffff0000Post-Broodlord||r\n||cffff0000STOP!||r - Rebuff, get mana and get ready\nBefore trash: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cffaad372Hunter pull||r - Technician: ||cffaad372Hunter 1||r\n||cff3fc6eaMages AOE||r - Technicians\nMelee - Warlocks -> Spellbinders\nHellpacks tanking - {skull}: Tank 1 || {cross}: Tank 2 || {square}{triangle}:Tank 3 || {moon}: Tank 4", -- [26]
+			"||cffff0000Post-Broodlord||r\n||cffff0000STOP!||r - Rebuff, get mana and get ready\nBefore trash: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cffaad372Hunter pull||r - {skull}: ||cffaad372Hunter 1||r\n||cff3fc6eaMages pull||r - Technicians: ||cff3fc6eaMage 1||r\nMelee - Warlocks -> Spellbinders\nHellpacks tanking - {skull}: Tank 1 || {cross}: Tank 2 || {square}{triangle}:Tank 3 || {moon}: Tank 4\n\n{alliance}||cffff0000Firemaw||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r - Taunt 4-5 sec before ||cffff0000Buffet||r>\n{alliance}Boss: Tank 1\nDebuff swapping: Tank 2\nBuffet taunting: Tank 3\n\n< ||cff00ff96Everyone wear Onyxia Scale Cloak||r >\n\n< ||cff00ff96Debuff resetting||r - 5-6 stacks >\n\n< ||cff00ff96Healing||r >\nPriest shielding on tank prior to ||cffff0000Shadow Flame||r: Priest 1\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1 - ||cffc41e3aMighty Rage||r\nOn pull: DPS warriors - ||cffc41e3aGreater Fire Protection Potion||r\n\n||cffff0000Post-Firemaw||r\n||cffff00004 pack||r\nOverseers - {skull}: Tank 1 || {cross}: Tank 2 || {square}: Tank 3\nWyrmguard - {moon}:Tank 4 - ||cffc41e3aFree Action Potion||r\nCasters - Wyrmguard\nMelee - Overseers - ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r\n||cffff00003 pack||r\nWyrmguards tanking - {skull}: Tank 1 & Tank 4 || {cross}: Tank 2 & Tank 5 || {square}: Tank 3 & Tank 6\nOn pull: Tanks+Melee - ||cffc41e3aFree Action Potion||r & ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r\n||cffff0000Mixed packs||r\n||cff3fc6eaMage engineer tanking: Mage 1||r\n||cffaad372Hunter distracting shot: {skull}: Hunter 1 || {cross}: Hunter 2 || {square}: Hunter 3||r", -- [27]
+			"||cffff0000Post-Firemaw||r\n||cffff0000Mixed packs||r\n||cff3fc6eaMage engineer tanking: Mage 1||r\n||cffaad372Hunter distracting shot: {skull}: Hunter 1 || {cross}: Hunter 2 || {square}: Hunter 3||r\nOverseer - {skull}: Tank 1\nWyrmguard - {cross}: Tank 2 & Tank 5 - ||cffc41e3aFree Action Potion||r\nSpellbinders - {square} & {moon}: Tank 3\n||cffff0000Wyrmguards||r\nWyrmguards tanking - {skull}: Tank 1 & Tank 4 || {cross}: Tank 2 & Tank 5 || {square}: Tank 3 & Tank 6\nOn pull: Tanks+Melee - ||cffc41e3aFree Action Potion||r & ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r\n\n{alliance}||cffff0000Ebonroc||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r - Taunt on ||cffff0000Shadow of Ebonroc||r>\n{alliance}Boss: Tank 1\nTaunt priority: Tank 1 > Tank 2 > Tank 3\n\n< ||cff00ff96Everyone wear Onyxia Scale Cloak||r >\n\n< ||cff00ff96Healing||r >\nPriest shielding on tank prior to ||cffff0000Shadow Flame||r: Priest 1\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Warriors - ||cffc41e3aMighty Rage||r", -- [28]
 			" ", -- [29]
 			"||cffff0000Post-Garr - Trash||r\n1st trash pack: Tank 2 - ||cffc41e3aFree Action Potion||r\n2nd trash pack: Tank 3 - ||cffc41e3aFree Action Potion||r\nAfter 1st trash pack: Melee - ||cffc41e3aGreater Fire Protection Potion||r\n\n{alliance}||cffff0000Geddon||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1\n\n< ||cff00ff96Healing||r >\n-\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1 - ||cffc41e3aMighty Rage||r\nOn pull: Casters - ||cffc41e3aRestrorative Potion||r\n\n< ||cff00ff96Douse||r >\n-\n\n||cffff0000Post-Geddon - Trash||r\n1st trash pack: Tank 2 - ||cffc41e3aFree Action Potion||r", -- [30]
 			"||cffff0000Post-Geddon - Trash||r\n1st trash pack: Tank 2 + Tank 3 - ||cffc41e3aFree Action Potion||r\n\n{alliance}||cffff0000Shazzrah||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1\n\n< ||cff00ff96Healing||r >\n-\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1 - ||cffc41e3aMighty Rage||r\nOn pull: Melee+casters+healers - ||cffc41e3aRestrorative Potion||r\n\n< ||cff00ff96Douse||r >\n-\n\n||cffff0000Post-Shazzarah - Trash||r\n1st trash pack: Tank 2 + Tank 3 - ||cffc41e3aFree Action Potion||r\n2nd trash pack: Tank 1 + Tank 4 - ||cffc41e3aFree Action Potion||r\nMelee stack on {diamond} @Reaver packs\n", -- [31]
 			"||cffff0000Post-Golemagg||r\nWhen available: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cffffffffPriests||r: buff ||cff8787edShadow Protection||r\n\n{alliance}||cffff0000Major Domo||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{cross}: Tank 1 - ||cff00ffffAoE taunt||r on pull\n{moon}: Tank 2 - 2nd ||cff00ffffAoE taunt||r (after 5 sec)\n{alliance}Boss: Tank 3 || {skull}: Tank 4 \n{square}:  Tank 5 || {triangle}: Tank 6\n{diamond}: Tank 7 || {circle}: Tank 8\n{star}: Tank 9\n\n< ||cff00ff96Healing||r >\n-\n\n< ||cff00ff96Rogue stuns||r - x2 >\n{skull}: ||cfffff468Rogue 1||r \n{diamond}: ||cfffff468Rogue 2||r \n{circle}: ||cfffff468Rogue 3||r \n{star}: ||cfffff468Rogue 4||r \n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1 - ||cffc41e3aLimited Invulnerability Potion||r\nOn pull: DPS warriors - ||cffc41e3aMighty Rage||r\nAfter 5 seconds: Tank 2 - ||cffc41e3aLimited Invulnerability Potion||r\nAfter 2 seconds: ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r\n\n< ||cff00ff96Douse||r >\n-\n\n||cffff0000Post-Major Domo||r\nRag spawning - ||cfffff468Daxxa||r\nWhen available: Everyone - ||cffee5555Swiftness Potion||r", -- [32]
-			"{alliance}||cffff0000Flamegor||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r - Taunt 4-5 sec before ||cffff0000Buffet||r>\n{alliance}Boss: Tank 1\nBuffet taunt prio: Tank 2 > Tank 3\n\n< ||cff00ff96Everyone wear Onyxia Scale Cloak||r >\n\n< ||cffaad372Hunter tranq||r >\n||cffaad372Hunter 1||r  -> ||cffaad372Hunter 2||r -> ||cffaad372Hunter 3||r\n\n< ||cff00ff96Healing||r >\n-\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Warriors - ||cffc41e3aMighty Rage||r\n\n||cffff0000Post-Flamegor||r\n||cffff00003 pack||r\nWyrmguards tanking - {skull}: Tank 1 || {cross}: Tank 2 || {square}: Tank 3\nVulnerability checking - ||cffff00ffArcane||r: ||cff3fc6eaMage 1||r || ||cff00ffffFrost||r: ||cff3fc6eaMage 2||r || ||cffee5555Fire||r: ||cff3fc6eaMage 3||r\nOn pull: Melee - ||cffc41e3aFree Action Potion||r & ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r", -- [33]
-			"||cffff0000Post-Flamegor||r\n||cffff00003 pack||r\nWyrmguards tanking - {skull}: Tank 1 || {cross}: Tank 2 || {square}: Tank 3\nVulnerability checking - ||cffff00ffArcane||r: ||cff3fc6eaMage 1||r || ||cff00ffffFrost||r: ||cff3fc6eaMage 2||r || ||cffee5555Fire||r: ||cff3fc6eaMage 3||r\nOn pull: Melee - ||cffc41e3aFree Action Potion||r & ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r\n\n{alliance}||cffff0000Chromaggus||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1 || Offtanking: Tank 2 & Tank 3\n\n< ||cff00ff96Threat||r >\nDO NOT go over the threat of the offtank\n\n< ||cff00ff96Breaths||r >\nEveryone - line of sight every 30 seconds\n\n< ||cffaad372Hunter tranq||r >\n||cffaad372Hunter 1||r  -> ||cffaad372Hunter 2||r -> ||cffaad372Hunter 3||r\n\n< ||cff00ff96Dispels||r >\nEveryone dispels what they can\n\n< ||cff00ff96Vulnerability checkin||rg >\n||cffff00ffArcane||r: ||cff3fc6eaMage 1||r || ||cff00ffffFrost||r: ||cff3fc6eaMage 2||r || ||cffee5555Fire||r: ||cff3fc6eaMage 3||r\n\n< ||cff00ff96Healing||r >\n-\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nWhen called for: Everyone - ||cffc41e3aRestrorative Potion||r", -- [34]
+			"{alliance}||cffff0000Flamegor||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r - Taunt 4-5 sec before ||cffff0000Buffet||r>\n{alliance}Boss: Tank 1\nBuffet taunt prio: Tank 2 > Tank 3\n\n< ||cff00ff96Everyone wear Onyxia Scale Cloak||r >\n\n< ||cffaad372Hunter tranq||r >\n||cffaad372Hunter 1||r  -> ||cffaad372Hunter 2||r -> ||cffaad372Hunter 3||r\n\n< ||cff00ff96Healing||r >\nPriest shielding on tank prior to ||cffff0000Shadow Flame||r: Priest 1\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Warriors - ||cffc41e3aMighty Rage||r\n\n||cffff0000Post-Flamegor||r\nWyrmguards tanking - {skull}: Tank 1 & Tank 4 || {cross}: Tank 2 & Tank 5 || {square}: Tank 3 & Tank 6\nOn pull: Tanks+Melee - ||cffc41e3aFree Action Potion||r & ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r", -- [33]
+			"||cffff0000Post-Flamegor||r\nWyrmguards tanking - {skull}: Tank 1 & Tank 4 || {cross}: Tank 2 & Tank 5 || {square}: Tank 3 & Tank 6\nOn pull: Tanks+Melee - ||cffc41e3aFree Action Potion||r & ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r\n\n{alliance}||cffff0000Chromaggus||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1 || Offtanking: Tank 2 & Tank 3\n\n< ||cff00ff96Threat||r >\nDO NOT go over the threat of the offtank\n\n< ||cff00ff96Breaths||r >\nEveryone - line of sight every 30 seconds\n\n< ||cffaad372Hunter tranq||r >\n||cffaad372Hunter 1||r  -> ||cffaad372Hunter 2||r -> ||cffaad372Hunter 3||r\n\n< ||cff00ff96Dispels||r >\nEveryone dispels what they can\n\n< ||cff00ff96Vulnerability checkin||rg >\n||cffff00ffArcane||r: ||cff3fc6eaMage 1||r || ||cff00ffffFrost||r: ||cff3fc6eaMage 2||r || ||cffee5555Fire||r: ||cff3fc6eaMage 3||r\n\n< ||cff00ff96Healing||r >\nPriest shielding on tank prior to ||cffff0000breaths||r: Priest 1\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nWhen called for: Everyone - ||cffc41e3aRestrorative Potion||r", -- [34]
+			"||cffff0000Post-Sulfuron - Trash||r\nWhen available: Everyone - ||cffc41e3aGreater Shadow Protection Potion||r\n\n{alliance}||cffff0000Golemagg||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1\nAdds: Tank 2 - \n\n< ||cff00ff96Healing||r >\n-\n\n< ||cffaad372Hunter tranq shot||r >\n||cffaad372Hunter||r g1 -> ||cffaad372Hunter||r g2 -> ||cffaad372Hunter||r g3\n\n< ||cff00ff96Consumable usage||r||r||r||r >\n-\n\n< ||cff00ff96Douse||r >\n-\n\n||cffff0000Post-Golemagg||r\nWhen available: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cffffffffPriests||r: buff ||cff8787edShadow Protection||r", -- [35]
 		},
-		["Height"] = 522.998413085938,
-		["BlackLastUpdateName"] = {
+		["BlackLastUpdateTime"] = {
 			nil, -- [1]
 			nil, -- [2]
 			nil, -- [3]
-			"Rocci-Razorgore", -- [4]
-			"Rocci-Razorgore", -- [5]
-			"Rocci-Razorgore", -- [6]
-			"Wayze-Razorgore", -- [7]
-			"Rocci-Razorgore", -- [8]
-			"Rocci-Razorgore", -- [9]
-			"Rocci-Razorgore", -- [10]
-			"Rocci-Razorgore", -- [11]
-			"Fear-Razorgore", -- [12]
-			"Rocci-Razorgore", -- [13]
-			"Rocci-Razorgore", -- [14]
-			"Rocci-Razorgore", -- [15]
-			"Wayze-Razorgore", -- [16]
-			"Rocci-Razorgore", -- [17]
-			"Ecology-Razorgore", -- [18]
-			"Ecology-Razorgore", -- [19]
-			"Ecology-Razorgore", -- [20]
-			"Ecology-Razorgore", -- [21]
-			"Ecology-Razorgore", -- [22]
-			"Echology-Razorgore", -- [23]
-			"Ecology-Razorgore", -- [24]
-			"Ecology-Razorgore", -- [25]
-			"Ecology-Razorgore", -- [26]
-			"Ecology-Razorgore", -- [27]
-			"Ecology-Razorgore", -- [28]
-			"Ecology-Razorgore", -- [29]
-			"Ecology-Razorgore", -- [30]
-			"Ecology-Razorgore", -- [31]
-			"Ecology-Razorgore", -- [32]
-			"Ecology-Razorgore", -- [33]
-			"Ecology-Razorgore", -- [34]
+			1580930507, -- [4]
+			1580931702, -- [5]
+			1580931321, -- [6]
+			1580931688, -- [7]
+			1580932267, -- [8]
+			1580932577, -- [9]
+			1580932843, -- [10]
+			1580933042, -- [11]
+			1579722116, -- [12]
+			1580934595, -- [13]
+			1580934961, -- [14]
+			1580935477, -- [15]
+			1576696099, -- [16]
+			1580670451, -- [17]
+			1583174544, -- [18]
+			1582570088, -- [19]
+			1584039565, -- [20]
+			1584039883, -- [21]
+			1584040926, -- [22]
+			1584041796, -- [23]
+			1584042726, -- [24]
+			1584043625, -- [25]
+			1584045333, -- [26]
+			1584045335, -- [27]
+			1584047469, -- [28]
+			1584050993, -- [29]
+			1584040053, -- [30]
+			1584040390, -- [31]
+			1584041501, -- [32]
+			1584048402, -- [33]
+			1584048407, -- [34]
+			1584041163, -- [35]
 		},
-		["LastUpdateTime"] = 1583440295,
-		["FontSize"] = 15,
+		["EnableWhenReceive"] = true,
+		["Height"] = 522.998413085938,
+		["Alpha"] = 100,
+		["Top"] = 1079.99987792969,
+		["Strata"] = "HIGH",
 	},
 	["ProfileKeys"] = {
 		["Ksumdamond-Razorgore"] = "default",
@@ -172,27 +176,6 @@ VExRT = {
 		["Damond-Razorgore"] = "default",
 	},
 	["Encounter"] = {
-		["names"] = {
-			[616] = "Chromaggus",
-			[663] = "Lucifron",
-			[617] = "Nefarian",
-			[664] = "Magmadar",
-			[665] = "Gehennas",
-			[666] = "Garr",
-			[1084] = "Onyxia",
-			[667] = "Shazzrah",
-			[668] = "Baron Geddon",
-			[669] = "Sulfuron Harbinger",
-			[670] = "Golemagg the Incinerator",
-			[671] = "Majordomo Executus",
-			[610] = "Razorgore the Untamed",
-			[611] = "Vaelastrasz the Corrupt",
-			[612] = "Broodlord Lashlayer",
-			[613] = "Firemaw",
-			[614] = "Ebonroc",
-			[615] = "Flamegor",
-			[672] = "Ragnaros",
-		},
 		["list"] = {
 			["Damond"] = {
 				"^663^9^1573674522^40^1^40^54.75^Themurian", -- [1]
@@ -404,15 +387,67 @@ VExRT = {
 				"^616^9^1583438948^176^1^40^57.75^", -- [207]
 				"^617^9^1583439387^458^1^40^57.73^Xguard", -- [208]
 				"^1084^9^1583441190^318^1^40^58.13^", -- [209]
+				"^663^9^1583780172^40^1^40^58.13^", -- [210]
+				"^664^9^1583780437^61^1^40^58.13^", -- [211]
+				"^665^9^1583780757^41^1^40^58.13^", -- [212]
+				"^666^9^1583781079^49^1^40^58.13^", -- [213]
+				"^668^9^1583781484^58^1^40^58.13^Ulose", -- [214]
+				"^667^9^1583781688^36^1^40^58.13^Farius", -- [215]
+				"^669^9^1583782320^68^1^40^58.13^", -- [216]
+				"^670^9^1583782554^76^1^40^58.13^", -- [217]
+				"^671^9^1583783024^79^1^40^59.22^Ydur", -- [218]
+				"^672^9^1583783426^99^1^40^59.03^Andiel", -- [219]
+				"^1084^9^1583790323^311^1^40^57.38^Cast", -- [220]
+				"^663^9^1584039046^35^1^40^58.13^Andiel", -- [221]
+				"^664^9^1584039256^57^1^40^58.13^", -- [222]
+				"^665^9^1584039587^37^1^40^58.13^", -- [223]
+				"^666^9^1584039891^51^1^40^58.13^Hammerfall", -- [224]
+				"^668^9^1584040215^55^1^40^58.13^Karabaraz", -- [225]
+				"^667^9^1584040489^37^1^40^58.13^Cheekybun", -- [226]
+				"^669^9^1584041068^66^1^40^58.13^", -- [227]
+				"^670^9^1584041346^59^1^40^58.13^", -- [228]
+				"^671^9^1584041563^85^1^40^58.13^", -- [229]
+				"^672^9^1584041898^87^1^40^58.13^Torcpo", -- [230]
+				"^610^9^1584043087^415^1^40^57.63^Ana", -- [231]
+				"^611^9^1584043784^84^1^40^57.63^Tenkeng", -- [232]
+				"^612^9^1584045155^98^1^40^57.63^", -- [233]
+				"^613^9^1584045507^55^0^40^57.59^Palaleen", -- [234]
+				"^613^9^1584046098^192^1^40^57.59^Darkthronian", -- [235]
+				"^614^9^1584047517^107^0^40^58.33^Ana", -- [236]
+				"^614^9^1584047988^138^1^40^58.33^", -- [237]
+				"^615^9^1584048188^98^1^40^58.33^Banoffee", -- [238]
+				"^616^9^1584048746^207^1^40^57.47^", -- [239]
+				"^617^9^1584049151^1604^1^40^58.06^Tarondor", -- [240]
 			},
 			["Ksumdamond"] = {
 			},
-			["Damonddruid"] = {
+			["Damondbank"] = {
 			},
 			["Fsumdamond"] = {
 			},
-			["Damondbank"] = {
+			["Damonddruid"] = {
 			},
+		},
+		["names"] = {
+			[616] = "Chromaggus",
+			[663] = "Lucifron",
+			[617] = "Nefarian",
+			[664] = "Magmadar",
+			[665] = "Gehennas",
+			[666] = "Garr",
+			[1084] = "Onyxia",
+			[667] = "Shazzrah",
+			[668] = "Baron Geddon",
+			[669] = "Sulfuron Harbinger",
+			[670] = "Golemagg the Incinerator",
+			[671] = "Majordomo Executus",
+			[610] = "Razorgore the Untamed",
+			[611] = "Vaelastrasz the Corrupt",
+			[612] = "Broodlord Lashlayer",
+			[613] = "Firemaw",
+			[614] = "Ebonroc",
+			[615] = "Flamegor",
+			[672] = "Ragnaros",
 		},
 	},
 	["Marks"] = {
@@ -423,70 +458,79 @@ VExRT = {
 		["default_userDuration"] = {
 		},
 		["gnGUIDs"] = {
-			["Wyatt-Everlook"] = 0,
-			["Windycurses"] = 0,
+			["Thraxxy"] = 0,
 			["Xguard"] = 0,
-			["Ýra"] = 0,
-			["Poison"] = 0,
 			["Kontra"] = 0,
 			["Tyridias"] = 0,
-			["Gigawoot"] = 0,
+			["Dimmu"] = 0,
 			["Hammerfall"] = 0,
-			["Fxih"] = 0,
-			["Impulse"] = 0,
 			["Torihll"] = 0,
 			["Propluss"] = 0,
-			["Dwarfu"] = 0,
+			["Maeil"] = 0,
 			["Yeat"] = 0,
 			["Damonddruid"] = 0,
-			["Holysos"] = 0,
 			["Apefan"] = 0,
-			["Elice"] = 0,
+			["Timmy"] = 0,
+			["Andiel"] = 0,
 			["Shortman"] = 0,
-			["Ufo"] = 0,
-			["Maeil"] = 0,
 			["Stormwall"] = 0,
 			["Swagrlicious"] = 0,
-			["Tinkeng"] = 0,
-			["Themurian"] = 0,
-			["Buzzhype"] = 0,
-			["Drikkedunk"] = 0,
+			["Jabra"] = 0,
 			["Damondbank"] = 0,
-			["Sephirot"] = 0,
 			["Banoffee"] = 0,
-			["Tarondor"] = 0,
-			["Wizzy"] = 0,
+			["Mike"] = 0,
 			["Coso"] = 0,
 			["Knork"] = 0,
-			["Ecology"] = 0,
-			["Dimmu"] = 0,
+			["Deg"] = 0,
 			["Erlina"] = 0,
 			["Alcador"] = 0,
-			["Fsumdamond"] = 0,
-			["Gallywiix"] = 0,
-			["Laleh"] = 0,
-			["Damond"] = 0,
-			["Geers"] = 0,
-			["Ksumdamond"] = 0,
-			["Ragnis-Mograine"] = 0,
 			["Fear"] = 0,
+			["Damond"] = 0,
 			["Kllen"] = 0,
 			["Kyrre"] = 0,
 			["Deusvult"] = 0,
 			["Setris"] = 0,
-			["Timmy"] = 0,
-			["Deg"] = 0,
-			["Knobend"] = 0,
 			["Disturbia"] = 0,
-			["Inori"] = 0,
 			["Potmplz"] = 0,
+			["Wyatt-Everlook"] = 0,
+			["Ýra"] = 0,
+			["Poison"] = 0,
+			["Fxih"] = 0,
+			["Laleh"] = 0,
+			["Inori"] = 0,
+			["Tivn"] = 0,
+			["Daxxa"] = 0,
+			["Dwarfu"] = 0,
+			["Tarondor"] = 0,
+			["Elice"] = 0,
+			["Tinkeng"] = 0,
+			["Themurian"] = 0,
+			["Sephirot"] = 0,
+			["Drikkedunk"] = 0,
+			["Ecology"] = 0,
+			["Fsumdamond"] = 0,
+			["Betelgeuze"] = 0,
+			["Windycurses"] = 0,
+			["Ksumdamond"] = 0,
+			["Ragnis-Mograine"] = 0,
+			["Palaleen"] = 0,
+			["Gigawoot"] = 0,
+			["Impulse"] = 0,
+			["Holysos"] = 0,
+			["Buzzhype"] = 0,
+			["Knobend"] = 0,
+			["Seraine"] = 0,
+			["Wizzy"] = 0,
+			["Geers"] = 0,
+			["Gallywiix"] = 0,
+			["Ufo"] = 0,
 		},
 		["NoRaid"] = true,
 		["CDECol"] = {
 		},
 		["default_userCD"] = {
 		},
-		["Save"] = {
+		["userDB"] = {
 		},
 		["colSet"] = {
 			{
@@ -496,13 +540,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [1]
 			{
 				["enabled"] = true,
@@ -511,13 +555,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [2]
 			{
 				["enabled"] = true,
@@ -526,13 +570,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [3]
 			{
 				["frameGeneral"] = true,
@@ -540,13 +584,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [4]
 			{
 				["frameGeneral"] = true,
@@ -554,13 +598,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [5]
 			{
 				["frameGeneral"] = true,
@@ -568,13 +612,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [6]
 			{
 				["frameGeneral"] = true,
@@ -582,13 +626,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [7]
 			{
 				["frameGeneral"] = true,
@@ -596,13 +640,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [8]
 			{
 				["frameGeneral"] = true,
@@ -610,13 +654,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [9]
 			{
 				["frameGeneral"] = true,
@@ -624,13 +668,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [10]
 			{
 				["frameGeneral"] = true,
@@ -638,20 +682,20 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 			}, -- [11]
 		},
 		["Priority"] = {
 		},
 		["CDE"] = {
 		},
-		["userDB"] = {
+		["Save"] = {
 		},
 	},
 	["Attendance"] = {
@@ -666,8 +710,8 @@ VExRT = {
 		["ColorizeLowIlvl685"] = false,
 		["ColorizeNoEnch"] = true,
 		["ColorizeNoGems"] = true,
-		["ColorizeNoTopEnchGems"] = false,
 		["ColorizeLowIlvl"] = true,
+		["ColorizeNoTopEnchGems"] = false,
 		["ColorizeNoValorUpgrade"] = false,
 	},
 	["Addon"] = {
@@ -679,59 +723,25 @@ VExRT = {
 		["IconMiniMapHide"] = true,
 		["Timer"] = 0.1,
 	},
-	["Timers"] = {
-		["specTimes"] = {
-			[62] = 10,
-			[63] = 10,
-			[250] = 10,
-			[251] = 10,
-			[64] = 10,
-			[253] = 10,
-			[65] = 10,
-			[255] = 10,
-			[66] = 10,
-			[257] = 10,
-			[258] = 10,
-			[259] = 10,
-			[260] = 10,
-			[261] = 25,
-			[262] = 16,
-			[263] = 10,
-			[264] = 10,
-			[265] = 22,
-			[266] = 10,
-			[267] = 10,
-			[268] = 10,
-			[269] = 10,
-			[270] = 10,
-			[70] = 10,
-			[102] = 10,
-			[71] = 10,
-			[103] = 10,
-			[72] = 10,
-			[104] = 10,
-			[73] = 10,
-			[252] = 10,
-			[105] = 10,
-			[254] = 10,
-			[256] = 10,
-			[577] = 10,
-			[581] = 10,
-		},
-		["Type"] = 2,
-		["timeToKillAnalyze"] = 15,
-		["Strata"] = "HIGH",
-	},
-	["Profiles"] = {
+	["RaidCheck"] = {
+		["ReadyCheckFrameOnlyRL"] = true,
+		["BuffsCheck"] = true,
+		["ReadyCheckFrame"] = true,
+		["ReadyCheckFrameTimerFade"] = 4,
+		["ReadyCheckTop"] = 1053.50012207031,
+		["ReadyCheckLeft"] = 107.998321533203,
+		["FlaskExp"] = 1,
 	},
 	["BossWatcher"] = {
 		["optionsDamageGraph"] = true,
 		["fightsNum"] = 15,
-		["trackingDamageSpells"] = {
-		},
+		["enabled"] = true,
 		["optionsPositionsDist"] = true,
 		["optionsHealingGraph"] = true,
-		["enabled"] = true,
+		["trackingDamageSpells"] = {
+		},
+	},
+	["Profiles"] = {
 	},
 	["Profile"] = "default",
 	["LootLink"] = {
@@ -775,13 +785,47 @@ VExRT = {
 		["sync_data"] = {
 		},
 	},
-	["RaidCheck"] = {
-		["ReadyCheckFrameOnlyRL"] = true,
-		["BuffsCheck"] = true,
-		["ReadyCheckFrame"] = true,
-		["ReadyCheckFrameTimerFade"] = 4,
-		["FlaskExp"] = 1,
-		["ReadyCheckLeft"] = 107.998321533203,
-		["ReadyCheckTop"] = 1053.50012207031,
+	["Timers"] = {
+		["specTimes"] = {
+			[62] = 10,
+			[63] = 10,
+			[250] = 10,
+			[251] = 10,
+			[64] = 10,
+			[253] = 10,
+			[65] = 10,
+			[255] = 10,
+			[66] = 10,
+			[257] = 10,
+			[258] = 10,
+			[259] = 10,
+			[260] = 10,
+			[261] = 25,
+			[262] = 16,
+			[263] = 10,
+			[264] = 10,
+			[265] = 22,
+			[266] = 10,
+			[267] = 10,
+			[268] = 10,
+			[269] = 10,
+			[270] = 10,
+			[70] = 10,
+			[102] = 10,
+			[71] = 10,
+			[103] = 10,
+			[72] = 10,
+			[104] = 10,
+			[73] = 10,
+			[581] = 10,
+			[105] = 10,
+			[577] = 10,
+			[256] = 10,
+			[254] = 10,
+			[252] = 10,
+		},
+		["Type"] = 2,
+		["Strata"] = "HIGH",
+		["timeToKillAnalyze"] = 15,
 	},
 }

@@ -1,2824 +1,2821 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/8 ss'ing rocci", -- [1]
-		"/s youre welcome", -- [2]
-		"/8 4 min on ss", -- [3]
-		"/8 knob group", -- [4]
-		"/8 some1 refresh", -- [5]
-		"/8 ssing rocci", -- [6]
-		"/8 get ss up", -- [7]
-		"/g |cff0070dd|Hitem:16309::::::::60:::11::::|h[Drakefire Amulet]|h|r|cff0070dd|Hitem:16309::::::::60:::11::::|h[Drakefire Amulet]|h|r|cff0070dd|Hitem:16309::::::::60:::11::::|h[Drakefire Amulet]|h|r", -- [8]
-		"/cw Fear if youre CoR its covered", -- [9]
-		"/raid |cff1eff00|Hitem:10025::::::::60:::::::|h[Shadoweave Mask]|h|r", -- [10]
-		"/elvui", -- [11]
-		"/reload", -- [12]
-		"/6 layer", -- [13]
-		"/p ty", -- [14]
-		"/p your alt got lead", -- [15]
-		"/p gl", -- [16]
-		"/g the crystal?", -- [17]
-		"/g crystal charge", -- [18]
-		"/script DEFAULT_CHAT_FRAME:AddMessage(\"\\124cffffffff\\124Hitem:11566::::::::60:::::\\124h[Crystal Charge]\\124h\\124r\");", -- [19]
-		"/g |cffffffff|Hitem:11566::::::::60:::::::|h[Crystal Charge]|h|r", -- [20]
+		"/raid leaving instance +1 spot", -- [1]
+		"/s should be ye", -- [2]
+		"/s ty!", -- [3]
+		"/raid who can I /w for inv?", -- [4]
+		"/g who can I /w for inv?", -- [5]
+		"/kiss", -- [6]
+		"/raid ok", -- [7]
+		"/raid need single int", -- [8]
+		"/8 you dont go for agony", -- [9]
+		"/raid getting all the fire blossoms today", -- [10]
+		"/raid doesnt help when you get 2 instantly", -- [11]
+		"/raid maybe in pvp gear", -- [12]
+		"/8 just looked at the sheet again coso was supposed to be CoR in MC and betel CoS", -- [13]
+		"/8 and the other way around in BWL", -- [14]
+		"/8 thats confusing", -- [15]
+		"/s |cffffffff|Hitem:19013::::::::60:::::::|h[Major Healthstone]|h|r", -- [16]
+		"/s trade for stones", -- [17]
+		"/s team", -- [18]
+		"/hug", -- [19]
+		"/ert note", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"|cffa335ee|Hitem:18703::::::::60:::::::|h[Ancient Petrified Leaf]|h|r", -- [1]
-			"Catloaf-Razorgore", -- [2]
+			"thraxxy you need the chant?", -- [1]
+			"Nalena-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Catloaf", -- [5]
+			"Nalena", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			21755, -- [11]
-			"Player-4478-014DCA58", -- [12]
+			4531, -- [11]
+			"Player-4478-0129EE9C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1570657975,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffffffffNalena|r",
+			[51] = 1584051084,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [1]
 		{
-			"|cffa335ee|Hitem:18705::::::::60:::::::|h[Mature Black Dragon Sinew]|h|r need? :)", -- [1]
-			"Chemo-Razorgore", -- [2]
+			"LF2M Heal & DPS for Jailbreak (from Marshal Windsor) /w", -- [1]
+			"Kerkw-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Chemo", -- [5]
+			"5. world", -- [4]
+			"Kerkw", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			21762, -- [11]
-			"Player-4478-013C9085", -- [12]
+			4535, -- [11]
+			"Player-4478-0235F738", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Chemo|r",
-			[51] = 1570657978,
-			[50] = "CHAT_MSG_RAID_WARNING",
+			[52] = "|cffc69b6dKerkw|r",
+			[51] = 1584051096,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [2]
 		{
-			"need |cffa335ee|Hitem:18703::::::::60:::::::|h[Ancient Petrified Leaf]|h|r", -- [1]
-			"Catloaf-Razorgore", -- [2]
+			"WTB portal to darnassus 1g", -- [1]
+			"Healbotti-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Catloaf", -- [5]
+			"1. General - Ironforge", -- [4]
+			"Healbotti", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Ironforge", -- [9]
 			0, -- [10]
-			21768, -- [11]
-			"Player-4478-014DCA58", -- [12]
+			4549, -- [11]
+			"Player-4478-0175F635", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1570657984,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffffffffHealbotti|r",
+			[51] = 1584051114,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [3]
 		{
-			"i do NOT need sinew, i have bow already.", -- [1]
-			"Vibe-Razorgore", -- [2]
+			"any AB premade?", -- [1]
+			"Torrio-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Vibe", -- [5]
+			"5. world", -- [4]
+			"Torrio", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			21769, -- [11]
-			"Player-4478-013C07F7", -- [12]
+			4561, -- [11]
+			"Player-4478-01AFE706", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Vibe|r",
-			[51] = 1570657985,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffffffffTorrio|r",
+			[51] = 1584051129,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [4]
 		{
-			"Please ressurect the tiny gnome.", -- [1]
-			"Fear-Razorgore", -- [2]
+			"11g repairs!", -- [1]
+			"Jeune-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Fear", -- [5]
+			"Jeune", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			21786, -- [11]
-			"Player-4478-013C3E37", -- [12]
+			4573, -- [11]
+			"Player-4478-0129F136", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edFear|r",
-			[51] = 1570658014,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cfffff468Jeune|r",
+			[51] = 1584051142,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [5]
 		{
-			"|cffa335ee|Hitem:16929::::::::60:::::::|h[Nemesis Skullcap]|h|r need?", -- [1]
-			"Chemo-Razorgore", -- [2]
+			":(", -- [1]
+			"Jeune-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chemo", -- [5]
+			"Jeune", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			21787, -- [11]
-			"Player-4478-013C9085", -- [12]
+			4574, -- [11]
+			"Player-4478-0129F136", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Chemo|r",
-			[51] = 1570658017,
-			[50] = "CHAT_MSG_RAID_WARNING",
+			[52] = "|cfffff468Jeune|r",
+			[51] = 1584051144,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [6]
 		{
-			"|cff0070dd|Hitem:18727::::::::60:::1::::|h[Crimson Felt Hat]|h|r", -- [1]
-			"Selaith-Razorgore", -- [2]
+			"anyone wanna do some instance?", -- [1]
+			"Tarondor-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Selaith", -- [5]
+			"Tarondor", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			21791, -- [11]
-			"Player-4478-015050A3", -- [12]
+			4585, -- [11]
+			"Player-4478-019E9B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSelaith|r",
-			[51] = 1570658020,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffff7c0aTarondor|r",
+			[51] = 1584051166,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [7]
 		{
-			"|cff0070dd|Hitem:10504::::::1861:1467308288:60:::::::|h[Green Lens of Shadow Wrath]|h|r", -- [1]
-			"Fear-Razorgore", -- [2]
+			"ENCHANTER LFW (No fee if you roll 85 or over) / Crusader / Fiery Weap / Icy Chill / +100HP / 9 & 7+stam or +strength / +7agi / 5+res / +9spirit / .. etc.  ", -- [1]
+			"Powerfuk-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Fear", -- [5]
+			"2. Trade - City", -- [4]
+			"Powerfuk", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			21796, -- [11]
-			"Player-4478-013C3E37", -- [12]
+			4612, -- [11]
+			"Player-4478-019AB4C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edFear|r",
-			[51] = 1570658024,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffc69b6dPowerfuk|r",
+			[51] = 1584051192,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [8]
 		{
-			"i guess youre not taking loot", -- [1]
-			"|Km2|k", -- [2]
+			"looking for someone to make 55+ healing on weapon?", -- [1]
+			"Lellebaker-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"5. world", -- [4]
+			"Lellebaker", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			21798, -- [11]
-			false, -- [12]
-			9, -- [13]
+			4615, -- [11]
+			"Player-4478-01B41C26", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adieu|r",
-			[51] = 1570658026,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Adieu",
+			[52] = "|cfff48cbaLellebaker|r",
+			[51] = 1584051197,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [9]
 		{
-			"|cff1eff00|Hitem:10025::::::::60:::::::|h[Shadoweave Mask]|h|r", -- [1]
-			"Damond-Razorgore", -- [2]
+			"Enchanter LF work: +15agi / Crusader (weapon), +7sta / +7agi / +speed (boots), +7int / +9sta / +9str (bracer), +7agi / +7str / +riding (gloves), +5 all resists /+3agi / +70armor (cloak), +3 stats / +100hp/mana (chest), +7sta (shield)  and many more!", -- [1]
+			"Puntastic-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Damond", -- [5]
+			"2. Trade - City", -- [4]
+			"Puntastic", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			21799, -- [11]
-			"Player-4478-012A6DE5", -- [12]
+			4619, -- [11]
+			"Player-4478-01FB4C38", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1570658027,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff8787edPuntastic|r",
+			[51] = 1584051204,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [10]
 		{
-			"since t1 is pvp", -- [1]
-			"|Km2|k", -- [2]
+			"LF2M heal & DPS for BRD meleecleave", -- [1]
+			"Kerkw-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"5. world", -- [4]
+			"Kerkw", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			21803, -- [11]
-			false, -- [12]
-			9, -- [13]
+			4636, -- [11]
+			"Player-4478-0235F738", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adieu|r",
-			[51] = 1570658031,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Adieu",
+			[52] = "|cffc69b6dKerkw|r",
+			[51] = 1584051237,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [11]
 		{
-			"thanks all", -- [1]
-			"Regiss-Razorgore", -- [2]
+			"LFM 3 DPS", -- [1]
+			"Klumptass", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Regiss", -- [5]
+			"7. LookingForGroup", -- [4]
+			"Klumptass", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			24, -- [7]
+			7, -- [8]
+			"LookingForGroup", -- [9]
 			0, -- [10]
-			21809, -- [11]
-			"Player-4478-0131AD8B", -- [12]
+			4642, -- [11]
+			"Player-4478-023E9E0D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aRegiss|r",
-			[51] = 1570658048,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aKlumptass|r",
+			[51] = 1584051243,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [12]
 		{
-			"ye felheart is shit", -- [1]
-			"|Km2|k", -- [2]
+			"LF1M Heal for BRD meleecleave", -- [1]
+			"Kerkw-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"", -- [5]
+			"5. world", -- [4]
+			"Kerkw", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			21813, -- [11]
-			false, -- [12]
-			9, -- [13]
+			4662, -- [11]
+			"Player-4478-0235F738", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Adieu|r",
-			[51] = 1570658050,
-			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-			[53] = "Adieu",
+			[52] = "|cffc69b6dKerkw|r",
+			[51] = 1584051274,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [13]
 		{
-			"gn", -- [1]
-			"Regiss-Razorgore", -- [2]
+			"WTB Stockade Boosts", -- [1]
+			"Mementomori-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Regiss", -- [5]
+			"2. Trade - City", -- [4]
+			"Mementomori", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			21814, -- [11]
-			"Player-4478-0131AD8B", -- [12]
+			4664, -- [11]
+			"Player-4478-023B2902", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aRegiss|r",
-			[51] = 1570658052,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edMementomori|r",
+			[51] = 1584051274,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [14]
 		{
-			"cya guys", -- [1]
-			"Wayze-Razorgore", -- [2]
+			"looking for someone to make 55+ healing on weapon?", -- [1]
+			"Lellebaker-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Wayze", -- [5]
+			"5. world", -- [4]
+			"Lellebaker", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			21816, -- [11]
-			"Player-4478-0143B687", -- [12]
+			4670, -- [11]
+			"Player-4478-01B41C26", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Wayze|r",
-			[51] = 1570658056,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfff48cbaLellebaker|r",
+			[51] = 1584051280,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [15]
 		{
-			"next week more loot luck :)", -- [1]
-			"Wayze-Razorgore", -- [2]
+			"WTB Stockades boosts", -- [1]
+			"Alille", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Wayze", -- [5]
+			"2. Trade - City", -- [4]
+			"Alille", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			21818, -- [11]
-			"Player-4478-0143B687", -- [12]
+			4672, -- [11]
+			"Player-4478-02172E1A", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Wayze|r",
-			[51] = 1570658062,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edAlille|r",
+			[51] = 1584051284,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [16]
 		{
-			"gz", -- [1]
-			"Selaith-Razorgore", -- [2]
+			"WTS or CRAFT |cffa335ee|Hitem:18510::::::::60:::::::|h[Hide of the Wild]|h|r|cff0070dd|Hitem:15138::::::::60:::::::|h[Onyxia Scale Cloak]|h|r|cff0070dd|Hitem:15062::::::::60:::::::|h[Devilsaur Leggings]|h|r|cff0070dd|Hitem:15063::::::::60:::::::|h[Devilsaur Gauntlets]|h|r!!|cffa335ee|Hitem:19162::::::::60:::::::|h[Corehound Belt]|h|r!!", -- [1]
+			"Jigoro-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Selaith", -- [5]
+			"2. Trade - City", -- [4]
+			"Jigoro", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			21843, -- [11]
-			"Player-4478-015050A3", -- [12]
+			4676, -- [11]
+			"Player-4478-01566EF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSelaith|r",
-			[51] = 1570658100,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffaad372Jigoro|r",
+			[51] = 1584051295,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [17]
 		{
-			"gz", -- [1]
-			"Talibang-Razorgore", -- [2]
+			"|cffa335ee|Hitem:2246::::::::60:::1::::|h[Myrmidon's Signet]|h|r Cheap on AH 30 min and 2 hours left! gogo bid", -- [1]
+			"Stormlink-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Talibang", -- [5]
+			"2. Trade - City", -- [4]
+			"Stormlink", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			21846, -- [11]
-			"Player-4478-016B0E34", -- [12]
+			4683, -- [11]
+			"Player-4478-023C78B8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTalibang|r",
-			[51] = 1570658108,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffaad372Stormlink|r",
+			[51] = 1584051310,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [18]
 		{
-			"ty for raid, gn all", -- [1]
-			"Themurian-Razorgore", -- [2]
+			"LFM 2 dps Scholo last spots", -- [1]
+			"Klumptass-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Themurian", -- [5]
+			"7. LookingForGroup", -- [4]
+			"Klumptass", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			24, -- [7]
+			7, -- [8]
+			"LookingForGroup", -- [9]
 			0, -- [10]
-			21854, -- [11]
-			"Player-4478-01508E86", -- [12]
+			4686, -- [11]
+			"Player-4478-023E9E0D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaThemurian|r",
-			[51] = 1570658117,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aKlumptass|r",
+			[51] = 1584051315,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [19]
 		{
-			"ty", -- [1]
-			"Catloaf-Razorgore", -- [2]
+			"could do a scholo", -- [1]
+			"Ana-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Catloaf", -- [5]
+			"Ana", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			21875, -- [11]
-			"Player-4478-014DCA58", -- [12]
+			4689, -- [11]
+			"Player-4478-0130F30F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1570658139,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cff3fc6eaAna|r",
+			[51] = 1584051324,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [20]
 		{
-			"cya all", -- [1]
-			"Talibang-Razorgore", -- [2]
+			"up for it", -- [1]
+			"Tarondor-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Talibang", -- [5]
+			"Tarondor", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			21887, -- [11]
-			"Player-4478-016B0E34", -- [12]
+			4696, -- [11]
+			"Player-4478-019E9B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTalibang|r",
-			[51] = 1570658146,
-			[50] = "CHAT_MSG_RAID",
+			[52] = "|cffff7c0aTarondor|r",
+			[51] = 1584051334,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [21]
 		{
-			"Thx for run", -- [1]
-			"Demonicrock-Razorgore", -- [2]
+			"with wlock", -- [1]
+			"Tarondor-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Demonicrock", -- [5]
+			"Tarondor", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			21888, -- [11]
-			"Player-4478-0135168F", -- [12]
+			4699, -- [11]
+			"Player-4478-019E9B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dDemonicrock|r",
-			[51] = 1570658147,
+			[52] = "|cffff7c0aTarondor|r",
+			[51] = 1584051342,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [22]
 		{
-			"any enchanter in IF?", -- [1]
-			"Ensidium-Razorgore", -- [2]
+			"let's make a grp?", -- [1]
+			"Tarondor-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ensidium", -- [5]
+			"Tarondor", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			22010, -- [11]
-			"Player-4478-015DDF8A", -- [12]
+			4702, -- [11]
+			"Player-4478-019E9B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dEnsidium|r",
-			[51] = 1570658239,
+			[52] = "|cffff7c0aTarondor|r",
+			[51] = 1584051347,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [23]
 		{
-			"need shield greater stam and minor speed boots", -- [1]
-			"Ensidium-Razorgore", -- [2]
+			"inving you in sec", -- [1]
+			"Tarondor-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ensidium", -- [5]
+			"Tarondor", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			22020, -- [11]
-			"Player-4478-015DDF8A", -- [12]
+			4704, -- [11]
+			"Player-4478-019E9B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dEnsidium|r",
-			[51] = 1570658244,
+			[52] = "|cffff7c0aTarondor|r",
+			[51] = 1584051352,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [24]
 		{
-			"1337 crit ", -- [1]
-			"Naroh-Razorgore", -- [2]
+			"my rogue needs scholo", -- [1]
+			"Loloops-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Naroh", -- [5]
+			"Loloops", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			51, -- [11]
-			"Player-4478-01566C77", -- [12]
+			4705, -- [11]
+			"Player-4478-019AB5E2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570720317,
+			[52] = "|cfff48cbaLoloops|r",
+			[51] = 1584051352,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [25]
 		{
-			"Hahahaha that was the best shit i've seen", -- [1]
-			"Naroh-Razorgore", -- [2]
+			"ok. inving you", -- [1]
+			"Tarondor-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Naroh", -- [5]
+			"Tarondor", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			398, -- [11]
-			"Player-4478-01566C77", -- [12]
+			4708, -- [11]
+			"Player-4478-019E9B50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570720607,
+			[52] = "|cffff7c0aTarondor|r",
+			[51] = 1584051357,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [26]
 		{
-			"soo LEET my dude", -- [1]
-			"Iberya-Razorgore", -- [2]
+			"WTS 12|cffffffff|Hitem:15417::::::::60:::::::|h[Devilsaur Leather]|h|r", -- [1]
+			"Jigoro-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Iberya", -- [5]
+			"2. Trade - City", -- [4]
+			"Jigoro", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			430, -- [11]
-			"Player-4478-01492FAB", -- [12]
+			4714, -- [11]
+			"Player-4478-01566EF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaIberya|r",
-			[51] = 1570720631,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffaad372Jigoro|r",
+			[51] = 1584051362,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [27]
 		{
-			"I've been killing a lvl 60 enh shammy 5 times now at the elemental fire spot", -- [1]
-			"Naroh-Razorgore", -- [2]
+			"WTS or CRAFT |cffa335ee|Hitem:18510::::::::60:::::::|h[Hide of the Wild]|h|r|cff0070dd|Hitem:15138::::::::60:::::::|h[Onyxia Scale Cloak]|h|r|cff0070dd|Hitem:15062::::::::60:::::::|h[Devilsaur Leggings]|h|r|cff0070dd|Hitem:15063::::::::60:::::::|h[Devilsaur Gauntlets]|h|r!!|cffa335ee|Hitem:19162::::::::60:::::::|h[Corehound Belt]|h|r!!", -- [1]
+			"Jigoro-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Naroh", -- [5]
+			"2. Trade - City", -- [4]
+			"Jigoro", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			436, -- [11]
-			"Player-4478-01566C77", -- [12]
+			4721, -- [11]
+			"Player-4478-01566EF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570720637,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffaad372Jigoro|r",
+			[51] = 1584051367,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [28]
 		{
-			"fuck em", -- [1]
-			"Iberya-Razorgore", -- [2]
+			"ENCHANTER LFW (No fee if you roll 85 or over) / Crusader / Fiery Weap / Icy Chill / +100HP / 9 & 7+stam or +strength / +7agi / 5+res / +9spirit / .. etc.  ", -- [1]
+			"Powerfuk-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Iberya", -- [5]
+			"2. Trade - City", -- [4]
+			"Powerfuk", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			446, -- [11]
-			"Player-4478-01492FAB", -- [12]
+			4725, -- [11]
+			"Player-4478-019AB4C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaIberya|r",
-			[51] = 1570720645,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dPowerfuk|r",
+			[51] = 1584051376,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [29]
 		{
-			"whats his name?", -- [1]
-			"Iberya-Razorgore", -- [2]
+			"ty Nalena <3", -- [1]
+			"Thraxxy-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Iberya", -- [5]
+			"Thraxxy", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			449, -- [11]
-			"Player-4478-01492FAB", -- [12]
+			4733, -- [11]
+			"Player-4478-01574F35", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaIberya|r",
-			[51] = 1570720648,
+			[52] = "|cffaad372Thraxxy|r",
+			[51] = 1584051389,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [30]
 		{
-			"I killed a tauren on top of the rock as soon as he went into vision", -- [1]
-			"Naroh-Razorgore", -- [2]
+			"LF1M Heal for BRD meleecleave", -- [1]
+			"Kerkw-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Naroh", -- [5]
+			"5. world", -- [4]
+			"Kerkw", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			453, -- [11]
-			"Player-4478-01566C77", -- [12]
+			4735, -- [11]
+			"Player-4478-0235F738", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570720654,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dKerkw|r",
+			[51] = 1584051392,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [31]
 		{
-			"He couldnt see me but he saw the tauren", -- [1]
-			"Naroh-Razorgore", -- [2]
+			"np", -- [1]
+			"Nalena-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Naroh", -- [5]
+			"Nalena", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			462, -- [11]
-			"Player-4478-01566C77", -- [12]
+			4739, -- [11]
+			"Player-4478-0129EE9C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570720659,
+			[52] = "|cffffffffNalena|r",
+			[51] = 1584051396,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [32]
 		{
-			"I waited a couple seconds", -- [1]
-			"Naroh-Razorgore", -- [2]
+			"so for scholo", -- [1]
+			"Aishanna-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Naroh", -- [5]
+			"Aishanna", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			467, -- [11]
-			"Player-4478-01566C77", -- [12]
+			4744, -- [11]
+			"Player-4478-0200B052", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570720663,
+			[52] = "|cff8787edAishanna|r",
+			[51] = 1584051404,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [33]
 		{
-			"and rp walked on top of the rock so he could see me", -- [1]
-			"Naroh-Razorgore", -- [2]
+			"end of the facking ", -- [1]
+			"Resto", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Naroh", -- [5]
+			"5. world", -- [4]
+			"Resto", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			474, -- [11]
-			"Player-4478-01566C77", -- [12]
+			4748, -- [11]
+			"Player-4478-01C9B525", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570720671,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aResto|r",
+			[51] = 1584051408,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [34]
 		{
-			"the guy ran for his life haha", -- [1]
-			"Naroh-Razorgore", -- [2]
+			"WTS 12|cffffffff|Hitem:15417::::::::60:::::::|h[Devilsaur Leather]|h|r", -- [1]
+			"Jigoro-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Naroh", -- [5]
+			"2. Trade - City", -- [4]
+			"Jigoro", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			479, -- [11]
-			"Player-4478-01566C77", -- [12]
+			4751, -- [11]
+			"Player-4478-01566EF9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570720677,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffaad372Jigoro|r",
+			[51] = 1584051410,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [35]
 		{
-			"Lirogon or something", -- [1]
-			"Naroh-Razorgore", -- [2]
+			"WORLD!", -- [1]
+			"Resto-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Naroh", -- [5]
+			"5. world", -- [4]
+			"Resto", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			494, -- [11]
-			"Player-4478-01566C77", -- [12]
+			4752, -- [11]
+			"Player-4478-01C9B525", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570720689,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aResto|r",
+			[51] = 1584051410,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [36]
 		{
-			"He got backup :(", -- [1]
-			"Naroh-Razorgore", -- [2]
+			"LFM Scholo need ranged dps last spot", -- [1]
+			"Klumptass-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Naroh", -- [5]
+			"7. LookingForGroup", -- [4]
+			"Klumptass", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			24, -- [7]
+			7, -- [8]
+			"LookingForGroup", -- [9]
 			0, -- [10]
-			612, -- [11]
-			"Player-4478-01566C77", -- [12]
+			4753, -- [11]
+			"Player-4478-023E9E0D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570720861,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aKlumptass|r",
+			[51] = 1584051411,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [37]
 		{
-			"My killstreak is over :c", -- [1]
-			"Naroh-Razorgore", -- [2]
+			"wts arcanite bar cheaper than AH", -- [1]
+			"Pvpdog-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Naroh", -- [5]
+			"5. world", -- [4]
+			"Pvpdog", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			623, -- [11]
-			"Player-4478-01566C77", -- [12]
+			4760, -- [11]
+			"Player-4478-022B10EA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570720875,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfff48cbaPvpdog|r",
+			[51] = 1584051425,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [38]
 		{
-			"F", -- [1]
-			"Ensidium-Razorgore", -- [2]
+			"|cffffffff|Henchant:20029|h[Enchant Weapon - Icy Chill]|h|r", -- [1]
+			"Possa-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ensidium", -- [5]
+			"Possa", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			627, -- [11]
-			"Player-4478-015DDF8A", -- [12]
+			4761, -- [11]
+			"Player-4478-017F2F4E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dEnsidium|r",
-			[51] = 1570720879,
+			[52] = "|cfff48cbaPossa|r",
+			[51] = 1584051426,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [39]
 		{
-			"F", -- [1]
-			"Melo-Razorgore", -- [2]
+			"wtb stockades boost ; pls wisp", -- [1]
+			"Acaster-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Melo", -- [5]
+			"5. world", -- [4]
+			"Acaster", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			635, -- [11]
-			"Player-4478-012AB4AF", -- [12]
+			4762, -- [11]
+			"Player-4478-0235DC69", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaMelo|r",
-			[51] = 1570720887,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaAcaster|r",
+			[51] = 1584051438,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [40]
 		{
-			"They're mounted up and camping my corpse :<", -- [1]
-			"Naroh-Razorgore", -- [2]
+			"looking for someone to make 55+ healing on weapon?", -- [1]
+			"Lellebaker-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Naroh", -- [5]
+			"5. world", -- [4]
+			"Lellebaker", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			712, -- [11]
-			"Player-4478-01566C77", -- [12]
+			4765, -- [11]
+			"Player-4478-01B41C26", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570720980,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfff48cbaLellebaker|r",
+			[51] = 1584051477,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [41]
 		{
-			"layer", -- [1]
-			"Damond-Razorgore", -- [2]
+			"who wanted to join as a rogue?", -- [1]
+			"Aishanna-Razorgore", -- [2]
 			"", -- [3]
-			"6. layer", -- [4]
-			"Damond", -- [5]
+			"", -- [4]
+			"Aishanna", -- [5]
 			"", -- [6]
 			0, -- [7]
-			6, -- [8]
-			"layer", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			912, -- [11]
-			"Player-4478-012A6DE5", -- [12]
+			4766, -- [11]
+			"Player-4478-0200B052", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1570721291,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff8787edAishanna|r",
+			[51] = 1584051486,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [42]
 		{
-			"ty", -- [1]
-			"Damond-Razorgore", -- [2]
+			"me 2 secs", -- [1]
+			"Loloops-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Damond", -- [5]
+			"Loloops", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			934, -- [11]
-			"Player-4478-012A6DE5", -- [12]
+			4767, -- [11]
+			"Player-4478-019AB5E2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1570721328,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfff48cbaLoloops|r",
+			[51] = 1584051490,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [43]
 		{
-			"can any 1 make crusader ench in guild", -- [1]
-			"Natnat-Razorgore", -- [2]
+			"any tank or healer to scholo?", -- [1]
+			"Aishanna-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Natnat", -- [5]
+			"Aishanna", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1103, -- [11]
-			"Player-4478-014F0E7E", -- [12]
+			4770, -- [11]
+			"Player-4478-0200B052", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNatnat|r",
-			[51] = 1570721538,
+			[52] = "|cff8787edAishanna|r",
+			[51] = 1584051504,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [44]
 		{
-			"kinryu can i think", -- [1]
-			"Tivn-Razorgore", -- [2]
+			"LF2M to Scholomance! Need tank + healer. ", -- [1]
+			"Aishanna-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Tivn", -- [5]
+			"7. LookingForGroup", -- [4]
+			"Aishanna", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			24, -- [7]
+			7, -- [8]
+			"LookingForGroup", -- [9]
 			0, -- [10]
-			1146, -- [11]
-			"Player-4478-01474A7A", -- [12]
+			4771, -- [11]
+			"Player-4478-0200B052", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaTivn|r",
-			[51] = 1570721572,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edAishanna|r",
+			[51] = 1584051524,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [45]
 		{
-			"there are a few, but only know kinryu", -- [1]
-			"Lidel-Razorgore", -- [2]
+			"i just heard i got corona", -- [1]
+			"Ydby-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Lidel", -- [5]
+			"5. world", -- [4]
+			"Ydby", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			1153, -- [11]
-			"Player-4478-012A5DDF", -- [12]
+			4773, -- [11]
+			"Player-4478-024237CD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Lidel|r",
-			[51] = 1570721575,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaYdby|r",
+			[51] = 1584051529,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [46]
 		{
-			"right ty :)", -- [1]
-			"Natnat-Razorgore", -- [2]
+			"LF crusader", -- [1]
+			"Sitor-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Natnat", -- [5]
+			"5. world", -- [4]
+			"Sitor", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			1166, -- [11]
-			"Player-4478-014F0E7E", -- [12]
+			4774, -- [11]
+			"Player-4478-020CCB4F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNatnat|r",
-			[51] = 1570721589,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dSitor|r",
+			[51] = 1584051534,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [47]
 		{
-			"Can anyone layer me?", -- [1]
-			"Naroh-Razorgore", -- [2]
+			"LF enchanter crusade", -- [1]
+			"Sitor-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Naroh", -- [5]
+			"5. world", -- [4]
+			"Sitor", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			1409, -- [11]
-			"Player-4478-01566C77", -- [12]
+			4775, -- [11]
+			"Player-4478-020CCB4F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570721815,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dSitor|r",
+			[51] = 1584051541,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [48]
 		{
-			"Can someone else try?", -- [1]
-			"Naroh-Razorgore", -- [2]
+			"any 1 up for stockade?", -- [1]
+			"Loro-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Naroh", -- [5]
+			"5. world", -- [4]
+			"Loro", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			1455, -- [11]
-			"Player-4478-01566C77", -- [12]
+			4778, -- [11]
+			"Player-4478-01D822B3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570721885,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dLoro|r",
+			[51] = 1584051555,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [49]
 		{
-			"care, officers do not allow asking for layer in guild", -- [1]
-			"Fancyadriink-Razorgore", -- [2]
+			"wtb stockades boost ; pls wisp", -- [1]
+			"Acaster-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Fancyadriink", -- [5]
+			"5. world", -- [4]
+			"Acaster", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			1486, -- [11]
-			"Player-4478-01CB79A0", -- [12]
+			4779, -- [11]
+			"Player-4478-0235DC69", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaFancyadriink|r",
-			[51] = 1570721928,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaAcaster|r",
+			[51] = 1584051556,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [50]
 		{
-			"Same thing here it seems :<", -- [1]
-			"Naroh-Razorgore", -- [2]
+			"LF a healer for 5 quick arena runs!! You will get all unwanted greenies/blues!!", -- [1]
+			"Fronten-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Naroh", -- [5]
+			"5. world", -- [4]
+			"Fronten", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			1487, -- [11]
-			"Player-4478-01566C77", -- [12]
+			4780, -- [11]
+			"Player-4478-01F3CB81", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570721928,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dFronten|r",
+			[51] = 1584051580,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [51]
 		{
-			"damn", -- [1]
-			"Naroh-Razorgore", -- [2]
+			"lf enchanter", -- [1]
+			"Sitor-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Naroh", -- [5]
+			"5. world", -- [4]
+			"Sitor", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			1512, -- [11]
-			"Player-4478-01566C77", -- [12]
+			4781, -- [11]
+			"Player-4478-020CCB4F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570721943,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dSitor|r",
+			[51] = 1584051581,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [52]
 		{
-			"but your allowed to /w a guilde for layer :p", -- [1]
-			"Fancyadriink-Razorgore", -- [2]
+			"v", -- [1]
+			"Fronten-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Fancyadriink", -- [5]
+			"7. LookingForGroup", -- [4]
+			"Fronten", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			24, -- [7]
+			7, -- [8]
+			"LookingForGroup", -- [9]
 			0, -- [10]
-			1581, -- [11]
-			"Player-4478-01CB79A0", -- [12]
+			4783, -- [11]
+			"Player-4478-01F3CB81", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaFancyadriink|r",
-			[51] = 1570722009,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dFronten|r",
+			[51] = 1584051586,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [53]
 		{
-			"could someone inv me and my alt so i can reset my instance?", -- [1]
-			"Lidel-Razorgore", -- [2]
+			"LF a healer for 5 quick arena runs!! You will get all unwanted greenies/", -- [1]
+			"Fronten-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Lidel", -- [5]
+			"7. LookingForGroup", -- [4]
+			"Fronten", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			24, -- [7]
+			7, -- [8]
+			"LookingForGroup", -- [9]
 			0, -- [10]
-			1631, -- [11]
-			"Player-4478-012A5DDF", -- [12]
+			4787, -- [11]
+			"Player-4478-01F3CB81", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Lidel|r",
-			[51] = 1570722040,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dFronten|r",
+			[51] = 1584051587,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [54]
 		{
-			"ty, gonna relog to Lidesu", -- [1]
-			"Lidel-Razorgore", -- [2]
+			"WTB Stockade Boosts", -- [1]
+			"Mementomori-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Lidel", -- [5]
+			"2. Trade - City", -- [4]
+			"Mementomori", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1658, -- [11]
-			"Player-4478-012A5DDF", -- [12]
+			4790, -- [11]
+			"Player-4478-023B2902", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Lidel|r",
-			[51] = 1570722057,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff8787edMementomori|r",
+			[51] = 1584051601,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [55]
 		{
-			"inv pretty please =)", -- [1]
-			"Lidesu", -- [2]
+			"LFW - Enchanting - Have all enchants - Except +30 spell damage. (Yes also ALL the new enchants)", -- [1]
+			"Johannes-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Lidesu", -- [5]
+			"2. Trade - City", -- [4]
+			"Johannes", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1711, -- [11]
-			"Player-4478-0149B59C", -- [12]
+			4791, -- [11]
+			"Player-4478-012A3FA6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dLidesu|r",
-			[51] = 1570722100,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffc69b6dJohannes|r",
+			[51] = 1584051604,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [56]
 		{
-			"thx", -- [1]
-			"Lidesu-Razorgore", -- [2]
+			"WTB stockade boosts", -- [1]
+			"Acaster-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Lidesu", -- [5]
+			"2. Trade - City", -- [4]
+			"Acaster", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1721, -- [11]
-			"Player-4478-0149B59C", -- [12]
+			4793, -- [11]
+			"Player-4478-0235DC69", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dLidesu|r",
-			[51] = 1570722113,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cff3fc6eaAcaster|r",
+			[51] = 1584051615,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [57]
 		{
-			"your alt got lead", -- [1]
-			"Damond-Razorgore", -- [2]
+			"LFG BRD EMP", -- [1]
+			"Ewan-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Damond", -- [5]
+			"7. LookingForGroup", -- [4]
+			"Ewan", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			24, -- [7]
+			7, -- [8]
+			"LookingForGroup", -- [9]
 			0, -- [10]
-			1725, -- [11]
-			"Player-4478-012A6DE5", -- [12]
+			4794, -- [11]
+			"Player-4478-01479783", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1570722115,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffff468Ewan|r",
+			[51] = 1584051617,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [58]
 		{
-			"gl", -- [1]
-			"Damond-Razorgore", -- [2]
+			"inv scoogogoglllolol", -- [1]
+			"Lilgav-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Damond", -- [5]
+			"Lilgav", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			1728, -- [11]
-			"Player-4478-012A6DE5", -- [12]
+			4795, -- [11]
+			"Player-4478-01BF8F55", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1570722116,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffff468Lilgav|r",
+			[51] = 1584051623,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [59]
 		{
-			"whos your alt", -- [1]
-			"Fancyadriink-Razorgore", -- [2]
+			"WTS |cffffffff|Hitem:13454::::::::60:::::::|h[Greater Arcane Elixir]|h|r|cffffffff|Hitem:13511::::::::60:::::::|h[Flask of Distilled Wisdom]|h|r cheaper than AH", -- [1]
+			"Rumbel-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Fancyadriink", -- [5]
+			"2. Trade - City", -- [4]
+			"Rumbel", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1731, -- [11]
-			"Player-4478-01CB79A0", -- [12]
+			4801, -- [11]
+			"Player-4478-014B5EC8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaFancyadriink|r",
-			[51] = 1570722118,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dRumbel|r",
+			[51] = 1584051643,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [60]
 		{
-			"np", -- [1]
-			"Lidesu-Razorgore", -- [2]
+			"any enchater", -- [1]
+			"Sitor-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Lidesu", -- [5]
+			"2. Trade - City", -- [4]
+			"Sitor", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			1733, -- [11]
-			"Player-4478-0149B59C", -- [12]
+			4802, -- [11]
+			"Player-4478-020CCB4F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dLidesu|r",
-			[51] = 1570722122,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cffc69b6dSitor|r",
+			[51] = 1584051644,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [61]
 		{
-			"Fear how much g have you made by selling runs ?", -- [1]
-			"Fancyadriink-Razorgore", -- [2]
+			"WTB Stockades boost", -- [1]
+			"Stevino-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Fancyadriink", -- [5]
+			"2. Trade - City", -- [4]
+			"Stevino", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			2074, -- [11]
-			"Player-4478-01CB79A0", -- [12]
+			4803, -- [11]
+			"Player-4478-01CACBFD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaFancyadriink|r",
-			[51] = 1570722497,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfff48cbaStevino|r",
+			[51] = 1584051647,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [62]
 		{
-			"Not to much tbh around 150 there are not that many buying runs", -- [1]
-			"Fear-Razorgore", -- [2]
+			"Looking to constantly up your game? Then <Raidgroup Two> might be the place for you. Currently looking to fill the last slots in our core roster: priest/mage/dps-warr. 8/8 BWL in 90 minutes, RG2 raids: Thu/Sun 19:30 - 23:30. /w for a chat.", -- [1]
+			"Inso-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Fear", -- [5]
+			"5. world", -- [4]
+			"Inso", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			2109, -- [11]
-			"Player-4478-013C3E37", -- [12]
+			4804, -- [11]
+			"Player-4478-01412A19", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edFear|r",
-			[51] = 1570722558,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffInso|r",
+			[51] = 1584051649,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [63]
 		{
-			"Most gold i make is by vendoring gold", -- [1]
-			"Fear-Razorgore", -- [2]
+			"Ench LFW: Weapon: Healing - Spellpower - Crusader -Lifestealing - 15 agi - 5dmg- 15 str - 22 int - 20 spirit / Chest: 4 Stats - 100 HP - 100 Mana / Gloves: 7 Str - 7 Agi . Riding speed / Bracers: 7 Int - 24 heal - 9 str and much more! /w", -- [1]
+			"Inso-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Fear", -- [5]
+			"2. Trade - City", -- [4]
+			"Inso", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			2114, -- [11]
-			"Player-4478-013C3E37", -- [12]
+			4805, -- [11]
+			"Player-4478-01412A19", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edFear|r",
-			[51] = 1570722575,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffffffffInso|r",
+			[51] = 1584051649,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [64]
 		{
-			"how much do you get when the item drops?", -- [1]
-			"Fancyadriink-Razorgore", -- [2]
+			"LFM UBRS", -- [1]
+			"Deepz", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Fancyadriink", -- [5]
+			"2. Trade - City", -- [4]
+			"Deepz", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			2118, -- [11]
-			"Player-4478-01CB79A0", -- [12]
+			4806, -- [11]
+			"Player-4478-0246669F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaFancyadriink|r",
-			[51] = 1570722580,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dDeepz|r",
+			[51] = 1584051656,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [65]
 		{
-			"ah oki ", -- [1]
-			"Fancyadriink-Razorgore", -- [2]
+			"WTB |cffa335ee|Hitem:14551::::::::60:::::::|h[Edgemaster's Handguards]|h|r", -- [1]
+			"Mychomizer-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Fancyadriink", -- [5]
+			"2. Trade - City", -- [4]
+			"Mychomizer", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			2120, -- [11]
-			"Player-4478-01CB79A0", -- [12]
+			4807, -- [11]
+			"Player-4478-02278ABC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaFancyadriink|r",
-			[51] = 1570722584,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dMychomizer|r",
+			[51] = 1584051660,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [66]
 		{
-			"DM farm will be good :p", -- [1]
-			"Fancyadriink-Razorgore", -- [2]
+			"LFM UBRS", -- [1]
+			"Deepz-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Fancyadriink", -- [5]
+			"5. world", -- [4]
+			"Deepz", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			2159, -- [11]
-			"Player-4478-01CB79A0", -- [12]
+			4808, -- [11]
+			"Player-4478-0246669F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaFancyadriink|r",
-			[51] = 1570722667,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dDeepz|r",
+			[51] = 1584051664,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [67]
 		{
-			"What is the highest dungeon warriors can solo without to much problem?", -- [1]
-			"Naroh-Razorgore", -- [2]
+			"wts |cff0070dd|Hitem:15062::::::::60:::::::|h[Devilsaur Leggings]|h|r|cff0070dd|Hitem:15063::::::::60:::::::|h[Devilsaur Gauntlets]|h|r w/", -- [1]
+			"Dunked-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Naroh", -- [5]
+			"5. world", -- [4]
+			"Dunked", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			2183, -- [11]
-			"Player-4478-01566C77", -- [12]
+			4809, -- [11]
+			"Player-4478-01FBB7A4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570722728,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dDunked|r",
+			[51] = 1584051667,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [68]
 		{
-			"prolly gnomer or sm?", -- [1]
-			"Tivn-Razorgore", -- [2]
+			"wtb stockades boost ; pls wisp", -- [1]
+			"Acaster-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Tivn", -- [5]
+			"5. world", -- [4]
+			"Acaster", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			2190, -- [11]
-			"Player-4478-01474A7A", -- [12]
+			4812, -- [11]
+			"Player-4478-0235DC69", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaTivn|r",
-			[51] = 1570722744,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaAcaster|r",
+			[51] = 1584051675,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [69]
 		{
-			"depends on how fast you wanna go", -- [1]
-			"Tivn-Razorgore", -- [2]
+			"WTB stockade boosts", -- [1]
+			"Acaster-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Tivn", -- [5]
+			"2. Trade - City", -- [4]
+			"Acaster", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			2193, -- [11]
-			"Player-4478-01474A7A", -- [12]
+			4813, -- [11]
+			"Player-4478-0235DC69", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaTivn|r",
-			[51] = 1570722756,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaAcaster|r",
+			[51] = 1584051679,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [70]
 		{
-			":p", -- [1]
-			"Tivn-Razorgore", -- [2]
+			"LF2M to Scholomance! Need tank + healer. ", -- [1]
+			"Aishanna-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Tivn", -- [5]
+			"7. LookingForGroup", -- [4]
+			"Aishanna", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			24, -- [7]
+			7, -- [8]
+			"LookingForGroup", -- [9]
 			0, -- [10]
-			2194, -- [11]
-			"Player-4478-01474A7A", -- [12]
+			4814, -- [11]
+			"Player-4478-0200B052", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaTivn|r",
-			[51] = 1570722757,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edAishanna|r",
+			[51] = 1584051688,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [71]
 		{
-			"Gnomer was really ez", -- [1]
-			"Naroh-Razorgore", -- [2]
+			"looking for someone to make 55+ healing on weapon?", -- [1]
+			"Lellebaker-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Naroh", -- [5]
+			"5. world", -- [4]
+			"Lellebaker", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			2199, -- [11]
-			"Player-4478-01566C77", -- [12]
+			4815, -- [11]
+			"Player-4478-01B41C26", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570722766,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfff48cbaLellebaker|r",
+			[51] = 1584051689,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [72]
 		{
-			"Warriors can make good money off dm if they have a healer :p", -- [1]
-			"Fancyadriink-Razorgore", -- [2]
+			"can now do |cffffffff|Henchant:20008|h[Enchant Bracer - Greater Intellect]|h|r whoever wanted it", -- [1]
+			"Quorra-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Fancyadriink", -- [5]
+			"Quorra", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			2226, -- [11]
-			"Player-4478-01CB79A0", -- [12]
+			4827, -- [11]
+			"Player-4478-012DE819", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaFancyadriink|r",
-			[51] = 1570722810,
+			[52] = "|cffff7c0aQuorra|r",
+			[51] = 1584051720,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [73]
 		{
-			"im listening!", -- [1]
-			"Ninefingers-Razorgore", -- [2]
+			"anyone interested in arena/anger/golem runs?", -- [1]
+			"Borgzul-Razorgore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ninefingers", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2230, -- [11]
-			"Player-4478-012E10B5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNinefingers|r",
-			[51] = 1570722836,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [74]
-		{
-			"Me too :D", -- [1]
-			"Ensidium-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ensidium", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2237, -- [11]
-			"Player-4478-015DDF8A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dEnsidium|r",
-			[51] = 1570722842,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [75]
-		{
-			"Yeah I know", -- [1]
-			"Naroh-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Naroh", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2238, -- [11]
-			"Player-4478-01566C77", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570722842,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [76]
-		{
-			"Already have a healer I'm gonna run dm with :)", -- [1]
-			"Naroh-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Naroh", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2246, -- [11]
-			"Player-4478-01566C77", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570722855,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [77]
-		{
-			"But that's not out yet", -- [1]
-			"Naroh-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Naroh", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2250, -- [11]
-			"Player-4478-01566C77", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570722867,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [78]
-		{
-			"And I need these damn edgemasters fast", -- [1]
-			"Naroh-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Naroh", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2253, -- [11]
-			"Player-4478-01566C77", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNaroh|r",
-			[51] = 1570722874,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [79]
-		{
-			"does anyone need to do Uniting the Shattered Amulet quest?", -- [1]
-			"Ninefingers-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ninefingers", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2289, -- [11]
-			"Player-4478-012E10B5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNinefingers|r",
-			[51] = 1570722943,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [80]
-		{
-			"DM released 15th???", -- [1]
-			"Wharfman-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wharfman", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2547, -- [11]
-			"Player-4478-0155B391", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Wharfman|r",
-			[51] = 1570723474,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [81]
-		{
-			"yes", -- [1]
-			"Catloaf-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Catloaf", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2577, -- [11]
-			"Player-4478-014DCA58", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1570723515,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [82]
-		{
-			"Aye", -- [1]
-			"Melo-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Melo", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2579, -- [11]
-			"Player-4478-012AB4AF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaMelo|r",
-			[51] = 1570723516,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [83]
-		{
-			"sweet", -- [1]
-			"Wharfman-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Wharfman", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2588, -- [11]
-			"Player-4478-0155B391", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Wharfman|r",
-			[51] = 1570723522,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [84]
-		{
-			"|cffffff00Wetlands is under attack!|r", -- [1]
-			"", -- [2]
-			"", -- [3]
-			"3. LocalDefense - Wetlands", -- [4]
-			"", -- [5]
-			"", -- [6]
-			22, -- [7]
-			3, -- [8]
-			"LocalDefense - Wetlands", -- [9]
-			0, -- [10]
-			3215, -- [11]
-			false, -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "",
-			[51] = 1570725991,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
-		{
-			"any1 from guild mybe need Jailbrake! ??", -- [1]
-			"Munja-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Munja", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			3680, -- [11]
-			"Player-4478-015011AF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Munja|r",
-			[51] = 1570726629,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [86]
-		{
-			"tank for scholo ?", -- [1]
-			"Pissycutzu-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pissycutzu", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4058, -- [11]
-			"Player-4478-0139A6EA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaPissycutzu|r",
-			[51] = 1570727196,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [87]
-		{
-			"any dungeon groups?", -- [1]
-			"Fxih-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fxih", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4168, -- [11]
-			"Player-4478-012A915D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Fxih|r",
-			[51] = 1570727359,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [88]
-		{
-			"i should run scholo if you wanna do a run", -- [1]
-			"Lidel-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lidel", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4176, -- [11]
-			"Player-4478-012A5DDF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Lidel|r",
-			[51] = 1570727373,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [89]
-		{
-			"i'm up for it", -- [1]
-			"Fxih-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fxih", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4185, -- [11]
-			"Player-4478-012A915D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Fxih|r",
-			[51] = 1570727380,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [90]
-		{
-			"anyone else for scholo?", -- [1]
-			"Lidel-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lidel", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4238, -- [11]
-			"Player-4478-012A5DDF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Lidel|r",
-			[51] = 1570727443,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [91]
-		{
-			"any healer for the last spot Scholo run?", -- [1]
-			"Lidel-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Lidel", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4727, -- [11]
-			"Player-4478-012A5DDF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Lidel|r",
-			[51] = 1570728297,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [92]
-		{
-			"are there any granades for non engineers", -- [1]
-			"Catloaf-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Catloaf", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4769, -- [11]
-			"Player-4478-014DCA58", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1570728490,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [93]
-		{
-			"|cffffffff|Hitem:18588::::::::60:::::::|h[Ez-Thro Dynamite II]|h|r", -- [1]
-			"Gigawoot-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gigawoot", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4780, -- [11]
-			"Player-4478-0141BDB6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Gigawoot|r",
-			[51] = 1570728509,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [94]
-		{
-			"what is the some restrictions thing", -- [1]
-			"Catloaf-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Catloaf", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4792, -- [11]
-			"Player-4478-014DCA58", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1570728527,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [95]
-		{
-			"the usual caveats", -- [1]
-			"Daprofessor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daprofessor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4813, -- [11]
-			"Player-4478-013D7E57", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaDaprofessor|r",
-			[51] = 1570728552,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [96]
-		{
-			"that dynamite xD", -- [1]
-			"Talibang-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Talibang", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4815, -- [11]
-			"Player-4478-016B0E34", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aTalibang|r",
-			[51] = 1570728554,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [97]
-		{
-			"it can blow up in your hand", -- [1]
-			"Gigawoot-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gigawoot", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4819, -- [11]
-			"Player-4478-0141BDB6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Gigawoot|r",
-			[51] = 1570728558,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [98]
-		{
-			"seems that as a non engineer you can get 2x the dmg", -- [1]
-			"Ussares-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ussares", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4820, -- [11]
-			"Player-4478-01519477", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aUssares|r",
-			[51] = 1570728558,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [99]
-		{
-			"xD", -- [1]
-			"Talibang-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Talibang", -- [5]
+			"Borgzul", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			4833, -- [11]
-			"Player-4478-016B0E34", -- [12]
+			"Player-4478-0215ADC0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTalibang|r",
-			[51] = 1570728575,
+			[52] = "|cffc69b6dBorgzul|r",
+			[51] = 1584051733,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [100]
+		}, -- [74]
 		{
-			"it may blow up in your face, it may stun you, it may cause you severe personal anxiety and stress", -- [1]
-			"Daprofessor-Razorgore", -- [2]
+			"LF1M tank to Scholo! Can summon!", -- [1]
+			"Aishanna-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Daprofessor", -- [5]
+			"7. LookingForGroup", -- [4]
+			"Aishanna", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			24, -- [7]
+			7, -- [8]
+			"LookingForGroup", -- [9]
 			0, -- [10]
-			4839, -- [11]
-			"Player-4478-013D7E57", -- [12]
+			4840, -- [11]
+			"Player-4478-0200B052", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaDaprofessor|r",
-			[51] = 1570728580,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [101]
+			[52] = "|cff8787edAishanna|r",
+			[51] = 1584051776,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [75]
 		{
-			"yep", -- [1]
-			"Talibang-Razorgore", -- [2]
+			"Healer LFG ", -- [1]
+			"Lege-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Talibang", -- [5]
+			"7. LookingForGroup", -- [4]
+			"Lege", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			24, -- [7]
+			7, -- [8]
+			"LookingForGroup", -- [9]
 			0, -- [10]
 			4844, -- [11]
-			"Player-4478-016B0E34", -- [12]
+			"Player-4478-018DB219", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTalibang|r",
-			[51] = 1570728586,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [102]
+			[52] = "|cffffffffLege|r",
+			[51] = 1584051790,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [76]
 		{
-			"rip", -- [1]
-			"Catloaf-Razorgore", -- [2]
+			"heals lfg brd", -- [1]
+			"Schreiber-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Catloaf", -- [5]
+			"1. General - Ironforge", -- [4]
+			"Schreiber", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4848, -- [11]
-			"Player-4478-014DCA58", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1570728588,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [103]
-		{
-			"it might kill your puppy.", -- [1]
-			"Gigawoot-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gigawoot", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			1, -- [7]
+			1, -- [8]
+			"General - Ironforge", -- [9]
 			0, -- [10]
 			4852, -- [11]
-			"Player-4478-0141BDB6", -- [12]
+			"Player-4478-0177AEF7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Gigawoot|r",
-			[51] = 1570728591,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [104]
+			[52] = "|cffffffffSchreiber|r",
+			[51] = 1584051811,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [77]
 		{
-			"if it does its doing double what it says on the tin =p", -- [1]
-			"Talibang-Razorgore", -- [2]
+			"WTB |cff1eff00|Hitem:7082::::::::60:::::::|h[Essence of Air]|h|r", -- [1]
+			"Zarthvader", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Talibang", -- [5]
+			"2. Trade - City", -- [4]
+			"Zarthvader", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4854, -- [11]
+			"Player-4478-01FC5F5E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Zarthvader|r",
+			[51] = 1584051812,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [78]
+		{
+			"any blacksmiths?", -- [1]
+			"Blodtørstig", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Blodtørstig", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
 			4858, -- [11]
-			"Player-4478-016B0E34", -- [12]
+			"Player-4478-02201B9E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTalibang|r",
-			[51] = 1570728596,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [105]
+			[52] = "|cffc69b6dBlodtørstig|r",
+			[51] = 1584051814,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [79]
 		{
-			"sounds like my mother", -- [1]
-			"Ninefingers-Razorgore", -- [2]
+			"{skull} TF Tank for hire - BoE + BoP items no1 needs for tank {skull}", -- [1]
+			"Mashpotato", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Ninefingers", -- [5]
+			"5. world", -- [4]
+			"Mashpotato", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			4859, -- [11]
-			"Player-4478-012E10B5", -- [12]
+			4866, -- [11]
+			"Player-4478-01558F50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNinefingers|r",
-			[51] = 1570728597,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [106]
+			[52] = "|cffc69b6dMashpotato|r",
+			[51] = 1584051825,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [80]
 		{
-			"is there something else which deals like 1dmg but like granade", -- [1]
-			"Catloaf-Razorgore", -- [2]
+			"WTS SM Cath Runs 3g/run /w", -- [1]
+			"Ramlösa-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Catloaf", -- [5]
+			"5. world", -- [4]
+			"Ramlösa", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			4860, -- [11]
-			"Player-4478-014DCA58", -- [12]
+			4868, -- [11]
+			"Player-4478-0174BA09", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1570728597,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [107]
+			[52] = "|cff3fc6eaRamlösa|r",
+			[51] = 1584051852,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [81]
 		{
-			"Rip hands", -- [1]
-			"Talibang-Razorgore", -- [2]
+			"WTB Stockade Boosts", -- [1]
+			"Mementomori-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Talibang", -- [5]
+			"2. Trade - City", -- [4]
+			"Mementomori", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			4862, -- [11]
-			"Player-4478-016B0E34", -- [12]
+			4872, -- [11]
+			"Player-4478-023B2902", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTalibang|r",
-			[51] = 1570728599,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [108]
+			[52] = "|cff8787edMementomori|r",
+			[51] = 1584051873,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [82]
 		{
-			"it may EVEN make your kebap disappear", -- [1]
-			"Daprofessor-Razorgore", -- [2]
+			"leave", -- [1]
+			"Oreoburger-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Daprofessor", -- [5]
+			"2. Trade - City", -- [4]
+			"Oreoburger", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			4863, -- [11]
-			"Player-4478-013D7E57", -- [12]
+			4897, -- [11]
+			"Player-4478-01641220", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaDaprofessor|r",
-			[51] = 1570728601,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [109]
+			[52] = "|cffffffffOreoburger|r",
+			[51] = 1584051936,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [83]
 		{
-			"yep, just like my mother", -- [1]
-			"Ninefingers-Razorgore", -- [2]
+			"LFM UBRS", -- [1]
+			"Deepz-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Ninefingers", -- [5]
+			"5. world", -- [4]
+			"Deepz", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4870, -- [11]
-			"Player-4478-012E10B5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNinefingers|r",
-			[51] = 1570728612,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [110]
-		{
-			"you mean that has a stun?", -- [1]
-			"Talibang-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Talibang", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4875, -- [11]
-			"Player-4478-016B0E34", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aTalibang|r",
-			[51] = 1570728615,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [111]
-		{
-			"and this is the greatest personal affront a man can suffer", -- [1]
-			"Daprofessor-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daprofessor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4880, -- [11]
-			"Player-4478-013D7E57", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaDaprofessor|r",
-			[51] = 1570728618,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [112]
-		{
-			"no stun I need something to throw which is aoe", -- [1]
-			"Catloaf-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Catloaf", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4885, -- [11]
-			"Player-4478-014DCA58", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1570728625,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [113]
-		{
-			"and deals damage", -- [1]
-			"Catloaf-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Catloaf", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4891, -- [11]
-			"Player-4478-014DCA58", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Catloaf|r",
-			[51] = 1570728628,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [114]
-		{
-			"its called \"mage\"", -- [1]
-			"Daprofessor-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daprofessor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			4894, -- [11]
-			"Player-4478-013D7E57", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaDaprofessor|r",
-			[51] = 1570728634,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [115]
-		{
-			"hahaha", -- [1]
-			"Ninefingers-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ninefingers", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
 			4899, -- [11]
-			"Player-4478-012E10B5", -- [12]
+			"Player-4478-0246669F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dNinefingers|r",
-			[51] = 1570728640,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [116]
+			[52] = "|cffc69b6dDeepz|r",
+			[51] = 1584051969,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [84]
 		{
-			"you throw a mage ", -- [1]
-			"Daprofessor-Razorgore", -- [2]
+			"WTS Stockades boost. 2g a run", -- [1]
+			"Possa-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Daprofessor", -- [5]
+			"2. Trade - City", -- [4]
+			"Possa", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
 			4900, -- [11]
-			"Player-4478-013D7E57", -- [12]
+			"Player-4478-017F2F4E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaDaprofessor|r",
-			[51] = 1570728641,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [117]
+			[52] = "|cfff48cbaPossa|r",
+			[51] = 1584051969,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [85]
 		{
-			"and he does aoe", -- [1]
-			"Daprofessor-Razorgore", -- [2]
+			"wts |cff1eff00|Hitem:12360::::::::60::::1:3524:::|h[Arcanite Bar]|h|r cd", -- [1]
+			"Zerrok-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Daprofessor", -- [5]
+			"2. Trade - City", -- [4]
+			"Zerrok", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
 			4902, -- [11]
-			"Player-4478-013D7E57", -- [12]
+			"Player-4478-0212C434", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaDaprofessor|r",
-			[51] = 1570728644,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [118]
+			[52] = "|cffc69b6dZerrok|r",
+			[51] = 1584051981,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [86]
 		{
-			"the crystal?", -- [1]
-			"Damond-Razorgore", -- [2]
+			"LF1m Stockades boost. 2g a run. around 7min runs.", -- [1]
+			"Possa-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Damond", -- [5]
+			"2. Trade - City", -- [4]
+			"Possa", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			4903, -- [11]
-			"Player-4478-012A6DE5", -- [12]
+			4908, -- [11]
+			"Player-4478-017F2F4E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1570728644,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [119]
+			[52] = "|cfff48cbaPossa|r",
+			[51] = 1584052012,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [87]
 		{
-			"no, the mage, the player character.", -- [1]
-			"Daprofessor-Razorgore", -- [2]
+			"WTB staff of jordan", -- [1]
+			"Cmdsummon-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Daprofessor", -- [5]
+			"2. Trade - City", -- [4]
+			"Cmdsummon", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			4913, -- [11]
-			"Player-4478-013D7E57", -- [12]
+			4910, -- [11]
+			"Player-4478-021C073F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaDaprofessor|r",
-			[51] = 1570728654,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [120]
+			[52] = "|cff8787edCmdsummon|r",
+			[51] = 1584052016,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [88]
 		{
-			"you find a mage and you throw him", -- [1]
-			"Daprofessor-Razorgore", -- [2]
+			"WTB stockade boosts", -- [1]
+			"Acaster-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Daprofessor", -- [5]
+			"2. Trade - City", -- [4]
+			"Acaster", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			4917, -- [11]
-			"Player-4478-013D7E57", -- [12]
+			4918, -- [11]
+			"Player-4478-0235DC69", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaDaprofessor|r",
-			[51] = 1570728658,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [121]
+			[52] = "|cff3fc6eaAcaster|r",
+			[51] = 1584052029,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [89]
 		{
-			"you mob tagging?", -- [1]
-			"Talibang-Razorgore", -- [2]
+			"any AB premades?", -- [1]
+			"Benzk", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Talibang", -- [5]
+			"2. Trade - City", -- [4]
+			"Benzk", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4919, -- [11]
+			"Player-4478-022BA5C7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dBenzk|r",
+			[51] = 1584052029,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [90]
+		{
+			"wtb stockades boost ; pls wisp", -- [1]
+			"Acaster-Razorgore", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Acaster", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			4921, -- [11]
+			"Player-4478-0235DC69", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaAcaster|r",
+			[51] = 1584052030,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [91]
+		{
+			"LFG DM E", -- [1]
+			"Freezegnome", -- [2]
+			"", -- [3]
+			"7. LookingForGroup", -- [4]
+			"Freezegnome", -- [5]
+			"", -- [6]
+			24, -- [7]
+			7, -- [8]
+			"LookingForGroup", -- [9]
 			0, -- [10]
 			4922, -- [11]
-			"Player-4478-016B0E34", -- [12]
+			"Player-4478-02279A08", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTalibang|r",
-			[51] = 1570728661,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaFreezegnome|r",
+			[51] = 1584052032,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"ENCHANTER LFW (No fee if you roll 85 or over) / Crusader / Fiery Weap / Icy Chill / +100HP / 9 & 7+stam or +strength / +7agi / 5+res / +9spirit / .. etc.  ", -- [1]
+			"Powerfuk-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Powerfuk", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4927, -- [11]
+			"Player-4478-019AB4C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dPowerfuk|r",
+			[51] = 1584052034,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [93]
+		{
+			"LFW - Enchanting - Have all enchants - Except +30 spell damage. (Yes also ALL the new enchants)", -- [1]
+			"Johannes-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Johannes", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4933, -- [11]
+			"Player-4478-012A3FA6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dJohannes|r",
+			[51] = 1584052039,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"LFM UBRS, need heal/caster dps and possibly a tank", -- [1]
+			"Deepz-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Deepz", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			6, -- [11]
+			"Player-4478-0246669F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dDeepz|r",
+			[51] = 1584124233,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"WTB Gnomeregan boost", -- [1]
+			"Vexarn", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Vexarn", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			10, -- [11]
+			"Player-4478-023E9356", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffVexarn|r",
+			[51] = 1584124238,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"LF1M Princess run Mara", -- [1]
+			"Kvitskjegg-Razorgore", -- [2]
+			"", -- [3]
+			"1. General - Ironforge", -- [4]
+			"Kvitskjegg", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Ironforge", -- [9]
+			0, -- [10]
+			13, -- [11]
+			"Player-4478-0230BE4B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffKvitskjegg|r",
+			[51] = 1584124247,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"LFM BRD !  Shred of Hope + Jailbreak escort quest!", -- [1]
+			"Döskalle-Razorgore", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Döskalle", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			14, -- [11]
+			"Player-4478-0244BB8D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Döskalle|r",
+			[51] = 1584124247,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"LF Enchanter, boots speed , gloves - Riding skill my mats 10g fee", -- [1]
+			"Ferke-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ferke", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			18, -- [11]
+			"Player-4478-01E20C5D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffFerke|r",
+			[51] = 1584124259,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [99]
+		{
+			"healer LFG Strat UD-Scholo", -- [1]
+			"Norlanon-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Norlanon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			22, -- [11]
+			"Player-4478-0187C821", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaNorlanon|r",
+			[51] = 1584124268,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [100]
+		{
+			"wts |cff1eff00|Hitem:16252::::::::2:::::::|h[Formula: Enchant Weapon - Crusader]|h|r 180g", -- [1]
+			"Terycrooz", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Terycrooz", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			26, -- [11]
+			"Player-4478-0241B92D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dTerycrooz|r",
+			[51] = 1584124292,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [101]
+		{
+			"WTS |cff0070dd|Hitem:19235::::::::60:::1::::|h[Seven of Beasts]|h|r", -- [1]
+			"Mitok-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mitok", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			54, -- [11]
+			"Player-4478-023EF545", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaMitok|r",
+			[51] = 1584124328,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [102]
+		{
+			"LF1M Princess Run Mara", -- [1]
+			"Kvitskjegg-Razorgore", -- [2]
+			"", -- [3]
+			"7. LookingForGroup", -- [4]
+			"Kvitskjegg", -- [5]
+			"", -- [6]
+			24, -- [7]
+			7, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			56, -- [11]
+			"Player-4478-0230BE4B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffKvitskjegg|r",
+			[51] = 1584124333,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [103]
+		{
+			"WTS |cff0070dd|Hitem:18537::::::::60:::1::::|h[Counterattack Lodestone]|h|r", -- [1]
+			"Drnobody", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Drnobody", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			57, -- [11]
+			"Player-4478-01E90004", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Drnobody|r",
+			[51] = 1584124335,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [104]
+		{
+			"LF healer LF healer jailbreak, got 2x 60 mages", -- [1]
+			"Raindrp", -- [2]
+			"", -- [3]
+			"7. LookingForGroup", -- [4]
+			"Raindrp", -- [5]
+			"", -- [6]
+			24, -- [7]
+			7, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			62, -- [11]
+			"Player-4478-023BD598", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Raindrp|r",
+			[51] = 1584124363,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [105]
+		{
+			"LFG Jailbreak", -- [1]
+			"Azzurro", -- [2]
+			"", -- [3]
+			"7. LookingForGroup", -- [4]
+			"Azzurro", -- [5]
+			"", -- [6]
+			24, -- [7]
+			7, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			63, -- [11]
+			"Player-4478-015742AC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dAzzurro|r",
+			[51] = 1584124367,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [106]
+		{
+			"LF1M healer BRD (doing jailbreak), got 2x lvl 60 mages", -- [1]
+			"Hobbygamer-Razorgore", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Hobbygamer", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			64, -- [11]
+			"Player-4478-023AFDBC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dHobbygamer|r",
+			[51] = 1584124369,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [107]
+		{
+			"LFM UBRS, need heal/caster dps and possibly a tank", -- [1]
+			"Deepz-Razorgore", -- [2]
+			"", -- [3]
+			"7. LookingForGroup", -- [4]
+			"Deepz", -- [5]
+			"", -- [6]
+			24, -- [7]
+			7, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			66, -- [11]
+			"Player-4478-0246669F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dDeepz|r",
+			[51] = 1584124372,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [108]
+		{
+			"dps LFG Maraudon", -- [1]
+			"Zenser", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Zenser", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			69, -- [11]
+			"Player-4478-019C51C8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dZenser|r",
+			[51] = 1584124378,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [109]
+		{
+			"LFG SM", -- [1]
+			"Bohannan", -- [2]
+			"", -- [3]
+			"7. LookingForGroup", -- [4]
+			"Bohannan", -- [5]
+			"", -- [6]
+			24, -- [7]
+			7, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			70, -- [11]
+			"Player-4478-024AAB50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Bohannan|r",
+			[51] = 1584124380,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [110]
+		{
+			"wtb +3 agi on cloak", -- [1]
+			"Vodka", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Vodka", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			72, -- [11]
+			"Player-4478-0129F9A3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Vodka|r",
+			[51] = 1584124381,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [111]
+		{
+			"DPS LFG SM CATH", -- [1]
+			"Fluxhux", -- [2]
+			"", -- [3]
+			"7. LookingForGroup", -- [4]
+			"Fluxhux", -- [5]
+			"", -- [6]
+			24, -- [7]
+			7, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			75, -- [11]
+			"Player-4478-023BF52E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaFluxhux|r",
+			[51] = 1584124404,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [112]
+		{
+			"LFM BRD !  Shred of Hope + Jailbreak escort quest!", -- [1]
+			"Döskalle-Razorgore", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Döskalle", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			82, -- [11]
+			"Player-4478-0244BB8D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Döskalle|r",
+			[51] = 1584124445,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [113]
+		{
+			"LFM UBRS, need heal/caster dps and possibly a tank", -- [1]
+			"Deepz-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Deepz", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			83, -- [11]
+			"Player-4478-0246669F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dDeepz|r",
+			[51] = 1584124447,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [114]
+		{
+			"LFG BRD ", -- [1]
+			"Stjarthaka", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Stjarthaka", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			88, -- [11]
+			"Player-4478-023B17B4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Stjarthaka|r",
+			[51] = 1584124495,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [115]
+		{
+			"doing lvl 240-295 enchants for free, your mats, at ah bridge. Also selling +7 stam on boots or shield for 2.5g (my mats)", -- [1]
+			"Egels-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Egels", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			89, -- [11]
+			"Player-4478-020BDCAB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaEgels|r",
+			[51] = 1584124502,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [116]
+		{
+			"LFM BRD !  Shred of Hope + Jailbreak escort quest! Need Healer", -- [1]
+			"Döskalle-Razorgore", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Döskalle", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			91, -- [11]
+			"Player-4478-0244BB8D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Döskalle|r",
+			[51] = 1584124503,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [117]
+		{
+			"LFM UBRS, need heal/caster dps and possibly a tank", -- [1]
+			"Deepz-Razorgore", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Deepz", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			95, -- [11]
+			"Player-4478-0246669F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dDeepz|r",
+			[51] = 1584124523,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [118]
+		{
+			"WTB boosts SM", -- [1]
+			"Syphilos", -- [2]
+			"", -- [3]
+			"7. LookingForGroup", -- [4]
+			"Syphilos", -- [5]
+			"", -- [6]
+			24, -- [7]
+			7, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			101, -- [11]
+			"Player-4478-017D24D1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffSyphilos|r",
+			[51] = 1584124546,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [119]
+		{
+			"WTB Gnomeregan boost", -- [1]
+			"Vexarn-Razorgore", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Vexarn", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			103, -- [11]
+			"Player-4478-023E9356", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffVexarn|r",
+			[51] = 1584124553,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [120]
+		{
+			"Strat UD anyone?", -- [1]
+			"Mó-Razorgore", -- [2]
+			"", -- [3]
+			"7. LookingForGroup", -- [4]
+			"Mó", -- [5]
+			"", -- [6]
+			24, -- [7]
+			7, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			104, -- [11]
+			"Player-4478-013857DE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaMó|r",
+			[51] = 1584124555,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [121]
+		{
+			"Yo any MC pugs tonight?", -- [1]
+			"Snökrig", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Snökrig", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			109, -- [11]
+			"Player-4478-023DABAC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Snökrig|r",
+			[51] = 1584124568,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [122]
 		{
-			"...", -- [1]
-			"Dyno-Razorgore", -- [2]
+			"WTB deadmines boost ", -- [1]
+			"Simelli", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Dyno", -- [5]
+			"5. world", -- [4]
+			"Simelli", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			4924, -- [11]
-			"Player-4478-0150D8AF", -- [12]
+			112, -- [11]
+			"Player-4478-02500D43", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaDyno|r",
-			[51] = 1570728662,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaSimelli|r",
+			[51] = 1584124570,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [123]
 		{
-			"hmmmm", -- [1]
-			"Talibang-Razorgore", -- [2]
+			"WTB deadmines boost ", -- [1]
+			"Simelli-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Talibang", -- [5]
+			"7. LookingForGroup", -- [4]
+			"Simelli", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			24, -- [7]
+			7, -- [8]
+			"LookingForGroup", -- [9]
 			0, -- [10]
-			4928, -- [11]
-			"Player-4478-016B0E34", -- [12]
+			114, -- [11]
+			"Player-4478-02500D43", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aTalibang|r",
-			[51] = 1570728667,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaSimelli|r",
+			[51] = 1584124571,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [124]
 		{
-			"crystal charge", -- [1]
-			"Damond-Razorgore", -- [2]
+			"LF MC/Ony pug", -- [1]
+			"Ketro-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Damond", -- [5]
+			"5. world", -- [4]
+			"Ketro", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			5, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			4943, -- [11]
-			"Player-4478-012A6DE5", -- [12]
+			116, -- [11]
+			"Player-4478-023F7CD3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1570728688,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff3fc6eaKetro|r",
+			[51] = 1584124593,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [125]
 		{
-			"hunter/rogue/warr dps for scholo? last spot can summ", -- [1]
-			"Pissycutzu-Razorgore", -- [2]
+			"LFM UBRS, need heal/caster dps and possibly a tank", -- [1]
+			"Deepz-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Pissycutzu", -- [5]
+			"2. Trade - City", -- [4]
+			"Deepz", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			4973, -- [11]
-			"Player-4478-0139A6EA", -- [12]
+			117, -- [11]
+			"Player-4478-0246669F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaPissycutzu|r",
-			[51] = 1570728732,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffc69b6dDeepz|r",
+			[51] = 1584124601,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [126]
 		{
-			"|cffffffff|Hitem:11566::::::::60:::::::|h[Crystal Charge]|h|r", -- [1]
-			"Damond-Razorgore", -- [2]
+			"what is a good price for SM boost?", -- [1]
+			"Bohannan-Razorgore", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Damond", -- [5]
+			"7. LookingForGroup", -- [4]
+			"Bohannan", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			24, -- [7]
+			7, -- [8]
+			"LookingForGroup", -- [9]
 			0, -- [10]
-			4978, -- [11]
-			"Player-4478-012A6DE5", -- [12]
+			121, -- [11]
+			"Player-4478-024AAB50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1570728738,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Bohannan|r",
+			[51] = 1584124610,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},
 }

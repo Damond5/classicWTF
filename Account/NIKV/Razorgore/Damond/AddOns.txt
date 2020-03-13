@@ -4,8 +4,8 @@ BigWigs_Options: enabled
 BigWigs_Plugins: enabled
 WeakAurasCompanion: enabled
 Details: enabled
-BigWigs: enabled
-Questie: disabled
+BigWigs: disabled
+Questie: enabled
 ClickLinks: disabled
 NeatPlates: disabled
 OPie: enabled
@@ -35,3 +35,14 @@ ItemRackOptions: enabled
 QuestLogEx: enabled
 BigWigs_MoltenCore: enabled
 BigWigs_Onyxia: enabled
+Details_Streamer: disabled
+ElvUI_VisualAuraTimers: disabled
+ElvUI_ExtraActionBars: disabled
+ElvUI_CastBarOverlay: disabled
+ElvUI_EverySecondCounts: disabled
+ElvUI_AuraBarsMovers: disabled
+TwitchEmotes: disabled
+SLoTe: disabled
+ElvUI_CustomTweaks: disabled
+WeakAurasArchive: enabled
+Capping_Options: enabled

@@ -11,9 +11,9 @@ gGroupCalendar_Settings = {
 			["Version"] = 0,
 			["MinTrustedRank"] = 0,
 			["TrustAnyone"] = false,
+			["Guild"] = "Good Game",
 			["Player"] = {
 			},
-			["Guild"] = "Good Game",
 		},
 	},
 	["Razorgore_Damonddruid"] = {
@@ -43,35 +43,34 @@ gGroupCalendar_Settings = {
 		},
 	},
 	["ShowEventsInLocalTime"] = false,
-	["Use24HrTime"] = false,
+	["ShowMinimap"] = "ON",
 	["Format"] = 1,
 	["SquareMinimap"] = "OFF",
-	["ShowMinimap"] = "ON",
+	["Use24HrTime"] = false,
 }
 gGroupCalendar_Database = {
-	["Format"] = 12,
 	["Databases"] = {
 	},
+	["Format"] = 12,
 }
 GroupCalendarDB = nil
 gGroupCalendar_MiniMapSettings = {
 	["shown"] = true,
+	["minimapPos"] = 216.732800420895,
 	["locked"] = false,
-	["minimapPos"] = 215.618540353589,
 }
 gGroupCalendar_Database2 = {
-	["Format"] = 12,
 	["Databases"] = {
 		["Razorgore_Good Game"] = {
+			["Guild"] = "Good Game",
 			["Events"] = {
 			},
-			["Guild"] = "Good Game",
 			["Realm"] = "Razorgore",
 		},
 	},
+	["Format"] = 12,
 }
 gGroupCalendar_PlayerDatabases = {
-	["Format"] = 12,
 	["Databases"] = {
 		["Razorgore_Damond"] = {
 			["GuildRank"] = 5,
@@ -86,12 +85,12 @@ gGroupCalendar_PlayerDatabases = {
 						["mGUID"] = "Damond15832700277",
 						["mPrivate"] = true,
 						["mChangedDate"] = 20200303,
-						["mAttendance"] = {
-						},
+						["mUserName"] = "Damond",
 						["mStatus"] = "A",
 						["mType"] = "RSMC",
 						["mDate"] = 20200318,
-						["mUserName"] = "Damond",
+						["mAttendance"] = {
+						},
 					}, -- [1]
 					{
 						["mMinLevel"] = 0,
@@ -100,13 +99,13 @@ gGroupCalendar_PlayerDatabases = {
 						["mManualConfirm"] = false,
 						["mGUID"] = "Damond15836760916",
 						["mPrivate"] = true,
-						["mUserName"] = "Damond",
 						["mChangedDate"] = 20200308,
+						["mAttendance"] = {
+						},
 						["mStatus"] = "A",
 						["mType"] = "RSBWL",
 						["mDate"] = 20200318,
-						["mAttendance"] = {
-						},
+						["mUserName"] = "Damond",
 					}, -- [2]
 				},
 				[20200325] = {
@@ -118,12 +117,12 @@ gGroupCalendar_PlayerDatabases = {
 						["mGUID"] = "Damond15832700278",
 						["mPrivate"] = true,
 						["mChangedDate"] = 20200303,
-						["mAttendance"] = {
-						},
+						["mUserName"] = "Damond",
 						["mStatus"] = "A",
 						["mType"] = "RSMC",
 						["mDate"] = 20200325,
-						["mUserName"] = "Damond",
+						["mAttendance"] = {
+						},
 					}, -- [1]
 					{
 						["mMinLevel"] = 0,
@@ -132,13 +131,13 @@ gGroupCalendar_PlayerDatabases = {
 						["mManualConfirm"] = false,
 						["mGUID"] = "Damond15836760917",
 						["mPrivate"] = true,
-						["mUserName"] = "Damond",
 						["mChangedDate"] = 20200308,
+						["mAttendance"] = {
+						},
 						["mStatus"] = "A",
 						["mType"] = "RSBWL",
 						["mDate"] = 20200325,
-						["mAttendance"] = {
-						},
+						["mUserName"] = "Damond",
 					}, -- [2]
 				},
 				[20200319] = {
@@ -149,13 +148,13 @@ gGroupCalendar_PlayerDatabases = {
 						["mManualConfirm"] = false,
 						["mGUID"] = "Damond15836760913",
 						["mPrivate"] = true,
-						["mUserName"] = "Damond",
 						["mChangedDate"] = 20200308,
+						["mAttendance"] = {
+						},
 						["mStatus"] = "A",
 						["mType"] = "RSOny",
 						["mDate"] = 20200319,
-						["mAttendance"] = {
-						},
+						["mUserName"] = "Damond",
 					}, -- [1]
 				},
 				[20200314] = {
@@ -166,13 +165,13 @@ gGroupCalendar_PlayerDatabases = {
 						["mManualConfirm"] = false,
 						["mGUID"] = "Damond15836760912",
 						["mPrivate"] = true,
-						["mUserName"] = "Damond",
 						["mChangedDate"] = 20200308,
+						["mAttendance"] = {
+						},
 						["mStatus"] = "A",
 						["mType"] = "RSOny",
 						["mDate"] = 20200314,
-						["mAttendance"] = {
-						},
+						["mUserName"] = "Damond",
 					}, -- [1]
 				},
 				[20200311] = {
@@ -184,12 +183,12 @@ gGroupCalendar_PlayerDatabases = {
 						["mGUID"] = "Damond15832700276",
 						["mPrivate"] = true,
 						["mChangedDate"] = 20200303,
-						["mAttendance"] = {
-						},
+						["mUserName"] = "Damond",
 						["mStatus"] = "A",
 						["mType"] = "RSMC",
 						["mDate"] = 20200311,
-						["mUserName"] = "Damond",
+						["mAttendance"] = {
+						},
 					}, -- [1]
 					{
 						["mMinLevel"] = 0,
@@ -198,13 +197,13 @@ gGroupCalendar_PlayerDatabases = {
 						["mManualConfirm"] = false,
 						["mGUID"] = "Damond15836760915",
 						["mPrivate"] = true,
-						["mUserName"] = "Damond",
 						["mChangedDate"] = 20200308,
+						["mAttendance"] = {
+						},
 						["mStatus"] = "A",
 						["mType"] = "RSBWL",
 						["mDate"] = 20200311,
-						["mAttendance"] = {
-						},
+						["mUserName"] = "Damond",
 					}, -- [2]
 				},
 				[20200401] = {
@@ -215,13 +214,13 @@ gGroupCalendar_PlayerDatabases = {
 						["mManualConfirm"] = false,
 						["mGUID"] = "Damond15836760918",
 						["mPrivate"] = true,
-						["mUserName"] = "Damond",
 						["mChangedDate"] = 20200308,
+						["mAttendance"] = {
+						},
 						["mStatus"] = "A",
 						["mType"] = "RSBWL",
 						["mDate"] = 20200401,
-						["mAttendance"] = {
-						},
+						["mUserName"] = "Damond",
 					}, -- [1]
 				},
 				[20200324] = {
@@ -232,13 +231,13 @@ gGroupCalendar_PlayerDatabases = {
 						["mManualConfirm"] = false,
 						["mGUID"] = "Damond15836760914",
 						["mPrivate"] = true,
-						["mUserName"] = "Damond",
 						["mChangedDate"] = 20200308,
+						["mAttendance"] = {
+						},
 						["mStatus"] = "A",
 						["mType"] = "RSOny",
 						["mDate"] = 20200324,
-						["mAttendance"] = {
-						},
+						["mUserName"] = "Damond",
 					}, -- [1]
 				},
 				[20200309] = {
@@ -250,12 +249,12 @@ gGroupCalendar_PlayerDatabases = {
 						["mGUID"] = "Damond15836744871",
 						["mPrivate"] = true,
 						["mChangedDate"] = 20200308,
-						["mAttendance"] = {
-						},
+						["mUserName"] = "Damond",
 						["mStatus"] = "A",
 						["mType"] = "RSXmut",
 						["mDate"] = 20200309,
-						["mUserName"] = "Damond",
+						["mAttendance"] = {
+						},
 					}, -- [1]
 					{
 						["mMinLevel"] = 0,
@@ -264,13 +263,13 @@ gGroupCalendar_PlayerDatabases = {
 						["mManualConfirm"] = false,
 						["mGUID"] = "Damond15836760911",
 						["mPrivate"] = true,
-						["mUserName"] = "Damond",
 						["mChangedDate"] = 20200308,
+						["mAttendance"] = {
+						},
 						["mStatus"] = "A",
 						["mType"] = "RSOny",
 						["mDate"] = 20200309,
-						["mAttendance"] = {
-						},
+						["mUserName"] = "Damond",
 					}, -- [2]
 				},
 			},
@@ -285,7 +284,7 @@ gGroupCalendar_PlayerDatabases = {
 			["PlayerClassCode"] = "D",
 			["Events"] = {
 			},
-			["PlayerLevel"] = 2,
+			["PlayerLevel"] = 3,
 			["PlayerRaceCode"] = "N",
 			["Realm"] = "Razorgore",
 		},
@@ -299,4 +298,5 @@ gGroupCalendar_PlayerDatabases = {
 			["Realm"] = "Razorgore",
 		},
 	},
+	["Format"] = 12,
 }

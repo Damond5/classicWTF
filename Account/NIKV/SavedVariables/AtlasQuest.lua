@@ -10,7 +10,7 @@ AtlasQuest_Options = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
 	},
-	["Damonddruid"] = {
+	["Ksumdamond"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
 	},
@@ -18,7 +18,7 @@ AtlasQuest_Options = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
 	},
-	["Ksumdamond"] = {
+	["Damonddruid"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,
 	},

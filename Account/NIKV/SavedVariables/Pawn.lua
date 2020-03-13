@@ -10,6 +10,8 @@ PawnCommon = {
 	["Debug"] = false,
 	["ColorTooltipBorder"] = true,
 	["ShowTooltipIcons"] = true,
+	["Digits"] = 1,
+	["ShowSocketingAdvisor"] = true,
 	["Scales"] = {
 		["\"Classic\":WARRIOR2"] = {
 			["PerCharacterOptions"] = {
@@ -46,8 +48,8 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 			},
 			["Color"] = "3fc6ea",
-			["LocalizedName"] = "Mage",
 			["ClassID"] = 8,
+			["LocalizedName"] = "Mage",
 			["DoNotShow1HUpgrades"] = false,
 			["DoNotShow2HUpgrades"] = false,
 			["UpgradesFollowSpecialization"] = false,
@@ -148,8 +150,8 @@ PawnCommon = {
 				},
 			},
 			["Color"] = "ff7c0a",
-			["LocalizedName"] = "Druid",
 			["ClassID"] = 11,
+			["LocalizedName"] = "Druid",
 			["DoNotShow1HUpgrades"] = false,
 			["DoNotShow2HUpgrades"] = false,
 			["UpgradesFollowSpecialization"] = false,
@@ -228,16 +230,16 @@ PawnCommon = {
 		},
 		["\"Classic\":WARLOCK"] = {
 			["PerCharacterOptions"] = {
-				["Damond-Razorgore"] = {
+				["Damondbank-Razorgore"] = {
 					["Visible"] = true,
 				},
-				["Damondbank-Razorgore"] = {
+				["Damond-Razorgore"] = {
 					["Visible"] = true,
 				},
 			},
 			["Color"] = "8787ed",
-			["LocalizedName"] = "Warlock",
 			["ClassID"] = 9,
+			["LocalizedName"] = "Warlock",
 			["DoNotShow1HUpgrades"] = false,
 			["DoNotShow2HUpgrades"] = false,
 			["UpgradesFollowSpecialization"] = false,
@@ -248,8 +250,8 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 			},
 			["Color"] = "0270dd",
-			["LocalizedName"] = "Shaman",
 			["ClassID"] = 7,
+			["LocalizedName"] = "Shaman",
 			["DoNotShow1HUpgrades"] = false,
 			["DoNotShow2HUpgrades"] = false,
 			["UpgradesFollowSpecialization"] = false,
@@ -274,8 +276,8 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 			},
 			["Color"] = "ffffff",
-			["LocalizedName"] = "Priest",
 			["ClassID"] = 5,
+			["LocalizedName"] = "Priest",
 			["DoNotShow1HUpgrades"] = false,
 			["DoNotShow2HUpgrades"] = false,
 			["UpgradesFollowSpecialization"] = false,
@@ -284,10 +286,10 @@ PawnCommon = {
 		},
 		["\"Classic\":WARLOCK2"] = {
 			["PerCharacterOptions"] = {
-				["Damond-Razorgore"] = {
+				["Damondbank-Razorgore"] = {
 					["Visible"] = true,
 				},
-				["Damondbank-Razorgore"] = {
+				["Damond-Razorgore"] = {
 					["Visible"] = true,
 				},
 			},
@@ -321,11 +323,11 @@ PawnCommon = {
 		},
 		["\"Classic\":ROGUE"] = {
 			["Color"] = "fff468",
-			["LocalizedName"] = "Rogue: Off Hand",
+			["ClassID"] = 4,
 			["PerCharacterOptions"] = {
 			},
 			["DoNotShow1HUpgrades"] = false,
-			["ClassID"] = 4,
+			["LocalizedName"] = "Rogue: Off Hand",
 			["DoNotShow2HUpgrades"] = false,
 			["UpgradesFollowSpecialization"] = false,
 			["Provider"] = "Classic",
@@ -350,10 +352,10 @@ PawnCommon = {
 		},
 		["\"Classic\":WARLOCK3"] = {
 			["PerCharacterOptions"] = {
-				["Damond-Razorgore"] = {
+				["Damondbank-Razorgore"] = {
 					["Visible"] = true,
 				},
-				["Damondbank-Razorgore"] = {
+				["Damond-Razorgore"] = {
 					["Visible"] = true,
 				},
 			},
@@ -386,8 +388,8 @@ PawnCommon = {
 			["PerCharacterOptions"] = {
 			},
 			["Color"] = "aad372",
-			["LocalizedName"] = "Hunter",
 			["ClassID"] = 3,
+			["LocalizedName"] = "Hunter",
 			["DoNotShow1HUpgrades"] = false,
 			["DoNotShow2HUpgrades"] = false,
 			["UpgradesFollowSpecialization"] = false,
@@ -411,44 +413,41 @@ PawnCommon = {
 			["UnenchantedColor"] = "947451",
 			["SpecID"] = 1,
 		},
-		["\"Classic\":WARRIOR"] = {
+		["\"Classic\":PALADIN"] = {
 			["PerCharacterOptions"] = {
-				["Ksumdamond-Razorgore"] = {
-					["Visible"] = true,
-				},
-				["Fsumdamond-Razorgore"] = {
-					["Visible"] = true,
-				},
 			},
-			["Color"] = "c69b6d",
-			["LocalizedName"] = "Warrior",
-			["ClassID"] = 1,
+			["Color"] = "f48cba",
+			["ClassID"] = 2,
+			["LocalizedName"] = "Paladin",
 			["DoNotShow1HUpgrades"] = false,
 			["DoNotShow2HUpgrades"] = false,
 			["UpgradesFollowSpecialization"] = false,
 			["Provider"] = "Classic",
-			["UnenchantedColor"] = "947451",
+			["UnenchantedColor"] = "b7698b",
 		},
-		["\"Classic\":PALADIN3"] = {
+		["\"Classic\":DRUID2"] = {
 			["PerCharacterOptions"] = {
+				["Damonddruid-Razorgore"] = {
+					["Visible"] = true,
+				},
 			},
-			["Color"] = "f48cba",
-			["LocalizedName"] = "Paladin: Retribution",
-			["ClassID"] = 2,
+			["Color"] = "ff7c0a",
+			["LocalizedName"] = "Druid: Feral (Damage)",
+			["ClassID"] = 11,
 			["DoNotShow1HUpgrades"] = false,
 			["Role"] = "DAMAGER",
 			["DoNotShow2HUpgrades"] = false,
 			["UpgradesFollowSpecialization"] = false,
 			["Provider"] = "Classic",
-			["UnenchantedColor"] = "b7698b",
-			["SpecID"] = 3,
+			["UnenchantedColor"] = "bf5d07",
+			["SpecID"] = 2,
 		},
 		["\"Classic\":WARLOCK1"] = {
 			["PerCharacterOptions"] = {
-				["Damond-Razorgore"] = {
+				["Damondbank-Razorgore"] = {
 					["Visible"] = true,
 				},
-				["Damondbank-Razorgore"] = {
+				["Damond-Razorgore"] = {
 					["Visible"] = true,
 				},
 			},
@@ -461,6 +460,48 @@ PawnCommon = {
 			["UpgradesFollowSpecialization"] = false,
 			["Provider"] = "Classic",
 			["UnenchantedColor"] = "6565b1",
+			["SpecID"] = 1,
+		},
+		["\"Classic\":HUNTER2"] = {
+			["PerCharacterOptions"] = {
+			},
+			["Color"] = "aad372",
+			["LocalizedName"] = "Hunter: Marksmanship",
+			["ClassID"] = 3,
+			["DoNotShow1HUpgrades"] = false,
+			["Role"] = "DAMAGER",
+			["DoNotShow2HUpgrades"] = false,
+			["UpgradesFollowSpecialization"] = false,
+			["Provider"] = "Classic",
+			["UnenchantedColor"] = "7f9e55",
+			["SpecID"] = 2,
+		},
+		["\"Classic\":ROGUE3"] = {
+			["PerCharacterOptions"] = {
+			},
+			["Color"] = "fff468",
+			["LocalizedName"] = "Rogue: Subtlety",
+			["ClassID"] = 4,
+			["DoNotShow1HUpgrades"] = false,
+			["Role"] = "DAMAGER",
+			["DoNotShow2HUpgrades"] = false,
+			["UpgradesFollowSpecialization"] = false,
+			["Provider"] = "Classic",
+			["UnenchantedColor"] = "bfb74e",
+			["SpecID"] = 3,
+		},
+		["\"Classic\":SHAMAN1"] = {
+			["PerCharacterOptions"] = {
+			},
+			["Color"] = "0270dd",
+			["LocalizedName"] = "Shaman: Elemental",
+			["ClassID"] = 7,
+			["DoNotShow1HUpgrades"] = false,
+			["Role"] = "DAMAGER",
+			["DoNotShow2HUpgrades"] = false,
+			["UpgradesFollowSpecialization"] = false,
+			["Provider"] = "Classic",
+			["UnenchantedColor"] = "0154a5",
 			["SpecID"] = 1,
 		},
 		["\"Classic\":DRUID1"] = {
@@ -480,76 +521,37 @@ PawnCommon = {
 			["UnenchantedColor"] = "bf5d07",
 			["SpecID"] = 1,
 		},
-		["\"Classic\":SHAMAN1"] = {
-			["PerCharacterOptions"] = {
-			},
-			["Color"] = "0270dd",
-			["LocalizedName"] = "Shaman: Elemental",
-			["ClassID"] = 7,
-			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "DAMAGER",
-			["DoNotShow2HUpgrades"] = false,
-			["UpgradesFollowSpecialization"] = false,
-			["Provider"] = "Classic",
-			["UnenchantedColor"] = "0154a5",
-			["SpecID"] = 1,
-		},
-		["\"Classic\":ROGUE3"] = {
-			["PerCharacterOptions"] = {
-			},
-			["Color"] = "fff468",
-			["LocalizedName"] = "Rogue: Subtlety",
-			["ClassID"] = 4,
-			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "DAMAGER",
-			["DoNotShow2HUpgrades"] = false,
-			["UpgradesFollowSpecialization"] = false,
-			["Provider"] = "Classic",
-			["UnenchantedColor"] = "bfb74e",
-			["SpecID"] = 3,
-		},
-		["\"Classic\":HUNTER2"] = {
-			["PerCharacterOptions"] = {
-			},
-			["Color"] = "aad372",
-			["LocalizedName"] = "Hunter: Marksmanship",
-			["ClassID"] = 3,
-			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "DAMAGER",
-			["DoNotShow2HUpgrades"] = false,
-			["UpgradesFollowSpecialization"] = false,
-			["Provider"] = "Classic",
-			["UnenchantedColor"] = "7f9e55",
-			["SpecID"] = 2,
-		},
-		["\"Classic\":DRUID2"] = {
-			["PerCharacterOptions"] = {
-				["Damonddruid-Razorgore"] = {
-					["Visible"] = true,
-				},
-			},
-			["Color"] = "ff7c0a",
-			["LocalizedName"] = "Druid: Feral (Damage)",
-			["ClassID"] = 11,
-			["DoNotShow1HUpgrades"] = false,
-			["Role"] = "DAMAGER",
-			["DoNotShow2HUpgrades"] = false,
-			["UpgradesFollowSpecialization"] = false,
-			["Provider"] = "Classic",
-			["UnenchantedColor"] = "bf5d07",
-			["SpecID"] = 2,
-		},
-		["\"Classic\":PALADIN"] = {
+		["\"Classic\":PALADIN3"] = {
 			["PerCharacterOptions"] = {
 			},
 			["Color"] = "f48cba",
-			["LocalizedName"] = "Paladin",
+			["LocalizedName"] = "Paladin: Retribution",
 			["ClassID"] = 2,
 			["DoNotShow1HUpgrades"] = false,
+			["Role"] = "DAMAGER",
 			["DoNotShow2HUpgrades"] = false,
 			["UpgradesFollowSpecialization"] = false,
 			["Provider"] = "Classic",
 			["UnenchantedColor"] = "b7698b",
+			["SpecID"] = 3,
+		},
+		["\"Classic\":WARRIOR"] = {
+			["PerCharacterOptions"] = {
+				["Ksumdamond-Razorgore"] = {
+					["Visible"] = true,
+				},
+				["Fsumdamond-Razorgore"] = {
+					["Visible"] = true,
+				},
+			},
+			["Color"] = "c69b6d",
+			["ClassID"] = 1,
+			["LocalizedName"] = "Warrior",
+			["DoNotShow1HUpgrades"] = false,
+			["DoNotShow2HUpgrades"] = false,
+			["UpgradesFollowSpecialization"] = false,
+			["Provider"] = "Classic",
+			["UnenchantedColor"] = "947451",
 		},
 		["\"Classic\":PRIEST2"] = {
 			["PerCharacterOptions"] = {
@@ -566,12 +568,10 @@ PawnCommon = {
 			["SpecID"] = 2,
 		},
 	},
-	["ShowSocketingAdvisor"] = true,
-	["ShowSpecIcons"] = true,
-	["IgnoreGemsWhileLeveling"] = true,
+	["LastVersion"] = 2.0323,
 	["ButtonPosition"] = 2,
 	["ShowLootUpgradeAdvisor"] = true,
 	["ShowQuestUpgradeAdvisor"] = true,
-	["LastVersion"] = 2.0323,
-	["Digits"] = 1,
+	["IgnoreGemsWhileLeveling"] = true,
+	["ShowSpecIcons"] = true,
 }

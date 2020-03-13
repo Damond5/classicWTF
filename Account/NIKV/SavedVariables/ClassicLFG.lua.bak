@@ -12,25 +12,29 @@ ClassicLFG_DB = {
 			["BroadcastDungeonGroupChannel"] = 1,
 		},
 		["Damonddruid - Razorgore"] = {
+			["BroadcastDungeonGroupChannel"] = 1,
+			["minimap"] = {
+				["hide"] = true,
+			},
 		},
 		["Fsumdamond - Razorgore"] = {
 			["BroadcastDungeonGroupChannel"] = 1,
 		},
 		["Damondbank - Razorgore"] = {
-			["BroadcastDungeonGroupChannel"] = 0,
+			["BroadcastDungeonGroupChannel"] = 1,
 		},
 		["Damond - Razorgore"] = {
-			["BroadcastDungeonGroupInterval"] = 180,
-			["BroadcastDungeonGroupChannel"] = 1,
 			["ShareTalents"] = false,
-			["Toast"] = {
-				["Y"] = -274.285583496094,
-				["X"] = 845.238159179688,
-			},
+			["BroadcastDungeonGroupInterval"] = 180,
 			["minimap"] = {
 				["minimapPos"] = 309.035868480252,
 				["hide"] = true,
 			},
+			["Toast"] = {
+				["Y"] = -274.285583496094,
+				["X"] = 845.238159179688,
+			},
+			["BroadcastDungeonGroupChannel"] = 0,
 		},
 	},
 }

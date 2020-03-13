@@ -1,0 +1,39 @@
+
+NWBdatabase = {
+	["profileKeys"] = {
+		["Damondbank - Razorgore"] = "Default",
+		["Damond - Razorgore"] = "Default",
+	},
+	["global"] = {
+		["Razorgore"] = {
+			["Alliance"] = {
+				["nefYell"] = 1584123138,
+				["onySource"] = "self",
+				["rendYell"] = 0,
+				["ony0"] = true,
+				["nef5"] = true,
+				["ony1"] = true,
+				["nefSource"] = "dbm",
+				["rendTimer"] = 0,
+				["nefTimer"] = 1584123152,
+				["rendYell2"] = 0,
+				["onyNpcDied"] = 0,
+				["nef15"] = true,
+				["lastSyncBy"] = "Matty-Razorgore",
+				["nef10"] = true,
+				["nefNpcDied"] = 0,
+				["nef30"] = true,
+				["ony30"] = true,
+				["ony10"] = true,
+				["nefYell2"] = 1584123149,
+				["nef1"] = true,
+				["onyYell2"] = 1584057404,
+				["onyYell"] = 1584057396,
+				["ony15"] = true,
+				["nef0"] = true,
+				["ony5"] = true,
+				["onyTimer"] = 1584123149,
+			},
+		},
+	},
+}

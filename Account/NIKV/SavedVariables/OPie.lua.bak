@@ -4,7 +4,7 @@ OneRing_Config = {
 		["Razorgore-Damonddruid"] = "default",
 		["Lashlayer-Damond"] = "default",
 	},
-	["_GameVersion"] = "1.13.3",
+	["_GameVersion"] = "1.13.4",
 	["_OPieVersion"] = "Ancient Walnut 6 (3.101)",
 	["ProfileStorage"] = {
 		["default"] = {
@@ -13,8 +13,8 @@ OneRing_Config = {
 				["ABueh21QF0O"] = "ABueh21QF0n",
 			},
 			["Bindings"] = {
-				["druid"] = "V",
 				["lock"] = "V",
+				["druid"] = "V",
 			},
 		},
 	},
@@ -29,27 +29,31 @@ OneRing_Config = {
 					["id"] = 1126,
 					["sliceToken"] = "ABue4mb3=hr",
 				}, -- [2]
-				["limit"] = "Damonddruid-Razorgore",
+				{
+					["id"] = 782,
+					["sliceToken"] = "ABue4Q8KOze",
+				}, -- [3]
+				["name"] = "druid",
 				["save"] = true,
 				["hotkey"] = "V",
-				["name"] = "druid",
+				["limit"] = "Damonddruid-Razorgore",
 			},
 			["demons"] = {
 				{
-					["sliceToken"] = "ABueh21QF0Q",
 					["id"] = 688,
+					["sliceToken"] = "ABueh21QF0Q",
 				}, -- [1]
 				{
-					["sliceToken"] = "ABueh21QF0m",
 					["id"] = 697,
+					["sliceToken"] = "ABueh21QF0m",
 				}, -- [2]
 				{
-					["sliceToken"] = "ABueh21QF0n",
 					["id"] = 712,
+					["sliceToken"] = "ABueh21QF0n",
 				}, -- [3]
-				["limit"] = "Damond-Razorgore",
 				["save"] = true,
 				["name"] = "demons",
+				["limit"] = "Damond-Razorgore",
 			},
 			["lock"] = {
 				{
@@ -58,37 +62,42 @@ OneRing_Config = {
 					["sliceToken"] = "ABueh21QF0O",
 				}, -- [1]
 				{
-					["sliceToken"] = "ABuehfsJGDu",
 					["id"] = 20757,
+					["sliceToken"] = "ABuehfsJGDu",
 				}, -- [2]
 				{
-					["sliceToken"] = "ABueh3SPPze",
 					["id"] = 11730,
+					["sliceToken"] = "ABueh3SPPze",
 				}, -- [3]
 				{
-					["sliceToken"] = "ABuehfsJGDy",
 					["id"] = 11735,
+					["sliceToken"] = "ABuehfsJGDy",
 				}, -- [4]
 				{
-					["sliceToken"] = "ABuehoqlDLr",
 					["id"] = 5697,
+					["sliceToken"] = "ABuehoqlDLr",
 				}, -- [5]
 				{
 					"macro", -- [1]
 					"summon", -- [2]
 					["sliceToken"] = "ABueh3puYGe",
 				}, -- [6]
-				["name"] = "lock",
 				["save"] = true,
 				["limit"] = "Damond-Razorgore",
+				["name"] = "lock",
 			},
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,
 			},
 		},
 		["AutoQuestWhitelist"] = {
+			[7627] = true,
+			[6061] = true,
 			[21920] = true,
+			[5605] = true,
+			[5591] = true,
 			[11933] = true,
+			[4907] = true,
 		},
 	},
 	["_GameLocale"] = "enUS",

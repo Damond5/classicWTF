@@ -1,0 +1,7 @@
+VER 3 0000000001000001 "startattack" "132223"
+#showtooltip Attack
+/startattack
+END
+VER 3 0000000001000002 "tar" "INV_MISC_QUESTIONMARK"
+/target Moonstalker
+END
