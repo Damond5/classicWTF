@@ -48,9 +48,10 @@ VExRT = {
 		["OptionsFormatting"] = true,
 		["DefName"] = "2BWL Nefarian",
 		["SaveAllNew"] = true,
-		["LastUpdateName"] = "Echology-Razorgore",
-		["LastUpdateTime"] = 1584050993,
+		["LastUpdateName"] = "Ecology-Razorgore",
+		["LastUpdateTime"] = 1586460709,
 		["Width"] = 424.001159667969,
+		["EnableWhenReceive"] = true,
 		["BlackLastUpdateName"] = {
 			nil, -- [1]
 			nil, -- [2]
@@ -75,17 +76,17 @@ VExRT = {
 			"Echology-Razorgore", -- [21]
 			"Echology-Razorgore", -- [22]
 			"Echology-Razorgore", -- [23]
-			"Echology-Razorgore", -- [24]
-			"Echology-Razorgore", -- [25]
-			"Echology-Razorgore", -- [26]
+			"Ecology-Razorgore", -- [24]
+			"Ecology-Razorgore", -- [25]
+			"Ecology-Razorgore", -- [26]
 			"Echology-Razorgore", -- [27]
-			"Echology-Razorgore", -- [28]
-			"Echology-Razorgore", -- [29]
+			"Ecology-Razorgore", -- [28]
+			"Ecology-Razorgore", -- [29]
 			"Echology-Razorgore", -- [30]
 			"Echology-Razorgore", -- [31]
 			"Echology-Razorgore", -- [32]
 			"Echology-Razorgore", -- [33]
-			"Echology-Razorgore", -- [34]
+			"Ecology-Razorgore", -- [34]
 			"Echology-Razorgore", -- [35]
 		},
 		["Black"] = {
@@ -112,17 +113,17 @@ VExRT = {
 			"{alliance}||cffff0000Garr||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1\nAdds: Tank 2\n\n< ||cff00ff96Healing||r >\n-\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1+DPS warriors - ||cffc41e3aMighty Rage||r\nOn pull: Tank 2 - ||cffc41e3aGreater Stoneshield Potion\n||r\n< ||cff00ff96Douse||r >\n-\n\n||cffff0000Post-Garr - Trash||r\n1st trash pack: Tank 2 - ||cffc41e3aFree Action Potion||r\n2nd trash pack: Tank 3 - ||cffc41e3aFree Action Potion||r\nAfter 1st trash pack: Melee - ||cffc41e3aGreater Fire Protection Potion||r", -- [21]
 			"||cffff0000Post-Shazzarah - Trash||r\n1st trash pack: Tank 2 + Tank 3 - ||cffc41e3aFree Action Potion||r\n2nd trash pack: Tank 1 + Tank 4 - ||cffc41e3aFree Action Potion||r\nMelee stack on {diamond} @Reaver packs\n\n{alliance}||cffff0000Sulfuron||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1\n{cross}: Tank 2\n{square}:  Tank 3\n{moon}: Tank 4\n{triangle}: Tank 5\n\n\n< ||cff00ff96Healing||r >\n-\n\n< ||cff00ff96Interrupt||r >\n{cross}: ||cfffff468Rogue 1||r > ||cffc69b6dFury 1||r\n{square}:  ||cfffff468Rogue 2||r > ||cffc69b6dFury 2||r\n{moon}: ||cfffff468Rogue 3||r > ||cffc69b6dFury 3||r\n{triangle}: ||cfffff468Rogue 4||r > ||cffc69b6dFury 4||r\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tanks+melee - ||cffc41e3aFree Action Potion||r\nOn pull: Casters+healers - ||cffc41e3aRestrorative Potion||r\nAfter 2 seconds: ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r\n\n< ||cff00ff96Douse||r >\n-\n\n||cffff0000Post-Sulfuron - Trash||r\nWhen available: Everyone - ||cffc41e3aGreater Shadow Protection Potion||r", -- [22]
 			"||cffff0000Post-Major Domo||r\nRag spawning: ||cfffff468Daxxa||r\nWhen available: Everyone - ||cffee5555Swiftness Potion||r\n\n{alliance}||cffff0000Ragnaros||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r - Taunt after every||cffff0000 wrath||r >\n{alliance}Boss: Tank 1\n{alliance}Boss offtank: Tank 2\n\nSub 30%: After ||cffff0000wrath||r\nTank 2 taunt -> Tank 2 Mocking Blow -> Tank 1 taunt -> Tank 1 Mocking blow\n\n< ||cff00ff96Healing||r >\n-\n\n< ||cff00ff96Barov Peasant Caller Rotation||r - 5 sec before ||cffff0000wrath||r >\n1st wrath: ||cfffff468Rogue 1+2||r > ||cffc69b6dFury 1+2||r\n2nd wrath: ||cfffff468Rogue 3+4||r+ > ||cffc69b6dFury 3+4||r\nFFA: Other melee\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nWhen in position: everyone - ||cffc41e3aGreater Fire Protection Potion||r\nWhen available: DPS warriors - ||cffc41e3aMighty Rage||r", -- [23]
-			"{alliance}||cffff0000Razorgore||r{alliance}\n< ||cff00ff96||r||cff00ff96Tankng||r >\n{alliance}Boss: Tank 2 || Offtanking: Tank 1\n\n< ||cff00ff96Groups||r >\nEntrance side: Odd groups\nVael side: Even groups\n\n< ||cff00ff96Orb control||r >\nOrb till last egg: ||cffaad372Hunter 1||r\nOrb backup: ||cffaad372Hunter 2||r\n\n< ||cff00ff96Healing||r >\n-\n\n< @{alliance}||cff00ff96Razorgore||r >\n\n\n< ||cff00ff96Consumable usage||r||r||r||r >\n@Razorgore: Healers and casters - ||cffc41e3aGreater Fire Protection Potion||r\n@Razorgore: Tanks+Melee - ||cffc41e3aFree Action Potion||r\n\n||cffff0000Post-Razorgore||r\n||cffff0000STOP!||r - Rebuff, get mana and get ready -> Technicians\nTechnicians - Everyone sprint in and engage with them.\nAfter trash: Melee, healers and casters - ||cffc41e3aGreater Fire Protection Potion||r", -- [24]
-			"||cffff0000Post-Razorgore||r\n||cffff0000STOP!||r - Rebuff, get mana and get ready -> Technicians\nTechnicians - Everyone sprint in and engage with them.\nAfter trash: Melee, healers and casters - ||cffc41e3aGreater Fire Protection Potion||r\n\n{alliance}||cffff0000Vael||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1 || Offtanking: Tank 2\n\n< ||cff00ff96Positioning||r||r >\nTanks: Base of stairs\nMelee: Back left leg @{star}\n||cffff0000Burning Adrenaline||r - explosion spot: Behind pillar to the left\n\n< ||cff00ff96Threat||r >\nDO NOT go over the threat of the offtank\n||cffc69b6dWarriors use Cleave||r\n\n< ||cff00ff96Healing||r >\nPriest shielding on tank prior to ||cffff0000Flame Breath||r: Priest 1\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1+ Tank 2 - ||cffc41e3aMighty Rage||r\n\n||cffff0000Post-Vael||r\n||cffff0000First trash||r:  Tank 1, Tank 2 & Tank 3 should wear FR gear.\n||cffaad372Hunter kiting||r - ||cffaad372Hunter 2||r: {moon}Captain\n||cffff7c0aDruid Hibernate||r - {triangle}Wyrmkin: ||cffff7c0aDruid 1||r || {diamond}Wyrmkin: ||cffff7c0aDruid 2||r\n||cffaad372Hunter tranq||r - Seethers: ||cffaad372Hunter 1 & Hunter 3||r\nAfter first trash: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cffff0000Suppression||r: \n||cff3fc6eaMage sheep-interrupts - Mage 1 {square} || Mage 2 {moon} || Mage 3 {triangle}\n||cfffff468Rogue disarm||r - ||cfffff468Rogue 1 -> Rogue 2||r", -- [25]
-			"||cffff0000Post-Vael||r\n||cffff0000First trash||r:  Tank 1, Tank 2 & Tank 3 should wear FR gear.\n||cffaad372Hunter kiting||r - ||cffaad372Hunter 2||r: {moon}Captain\n||cffff7c0aDruid Hibernate||r - {diamond}Wyrmkin: ||cffff7c0aDruid 1||r\n||cffaad372Hunter tranq||r - Seethers: ||cffaad372Hunter 1 & Hunter 3||r\nAfter first trash: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cff3fc6eaMage sheep-interrupts - Mage 1 {square} || Mage 2 {moon} || Mage 3 {triangle}\n||cfffff468Rogue disarm||r - ||cfffff468Rogue 1, Rogue 2||r ||cfffff468& Rogue 3||r||r\n\n{alliance}||cffff0000Broodlord||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1 || Offtanking: Tank 2, Tank 3 & Tank 4\n\n< ||cff00ff96Healing||r >\nPriest shielding on tank prior to ||cffff0000Mortal Strike||r: Priest 1\n\n< @{alliance}||cff00ff96Broodlord||r >\nMelee on: {star}\nRange on: {circle}\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1 - ||cffc41e3aMighty Rage||r\nOn pull: DPS warriors - ||cffc41e3aGreater Fire Protection Potion||r\n\n||cffff0000Post-Broodlord||r\n||cffff0000STOP!||r - Rebuff, get mana and get ready\nBefore trash: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cffaad372Hunter pull||r - Technician: ||cffaad372Hunter 1||r\n||cff3fc6eaMages AOE||r - Technicians\nMelee - Warlocks -> Spellbinders\nHellpacks tanking - {skull}: Tank 1 || {cross}: Tank 2 || {square}{triangle}:Tank 3 || {moon}: Tank 4", -- [26]
-			"||cffff0000Post-Broodlord||r\n||cffff0000STOP!||r - Rebuff, get mana and get ready\nBefore trash: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cffaad372Hunter pull||r - {skull}: ||cffaad372Hunter 1||r\n||cff3fc6eaMages pull||r - Technicians: ||cff3fc6eaMage 1||r\nMelee - Warlocks -> Spellbinders\nHellpacks tanking - {skull}: Tank 1 || {cross}: Tank 2 || {square}{triangle}:Tank 3 || {moon}: Tank 4\n\n{alliance}||cffff0000Firemaw||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r - Taunt 4-5 sec before ||cffff0000Buffet||r>\n{alliance}Boss: Tank 1\nDebuff swapping: Tank 2\nBuffet taunting: Tank 3\n\n< ||cff00ff96Everyone wear Onyxia Scale Cloak||r >\n\n< ||cff00ff96Debuff resetting||r - 5-6 stacks >\n\n< ||cff00ff96Healing||r >\nPriest shielding on tank prior to ||cffff0000Shadow Flame||r: Priest 1\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1 - ||cffc41e3aMighty Rage||r\nOn pull: DPS warriors - ||cffc41e3aGreater Fire Protection Potion||r\n\n||cffff0000Post-Firemaw||r\n||cffff00004 pack||r\nOverseers - {skull}: Tank 1 || {cross}: Tank 2 || {square}: Tank 3\nWyrmguard - {moon}:Tank 4 - ||cffc41e3aFree Action Potion||r\nCasters - Wyrmguard\nMelee - Overseers - ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r\n||cffff00003 pack||r\nWyrmguards tanking - {skull}: Tank 1 & Tank 4 || {cross}: Tank 2 & Tank 5 || {square}: Tank 3 & Tank 6\nOn pull: Tanks+Melee - ||cffc41e3aFree Action Potion||r & ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r\n||cffff0000Mixed packs||r\n||cff3fc6eaMage engineer tanking: Mage 1||r\n||cffaad372Hunter distracting shot: {skull}: Hunter 1 || {cross}: Hunter 2 || {square}: Hunter 3||r", -- [27]
-			"||cffff0000Post-Firemaw||r\n||cffff0000Mixed packs||r\n||cff3fc6eaMage engineer tanking: Mage 1||r\n||cffaad372Hunter distracting shot: {skull}: Hunter 1 || {cross}: Hunter 2 || {square}: Hunter 3||r\nOverseer - {skull}: Tank 1\nWyrmguard - {cross}: Tank 2 & Tank 5 - ||cffc41e3aFree Action Potion||r\nSpellbinders - {square} & {moon}: Tank 3\n||cffff0000Wyrmguards||r\nWyrmguards tanking - {skull}: Tank 1 & Tank 4 || {cross}: Tank 2 & Tank 5 || {square}: Tank 3 & Tank 6\nOn pull: Tanks+Melee - ||cffc41e3aFree Action Potion||r & ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r\n\n{alliance}||cffff0000Ebonroc||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r - Taunt on ||cffff0000Shadow of Ebonroc||r>\n{alliance}Boss: Tank 1\nTaunt priority: Tank 1 > Tank 2 > Tank 3\n\n< ||cff00ff96Everyone wear Onyxia Scale Cloak||r >\n\n< ||cff00ff96Healing||r >\nPriest shielding on tank prior to ||cffff0000Shadow Flame||r: Priest 1\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Warriors - ||cffc41e3aMighty Rage||r", -- [28]
+			"{alliance}||cffff0000Razorgore||r{alliance}\n< ||cff00ff96||r||cff00ff96Tankng||r >\n{alliance}Boss: Tank 2 || Offtanking: Tank 1\n\n< ||cff00ff96Groups||r >\nEntrance side: Odd groups\nVael side: Even groups\n\n< ||cff00ff96Orb control||r >\nOrb till last egg: ||cffaad372Hunter 1||r\nOrb backup: ||cffaad372Hunter 2||r\nLast egg: Tank 2\n\n< ||cff00ff96Consumable usage||r||r||r||r >\n||cfff48cbaSpeed run||r|| @Razorgore: Tanks+Melee - ||cffc41e3aFree Action Potion||r\n\n||cffff0000Post-Razorgore||r\n||cffff0000STOP!||r - Rebuff, get mana and get ready -> Technicians\nTechnicians - Everyone sprint in and engage with them.\n||cfff48cbaSpeed run||r|| After trash: Melee, healers and casters - ||cffc41e3aGreater Fire Protection Potion||r", -- [24]
+			"||cffff0000Post-Razorgore||r\n||cffff0000STOP!||r - Rebuff, get mana and get ready -> Technicians\nTechnicians - Everyone sprint in and engage with them.\n||cfff48cbaSpeed run||r|| After trash: Melee, healers & casters - ||cffc41e3aGreater Fire Protection Potion||r\n\n{alliance}||cffff0000Vael||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1 || Offtanking: Tank 2\n\n< ||cff00ff96Positioning||r||r >\nTanks: Base of stairs\nMelee: Back left leg @{star}\n||cffff0000Burning Adrenaline||r - explosion spot: Behind pillar to the left\n\n< ||cff00ff96Threat||r >\nDO NOT go over the threat of the offtank\n||cffc69b6dWarriors use Cleave||r\n\n< ||cff00ff96Healing||r >\nPriest shielding on tank prior to ||cffff0000Flame Breath||r: Priest 1\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1+ Tank 2 - ||cffc41e3aMighty Rage||r\n\n||cffff0000Post-Vael||r\n||cffff0000First trash||r: {skull}: Tank 1 || {cross}: Tank 2 || {square}: Tank 3 || {moon}: Tank 4\n||cffaad372Hunter kiting||r - ||cffaad372Hunter 2||r: {circle}Captain\n||cffff7c0aDruid Hibernate||r - {diamond}Wyrmkin: ||cffff7c0aDruid 1||r\n||cffaad372Hunter tranq||r - Seethers: ||cffaad372Hunter 1 & Hunter 3||r\n||cfff48cbaSpeed run||r|| After first trash: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cffff0000Suppression||r: \n||cff3fc6eaMage sheep-interrupts - Mage 1 {square} || Mage 2 {moon} || Mage 3 {triangle}\n||cfffff468Rogue disarm: Rogue 1, Rogue 2 & Rogue 3||r||r", -- [25]
+			"||cffff0000Post-Vael||r\n||cffff0000First trash||r: {skull}: Tank 1 || {cross}: Tank 2 || {square}: Tank 3 || {moon}: Tank 4\n||cffaad372Hunter kiting||r - ||cffaad372Hunter 2||r: {circle}Captain\n||cffff7c0aDruid Hibernate||r - {diamond}Wyrmkin: ||cffff7c0aDruid 1||r\n||cffaad372Hunter tranq||r - Seethers: ||cffaad372Hunter 1 & Hunter 3||r\n||cfff48cbaSpeed run||r|| After first trash: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cffff0000Suppression||r: \n||cff3fc6eaMage sheep-interrupts - Mage 1 {square} || Mage 2 {moon} || Mage 3 {triangle}\n||cfffff468Rogue disarm: Rogue 1, Rogue 2 & Rogue 3||r||r\n\n{alliance}||cffff0000Broodlord||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1 || Offtanking: Tank 2, Tank 3 & Tank 4\n\n< ||cff00ff96Healing||r >\nPriest shielding on tank prior to ||cffff0000Mortal Strike||r: Priest 1\n\n< @{alliance}||cff00ff96Broodlord||r >\nMelee on: {star}\nRange on: {circle}\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1 - ||cffc41e3aMighty Rage||r\n||cfff48cbaSpeed run||r|| On pull: DPS warriors - ||cffc41e3aGreater Fire Protection Potion||r\n\n||cffff0000Post-Broodlord||r\n||cffff0000STOP!||r - Rebuff, get mana and get ready\nBefore trash: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cffaad372Hunter pull||r - {skull}: ||cffaad372Hunter 1||r\n||cff3fc6eaMages pull||r - Technicians: ||cff3fc6eaMage 1||r\nWarlocks - {skull}: tank 1 || {cross}: Tank 2\nSpellbinder - {square} & {triangle}: Tank 3\nOverseer - {moon}: Tank 4", -- [26]
+			"||cffff0000Post-Broodlord||r\n||cffff0000STOP!||r - Rebuff, get mana and get ready\n||cfff48cbaSpeed run||r|| Before trash: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cffaad372Hunter pull||r - {skull}: ||cffaad372Hunter 1||r\n||cff3fc6eaMages pull||r - Technicians: ||cff3fc6eaMage 1||r\nWarlocks - {skull}: tank 1 || {cross}: Tank 2\nSpellbinder - {square} & {triangle}: Tank 3\nOverseer - {moon}: Tank 4\n\n{alliance}||cffff0000Firemaw||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r - Taunt 4-5 sec before ||cffff0000Buffet||r>\n{alliance}Boss: Tank 1 || Debuff swapping: Tank 2 || Buffet taunting: Tank 3\n\n< ||cff00ff96Everyone wear Onyxia Scale Cloak||r >\n\n< ||cff00ff96Debuff resetting||r - 5-6 stacks >\n\n< ||cff00ff96Healing||r >\nPriest shielding on tank prior to ||cffff0000Shadow Flame||r: Priest 1\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1 - ||cffc41e3aMighty Rage||r\n||cfff48cbaSpeed run||r|| On pull: DPS warriors - ||cffc41e3aGreater Fire Protection Potion||r\n\n||cffff0000Post-Firemaw||r\n||cffff0000Mixed packs||r\n||cff3fc6eaMage engineer tanking: Mage 1||r\n||cffaad372Hunter distracting shot: {skull}: Hunter 1 || {cross}: Hunter 2 || {square}: Hunter 3||r\nWarlocks - {skull}: tank 1 || {cross}: Tank 2\nSpellbinder - {square} & {triangle}: Tank 3\nOverseer - {moon}: Tank 4\n||cffff0000Wyrmguards||r\nWyrmguards tanking - {skull}: Tank 1 & Tank 4 || {cross}: Tank 2 & Tank 5 || {square}: Tank 3 & Tank 6\n||cfff48cbaSpeed run||r|| On pull: Tanks+Melee - ||cffc41e3aFree Action Potion||r & ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r", -- [27]
+			"||cffff0000Post-Firemaw||r\n||cffff0000Mixed packs||r\n||cff3fc6eaMage engineer tanking: Mage 1||r\n||cffaad372Hunter distracting shot: {skull}: Hunter 1 || {cross}: Hunter 2 || {square}: Hunter 3||r\nWarlocks - {skull}: tank 1 || {cross}: Tank 2\nSpellbinder - {square} & {triangle}: Tank 3\nOverseer - {moon}: Tank 4\n||cffff0000Wyrmguards||r\nWyrmguards tanking - {skull}: Tank 1 & Tank 4 || {cross}: Tank 2 & Tank 5 || {square}: Tank 3 & Tank 6\nOn pull: Tanks+Melee - ||cffc41e3aFree Action Potion||r & ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r\n\n{alliance}||cffff0000Ebonroc||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r - Taunt on ||cffff0000Shadow of Ebonroc||r>\n{alliance}Boss: Tank 1\nTaunt priority: Tank 1 > Tank 2 > Tank 3\n\n< ||cff00ff96Everyone wear Onyxia Scale Cloak||r >\n\n< ||cff00ff96Healing||r >\nPriest shielding on tank prior to ||cffff0000Shadow Flame||r: Priest 1\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1 - ||cffc41e3aMighty Rage||r\n||cfff48cbaSpeed run||r|| On pull: Warriors - ||cffc41e3aMighty Rage||r", -- [28]
 			" ", -- [29]
 			"||cffff0000Post-Garr - Trash||r\n1st trash pack: Tank 2 - ||cffc41e3aFree Action Potion||r\n2nd trash pack: Tank 3 - ||cffc41e3aFree Action Potion||r\nAfter 1st trash pack: Melee - ||cffc41e3aGreater Fire Protection Potion||r\n\n{alliance}||cffff0000Geddon||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1\n\n< ||cff00ff96Healing||r >\n-\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1 - ||cffc41e3aMighty Rage||r\nOn pull: Casters - ||cffc41e3aRestrorative Potion||r\n\n< ||cff00ff96Douse||r >\n-\n\n||cffff0000Post-Geddon - Trash||r\n1st trash pack: Tank 2 - ||cffc41e3aFree Action Potion||r", -- [30]
 			"||cffff0000Post-Geddon - Trash||r\n1st trash pack: Tank 2 + Tank 3 - ||cffc41e3aFree Action Potion||r\n\n{alliance}||cffff0000Shazzrah||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1\n\n< ||cff00ff96Healing||r >\n-\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1 - ||cffc41e3aMighty Rage||r\nOn pull: Melee+casters+healers - ||cffc41e3aRestrorative Potion||r\n\n< ||cff00ff96Douse||r >\n-\n\n||cffff0000Post-Shazzarah - Trash||r\n1st trash pack: Tank 2 + Tank 3 - ||cffc41e3aFree Action Potion||r\n2nd trash pack: Tank 1 + Tank 4 - ||cffc41e3aFree Action Potion||r\nMelee stack on {diamond} @Reaver packs\n", -- [31]
 			"||cffff0000Post-Golemagg||r\nWhen available: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cffffffffPriests||r: buff ||cff8787edShadow Protection||r\n\n{alliance}||cffff0000Major Domo||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{cross}: Tank 1 - ||cff00ffffAoE taunt||r on pull\n{moon}: Tank 2 - 2nd ||cff00ffffAoE taunt||r (after 5 sec)\n{alliance}Boss: Tank 3 || {skull}: Tank 4 \n{square}:  Tank 5 || {triangle}: Tank 6\n{diamond}: Tank 7 || {circle}: Tank 8\n{star}: Tank 9\n\n< ||cff00ff96Healing||r >\n-\n\n< ||cff00ff96Rogue stuns||r - x2 >\n{skull}: ||cfffff468Rogue 1||r \n{diamond}: ||cfffff468Rogue 2||r \n{circle}: ||cfffff468Rogue 3||r \n{star}: ||cfffff468Rogue 4||r \n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1 - ||cffc41e3aLimited Invulnerability Potion||r\nOn pull: DPS warriors - ||cffc41e3aMighty Rage||r\nAfter 5 seconds: Tank 2 - ||cffc41e3aLimited Invulnerability Potion||r\nAfter 2 seconds: ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r\n\n< ||cff00ff96Douse||r >\n-\n\n||cffff0000Post-Major Domo||r\nRag spawning - ||cfffff468Daxxa||r\nWhen available: Everyone - ||cffee5555Swiftness Potion||r", -- [32]
-			"{alliance}||cffff0000Flamegor||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r - Taunt 4-5 sec before ||cffff0000Buffet||r>\n{alliance}Boss: Tank 1\nBuffet taunt prio: Tank 2 > Tank 3\n\n< ||cff00ff96Everyone wear Onyxia Scale Cloak||r >\n\n< ||cffaad372Hunter tranq||r >\n||cffaad372Hunter 1||r  -> ||cffaad372Hunter 2||r -> ||cffaad372Hunter 3||r\n\n< ||cff00ff96Healing||r >\nPriest shielding on tank prior to ||cffff0000Shadow Flame||r: Priest 1\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Warriors - ||cffc41e3aMighty Rage||r\n\n||cffff0000Post-Flamegor||r\nWyrmguards tanking - {skull}: Tank 1 & Tank 4 || {cross}: Tank 2 & Tank 5 || {square}: Tank 3 & Tank 6\nOn pull: Tanks+Melee - ||cffc41e3aFree Action Potion||r & ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r", -- [33]
-			"||cffff0000Post-Flamegor||r\nWyrmguards tanking - {skull}: Tank 1 & Tank 4 || {cross}: Tank 2 & Tank 5 || {square}: Tank 3 & Tank 6\nOn pull: Tanks+Melee - ||cffc41e3aFree Action Potion||r & ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r\n\n{alliance}||cffff0000Chromaggus||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1 || Offtanking: Tank 2 & Tank 3\n\n< ||cff00ff96Threat||r >\nDO NOT go over the threat of the offtank\n\n< ||cff00ff96Breaths||r >\nEveryone - line of sight every 30 seconds\n\n< ||cffaad372Hunter tranq||r >\n||cffaad372Hunter 1||r  -> ||cffaad372Hunter 2||r -> ||cffaad372Hunter 3||r\n\n< ||cff00ff96Dispels||r >\nEveryone dispels what they can\n\n< ||cff00ff96Vulnerability checkin||rg >\n||cffff00ffArcane||r: ||cff3fc6eaMage 1||r || ||cff00ffffFrost||r: ||cff3fc6eaMage 2||r || ||cffee5555Fire||r: ||cff3fc6eaMage 3||r\n\n< ||cff00ff96Healing||r >\nPriest shielding on tank prior to ||cffff0000breaths||r: Priest 1\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nWhen called for: Everyone - ||cffc41e3aRestrorative Potion||r", -- [34]
+			"{alliance}||cffff0000Flamegor||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r - Taunt 4-5 sec before ||cffff0000Buffet||r>\n{alliance}Boss: Tank 1\nBuffet taunt prio: Tank 2 > Tank 3\n\n< ||cff00ff96Everyone wear Onyxia Scale Cloak||r >\n\n< ||cffaad372Hunter tranq||r >\n||cffaad372Hunter 1||r  -> ||cffaad372Hunter 2||r -> ||cffaad372Hunter 3||r\n\n< ||cff00ff96Healing||r >\nPriest shielding on tank prior to ||cffff0000Shadow Flame||r: Priest 1\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1 - ||cffc41e3aMighty Rage||r\n||cfff48cbaSpeed run||r|| On pull: Warriors - ||cffc41e3aMighty Rage||r\n\n||cffff0000Post-Flamegor||r\nWyrmguards tanking - {skull}: Tank 1 & Tank 4 || {cross}: Tank 2 & Tank 5 || {square}: Tank 3 & Tank 6\n||cfff48cbaSpeed run||r|| On pull: Tanks+Melee - ||cffc41e3aFree Action Potion||r & ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r", -- [33]
+			"||cffff0000Post-Flamegor||r\nWyrmguards tanking - {skull}: Tank 1 & Tank 4 || {cross}: Tank 2 & Tank 5 || {square}: Tank 3 & Tank 6\nOn pull: Tanks+Melee - ||cffc41e3aFree Action Potion||r & ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r\n\n{alliance}||cffff0000Chromaggus||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1 || Offtanking: Tank 2 & Tank 3\n\n< ||cff00ff96Threat||r >\nDO NOT go over the threat of the offtank\n\n< ||cff00ff96Breaths||r >\nEveryone - line of sight every 30 seconds\n\n< ||cffaad372Hunter tranq||r >\n||cffaad372Hunter 1||r  -> ||cffaad372Hunter 2||r -> ||cffaad372Hunter 3||r\n\n< ||cff00ff96Dispels||r >\nEveryone dispels what they can\n\n< ||cff00ff96Healing||r >\nPriest shielding on tank prior to ||cffff0000breaths||r: Priest 1\n\n< ||cff00ff96Consumable usage||r||r||r||r >\n||cfff48cbaSpeed run||r|| When called for: Everyone - ||cffc41e3aRestrorative Potion||r", -- [34]
 			"||cffff0000Post-Sulfuron - Trash||r\nWhen available: Everyone - ||cffc41e3aGreater Shadow Protection Potion||r\n\n{alliance}||cffff0000Golemagg||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1\nAdds: Tank 2 - \n\n< ||cff00ff96Healing||r >\n-\n\n< ||cffaad372Hunter tranq shot||r >\n||cffaad372Hunter||r g1 -> ||cffaad372Hunter||r g2 -> ||cffaad372Hunter||r g3\n\n< ||cff00ff96Consumable usage||r||r||r||r >\n-\n\n< ||cff00ff96Douse||r >\n-\n\n||cffff0000Post-Golemagg||r\nWhen available: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cffffffffPriests||r: buff ||cff8787edShadow Protection||r", -- [35]
 		},
 		["BlackLastUpdateTime"] = {
@@ -149,20 +150,19 @@ VExRT = {
 			1584039883, -- [21]
 			1584040926, -- [22]
 			1584041796, -- [23]
-			1584042726, -- [24]
-			1584043625, -- [25]
-			1584045333, -- [26]
-			1584045335, -- [27]
-			1584047469, -- [28]
-			1584050993, -- [29]
+			1586454141, -- [24]
+			1586454736, -- [25]
+			1586455088, -- [26]
+			1586197609, -- [27]
+			1586457778, -- [28]
+			1586460709, -- [29]
 			1584040053, -- [30]
 			1584040390, -- [31]
 			1584041501, -- [32]
-			1584048402, -- [33]
-			1584048407, -- [34]
+			1585253065, -- [33]
+			1586459346, -- [34]
 			1584041163, -- [35]
 		},
-		["EnableWhenReceive"] = true,
 		["Height"] = 522.998413085938,
 		["Alpha"] = 100,
 		["Top"] = 1079.99987792969,
@@ -418,6 +418,94 @@ VExRT = {
 				"^615^9^1584048188^98^1^40^58.33^Banoffee", -- [238]
 				"^616^9^1584048746^207^1^40^57.47^", -- [239]
 				"^617^9^1584049151^1604^1^40^58.06^Tarondor", -- [240]
+				"^610^9^1584643664^374^1^40^58.13^Borgzul", -- [241]
+				"^611^9^1584644295^44^1^40^58.69^Arcania", -- [242]
+				"^612^9^1584645363^65^1^40^58.69^", -- [243]
+				"^613^9^1584645655^43^0^40^58.66^Nalena", -- [244]
+				"^613^9^1584646328^136^1^40^58.66^Banoffee", -- [245]
+				"^614^9^1584647638^84^1^40^58.66^", -- [246]
+				"^615^9^1584647815^89^0^40^58.66^Banoffee", -- [247]
+				"^615^9^1584648226^87^1^40^58.69^Banoffee", -- [248]
+				"^616^9^1584648702^181^1^40^58.69^Solem", -- [249]
+				"^617^9^1584649237^360^1^40^58.66^Nipakoo", -- [250]
+				"^1084^9^1584651041^318^1^40^58.69^Maeil", -- [251]
+				"^663^9^1584995027^44^1^40^58.13^", -- [252]
+				"^664^9^1584995304^67^1^40^58.13^", -- [253]
+				"^665^9^1584995646^46^1^40^58.13^", -- [254]
+				"^666^9^1584996014^64^1^40^58.13^", -- [255]
+				"^668^9^1584996326^101^0^40^58.13^Rackpriest", -- [256]
+				"^668^9^1584996857^71^1^40^58.13^Karabaraz", -- [257]
+				"^667^9^1584997131^40^1^40^58.13^Nipakoo", -- [258]
+				"^669^9^1584997796^84^1^40^58.13^", -- [259]
+				"^670^9^1584998066^83^1^40^58.13^", -- [260]
+				"^671^9^1584998427^110^1^40^58.13^Kespriest", -- [261]
+				"^672^9^1584998905^115^1^40^58.13^Thresya", -- [262]
+				"^610^9^1585248335^376^1^40^58.13^", -- [263]
+				"^611^9^1585249079^52^1^40^58.13^Tenkeng", -- [264]
+				"^612^9^1585250530^76^1^40^58.13^", -- [265]
+				"^613^9^1585251219^156^1^40^58.06^Meliah", -- [266]
+				"^614^9^1585252797^148^1^40^58.13^Dreadful", -- [267]
+				"^615^9^1585253080^107^1^40^58.19^Nipakoo", -- [268]
+				"^616^9^1585253786^207^1^40^58.21^Esarus", -- [269]
+				"^617^9^1585254311^387^1^40^58.25^Apefan", -- [270]
+				"^663^9^1585256393^42^1^40^58.31^Apefan", -- [271]
+				"^664^9^1585256642^65^1^40^58.31^", -- [272]
+				"^665^9^1585257039^41^1^40^58.31^", -- [273]
+				"^666^9^1585257440^56^1^40^58.78^", -- [274]
+				"^668^9^1585257864^57^1^40^58.78^Ulose", -- [275]
+				"^667^9^1585258108^32^1^40^58.78^Meliah", -- [276]
+				"^669^9^1585258740^70^1^40^58.78^Thraxxy", -- [277]
+				"^670^9^1585258984^101^0^40^58.78^Banoffee", -- [278]
+				"^670^9^1585259125^28^0^40^58.78^Tenkeng", -- [279]
+				"^670^9^1585259436^76^1^40^58.78^", -- [280]
+				"^671^9^1585259777^92^1^40^58.31^Vextos", -- [281]
+				"^672^9^1585260153^92^1^40^58.31^Schóu", -- [282]
+				"^1084^9^1585261315^204^1^40^57.95^Meliah", -- [283]
+				"^1084^9^1585603100^0^0^40^58.31^Gamdar", -- [284]
+				"^1084^9^1585603710^373^1^40^58.31^Gamdar", -- [285]
+				"^610^9^1586195026^408^1^40^58.31^Daxaa", -- [286]
+				"^611^9^1586195644^62^0^40^58.31^Megaleen", -- [287]
+				"^611^9^1586196141^65^1^40^58.31^Megaleen", -- [288]
+				"^612^9^1586197420^95^1^40^58.56^Dvärgfan", -- [289]
+				"^613^9^1586197862^85^0^40^58.75^Tinkeng", -- [290]
+				"^613^9^1586198262^138^0^40^58.75^Torcpo", -- [291]
+				"^613^9^1586198923^198^1^40^58.75^Lukkus", -- [292]
+				"^614^9^1586200173^118^1^40^58.75^Darkiee", -- [293]
+				"^615^9^1586200472^95^1^40^58.75^", -- [294]
+				"^616^9^1586200854^187^1^40^58.78^", -- [295]
+				"^617^9^1586201259^364^1^40^58.75^", -- [296]
+				"^663^9^1586202946^53^1^40^58.63^", -- [297]
+				"^664^9^1586203194^69^1^40^58.63^", -- [298]
+				"^665^9^1586203609^46^1^40^58.75^", -- [299]
+				"^666^9^1586203984^63^1^40^58.75^", -- [300]
+				"^668^9^1586204458^61^1^40^58.75^Loloops", -- [301]
+				"^667^9^1586204724^32^1^40^58.75^", -- [302]
+				"^669^9^1586205599^75^1^40^58.75^", -- [303]
+				"^670^9^1586205849^71^1^40^58.75^", -- [304]
+				"^671^9^1586206065^106^1^40^58.75^Gamdar", -- [305]
+				"^672^9^1586206481^117^1^40^58.75^Schóu", -- [306]
+				"^1084^9^1586207578^182^1^40^58.44^Thresya", -- [307]
+				"^610^9^1586454257^348^1^40^58.75^Spice", -- [308]
+				"^611^9^1586454812^57^1^40^59.09^Kellay", -- [309]
+				"^612^9^1586456083^79^1^40^58.79^Ecology", -- [310]
+				"^613^9^1586456566^223^0^40^58.79^Sagsy", -- [311]
+				"^613^9^1586457106^179^1^40^58.79^Andy", -- [312]
+				"^614^9^1586458458^167^0^40^58.79^Sagsy", -- [313]
+				"^614^9^1586459025^107^1^40^58.79^", -- [314]
+				"^615^9^1586459200^93^1^40^58.79^Sagsy", -- [315]
+				"^616^9^1586459706^161^1^40^58.79^", -- [316]
+				"^617^9^1586460091^354^1^40^58.77^", -- [317]
+				"^663^9^1586461991^34^1^40^58.75^Ecology", -- [318]
+				"^664^9^1586462178^71^1^40^58.75^", -- [319]
+				"^665^9^1586462561^40^1^40^58.75^Ana", -- [320]
+				"^666^9^1586462919^66^1^40^58.75^Lilgav", -- [321]
+				"^668^9^1586463414^55^1^40^58.75^Kellay", -- [322]
+				"^667^9^1586463660^28^1^40^59.28^Esarus", -- [323]
+				"^669^9^1586464425^62^1^40^59.28^", -- [324]
+				"^670^9^1586464644^60^1^40^59.28^", -- [325]
+				"^671^9^1586464938^84^1^40^59.06^Andy", -- [326]
+				"^672^9^1586465354^93^1^40^59.06^Llew", -- [327]
+				"^1084^9^1586466354^142^1^40^58.70^Matty", -- [328]
 			},
 			["Ksumdamond"] = {
 			},
@@ -465,17 +553,20 @@ VExRT = {
 			["Dimmu"] = 0,
 			["Hammerfall"] = 0,
 			["Torihll"] = 0,
+			["Nilkki"] = 0,
 			["Propluss"] = 0,
 			["Maeil"] = 0,
 			["Yeat"] = 0,
 			["Damonddruid"] = 0,
 			["Apefan"] = 0,
 			["Timmy"] = 0,
+			["Demexi"] = 0,
 			["Andiel"] = 0,
 			["Shortman"] = 0,
 			["Stormwall"] = 0,
 			["Swagrlicious"] = 0,
 			["Jabra"] = 0,
+			["Murken"] = 0,
 			["Damondbank"] = 0,
 			["Banoffee"] = 0,
 			["Mike"] = 0,
@@ -485,16 +576,20 @@ VExRT = {
 			["Erlina"] = 0,
 			["Alcador"] = 0,
 			["Fear"] = 0,
+			["Schóu"] = 0,
 			["Damond"] = 0,
 			["Kllen"] = 0,
 			["Kyrre"] = 0,
 			["Deusvult"] = 0,
 			["Setris"] = 0,
+			["Machosavage"] = 0,
 			["Disturbia"] = 0,
 			["Potmplz"] = 0,
 			["Wyatt-Everlook"] = 0,
 			["Ýra"] = 0,
 			["Poison"] = 0,
+			["Bjo"] = 0,
+			["Echology"] = 0,
 			["Fxih"] = 0,
 			["Laleh"] = 0,
 			["Inori"] = 0,
@@ -502,27 +597,46 @@ VExRT = {
 			["Daxxa"] = 0,
 			["Dwarfu"] = 0,
 			["Tarondor"] = 0,
+			["Microphobiac"] = 0,
 			["Elice"] = 0,
+			["Sololobo"] = 0,
+			["Eisha-Finkle"] = 0,
+			["Palaleen"] = 0,
+			["Branxlockx"] = 0,
+			["Celus"] = 0,
+			["Seraine"] = 0,
 			["Tinkeng"] = 0,
 			["Themurian"] = 0,
-			["Sephirot"] = 0,
+			["Scý"] = 0,
+			["Maoozz-Finkle"] = 0,
 			["Drikkedunk"] = 0,
-			["Ecology"] = 0,
-			["Fsumdamond"] = 0,
-			["Betelgeuze"] = 0,
-			["Windycurses"] = 0,
-			["Ksumdamond"] = 0,
-			["Ragnis-Mograine"] = 0,
-			["Palaleen"] = 0,
-			["Gigawoot"] = 0,
-			["Impulse"] = 0,
-			["Holysos"] = 0,
-			["Buzzhype"] = 0,
-			["Knobend"] = 0,
-			["Seraine"] = 0,
-			["Wizzy"] = 0,
-			["Geers"] = 0,
+			["Sephirot"] = 0,
+			["Masochism"] = 0,
+			["Edda"] = 0,
+			["Nalena"] = 0,
+			["Cast"] = 0,
 			["Gallywiix"] = 0,
+			["Ecology"] = 0,
+			["Ksumdamond"] = 0,
+			["Gigawoot"] = 0,
+			["Windycurses"] = 0,
+			["Fsumdamond"] = 0,
+			["Impulse"] = 0,
+			["Buzzhype"] = 0,
+			["Ulose"] = 0,
+			["Knobend"] = 0,
+			["Geers"] = 0,
+			["Ragnis-Mograine"] = 0,
+			["Wizzy"] = 0,
+			["Gíbbo"] = 0,
+			["Dracun"] = 0,
+			["Betelgeuze"] = 0,
+			["Bicheto"] = 0,
+			["Rizzer"] = 0,
+			["Arcania"] = 0,
+			["Holysos"] = 0,
+			["Aishanna"] = 0,
+			["Crucibal"] = 0,
 			["Ufo"] = 0,
 		},
 		["NoRaid"] = true,

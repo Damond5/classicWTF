@@ -1,8 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0323,
-	["LastPlayerFullName"] = "Damond-Razorgore",
-	["AutoSelectScales"] = false,
+	["LastVersion"] = 2.0324,
 	["ItemLevels"] = {
 		{
 			["ID"] = 16929,
@@ -41,14 +39,14 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:16803::::::::60:::::::|h[Felheart Slippers]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 10213,
-			["Level"] = 58,
-			["Link"] = "|cff1eff00|Hitem:10213::::::1851:1791984128:60:::1::::|h[Elegant Bracers of Shadow Wrath]|h|r",
+			["ID"] = 19374,
+			["Level"] = 75,
+			["Link"] = "|cffa335ee|Hitem:19374::::::::60:::::::|h[Bracers of Arcane Accuracy]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 16805,
-			["Level"] = 66,
-			["Link"] = "|cffa335ee|Hitem:16805::::::::60:::::::|h[Felheart Gloves]|h|r",
+			["ID"] = 19407,
+			["Level"] = 75,
+			["Link"] = "|cffa335ee|Hitem:19407::::::::60:::::::|h[Ebony Flame Gloves]|h|r",
 		}, -- [10]
 		{
 			["ID"] = 13001,
@@ -85,6 +83,8 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:19108::::::::60:::11::::|h[Wand of Biting Cold]|h|r",
 		},
 	},
+	["AutoSelectScales"] = false,
+	["LastPlayerFullName"] = "Damond-Razorgore",
 }
 PawnMrRobotScaleProviderOptions = nil
 PawnClassicScaleProviderOptions = {

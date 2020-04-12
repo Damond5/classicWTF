@@ -5,7 +5,7 @@ AtlasQuest_Options = {
 		["AtlasAutoShow"] = 1,
 		["NoQuerySpam"] = "yes",
 	},
-	["Version"] = "4.11.62",
+	["Version"] = "4.11.63",
 	["Damondbank"] = {
 		["ShownSide"] = "Left",
 		["AtlasAutoShow"] = 1,

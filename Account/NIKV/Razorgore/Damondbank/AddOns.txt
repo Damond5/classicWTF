@@ -40,3 +40,9 @@ TwitchEmotes: disabled
 SLoTe: disabled
 ElvUI_CustomTweaks: disabled
 WeakAurasArchive: enabled
+TinyTooltip: disabled
+BiSTracker: disabled
+ClassTrainerPlus: disabled
+ItemRack: disabled
+ItemRackOptions: disabled
+Pawn: disabled

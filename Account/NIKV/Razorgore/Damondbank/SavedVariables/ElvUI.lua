@@ -1,2089 +1,21 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"så er humøret højt", -- [1]
-		"det lyder som en god mentalitet", -- [2]
-		"der er speedrun, så hvis det fejler er det nemmere at argumentere for at skifte I guess", -- [3]
-		"jeg er i chill raidet", -- [4]
-		"men de lægger en del fokus i det, så helt skidt kan det vel ikke gå", -- [5]
-		"/who adi", -- [6]
-		"når folk mister deres buffs", -- [7]
-		"/y is why I said there is no reason to be logged in", -- [8]
+		"men de lægger en del fokus i det, så helt skidt kan det vel ikke gå", -- [1]
+		"/who giga", -- [2]
+		"/who adi", -- [3]
+		"men de har planer om at komme under 47m i hvert fald", -- [4]
+		"når folk mister deres buffs", -- [5]
+		"kan prøve at høre igen efter raid imorgen måske", -- [6]
+		"/y is why I said there is no reason to be logged in", -- [7]
+		"/y ye you can logged status doesnt matter", -- [8]
 		"det ved jeg sku ikke om de har", -- [9]
-		"/who giga", -- [10]
-		"/y ye you can logged status doesnt matter", -- [11]
-		"kan prøve at høre igen efter raid imorgen måske", -- [12]
-		"men de har planer om at komme under 47m i hvert fald", -- [13]
+		"så er humøret højt", -- [10]
+		"jeg er i chill raidet", -- [11]
+		"der er speedrun, så hvis det fejler er det nemmere at argumentere for at skifte I guess", -- [12]
+		"det lyder som en god mentalitet", -- [13]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"CLFG_Network#Uv8pESCG#3#4#KING~`FOR~`MEMBERS~`ONYXIA~`~`20/25~`PUG~`(Sapphiron~`Drape~`res)~`CURRENTLY~`IN~`NEED~`OF~`DPS~`AND~`A~`HEALER~`PRIEST~`{triangle}^SSource^T^SChannel^SLookingForGroup^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize", -- [1]
-			"Namelessqt", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Namelessqt", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			50, -- [11]
-			"Player-4478-014BF3E7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNamelessqt|r",
-			[51] = 1582733475,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"CLFG_Network#Uv8pESCG#4#4#^N0^t^t^t^^", -- [1]
-			"Namelessqt", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Namelessqt", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			51, -- [11]
-			"Player-4478-014BF3E7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNamelessqt|r",
-			[51] = 1582733475,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"CLFG_Network#51qsSa1F#1#3#^1^T^SEvent^SCLASSICLFG_GROUP_LISTED^SPayload^T^SHash^SUAg69Em4^SDescription^S^SUpdateTime^N978187.729^SGroup^T^SDps^N0^STank^N0^SHealer^N0^t^SLeader^T^SName^SCynthea^SLevel^N0^SClass^SWarrior^SInvited^b^t^SDungeon^T^SAbbreviatio", -- [1]
-			"Stab", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Stab", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			57, -- [11]
-			"Player-4478-015781C7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Stab|r",
-			[51] = 1582733479,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
-			"CLFG_Network#51qsSa1F#2#3#ns^T^N1^Subrs^t^SAbbreviation^Subrs^SMinLevel^N55^SName^SUpper~`Blackrock~`Spire^SFaction^SBOTH^SLocation^SBlackrock~`Mountain^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-BLACKROCKSPIRE^SMaxLevel^N60^SSize^N10^t^STitle^SLFM", -- [1]
-			"Stab", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Stab", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			58, -- [11]
-			"Player-4478-015781C7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Stab|r",
-			[51] = 1582733479,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
-		{
-			"CLFG_Network#51qsSa1F#3#3#~`UBRS~`FULL~`(JED~`TRINKET~`RESERVED)~`Need~`healer/hunter^SSource^T^SChannel^Sworld^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Stab", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Stab", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			59, -- [11]
-			"Player-4478-015781C7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Stab|r",
-			[51] = 1582733479,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
-		{
-			"CLFG_Network#z4kMiJQU#2#4#ons^T^N1^Sony^N2^Sonyxia^t^SAbbreviation^Sony^SMinLevel^N60^SName^SOnyxia's~`Lair^SFaction^SBOTH^SLocation^SDustwallow~`Marsh^SBackground^SInterface\\LFGFRAME\\LFGIcon-OnyxiaEncounter^SMaxLevel^N60^SSize^N40^t^STitle^S{triangle}~`L", -- [1]
-			"Roddish-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Roddish", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			60, -- [11]
-			"Player-4478-01478BD1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Roddish|r",
-			[51] = 1582733479,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
-		{
-			"CLFG_Network#z4kMiJQU#3#4#OOKING~`FOR~`MEMBERS~`ONYXIA~`~`20/25~`PUG~`(Sapphiron~`Drape~`res)~`CURRENTLY~`IN~`NEED~`OF~`DPS~`AND~`A~`HEALER~`PRIEST~`{triangle}^SSource^T^SChannel^SLookingForGroup^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSi", -- [1]
-			"Roddish-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Roddish", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			61, -- [11]
-			"Player-4478-01478BD1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Roddish|r",
-			[51] = 1582733479,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
-		{
-			"CLFG_Network#z4kMiJQU#4#4#ze^N0^t^t^t^^", -- [1]
-			"Roddish-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Roddish", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			62, -- [11]
-			"Player-4478-01478BD1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Roddish|r",
-			[51] = 1582733479,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
-		{
-			"CLFG_Network#ndxEma2t#1#3#^1^T^SEvent^SCLASSICLFG_GROUP_LISTED^SPayload^T^SHash^SewdO76MO^SDescription^S^SUpdateTime^N978189.116^SGroup^T^SDps^N0^STank^N0^SHealer^N0^t^SLeader^T^SName^SCrazykille^SLevel^N0^SClass^SWarrior^SInvited^b^t^SDungeon^T^SAbbrevia", -- [1]
-			"Stab-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Stab", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			65, -- [11]
-			"Player-4478-015781C7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Stab|r",
-			[51] = 1582733481,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
-		{
-			"CLFG_Network#ndxEma2t#2#3#tions^T^N1^Sscholo^t^SAbbreviation^Sscholo^SMinLevel^N56^SName^SScholomance^SFaction^SBOTH^SLocation^SEastern~`Plaguelands^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-SCHOLOMANCE^SMaxLevel^N60^SSize^N5^t^STitle^SLF~`tank~`s", -- [1]
-			"Stab-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Stab", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			66, -- [11]
-			"Player-4478-015781C7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Stab|r",
-			[51] = 1582733481,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
-		{
-			"CLFG_Network#ndxEma2t#3#3#cholo^SSource^T^SChannel^SLookingForGroup^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Stab-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Stab", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			67, -- [11]
-			"Player-4478-015781C7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Stab|r",
-			[51] = 1582733481,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
-		{
-			"WTS |cff1eff00|Hitem:13468::::::::60:::::::|h[Black Lotus]|h|r145g", -- [1]
-			"Omy", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Omy", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			250, -- [11]
-			"Player-4478-015DAFBD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Omy|r",
-			[51] = 1582733743,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
-		{
-			"LF1M RRPS strat live, orbs rr", -- [1]
-			"Sefias-Razorgore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sefias", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			251, -- [11]
-			"Player-4478-013E9B2A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Sefias|r",
-			[51] = 1582733747,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [13]
-		{
-			"CLFG_Network#9cBz4FV9#2#3#T^N1^Sst^N2^Stoa^N3^Satal^N4^Ssunken~`temple^t^SAbbreviation^Sst^SMinLevel^N47^SName^STemple~`of~`Atal'Hakkar^SFaction^SBOTH^SLocation^SSwamp~`of~`Sorrows^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-SUNKENTEMPLE^SMaxLevel^N", -- [1]
-			"Koveleh", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Koveleh", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			256, -- [11]
-			"Player-4478-023637D5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edKoveleh|r",
-			[51] = 1582733769,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [14]
-		{
-			"CLFG_Network#9cBz4FV9#3#3#60^SSize^N5^t^STitle^SLFM~`Bwl~`Guild~`Run~`-~`last~`spot(s)~`=~`Need~`Warriors~`-~`7:30~`ST~`-~`Trinkets~`Res^SSource^T^SChannel^SLookingForGroup^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Koveleh", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Koveleh", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			257, -- [11]
-			"Player-4478-023637D5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edKoveleh|r",
-			[51] = 1582733769,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [15]
-		{
-			"CLFG_Network#axQH0Fgz#1#3#^1^T^SEvent^SCLASSICLFG_GROUP_LISTED^SPayload^T^SHash^SjQAnfubm^SDescription^S^SUpdateTime^F6486034347974460^f-36^SGroup^T^SDps^N0^STank^N0^SHealer^N0^t^SLeader^T^SName^SChaplin^SLevel^N0^SClass^SWarrior^SInvited^b^t^SDungeon^T^S", -- [1]
-			"Namelessqt", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Namelessqt", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			259, -- [11]
-			"Player-4478-014BF3E7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNamelessqt|r",
-			[51] = 1582733776,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
-		{
-			"CLFG_Network#axQH0Fgz#2#3#Abbreviations^T^N1^Sscholo^t^SAbbreviation^Sscholo^SMinLevel^N56^SName^SScholomance^SFaction^SBOTH^SLocation^SEastern~`Plaguelands^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-SCHOLOMANCE^SMaxLevel^N60^SSize^N5^t^STitle^SLF1", -- [1]
-			"Namelessqt", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Namelessqt", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			260, -- [11]
-			"Player-4478-014BF3E7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNamelessqt|r",
-			[51] = 1582733776,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
-		{
-			"CLFG_Network#axQH0Fgz#3#3#M~`Scholo~`-~`last~`spot~`for~`tank^SSource^T^SChannel^SWorld^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Namelessqt", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Namelessqt", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			261, -- [11]
-			"Player-4478-014BF3E7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNamelessqt|r",
-			[51] = 1582733776,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
-		{
-			"CLFG_Network#XEgZWT20#1#3#^1^T^SEvent^SCLASSICLFG_GROUP_LISTED^SPayload^T^SHash^SBv0auxdV^SDescription^S^SUpdateTime^N359328.343^SGroup^T^SDps^N0^STank^N0^SHealer^N0^t^SLeader^T^SName^SCrazykille^SLevel^N0^SClass^SWarrior^SInvited^b^t^SDungeon^T^SAbbrevia", -- [1]
-			"Druidyne", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Druidyne", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			263, -- [11]
-			"Player-4478-020A6A85", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aDruidyne|r",
-			[51] = 1582733783,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
-		{
-			"CLFG_Network#XEgZWT20#2#3#tions^T^N1^Sscholo^t^SAbbreviation^Sscholo^SMinLevel^N56^SName^SScholomance^SFaction^SBOTH^SLocation^SEastern~`Plaguelands^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-SCHOLOMANCE^SMaxLevel^N60^SSize^N5^t^STitle^SLF~`tank~`s", -- [1]
-			"Druidyne", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Druidyne", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			264, -- [11]
-			"Player-4478-020A6A85", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aDruidyne|r",
-			[51] = 1582733783,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
-		{
-			"CLFG_Network#XEgZWT20#3#3#cholo^SSource^T^SChannel^SLookingForGroup^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Druidyne", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Druidyne", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			265, -- [11]
-			"Player-4478-020A6A85", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aDruidyne|r",
-			[51] = 1582733783,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [21]
-		{
-			"CLFG_Network#Pg1KjuQ7#1#3#^1^T^SEvent^SCLASSICLFG_GROUP_LISTED^SPayload^T^SHash^S2F3Gybiy^SDescription^S^SUpdateTime^N359404.982^SGroup^T^SDps^N0^STank^N0^SHealer^N0^t^SLeader^T^SName^SEldoc^SLevel^N0^SClass^SWarrior^SInvited^b^t^SDungeon^T^SAbbreviations", -- [1]
-			"Druidyne-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Druidyne", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			267, -- [11]
-			"Player-4478-020A6A85", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aDruidyne|r",
-			[51] = 1582733856,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
-		{
-			"CLFG_Network#Pg1KjuQ7#2#3#^T^N1^Sony^N2^Sonyxia^t^SAbbreviation^Sony^SMinLevel^N60^SName^SOnyxia's~`Lair^SFaction^SBOTH^SLocation^SDustwallow~`Marsh^SBackground^SInterface\\LFGFRAME\\LFGIcon-OnyxiaEncounter^SMaxLevel^N60^SSize^N40^t^STitle^SLFM~`ONyxia~`(22", -- [1]
-			"Druidyne-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Druidyne", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			268, -- [11]
-			"Player-4478-020A6A85", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aDruidyne|r",
-			[51] = 1582733856,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [23]
-		{
-			"CLFG_Network#Pg1KjuQ7#3#3#/25)~`-~`we~`have~`no~`priest~`or~`druid^SSource^T^SChannel^SLookingForGroup^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Druidyne-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Druidyne", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			269, -- [11]
-			"Player-4478-020A6A85", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aDruidyne|r",
-			[51] = 1582733856,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
-		{
-			"CLFG_Network#Di24QGI0#1#3#^1^T^SEvent^SCLASSICLFG_GROUP_LISTED^SPayload^T^SHash^S7xS3RqCj^SDescription^S^SUpdateTime^N94464.321^SGroup^T^SDps^N0^STank^N0^SHealer^N0^t^SLeader^T^SName^SDák^SLevel^N0^SClass^SWarrior^SInvited^b^t^SDungeon^T^SAbbreviations^T", -- [1]
-			"Namelessqt-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Namelessqt", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			270, -- [11]
-			"Player-4478-014BF3E7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNamelessqt|r",
-			[51] = 1582733856,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
-		{
-			"CLFG_Network#Di24QGI0#2#3#^N1^Slbrs^t^SAbbreviation^Slbrs^SMinLevel^N55^SName^SLower~`Blackrock~`Spire^SFaction^SBOTH^SLocation^SBlackrock~`Mountain^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-BLACKROCKSPIRE^SMaxLevel^N60^SSize^N10^t^STitle^SLF1M~`t", -- [1]
-			"Namelessqt-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Namelessqt", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			271, -- [11]
-			"Player-4478-014BF3E7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNamelessqt|r",
-			[51] = 1582733856,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
-		{
-			"CLFG_Network#Di24QGI0#3#3#ank~`LBRS~`LAST~`SPOT!~`can~`summon!^SSource^T^SChannel^SWorld^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Namelessqt-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Namelessqt", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			272, -- [11]
-			"Player-4478-014BF3E7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNamelessqt|r",
-			[51] = 1582733856,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
-		{
-			"CLFG_Network#CXoje5dL#1#3#^1^T^SEvent^SCLASSICLFG_GROUP_LISTED^SPayload^T^SHash^SUUiqJqqV^SDescription^S^SUpdateTime^N834342.755^SGroup^T^SDps^N0^STank^N0^SHealer^N0^t^SLeader^T^SName^SEldoc^SLevel^N0^SClass^SWarrior^SInvited^b^t^SDungeon^T^SAbbreviations", -- [1]
-			"Tuuppa", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Tuuppa", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			273, -- [11]
-			"Player-4478-01DBA025", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaTuuppa|r",
-			[51] = 1582733858,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
-		{
-			"CLFG_Network#CXoje5dL#2#3#^T^N1^Sony^N2^Sonyxia^t^SAbbreviation^Sony^SMinLevel^N60^SName^SOnyxia's~`Lair^SFaction^SBOTH^SLocation^SDustwallow~`Marsh^SBackground^SInterface\\LFGFRAME\\LFGIcon-OnyxiaEncounter^SMaxLevel^N60^SSize^N40^t^STitle^SLFM~`ONyxia~`(22", -- [1]
-			"Tuuppa", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Tuuppa", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			274, -- [11]
-			"Player-4478-01DBA025", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaTuuppa|r",
-			[51] = 1582733858,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
-		{
-			"CLFG_Network#CXoje5dL#3#3#/25)~`-~`we~`have~`no~`priest~`or~`druid^SSource^T^SChannel^SLookingForGroup^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Tuuppa", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Tuuppa", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			275, -- [11]
-			"Player-4478-01DBA025", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaTuuppa|r",
-			[51] = 1582733858,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
-		{
-			"CLFG_Network#jA5UKmut#2#3#ns^T^N1^Subrs^t^SAbbreviation^Subrs^SMinLevel^N55^SName^SUpper~`Blackrock~`Spire^SFaction^SBOTH^SLocation^SBlackrock~`Mountain^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-BLACKROCKSPIRE^SMaxLevel^N60^SSize^N10^t^STitle^SLFM", -- [1]
-			"Druidyne-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Druidyne", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			276, -- [11]
-			"Player-4478-020A6A85", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aDruidyne|r",
-			[51] = 1582733859,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
-		{
-			"CLFG_Network#jA5UKmut#3#3#~`UBRS~`FULL~`(JED~`TRINKET~`RESERVED)~`Need~`healer/hunter^SSource^T^SChannel^Sworld^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Druidyne-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Druidyne", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			277, -- [11]
-			"Player-4478-020A6A85", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aDruidyne|r",
-			[51] = 1582733859,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
-		{
-			"CLFG_Network#DWUWl05D#2#3#ions^T^N1^Sscholo^t^SAbbreviation^Sscholo^SMinLevel^N56^SName^SScholomance^SFaction^SBOTH^SLocation^SEastern~`Plaguelands^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-SCHOLOMANCE^SMaxLevel^N60^SSize^N5^t^STitle^SLF~`tank~`sc", -- [1]
-			"Namelessqt-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Namelessqt", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			278, -- [11]
-			"Player-4478-014BF3E7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNamelessqt|r",
-			[51] = 1582733862,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
-		{
-			"CLFG_Network#DWUWl05D#3#3#holo^SSource^T^SChannel^SLookingForGroup^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Namelessqt-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Namelessqt", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			279, -- [11]
-			"Player-4478-014BF3E7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNamelessqt|r",
-			[51] = 1582733862,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
-		{
-			"CLFG_Network#fbYlxiBj#1#3#^1^T^SEvent^SCLASSICLFG_GROUP_LISTED^SPayload^T^SHash^SloUbdpFF^SDescription^S^SUpdateTime^N399699.897^SGroup^T^SDps^N0^STank^N0^SHealer^N0^t^SLeader^T^SName^SCrazykille^SLevel^N0^SClass^SWarrior^SInvited^b^t^SDungeon^T^SAbbrevia", -- [1]
-			"Gerad-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Gerad", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			280, -- [11]
-			"Player-4478-02131E18", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaGerad|r",
-			[51] = 1582733862,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
-		{
-			"CLFG_Network#fbYlxiBj#2#3#tions^T^N1^Sscholo^t^SAbbreviation^Sscholo^SMinLevel^N56^SName^SScholomance^SFaction^SBOTH^SLocation^SEastern~`Plaguelands^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-SCHOLOMANCE^SMaxLevel^N60^SSize^N5^t^STitle^SLF~`tank~`s", -- [1]
-			"Gerad-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Gerad", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			281, -- [11]
-			"Player-4478-02131E18", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaGerad|r",
-			[51] = 1582733862,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
-		{
-			"CLFG_Network#fbYlxiBj#3#3#cholo^SSource^T^SChannel^SLookingForGroup^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Gerad-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Gerad", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			282, -- [11]
-			"Player-4478-02131E18", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaGerad|r",
-			[51] = 1582733862,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
-		{
-			"LFG Maraudon", -- [1]
-			"Gingerjoey", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Gingerjoey", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			409, -- [11]
-			"Player-4478-01E7685F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Gingerjoey|r",
-			[51] = 1582734074,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
-		{
-			"LFM need all Arena/anger or golem x5 Speed window runs(only hoj res)", -- [1]
-			"Timini", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Timini", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			411, -- [11]
-			"Player-4478-01B4ED99", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dTimini|r",
-			[51] = 1582734088,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
-		{
-			"Selling |cff1eff00|Hitem:12360::::::::40:::::::|h[Arcanite Bar]|h|r for |cff1eff00|Hitem:12363::::::::40:::::::|h[Arcane Crystal]|h|r + 5g", -- [1]
-			"Wn", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Wn", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			415, -- [11]
-			"Player-4478-02145F65", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaWn|r",
-			[51] = 1582734121,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
-		{
-			"CLFG_Network#8OLJSHUu#2#3#^T^N1^Sbrd^t^SAbbreviation^Sbrd^SMinLevel^N49^SName^SBlackrock~`Depths^SFaction^SBOTH^SLocation^SBlackrock~`Mountain^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-BLACKROCKDEPTHS^SMaxLevel^N60^SSize^N5^t^STitle^SLast~`spot~`f", -- [1]
-			"Koveleh-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Koveleh", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			422, -- [11]
-			"Player-4478-023637D5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edKoveleh|r",
-			[51] = 1582734160,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
-		{
-			"CLFG_Network#8OLJSHUu#3#3#or~`~`BRD~`Quest~`run~`-~`1~`Tank~`/~`1~`DPS^SSource^T^SChannel^SLookingForGroup^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Koveleh-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Koveleh", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			423, -- [11]
-			"Player-4478-023637D5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edKoveleh|r",
-			[51] = 1582734160,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
-		{
-			"CLFG_Network#BeZnEnHM#2#3#ns^T^N1^Sony^N2^Sonyxia^t^SAbbreviation^Sony^SMinLevel^N60^SName^SOnyxia's~`Lair^SFaction^SBOTH^SLocation^SDustwallow~`Marsh^SBackground^SInterface\\LFGFRAME\\LFGIcon-OnyxiaEncounter^SMaxLevel^N60^SSize^N40^t^STitle^S{triangle}~`LO", -- [1]
-			"Analius", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Analius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			425, -- [11]
-			"Player-4478-01768C3A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edAnalius|r",
-			[51] = 1582734164,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
-		{
-			"CLFG_Network#BeZnEnHM#3#3#OKING~`FOR~`MEMBERS~`ONYXIA~`~`22/25~`PUG~`(Sapphiron~`Drape~`res)~`CURRENTLY~`IN~`NEED~`OF~`DPS~`AND~`DRUID/PRIEST~`{triangle}^SSource^T^SChannel^Sworld^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Analius", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Analius", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			426, -- [11]
-			"Player-4478-01768C3A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edAnalius|r",
-			[51] = 1582734164,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
-		{
-			"CLFG_Network#lb0gVlc0#2#3#^T^N1^Sony^N2^Sonyxia^t^SAbbreviation^Sony^SMinLevel^N60^SName^SOnyxia's~`Lair^SFaction^SBOTH^SLocation^SDustwallow~`Marsh^SBackground^SInterface\\LFGFRAME\\LFGIcon-OnyxiaEncounter^SMaxLevel^N60^SSize^N40^t^STitle^S{triangle}~`LOOK", -- [1]
-			"Koveleh-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Koveleh", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			428, -- [11]
-			"Player-4478-023637D5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edKoveleh|r",
-			[51] = 1582734164,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
-		{
-			"CLFG_Network#lb0gVlc0#3#3#ING~`FOR~`MEMBERS~`ONYXIA~`~`22/25~`PUG~`(Sapphiron~`Drape~`res)~`CURRENTLY~`IN~`NEED~`OF~`DPS~`AND~`DRUID/PRIEST~`{triangle}^SSource^T^SChannel^Sworld^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Koveleh-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Koveleh", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			429, -- [11]
-			"Player-4478-023637D5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edKoveleh|r",
-			[51] = 1582734164,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
-		{
-			"WTB portal darna 1g", -- [1]
-			"Dimmu-Razorgore", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Dimmu", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			430, -- [11]
-			"Player-4478-01C16D1D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edDimmu|r",
-			[51] = 1582734166,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
-		{
-			"ok I have most mats here", -- [1]
-			"Quorra-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Quorra", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			431, -- [11]
-			"Player-4478-012DE819", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aQuorra|r",
-			[51] = 1582734166,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [48]
-		{
-			"CLFG_Network#fKbnXj2v#1#3#^1^T^SEvent^SCLASSICLFG_GROUP_LISTED^SPayload^T^SHash^SoXCEpXnR^SDescription^S^SUpdateTime^N1067117.466^SGroup^T^SDps^N0^STank^N0^SHealer^N0^t^SLeader^T^SName^SChaplin^SLevel^N0^SClass^SWarrior^SInvited^b^t^SDungeon^T^SAbbreviati", -- [1]
-			"Roddish", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Roddish", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			432, -- [11]
-			"Player-4478-01478BD1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Roddish|r",
-			[51] = 1582734166,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
-		{
-			"CLFG_Network#fKbnXj2v#2#3#ons^T^N1^Sscholo^t^SAbbreviation^Sscholo^SMinLevel^N56^SName^SScholomance^SFaction^SBOTH^SLocation^SEastern~`Plaguelands^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-SCHOLOMANCE^SMaxLevel^N60^SSize^N5^t^STitle^SLF~`tank~`for", -- [1]
-			"Roddish", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Roddish", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			433, -- [11]
-			"Player-4478-01478BD1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Roddish|r",
-			[51] = 1582734166,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [50]
-		{
-			"CLFG_Network#fKbnXj2v#3#3#~`Scholo~`-~`last~`spot!^SSource^T^SChannel^Sworld^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Roddish", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Roddish", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			434, -- [11]
-			"Player-4478-01478BD1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Roddish|r",
-			[51] = 1582734166,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [51]
-		{
-			"CLFG_Network#J0gV7XJT#1#3#^1^T^SEvent^SCLASSICLFG_GROUP_LISTED^SPayload^T^SHash^SK41Sqvfx^SDescription^S^SUpdateTime^N359714.428^SGroup^T^SDps^N0^STank^N0^SHealer^N0^t^SLeader^T^SName^SChaplin^SLevel^N0^SClass^SWarrior^SInvited^b^t^SDungeon^T^SAbbreviatio", -- [1]
-			"Druidyne", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Druidyne", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			436, -- [11]
-			"Player-4478-020A6A85", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aDruidyne|r",
-			[51] = 1582734167,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
-		{
-			"CLFG_Network#J0gV7XJT#2#3#ns^T^N1^Sscholo^t^SAbbreviation^Sscholo^SMinLevel^N56^SName^SScholomance^SFaction^SBOTH^SLocation^SEastern~`Plaguelands^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-SCHOLOMANCE^SMaxLevel^N60^SSize^N5^t^STitle^SLF~`tank~`for~", -- [1]
-			"Druidyne", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Druidyne", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			437, -- [11]
-			"Player-4478-020A6A85", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aDruidyne|r",
-			[51] = 1582734167,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
-		{
-			"CLFG_Network#J0gV7XJT#3#3#`Scholo~`-~`last~`spot!^SSource^T^SChannel^Sworld^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Druidyne", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Druidyne", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			438, -- [11]
-			"Player-4478-020A6A85", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aDruidyne|r",
-			[51] = 1582734167,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
-		{
-			"CLFG_Network#dK1exh7C#2#3#ns^T^N1^Sony^N2^Sonyxia^t^SAbbreviation^Sony^SMinLevel^N60^SName^SOnyxia's~`Lair^SFaction^SBOTH^SLocation^SDustwallow~`Marsh^SBackground^SInterface\\LFGFRAME\\LFGIcon-OnyxiaEncounter^SMaxLevel^N60^SSize^N40^t^STitle^S{triangle}~`LO", -- [1]
-			"Fnar-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Fnar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			439, -- [11]
-			"Player-4478-016CD312", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Fnar|r",
-			[51] = 1582734168,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
-		{
-			"CLFG_Network#dK1exh7C#3#3#OKING~`FOR~`MEMBERS~`ONYXIA~`~`22/25~`PUG~`(Sapphiron~`Drape~`res)~`CURRENTLY~`IN~`NEED~`OF~`DPS~`AND~`DRUID/PRIEST~`{triangle}^SSource^T^SChannel^Sworld^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Fnar-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Fnar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			440, -- [11]
-			"Player-4478-016CD312", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Fnar|r",
-			[51] = 1582734168,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
-		{
-			"CLFG_Network#Ow7BsE3M#1#3#^1^T^SEvent^SCLASSICLFG_GROUP_LISTED^SPayload^T^SHash^S14JBmnqk^SDescription^S^SUpdateTime^N94769.602^SGroup^T^SDps^N0^STank^N0^SHealer^N0^t^SLeader^T^SName^SDreadnut^SLevel^N0^SClass^SWarrior^SInvited^b^t^SDungeon^T^SAbbreviatio", -- [1]
-			"Namelessqt", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Namelessqt", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			442, -- [11]
-			"Player-4478-014BF3E7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNamelessqt|r",
-			[51] = 1582734170,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
-		{
-			"CLFG_Network#Ow7BsE3M#2#3#ns^T^t^SAbbreviation^S^SMinLevel^N1^SName^SCustom^SFaction^SBOTH^SLocation^SEverywhere^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-BREW^SMaxLevel^N120^SSize^N40^t^STitle^SLFM~`Tank,Heal,DPS~`<Strath~`UD>~`^SSource^T^SChanne", -- [1]
-			"Namelessqt", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Namelessqt", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			443, -- [11]
-			"Player-4478-014BF3E7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNamelessqt|r",
-			[51] = 1582734170,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
-		{
-			"CLFG_Network#Ow7BsE3M#3#3#l^SLookingForGroup^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Namelessqt", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Namelessqt", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			444, -- [11]
-			"Player-4478-014BF3E7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNamelessqt|r",
-			[51] = 1582734170,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
-		{
-			"CLFG_Network#W8cLLhzX#1#3#^1^T^SEvent^SCLASSICLFG_GROUP_LISTED^SPayload^T^SHash^SNYGY4mDm^SDescription^S^SUpdateTime^N94770.081^SGroup^T^SDps^N0^STank^N0^SHealer^N0^t^SLeader^T^SName^SChaplin^SLevel^N0^SClass^SWarrior^SInvited^b^t^SDungeon^T^SAbbreviation", -- [1]
-			"Namelessqt", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Namelessqt", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			445, -- [11]
-			"Player-4478-014BF3E7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNamelessqt|r",
-			[51] = 1582734170,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [60]
-		{
-			"CLFG_Network#W8cLLhzX#2#3#s^T^N1^Sscholo^t^SAbbreviation^Sscholo^SMinLevel^N56^SName^SScholomance^SFaction^SBOTH^SLocation^SEastern~`Plaguelands^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-SCHOLOMANCE^SMaxLevel^N60^SSize^N5^t^STitle^SLF~`tank~`for~`", -- [1]
-			"Namelessqt", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Namelessqt", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			446, -- [11]
-			"Player-4478-014BF3E7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNamelessqt|r",
-			[51] = 1582734170,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
-		{
-			"CLFG_Network#W8cLLhzX#3#3#Scholo~`-~`last~`spot!^SSource^T^SChannel^SWorld^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Namelessqt", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Namelessqt", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			447, -- [11]
-			"Player-4478-014BF3E7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNamelessqt|r",
-			[51] = 1582734170,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [62]
-		{
-			"CLFG_Network#N3Yg9FJc#1#3#^1^T^SEvent^SCLASSICLFG_GROUP_LISTED^SPayload^T^SHash^SKDrnUxkQ^SDescription^S^SUpdateTime^N677400.854^SGroup^T^SDps^N0^STank^N0^SHealer^N0^t^SLeader^T^SName^STimini^SLevel^N0^SClass^SWarrior^SInvited^b^t^SDungeon^T^SAbbreviation", -- [1]
-			"Acreator", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Acreator", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			551, -- [11]
-			"Player-4478-02197F70", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edAcreator|r",
-			[51] = 1582734347,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
-		{
-			"CLFG_Network#N3Yg9FJc#2#3#s^T^t^SAbbreviation^S^SMinLevel^N1^SName^SCustom^SFaction^SBOTH^SLocation^SEverywhere^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-BREW^SMaxLevel^N120^SSize^N40^t^STitle^SLF1M~`healer~`Arena/anger~`or~`golem~`x5~`Speed~`wind", -- [1]
-			"Acreator", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Acreator", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			552, -- [11]
-			"Player-4478-02197F70", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edAcreator|r",
-			[51] = 1582734347,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [64]
-		{
-			"CLFG_Network#N3Yg9FJc#3#3#ow~`runs(only~`hoj~`res)^SSource^T^SChannel^SLookingForGroup^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Acreator", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Acreator", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			553, -- [11]
-			"Player-4478-02197F70", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edAcreator|r",
-			[51] = 1582734347,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
-		{
-			"CLFG_Network#ne9Gxi5d#2#3#s^T^N1^Sony^N2^Sonyxia^t^SAbbreviation^Sony^SMinLevel^N60^SName^SOnyxia's~`Lair^SFaction^SBOTH^SLocation^SDustwallow~`Marsh^SBackground^SInterface\\LFGFRAME\\LFGIcon-OnyxiaEncounter^SMaxLevel^N60^SSize^N40^t^STitle^S{triangle}~`LOO", -- [1]
-			"Legsday", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Legsday", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			555, -- [11]
-			"Player-4478-023D45FC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dLegsday|r",
-			[51] = 1582734347,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
-		{
-			"CLFG_Network#ne9Gxi5d#3#3#KING~`FOR~`MEMBERS~`ONYXIA~`~`22/25~`PUG~`(Sapphiron~`Drape~`res)~`CURRENTLY~`IN~`NEED~`OF~`DPS~`AND~`DRUID/PRIEST~`{triangle}^SSource^T^SChannel^Sworld^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Legsday", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Legsday", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			556, -- [11]
-			"Player-4478-023D45FC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dLegsday|r",
-			[51] = 1582734347,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
-		{
-			"LF Tailorer (Robe of Winter Night)", -- [1]
-			"Koveleh", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Koveleh", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			557, -- [11]
-			"Player-4478-023637D5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edKoveleh|r",
-			[51] = 1582734348,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
-		{
-			"WTS |cffffffff|Hitem:2319::::::::31:::::::|h[Medium Leather]|h|r|cffffffff|Hitem:4234::::::::31:::::::|h[Heavy Leather]|h|r", -- [1]
-			"Fawandi-Razorgore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Fawandi", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			558, -- [11]
-			"Player-4478-0240714B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Fawandi|r",
-			[51] = 1582734348,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
-		{
-			"LF1M healer Arena/anger or golem x5 Speed window runs(only hoj res)", -- [1]
-			"Timini-Razorgore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Timini", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			566, -- [11]
-			"Player-4478-01B4ED99", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dTimini|r",
-			[51] = 1582734386,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
-		{
-			"WTS |cffa335ee|Hitem:17203::::::::5:::::::|h[Sulfuron Ingot]|h|r. One for 190g, 2 for 180g each. ", -- [1]
-			"Ittybitty", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Ittybitty", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			567, -- [11]
-			"Player-4478-01D7420C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Ittybitty|r",
-			[51] = 1582734397,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
-		{
-			"LF1M DPS SUNKEN TEMPLE", -- [1]
-			"Bennett", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Bennett", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			225, -- [11]
-			"Player-4478-022BF179", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBennett|r",
-			[51] = 1582820836,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
-		{
-			"LF TANK AND HEALER DM TRIBUTE!!!!!", -- [1]
-			"Huntmw", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Huntmw", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			208, -- [11]
-			"Player-4478-021E184E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Huntmw|r",
-			[51] = 1583165089,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
-		{
-			"{star}ENCHANTING{star}: <WEAP> 30 SP,  55 Heal, Fiery, Crusader, 15 agi/str <BOOTS> 7 agi, Speed <BRACER> 9 stam/spirit, 24 heal, mp5 <GLOVES> 7 str/agi, Riding, Professions <CHEST> 100 hp/mana, 3 stats <CLOAK>  3 agi, 5res all <SHIELD> 7 stam + more", -- [1]
-			"Kokonoe", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kokonoe", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			228, -- [11]
-			"Player-4478-012FFBEF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffKokonoe|r",
-			[51] = 1583165122,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
-		{
-			"wts |cff1eff00|Hitem:12360::::::::60:::::::|h[Arcanite Bar]|h|r 65g", -- [1]
-			"Jörkka", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Jörkka", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			230, -- [11]
-			"Player-4478-01F6C183", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Jörkka|r",
-			[51] = 1583165125,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
-		{
-			"WTS arcanite transmute 5g", -- [1]
-			"Gaelle-Razorgore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Gaelle", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			231, -- [11]
-			"Player-4478-015DB666", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dGaelle|r",
-			[51] = 1583165126,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
-		{
-			"LF TANK STOCKADES", -- [1]
-			"Nyroo-Razorgore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Nyroo", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			233, -- [11]
-			"Player-4478-0249CBFC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Nyroo|r",
-			[51] = 1583165130,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
-		{
-			"WTS |cff1eff00|Hitem:12360::::::::60::::1:3524:::|h[Arcanite Bar]|h|r Transmute", -- [1]
-			"Maxpain", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Maxpain", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			235, -- [11]
-			"Player-4478-0147B394", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edMaxpain|r",
-			[51] = 1583165137,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
-		{
-			"WTS |cffa335ee|Hitem:1443::::::::60:::1::::|h[Jeweled Amulet of Cainwyn]|h|r cheaper than ah", -- [1]
-			"Grøth-Razorgore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Grøth", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			243, -- [11]
-			"Player-4478-01420E70", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Grøth|r",
-			[51] = 1583165163,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
-		{
-			"{star}ENCHANTING{star}: <WEAP: 30sp, 55heal, 15agi, crusader> <BOOT: 7agi, speed> <BRACER: 9stam, 24heal, 7int> <GLOVES: 7agi, 7str, riding, profs> <CHEST: 100hp/mana, 3 stats> <CLOAK:  3agi, res> <SHIELD: 7stam> + more", -- [1]
-			"Kokonoe-Razorgore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kokonoe", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			114, -- [11]
-			"Player-4478-012FFBEF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffKokonoe|r",
-			[51] = 1583251342,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
-		{
-			"WTS |cff0070dd|Hitem:11815::::::::60:::::::|h[Hand of Justice]|h|r boost. You pay 300G when it drops, and you can afk in instance. 10 - 15 min each run!", -- [1]
-			"Kjellern", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kjellern", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			116, -- [11]
-			"Player-4478-023D86BE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Kjellern|r",
-			[51] = 1583251346,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
-		{
-			"WTB arcanite bar transmute!", -- [1]
-			"Aiyena", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Aiyena", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			239, -- [11]
-			"Player-4478-01B14A0A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Aiyena|r",
-			[51] = 1583418856,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
-		{
-			"Citizens and allies of Stormwind, on this day, history has been made. Ayaya has laid waste to that which had attempted to usurp the rule of the kingdom. Gather round and join me in honoring our heroes.", -- [1]
-			"Skutern", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Skutern", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			634, -- [11]
-			"Player-4478-013AD14A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Skutern|r",
-			[51] = 1583692565,
-			[50] = "CHAT_MSG_YELL",
-		}, -- [83]
-		{
-			"WTS |cff0070dd|Hitem:14136::::::::60:::::::|h[Robe of Winter Night]|h|r", -- [1]
-			"Maddas-Razorgore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Maddas", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			650, -- [11]
-			"Player-4478-01564F31", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffMaddas|r",
-			[51] = 1583692609,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
-		{
-			"dps lfg BRD", -- [1]
-			"Elertail-Razorgore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Elertail", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			652, -- [11]
-			"Player-4478-0169213F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffElertail|r",
-			[51] = 1583692622,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
-		{
-			"WTB Edgemaster's Handguards", -- [1]
-			"Mychomizer", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Mychomizer", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			658, -- [11]
-			"Player-4478-02278ABC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dMychomizer|r",
-			[51] = 1583692655,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
-		{
-			"WTB |cff1eff00|Hitem:12360::::::::60:::::::|h[Arcanite Bar]|h|r transmute 5g (I'm at IF bridge)", -- [1]
-			"Politeo", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Politeo", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			663, -- [11]
-			"Player-4478-0160C457", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dPoliteo|r",
-			[51] = 1583692661,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
-		{
-			"CLFG_Network#F0HXCafU#2#3#^T^N1^Subrs^t^SAbbreviation^Subrs^SMinLevel^N55^SName^SUpper~`Blackrock~`Spire^SFaction^SBOTH^SLocation^SBlackrock~`Mountain^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-BLACKROCKSPIRE^SMaxLevel^N60^SSize^N10^t^STitle^SLFM~`", -- [1]
-			"Thogar", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Thogar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			668, -- [11]
-			"Player-4478-01527AE9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaThogar|r",
-			[51] = 1583692665,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
-		{
-			"CLFG_Network#F0HXCafU#3#3#UBRS~`-~`1~`healer^SSource^T^SChannel^SLookingForGroup^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Thogar", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Thogar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			669, -- [11]
-			"Player-4478-01527AE9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaThogar|r",
-			[51] = 1583692665,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
-		{
-			"CLFG_Network#gbXrOFH0#2#3#^T^N1^Subrs^t^SAbbreviation^Subrs^SMinLevel^N55^SName^SUpper~`Blackrock~`Spire^SFaction^SBOTH^SLocation^SBlackrock~`Mountain^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-BLACKROCKSPIRE^SMaxLevel^N60^SSize^N10^t^STitle^SLFM~`", -- [1]
-			"Flync", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Flync", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			670, -- [11]
-			"Player-4478-01920C94", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Flync|r",
-			[51] = 1583692666,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
-		{
-			"CLFG_Network#gbXrOFH0#3#3#UBRS~`-~`1~`healer^SSource^T^SChannel^SLookingForGroup^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Flync", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Flync", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			671, -- [11]
-			"Player-4478-01920C94", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Flync|r",
-			[51] = 1583692666,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
-		{
-			"CLFG_Network#9qjkrl2R#2#3#^T^N1^Subrs^t^SAbbreviation^Subrs^SMinLevel^N55^SName^SUpper~`Blackrock~`Spire^SFaction^SBOTH^SLocation^SBlackrock~`Mountain^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-BLACKROCKSPIRE^SMaxLevel^N60^SSize^N10^t^STitle^SLFM~`", -- [1]
-			"Warkima", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Warkima", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			672, -- [11]
-			"Player-4478-0138562D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edWarkima|r",
-			[51] = 1583692667,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
-		{
-			"CLFG_Network#9qjkrl2R#3#3#UBRS~`-~`1~`healer^SSource^T^SChannel^SLookingForGroup^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
-			"Warkima", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Warkima", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			673, -- [11]
-			"Player-4478-0138562D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edWarkima|r",
-			[51] = 1583692667,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
-		{
-			"CLFG_Network#Xyxfni90#2#3#iations^T^N1^Subrs^t^SAbbreviation^Subrs^SMinLevel^N55^SName^SUpper~`Blackrock~`Spire^SFaction^SBOTH^SLocation^SBlackrock~`Mountain^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-BLACKROCKSPIRE^SMaxLevel^N60^SSize^N10^t^STitle", -- [1]
-			"Tezzin-Razorgore", -- [2]
-			"", -- [3]
-			"4. ClassicLFG", -- [4]
-			"Tezzin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"ClassicLFG", -- [9]
-			0, -- [10]
-			677, -- [11]
-			"Player-4478-01422094", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Tezzin|r",
-			[51] = 1583692671,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
 		{
 			"CLFG_Network#Xyxfni90#3#3#^SLF2M~`heal/dps(mage/warlock)~`UBRS~`Jed/Rend~`run~`already~`got~`Jed~`ID^SSource^T^SChannel^SLookingForGroup^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
 			"Tezzin-Razorgore", -- [2]
@@ -2105,7 +37,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Tezzin|r",
 			[51] = 1583692671,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [1]
 		{
 			"{Star} Agile <8/8 BWL> Recruiting for core roster <> 1x Mage || 1X Fury warrior || 1x holy priest <> Currently clearing Bwl / Mc / ony on same raid night <> Raid Thursdays & Sundays 18:30 ST {Star} ", -- [1]
 			"Dimma", -- [2]
@@ -2127,7 +59,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Dimma|r",
 			[51] = 1583692693,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [2]
 		{
 			"WTB DARNA PORTAL 1 G", -- [1]
 			"Meursault-Razorgore", -- [2]
@@ -2149,7 +81,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Meursault|r",
 			[51] = 1583692699,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [97]
+		}, -- [3]
 		{
 			"dps lfg BRD", -- [1]
 			"Elertail-Razorgore", -- [2]
@@ -2171,7 +103,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffElertail|r",
 			[51] = 1583692716,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [4]
 		{
 			"Mage lfg DM East / Brd jb", -- [1]
 			"Lorvy-Razorgore", -- [2]
@@ -2193,7 +125,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaLorvy|r",
 			[51] = 1583692720,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [99]
+		}, -- [5]
 		{
 			"Boomer :mega: KINGS HONOR!!!!", -- [1]
 			"Alphaah", -- [2]
@@ -2215,7 +147,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dAlphaah|r",
 			[51] = 1583692724,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [100]
+		}, -- [6]
 		{
 			"WTS |cff1eff00|Hitem:18330::::::::60:::11::::|h[Arcanum of Focus]|h|r|cff1eff00|Hitem:11642::::::::60:::11::::|h[Lesser Arcanum of Constitution]|h|r|cff1eff00|Hitem:11622::::::::60:::11::::|h[Lesser Arcanum of Rumination]|h|r|cff1eff00|Hitem:18329::::::::60:::11::::|h[Arcanum of Rapidity]|h|r and |cff1eff00|Hitem:11737::::::::60:::::::|h[Libram of Voracity]|h|r enchant of your choice, i apply to your gear through trade.", -- [1]
 			"Lightspeed", -- [2]
@@ -2237,7 +169,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Lightspeed|r",
 			[51] = 1583692727,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [101]
+		}, -- [7]
 		{
 			"LFM LBRS, TANK HEAL + 1 DPS", -- [1]
 			"Madamefrost", -- [2]
@@ -2259,7 +191,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaMadamefrost|r",
 			[51] = 1583692730,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [102]
+		}, -- [8]
 		{
 			"Boomer :mega: KINGS HONOR!!!!", -- [1]
 			"Alphaah-Razorgore", -- [2]
@@ -2281,7 +213,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dAlphaah|r",
 			[51] = 1583692732,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [103]
+		}, -- [9]
 		{
 			"CLFG_Network#7dQWZECs#2#3#ations^T^N1^Subrs^t^SAbbreviation^Subrs^SMinLevel^N55^SName^SUpper~`Blackrock~`Spire^SFaction^SBOTH^SLocation^SBlackrock~`Mountain^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-BLACKROCKSPIRE^SMaxLevel^N60^SSize^N10^t^STitle^", -- [1]
 			"Rasmusbekker", -- [2]
@@ -2303,7 +235,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dRasmusbekker|r",
 			[51] = 1583692742,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [104]
+		}, -- [10]
 		{
 			"CLFG_Network#7dQWZECs#3#3#SLF2M~`heal/dps(mage/warlock)~`UBRS~`Jed/Rend~`run~`already~`got~`Jed~`ID^SSource^T^SChannel^SLookingForGroup^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
 			"Rasmusbekker", -- [2]
@@ -2325,7 +257,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dRasmusbekker|r",
 			[51] = 1583692742,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [105]
+		}, -- [11]
 		{
 			"LFM LBRS, TANK HEAL + 1 DPS", -- [1]
 			"Madamefrost-Razorgore", -- [2]
@@ -2347,7 +279,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaMadamefrost|r",
 			[51] = 1583692752,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [106]
+		}, -- [12]
 		{
 			"CLFG_Network#5nQaiDgZ#2#3#s^T^N1^Smc^t^SAbbreviation^Smc^SMinLevel^N60^SName^SMolten~`Core^SFaction^SBOTH^SLocation^SBlackrock~`Depths^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-MOLTENCORE^SMaxLevel^N60^SSize^N40^t^STitle^SLFM~`MC~`Guild~`clear~`to", -- [1]
 			"Rivx", -- [2]
@@ -2369,7 +301,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRivx|r",
 			[51] = 1583692756,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [107]
+		}, -- [13]
 		{
 			"CLFG_Network#5nQaiDgZ#3#3#night.~`Need~`1~`WARLOCK~`2~`DPS~`(No~`mage/warrs/hunts)^SSource^T^SChannel^SLookingForGroup^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
 			"Rivx", -- [2]
@@ -2391,7 +323,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRivx|r",
 			[51] = 1583692756,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [108]
+		}, -- [14]
 		{
 			"WTB Assassination Blade", -- [1]
 			"Stretbossen", -- [2]
@@ -2413,7 +345,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Stretbossen|r",
 			[51] = 1583692777,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [109]
+		}, -- [15]
 		{
 			"LFM Scholomance 2 dps", -- [1]
 			"Angryfuccere", -- [2]
@@ -2435,7 +367,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaAngryfuccere|r",
 			[51] = 1583692817,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [110]
+		}, -- [16]
 		{
 			"<Xstream> is hosting MC tonight. Need 2-3 DPS(locks or rogues). Raid starts when we are full. MS>OS +1 loot system. Mats, Patterns, Legendaries reserved. /w me for inv. (38/40)", -- [1]
 			"Tigraine-Razorgore", -- [2]
@@ -2457,7 +389,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aTigraine|r",
 			[51] = 1583692826,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [111]
+		}, -- [17]
 		{
 			"{Star} Agile <8/8 BWL> Recruiting for core roster <> 1x Mage || 1X Fury warrior || 1x holy priest <> Currently clearing Bwl / Mc / ony on same raid night <> Raid Thursdays & Sundays 18:30 ST {Star} ", -- [1]
 			"Dimma-Razorgore", -- [2]
@@ -2479,7 +411,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Dimma|r",
 			[51] = 1583705629,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [112]
+		}, -- [18]
 		{
 			"♥♥♥ Do you need an enchant? I can make it for you in any capital city! Just bring mats and tip! ♥♥♥", -- [1]
 			"Itta", -- [2]
@@ -2501,7 +433,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaItta|r",
 			[51] = 1583705630,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [113]
+		}, -- [19]
 		{
 			"wtb portal to darnassus", -- [1]
 			"Ilikefudki", -- [2]
@@ -2523,7 +455,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaIlikefudki|r",
 			[51] = 1583769935,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [114]
+		}, -- [20]
 		{
 			"WTB Lotus", -- [1]
 			"Laleh-Razorgore", -- [2]
@@ -2545,7 +477,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Laleh|r",
 			[51] = 1583857472,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [115]
+		}, -- [21]
 		{
 			"WTS |cffa335ee|Hitem:18401::::::::60:::::::|h[Foror's Compendium of Dragon Slaying]|h|r 170g", -- [1]
 			"Särmä", -- [2]
@@ -2567,7 +499,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dSärmä|r",
 			[51] = 1583857518,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [116]
+		}, -- [22]
 		{
 			"WTB IF PORTAL 1G", -- [1]
 			"Pipeprinsen-Razorgore", -- [2]
@@ -2589,7 +521,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPipeprinsen|r",
 			[51] = 1583857552,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [117]
+		}, -- [23]
 		{
 			"WTB boost in stockades", -- [1]
 			"Baddaren", -- [2]
@@ -2611,7 +543,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaBaddaren|r",
 			[51] = 1583857621,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [118]
+		}, -- [24]
 		{
 			"any1 up for 3 rolls game or deathrolls?", -- [1]
 			"Recaio-Razorgore", -- [2]
@@ -2633,7 +565,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaRecaio|r",
 			[51] = 1583946708,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [119]
+		}, -- [25]
 		{
 			"healer lfg BRD", -- [1]
 			"Elertail-Razorgore", -- [2]
@@ -2655,7 +587,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffElertail|r",
 			[51] = 1583946717,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [120]
+		}, -- [26]
 		{
 			"WTB|cffffffff|Hitem:15416::::::::60:::::::|h[Black Dragonscale]|h|r", -- [1]
 			"Loket-Razorgore", -- [2]
@@ -2677,7 +609,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dLoket|r",
 			[51] = 1583946737,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [121]
+		}, -- [27]
 		{
 			"WTS |cffa335ee|Hitem:18510::::::::60::::1:3524:::|h[Hide of the Wild]|h|r|cffa335ee|Hitem:19162::::::::60::::1:3524:::|h[Corehound Belt]|h|r", -- [1]
 			"Emhyrr", -- [2]
@@ -2699,7 +631,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Emhyrr|r",
 			[51] = 1583946743,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [122]
+		}, -- [28]
 		{
 			"WTS |cffffffff|Hitem:13510::::::::2:::::::|h[Flask of the Titans]|h|r", -- [1]
 			"Ashbank", -- [2]
@@ -2721,7 +653,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dAshbank|r",
 			[51] = 1583946765,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [123]
+		}, -- [29]
 		{
 			"LF mage running ZF boosts", -- [1]
 			"Rizzax", -- [2]
@@ -2743,7 +675,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dRizzax|r",
 			[51] = 1583946773,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [124]
+		}, -- [30]
 		{
 			"lf enchanter +3 stats", -- [1]
 			"Mckenz-Razorgore", -- [2]
@@ -2765,7 +697,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dMckenz|r",
 			[51] = 1583946779,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [125]
+		}, -- [31]
 		{
 			"WTB |cffa335ee|Hitem:2244::::::::60:::1::::|h[Krol Blade]|h|r 220g ", -- [1]
 			"Qualitea-Razorgore", -- [2]
@@ -2787,7 +719,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffQualitea|r",
 			[51] = 1584032021,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [126]
+		}, -- [32]
 		{
 			"wts |cff0070dd|Hitem:19231::::::::60:::::::|h[Three of Beasts]|h|r cheaper than ah / |cffffffff|Hitem:13446::::::::60:::::::|h[Major Healing Potion]|h|r - 4.5g per stack", -- [1]
 			"Crafy", -- [2]
@@ -2808,6 +740,2074 @@ ElvCharacterDB = {
 			false, -- [17]
 			[52] = "|cff3fc6eaCrafy|r",
 			[51] = 1584032026,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [33]
+		{
+			"WTS |cffffffff|Hitem:13511::::::::60:::::::|h[Flask of Distilled Wisdom]|h|r|cffffffff|Hitem:13452::::::::60::::1:3524:::|h[Elixir of the Mongoose]|h|r cheaper than AH", -- [1]
+			"Rumbel", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Rumbel", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			89, -- [11]
+			"Player-4478-014B5EC8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dRumbel|r",
+			[51] = 1584229671,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [34]
+		{
+			"WTB [Male Gnome]", -- [1]
+			"Eloah-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Eloah", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			93, -- [11]
+			"Player-4478-01FCA1F2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaEloah|r",
+			[51] = 1584229682,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [35]
+		{
+			"LFG DM:N / UBRS / BRD (Arena)", -- [1]
+			"Powerfuk-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Powerfuk", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			94, -- [11]
+			"Player-4478-019AB4C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dPowerfuk|r",
+			[51] = 1584229685,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [36]
+		{
+			"WTS |cff1eff00|Hitem:11644::::::::60:::11::::|h[Lesser Arcanum of Resilience]|h|r|cff1eff00|Hitem:11622::::::::60:::11::::|h[Lesser Arcanum of Rumination]|h|r|cff1eff00|Hitem:18330::::::::60:::11::::|h[Arcanum of Focus]|h|rand |cff1eff00|Hitem:11737::::::::60:::::::|h[Libram of Voracity]|h|renchant of your choice. i apply to gear through trade.", -- [1]
+			"Lightspeed-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Lightspeed", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			95, -- [11]
+			"Player-4478-0169CF3F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Lightspeed|r",
+			[51] = 1584229688,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [37]
+		{
+			"WTB +4 STATS EN ", -- [1]
+			"Stampeede", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Stampeede", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			380, -- [11]
+			"Player-4478-01F794FC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dStampeede|r",
+			[51] = 1584271917,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [38]
+		{
+			"Enchanter LFW. Weapon: +15 Agility / +30 Spellpower / +55 Healing / Crusader. 2H: 9 int / dmg / spirit. Chest: 100 Mana / Health. Bracer: +24 Healing / 4 mp5 / +9 str/stam / Spirit / +7 int. Gloves: Riding skill/+7 agi/str. +5 res Cloak and more  :)", -- [1]
+			"Diavely", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Diavely", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			384, -- [11]
+			"Player-4478-01A14CAC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edDiavely|r",
+			[51] = 1584271920,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [39]
+		{
+			"LFM TANK - SUNKEN TEMPLE (good group for quests with 60 mage)", -- [1]
+			"Yrhättan-Razorgore", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Yrhättan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			411, -- [11]
+			"Player-4478-01A5372A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aYrhättan|r",
+			[51] = 1584271944,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [40]
+		{
+			"WTB DARNA PORT 1G", -- [1]
+			"Eniggma-Razorgore", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Eniggma", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2821, -- [11]
+			"Player-4478-01346476", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Eniggma|r",
+			[51] = 1584307866,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [41]
+		{
+			"WTB STOCKADES boost / pm me", -- [1]
+			"Acaster", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Acaster", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2826, -- [11]
+			"Player-4478-0235DC69", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaAcaster|r",
+			[51] = 1584307905,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [42]
+		{
+			"WTB STOCKADES boost / pm me", -- [1]
+			"Acaster-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Acaster", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2831, -- [11]
+			"Player-4478-0235DC69", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaAcaster|r",
+			[51] = 1584307923,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [43]
+		{
+			"WTB stockade boost", -- [1]
+			"Manàaddict", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Manàaddict", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2833, -- [11]
+			"Player-4478-0239B37C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Manàaddict|r",
+			[51] = 1584307927,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [44]
+		{
+			"|cff1eff00|Hitem:20520::::::::60:::::::|h[Dark Rune]|h|rs in bulk /w me", -- [1]
+			"Mudswtf", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mudswtf", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2839, -- [11]
+			"Player-4478-01E7A196", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaMudswtf|r",
+			[51] = 1584307949,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [45]
+		{
+			"wanting to tag along a stockades boost for free cuz II'm poor", -- [1]
+			"Naxs-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Naxs", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2840, -- [11]
+			"Player-4478-02265734", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaNaxs|r",
+			[51] = 1584307951,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [46]
+		{
+			"WTS |cffffffff|Hitem:7676::::::::1:::::::|h[Thistle Tea]|h|r CHEAPER THAN AH", -- [1]
+			"Brybanktwo", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Brybanktwo", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2842, -- [11]
+			"Player-4478-01F92EAB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dBrybanktwo|r",
+			[51] = 1584307954,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [47]
+		{
+			"WTB DARNA PORT 1G", -- [1]
+			"Eniggma-Razorgore", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Eniggma", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2843, -- [11]
+			"Player-4478-01346476", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Eniggma|r",
+			[51] = 1584307957,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [48]
+		{
+			"WTS [Elemental Mage Staff] Much cheaper then AH!", -- [1]
+			"Rizzer", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Rizzer", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			510, -- [11]
+			"Player-4478-01FAD463", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dRizzer|r",
+			[51] = 1584395077,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [49]
+		{
+			"WTB |cff1eff00|Hitem:12363::::::::60:::::::|h[Arcane Crystal]|h|r transmute", -- [1]
+			"Fraublücher", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Fraublücher", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			518, -- [11]
+			"Player-4478-014C1F15", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dFraublücher|r",
+			[51] = 1584395087,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [50]
+		{
+			"WTS |cffa335ee|Hitem:16819::::::::60:::::::|h[Vambraces of Prophecy]|h|r /w me", -- [1]
+			"Kiiroitori", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kiiroitori", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			520, -- [11]
+			"Player-4478-01FFA071", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffKiiroitori|r",
+			[51] = 1584395089,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [51]
+		{
+			"!Enchanter LFW!  [Weapon]  +55 Healing +30 Spellpower [Bracer]  +24 Healing 9str/9stam [boots]  +5 spi/7agi/7stam/minor speed [Cloak]  +5 All res/7 fire res [Gloves] +7agi/+5 Herb", -- [1]
+			"Daqrou", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Daqrou", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			10, -- [11]
+			"Player-4478-013F42AB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaDaqrou|r",
+			[51] = 1584545734,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [52]
+		{
+			"Healer LFG Gnom", -- [1]
+			"Onevoice-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Onevoice", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			14, -- [11]
+			"Player-4478-024D28BC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffOnevoice|r",
+			[51] = 1584545742,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [53]
+		{
+			"WTS 40 x |cffffffff|Hitem:13465::::::::60:::::::|h[Mountain Silversage]|h|r", -- [1]
+			"Torkir", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Torkir", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			16, -- [11]
+			"Player-4478-014781D6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aTorkir|r",
+			[51] = 1584545744,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [54]
+		{
+			"WTS |cff1eff00|Hitem:11206::::::::60:::::::|h[Formula: Enchant Cloak - Lesser Agility]|h|r", -- [1]
+			"Venyu-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Venyu", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			21, -- [11]
+			"Player-4478-0220665F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaVenyu|r",
+			[51] = 1584545761,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [55]
+		{
+			"WTB |cffffffff|Hitem:13928::::::::60:::::::|h[Grilled Squid]|h|r Stacks !", -- [1]
+			"Que-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Que", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5, -- [11]
+			"Player-4478-0207FDA4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Que|r",
+			[51] = 1584631833,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [56]
+		{
+			"Krovak's enchanting shop is now open: <Weapon -  SP, Crus, Int, Fiery, Icy, Winter, +9 2h> <Boots - Agi, Speed> <Bracer - Sta, Str, Healing><Gloves - Str, Agi, Riding> And More! Bring Mats and fee.", -- [1]
+			"Krovak-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Krovak", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			15, -- [11]
+			"Player-4478-013B21EB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaKrovak|r",
+			[51] = 1584631852,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [57]
+		{
+			"Wtb Arcanite transmute. wisp me", -- [1]
+			"Thurisoz", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Thurisoz", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4964, -- [11]
+			"Player-4478-021F0D95", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThurisoz|r",
+			[51] = 1584890907,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [58]
+		{
+			"PO TA TO", -- [1]
+			"Mbop-Razorgore", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Mbop", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4973, -- [11]
+			"Player-4478-015DFC7E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaMbop|r",
+			[51] = 1584890913,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [59]
+		{
+			"mash em boil em put em in a stew", -- [1]
+			"Mashpotato-Razorgore", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Mashpotato", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4978, -- [11]
+			"Player-4478-01558F50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dMashpotato|r",
+			[51] = 1584890921,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [60]
+		{
+			"LFG stratholme live ", -- [1]
+			"Utvald", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Utvald", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4979, -- [11]
+			"Player-4478-012DA0E0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Utvald|r",
+			[51] = 1584890921,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [61]
+		{
+			"enchanter LFW", -- [1]
+			"Dijana", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dijana", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5264, -- [11]
+			"Player-4478-01565BD5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aDijana|r",
+			[51] = 1584891298,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [62]
+		{
+			"WTS |cffa335ee|Hitem:873::::::::60:::1::::|h[Staff of Jordan]|h|r |cffa335ee|Hitem:2099::::::::60:::1::::|h[Dwarven Hand Cannon]|h|r", -- [1]
+			"Halgor", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Halgor", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			906, -- [11]
+			"Player-4478-0154F6F8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffHalgor|r",
+			[51] = 1584979428,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [63]
+		{
+			"LFM DM East", -- [1]
+			"Septicus", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Septicus", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4948, -- [11]
+			"Player-4478-01C6F960", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaSepticus|r",
+			[51] = 1585161823,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [64]
+		{
+			"WTS |cff0070dd|Hitem:13060::::::::60:::::::|h[The Needler]|h|r cheap!!", -- [1]
+			"Glomerulus-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Glomerulus", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4955, -- [11]
+			"Player-4478-02389327", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Glomerulus|r",
+			[51] = 1585161832,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [65]
+		{
+			"wts |cff1eff00|Hitem:20520::::::::1:::::::|h[Dark Rune]|h|rs 300x bulk price available", -- [1]
+			"ßankßitch-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"ßankßitch", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4960, -- [11]
+			"Player-4478-019436A7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468ßankßitch|r",
+			[51] = 1585161839,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [66]
+		{
+			"Enchanter LFW +30 Spellpower. It's good for immunity system.", -- [1]
+			"Kokcu", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kokcu", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4207, -- [11]
+			"Player-4478-023192DA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Kokcu|r",
+			[51] = 1585255375,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [67]
+		{
+			"SELLING STACKS OF |cffffffff|Hitem:14047::::::::1:::::::|h[Runecloth]|h|r 1.60 each stack", -- [1]
+			"Chinchilla", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Chinchilla", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4208, -- [11]
+			"Player-4478-01D1516E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaChinchilla|r",
+			[51] = 1585255388,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [68]
+		{
+			"wts |cffa335ee|Hitem:14552::::::::1:::::::|h[Stockade Pauldrons]|h|r", -- [1]
+			"Macbankish-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Macbankish", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4209, -- [11]
+			"Player-4478-0208DB08", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffMacbankish|r",
+			[51] = 1585255391,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [69]
+		{
+			"LF2M 19 Twinks for 10/10 Premade WSG!", -- [1]
+			"Theyzha", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Theyzha", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4211, -- [11]
+			"Player-4478-01DE92E9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Theyzha|r",
+			[51] = 1585255406,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [70]
+		{
+			"CLFG_Network#C35TnRXR#2#3#n^T^SAbbreviations^T^t^SAbbreviation^S^SMinLevel^N1^SName^SCustom^SFaction^SBOTH^SLocation^SEverywhere^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-BREW^SMaxLevel^N120^SSize^N40^t^STitle^SLFM~`SM(gy+lib)~`1tank~`last~`spot^S", -- [1]
+			"Rivx", -- [2]
+			"", -- [3]
+			"4. ClassicLFG", -- [4]
+			"Rivx", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"ClassicLFG", -- [9]
+			0, -- [10]
+			5587, -- [11]
+			"Player-4478-014D1806", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffRivx|r",
+			[51] = 1585493125,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [71]
+		{
+			"CLFG_Network#C35TnRXR#3#3#Source^T^SChannel^SLookingForGroup^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
+			"Rivx", -- [2]
+			"", -- [3]
+			"4. ClassicLFG", -- [4]
+			"Rivx", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"ClassicLFG", -- [9]
+			0, -- [10]
+			5588, -- [11]
+			"Player-4478-014D1806", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffRivx|r",
+			[51] = 1585493125,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [72]
+		{
+			"LF 100HP libram ", -- [1]
+			"Alkpote", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Alkpote", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5600, -- [11]
+			"Player-4478-025175C8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffAlkpote|r",
+			[51] = 1585493135,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [73]
+		{
+			"CLFG_Network#3ylSFMXy#2#3#ns^T^N1^Slib^N2^Slibrary^N3^Sbücherrei^N4^Sbib^N5^Sbibi^N6^Sbiblio^t^SAbbreviation^Slibrary^SMinLevel^N29^SName^SThe~`Scarlet~`Monastery:~`Library^SFaction^SBOTH^SLocation^STirisfal~`Glades^SBackground^SInterface\\LFGFRAME\\UI-LFG", -- [1]
+			"Rivx-Razorgore", -- [2]
+			"", -- [3]
+			"4. ClassicLFG", -- [4]
+			"Rivx", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"ClassicLFG", -- [9]
+			0, -- [10]
+			5636, -- [11]
+			"Player-4478-014D1806", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffRivx|r",
+			[51] = 1585493190,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [74]
+		{
+			"CLFG_Network#3ylSFMXy#3#3#-BACKGROUND-SCARLETMONASTERY^SMaxLevel^N39^SSize^N5^t^STitle^SLFM~`1~`dps~`SM~`lib^SSource^T^SChannel^Sworld^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
+			"Rivx-Razorgore", -- [2]
+			"", -- [3]
+			"4. ClassicLFG", -- [4]
+			"Rivx", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"ClassicLFG", -- [9]
+			0, -- [10]
+			5637, -- [11]
+			"Player-4478-014D1806", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffRivx|r",
+			[51] = 1585493190,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [75]
+		{
+			"CLFG_Network#C6r67fAS#2#3#s^T^N1^Slib^N2^Slibrary^N3^Sbücherrei^N4^Sbib^N5^Sbibi^N6^Sbiblio^t^SAbbreviation^Slibrary^SMinLevel^N29^SName^SThe~`Scarlet~`Monastery:~`Library^SFaction^SBOTH^SLocation^STirisfal~`Glades^SBackground^SInterface\\LFGFRAME\\UI-LFG-", -- [1]
+			"Yuzki-Razorgore", -- [2]
+			"", -- [3]
+			"4. ClassicLFG", -- [4]
+			"Yuzki", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"ClassicLFG", -- [9]
+			0, -- [10]
+			5639, -- [11]
+			"Player-4478-0250EB2E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Yuzki|r",
+			[51] = 1585493192,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [76]
+		{
+			"CLFG_Network#C6r67fAS#3#3#BACKGROUND-SCARLETMONASTERY^SMaxLevel^N39^SSize^N5^t^STitle^SLFM~`1~`dps~`SM~`lib^SSource^T^SChannel^Sworld^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
+			"Yuzki-Razorgore", -- [2]
+			"", -- [3]
+			"4. ClassicLFG", -- [4]
+			"Yuzki", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"ClassicLFG", -- [9]
+			0, -- [10]
+			5640, -- [11]
+			"Player-4478-0250EB2E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Yuzki|r",
+			[51] = 1585493192,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [77]
+		{
+			"CLFG_Network#p10BoRvw#2#3#ons^T^N1^Sdm^N2^Sdm:n^N3^Sdm:e^N4^Sdm:w^t^SAbbreviation^Sdm^SMinLevel^N55^SName^SDire~`Maul^SFaction^SBOTH^SLocation^SFeralas^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-BLACKROCKSPIRE^SMaxLevel^N60^SSize^N5^t^STitle^SLF~`T", -- [1]
+			"Benk", -- [2]
+			"", -- [3]
+			"4. ClassicLFG", -- [4]
+			"Benk", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"ClassicLFG", -- [9]
+			0, -- [10]
+			5641, -- [11]
+			"Player-4478-01455C23", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Benk|r",
+			[51] = 1585493193,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [78]
+		{
+			"CLFG_Network#p10BoRvw#3#3#Ank~`and~`Dps(rogue)~`DM~`T^SSource^T^SChannel^Sworld^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
+			"Benk", -- [2]
+			"", -- [3]
+			"4. ClassicLFG", -- [4]
+			"Benk", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"ClassicLFG", -- [9]
+			0, -- [10]
+			5642, -- [11]
+			"Player-4478-01455C23", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Benk|r",
+			[51] = 1585493193,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [79]
+		{
+			"CLFG_Network#9A5U5dok#2#3#T^N1^Sarm^N2^Swaffenkammer^N3^Swk^t^SAbbreviation^Sarmory^SMinLevel^N32^SName^SThe~`Scarlet~`Monastery:~`Armory^SFaction^SBOTH^SLocation^STirisfal~`Glades^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-SCARLETMONASTERY^SMaxLev", -- [1]
+			"Thefirstfool", -- [2]
+			"", -- [3]
+			"4. ClassicLFG", -- [4]
+			"Thefirstfool", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"ClassicLFG", -- [9]
+			0, -- [10]
+			5643, -- [11]
+			"Player-4478-020E81A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThefirstfool|r",
+			[51] = 1585493193,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [80]
+		{
+			"CLFG_Network#9A5U5dok#3#3#el^N42^SSize^N5^t^STitle^SLFM~`SM~`arm~`or~`cat^SSource^T^SChannel^Sworld^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
+			"Thefirstfool", -- [2]
+			"", -- [3]
+			"4. ClassicLFG", -- [4]
+			"Thefirstfool", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"ClassicLFG", -- [9]
+			0, -- [10]
+			5644, -- [11]
+			"Player-4478-020E81A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dThefirstfool|r",
+			[51] = 1585493193,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [81]
+		{
+			"CLFG_Network#Zd8Kjans#2#3#ns^T^N1^Slib^N2^Slibrary^N3^Sbücherrei^N4^Sbib^N5^Sbibi^N6^Sbiblio^t^SAbbreviation^Slibrary^SMinLevel^N29^SName^SThe~`Scarlet~`Monastery:~`Library^SFaction^SBOTH^SLocation^STirisfal~`Glades^SBackground^SInterface\\LFGFRAME\\UI-LFG", -- [1]
+			"Rasmusbekker-Razorgore", -- [2]
+			"", -- [3]
+			"4. ClassicLFG", -- [4]
+			"Rasmusbekker", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"ClassicLFG", -- [9]
+			0, -- [10]
+			5647, -- [11]
+			"Player-4478-01E12A25", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dRasmusbekker|r",
+			[51] = 1585493193,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [82]
+		{
+			"CLFG_Network#Zd8Kjans#3#3#-BACKGROUND-SCARLETMONASTERY^SMaxLevel^N39^SSize^N5^t^STitle^SLFM~`1~`dps~`SM~`lib^SSource^T^SChannel^Sworld^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
+			"Rasmusbekker-Razorgore", -- [2]
+			"", -- [3]
+			"4. ClassicLFG", -- [4]
+			"Rasmusbekker", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"ClassicLFG", -- [9]
+			0, -- [10]
+			5648, -- [11]
+			"Player-4478-01E12A25", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dRasmusbekker|r",
+			[51] = 1585493193,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [83]
+		{
+			"CLFG_Network#EXaGJfYW#2#3#ations^T^N1^Sdm^N2^Sdm:n^N3^Sdm:e^N4^Sdm:w^t^SAbbreviation^Sdm^SMinLevel^N55^SName^SDire~`Maul^SFaction^SBOTH^SLocation^SFeralas^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-BLACKROCKSPIRE^SMaxLevel^N60^SSize^N5^t^STitle^SLF", -- [1]
+			"Potatismos", -- [2]
+			"", -- [3]
+			"4. ClassicLFG", -- [4]
+			"Potatismos", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"ClassicLFG", -- [9]
+			0, -- [10]
+			5649, -- [11]
+			"Player-4478-012E4D3D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffPotatismos|r",
+			[51] = 1585493195,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [84]
+		{
+			"CLFG_Network#EXaGJfYW#3#3#~`TAnk~`and~`Dps(rogue)~`DM~`T^SSource^T^SChannel^Sworld^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
+			"Potatismos", -- [2]
+			"", -- [3]
+			"4. ClassicLFG", -- [4]
+			"Potatismos", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"ClassicLFG", -- [9]
+			0, -- [10]
+			5650, -- [11]
+			"Player-4478-012E4D3D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffPotatismos|r",
+			[51] = 1585493195,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [85]
+		{
+			"CLFG_Network#AFTHVASe#2#3#ons^T^N1^Slib^N2^Slibrary^N3^Sbücherrei^N4^Sbib^N5^Sbibi^N6^Sbiblio^t^SAbbreviation^Slibrary^SMinLevel^N29^SName^SThe~`Scarlet~`Monastery:~`Library^SFaction^SBOTH^SLocation^STirisfal~`Glades^SBackground^SInterface\\LFGFRAME\\UI-LF", -- [1]
+			"Shadowlul", -- [2]
+			"", -- [3]
+			"4. ClassicLFG", -- [4]
+			"Shadowlul", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"ClassicLFG", -- [9]
+			0, -- [10]
+			5651, -- [11]
+			"Player-4478-0239CAD1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffShadowlul|r",
+			[51] = 1585493195,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [86]
+		{
+			"CLFG_Network#AFTHVASe#3#3#G-BACKGROUND-SCARLETMONASTERY^SMaxLevel^N39^SSize^N5^t^STitle^SLFM~`1~`dps~`SM~`lib^SSource^T^SChannel^Sworld^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
+			"Shadowlul", -- [2]
+			"", -- [3]
+			"4. ClassicLFG", -- [4]
+			"Shadowlul", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"ClassicLFG", -- [9]
+			0, -- [10]
+			5652, -- [11]
+			"Player-4478-0239CAD1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffShadowlul|r",
+			[51] = 1585493195,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [87]
+		{
+			"CLFG_Network#Vt2dHVEy#2#3#s^T^N1^Sarm^N2^Swaffenkammer^N3^Swk^t^SAbbreviation^Sarmory^SMinLevel^N32^SName^SThe~`Scarlet~`Monastery:~`Armory^SFaction^SBOTH^SLocation^STirisfal~`Glades^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-SCARLETMONASTERY^SMaxL", -- [1]
+			"Sunnifurious", -- [2]
+			"", -- [3]
+			"4. ClassicLFG", -- [4]
+			"Sunnifurious", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"ClassicLFG", -- [9]
+			0, -- [10]
+			5653, -- [11]
+			"Player-4478-018EEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aSunnifurious|r",
+			[51] = 1585493196,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [88]
+		{
+			"CLFG_Network#Vt2dHVEy#3#3#evel^N42^SSize^N5^t^STitle^SLFM~`SM~`arm~`or~`cat^SSource^T^SChannel^Sworld^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
+			"Sunnifurious", -- [2]
+			"", -- [3]
+			"4. ClassicLFG", -- [4]
+			"Sunnifurious", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"ClassicLFG", -- [9]
+			0, -- [10]
+			5654, -- [11]
+			"Player-4478-018EEB8B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aSunnifurious|r",
+			[51] = 1585493196,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [89]
+		{
+			"CLFG_Network#uijrajUF#2#3#iations^T^t^SAbbreviation^S^SMinLevel^N1^SName^SCustom^SFaction^SBOTH^SLocation^SEverywhere^SBackground^SInterface\\LFGFRAME\\UI-LFG-BACKGROUND-BREW^SMaxLevel^N120^SSize^N40^t^STitle^SLFM~`SM(gy+lib)~`1tank~`last~`spot^SSource^T^SC", -- [1]
+			"Whocankillme", -- [2]
+			"", -- [3]
+			"4. ClassicLFG", -- [4]
+			"Whocankillme", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"ClassicLFG", -- [9]
+			0, -- [10]
+			5656, -- [11]
+			"Player-4478-0171D025", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaWhocankillme|r",
+			[51] = 1585493198,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [90]
+		{
+			"CLFG_Network#uijrajUF#3#3#hannel^Sworld^SType^SCHAT^t^SMembers^T^SItems^T^SHead^T^SIsHead^B^t^t^SSize^N0^t^t^t^^", -- [1]
+			"Whocankillme", -- [2]
+			"", -- [3]
+			"4. ClassicLFG", -- [4]
+			"Whocankillme", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"ClassicLFG", -- [9]
+			0, -- [10]
+			5657, -- [11]
+			"Player-4478-0171D025", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaWhocankillme|r",
+			[51] = 1585493198,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [91]
+		{
+			"same question", -- [1]
+			"Flashhi", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Flashhi", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5700, -- [11]
+			"Player-4478-02545A1C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaFlashhi|r",
+			[51] = 1585493260,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"DPS LFG Strat Live/Scholo, Can heal aswell", -- [1]
+			"Kríllol-Razorgore", -- [2]
+			"", -- [3]
+			"1. General - Stormwind City", -- [4]
+			"Kríllol", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Stormwind City", -- [9]
+			0, -- [10]
+			5701, -- [11]
+			"Player-4478-021A87B3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaKríllol|r",
+			[51] = 1585493295,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [93]
+		{
+			"LF3M UBRS NEED TANK HEALER AND MAGE", -- [1]
+			"Kilera-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kilera", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			352, -- [11]
+			"Player-4478-025028CA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dKilera|r",
+			[51] = 1585578688,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"WTB |cffffffff|Hitem:7070::::::::6:::::::|h[Elemental Water]|h|r|cffffffff|Hitem:7070::::::::6:::::::|h[Elemental Water]|h|r", -- [1]
+			"Yesus", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Yesus", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5534, -- [11]
+			"Player-4478-01BBF4FF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aYesus|r",
+			[51] = 1585604331,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"+1 dps Stockade", -- [1]
+			"Faneshamanu", -- [2]
+			"", -- [3]
+			"1. General - Stormwind City", -- [4]
+			"Faneshamanu", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Stormwind City", -- [9]
+			0, -- [10]
+			5540, -- [11]
+			"Player-4478-02109EA0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaFaneshamanu|r",
+			[51] = 1585604337,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"LF DPS AND TANK STOCKADE", -- [1]
+			"Klog-Razorgore", -- [2]
+			"", -- [3]
+			"1. General - Stormwind City", -- [4]
+			"Klog", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Stormwind City", -- [9]
+			0, -- [10]
+			5552, -- [11]
+			"Player-4478-01D130A0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dKlog|r",
+			[51] = 1585604357,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"Healer LF Stockade ", -- [1]
+			"Finaplix-Razorgore", -- [2]
+			"", -- [3]
+			"1. General - Stormwind City", -- [4]
+			"Finaplix", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Stormwind City", -- [9]
+			0, -- [10]
+			5562, -- [11]
+			"Player-4478-025A1A9B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaFinaplix|r",
+			[51] = 1585604371,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"-= TitaniumBay =- Get your gold now. Fast and Secure! Delivery 5-10 min.", -- [1]
+			"Vauvicit", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Vauvicit", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4, -- [11]
+			"Player-4478-025BAED1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaVauvicit|r",
+			[51] = 1585750286,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [99]
+		{
+			"LFM Stockades", -- [1]
+			"Derkdeclerck", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Derkdeclerck", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			6318, -- [11]
+			"Player-4478-025560B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffDerkdeclerck|r",
+			[51] = 1585761962,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [100]
+		{
+			"WTS |cff1eff00|Hitem:10246::::::1864:756900736:1:::::::|h[Master's Vest of Shadow Wrath]|h|r, |cff1eff00|Hitem:10246::::::1979:1020335872:1:::::::|h[Master's Vest of Frozen Wrath]|h|r, |cff1eff00|Hitem:10253::::::1970:902126464:1:::::::|h[Master's Mantle of Frozen Wrath]|h|r", -- [1]
+			"Capital", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Capital", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			6322, -- [11]
+			"Player-4478-0145DB3D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaCapital|r",
+			[51] = 1585761965,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [101]
+		{
+			"WTS |cffa335ee|Hitem:16804::::::::1:::::::|h[Felheart Bracers]|h|r", -- [1]
+			"Capital-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Capital", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			6326, -- [11]
+			"Player-4478-0145DB3D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaCapital|r",
+			[51] = 1585761970,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [102]
+		{
+			"trade me 1g to reach enlightenment!", -- [1]
+			"Unstoppawble-Razorgore", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Unstoppawble", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6354, -- [11]
+			"Player-4478-0141FBB3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aUnstoppawble|r",
+			[51] = 1585762003,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [103]
+		{
+			"Tank LFG MC Pug", -- [1]
+			"Redbullsugar-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Redbullsugar", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			6370, -- [11]
+			"Player-4478-01404091", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dRedbullsugar|r",
+			[51] = 1585762031,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [104]
+		{
+			"LF ENCHANTER fier weapon", -- [1]
+			"Hookahplace", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hookahplace", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			6374, -- [11]
+			"Player-4478-0251F05B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Hookahplace|r",
+			[51] = 1585762033,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [105]
+		{
+			"LFG Strat Living - can heal or tank", -- [1]
+			"Novali", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Novali", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			6376, -- [11]
+			"Player-4478-019B4958", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aNovali|r",
+			[51] = 1585762040,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [106]
+		{
+			"LFM Stockades", -- [1]
+			"Derkdeclerck-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Derkdeclerck", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			6377, -- [11]
+			"Player-4478-025560B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffDerkdeclerck|r",
+			[51] = 1585762042,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [107]
+		{
+			"TAYA", -- [1]
+			"Driftar-Razorgore", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Driftar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6382, -- [11]
+			"Player-4478-01E2CBD2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaDriftar|r",
+			[51] = 1585762059,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [108]
+		{
+			"lF last |cffffffff|Hitem:14342::::::::60:::::::|h[Mooncloth]|h|r crafter  paying 10 gold ,portals food , water :P", -- [1]
+			"Bukefal-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Bukefal", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			6384, -- [11]
+			"Player-4478-0233BACC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaBukefal|r",
+			[51] = 1585762064,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [109]
+		{
+			"I HAVE WORK FOR YOU", -- [1]
+			"Driftar-Razorgore", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Driftar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6385, -- [11]
+			"Player-4478-01E2CBD2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaDriftar|r",
+			[51] = 1585762066,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [110]
+		{
+			"wts |cffa335ee|Hitem:16819::::::::1:::::::|h[Vambraces of Prophecy]|h|r200g", -- [1]
+			"Rala", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Rala", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			6, -- [11]
+			"Player-4478-012CD138", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dRala|r",
+			[51] = 1585837058,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [111]
+		{
+			"LFM Mara - Healer - Can summon", -- [1]
+			"Blackbile", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Blackbile", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			11, -- [11]
+			"Player-4478-01E966D7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edBlackbile|r",
+			[51] = 1585837062,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [112]
+		{
+			"[#400]<Core>[EU][8/8 Bwl - on farm] Searching for Rogue & tank. We raid Wed/Sun 19:30 ~ 21:00. We search to expand our raid roster. Serious raiding guild with a laidback attitude. We use DKP as an in-line system. W for further info ", -- [1]
+			"Mürlin-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mürlin", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			2, -- [11]
+			"Player-4478-024D46BA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dMürlin|r",
+			[51] = 1585930160,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [113]
+		{
+			"Are you tired of beeing slow? Do you want to be as fast as your friends? Come trade me your footwear at AH bridge, and I will do my magic trick, making you a fastboi. My mats 8G pr. Enchant - Minor speed. Gotta go fast!", -- [1]
+			"Ildreven", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ildreven", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4, -- [11]
+			"Player-4478-01C9D0CB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaIldreven|r",
+			[51] = 1585930171,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [114]
+		{
+			"WTS |cff0070dd|Hitem:16673::::::::60:::1::::|h[Cord of Elements]|h|r", -- [1]
+			"Borthon-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Borthon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			9, -- [11]
+			"Player-4478-01943D1D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaBorthon|r",
+			[51] = 1585930182,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [115]
+		{
+			"LFG Ony / BWL", -- [1]
+			"Powerfuk-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Powerfuk", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			19, -- [11]
+			"Player-4478-019AB4C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dPowerfuk|r",
+			[51] = 1585930200,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [116]
+		{
+			"WTS |cff0070dd|Hitem:16735::::::::60:::1::::|h[Bracers of Valor]|h|r and |cff0070dd|Hitem:16673::::::::60:::1::::|h[Cord of Elements]|h|r", -- [1]
+			"Borthon-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Borthon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			23, -- [11]
+			"Player-4478-01943D1D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaBorthon|r",
+			[51] = 1585930210,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [117]
+		{
+			"LFMs Ony  MS>OS (Ony head reserved). 17/25", -- [1]
+			"Erubank-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Erubank", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1908, -- [11]
+			"Player-4478-024C6E81", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaErubank|r",
+			[51] = 1586179076,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [118]
+		{
+			"Mage LFG BRD!", -- [1]
+			"Trestolone", -- [2]
+			"", -- [3]
+			"1. General - Stormwind City", -- [4]
+			"Trestolone", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Stormwind City", -- [9]
+			0, -- [10]
+			1909, -- [11]
+			"Player-4478-01555A34", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaTrestolone|r",
+			[51] = 1586179106,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [119]
+		{
+			"wts transmute 5g", -- [1]
+			"Gogi", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Gogi", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			170, -- [11]
+			"Player-4478-0164C6FD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaGogi|r",
+			[51] = 1586271440,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [120]
+		{
+			"LFM for Onyxia 25 man! MS>OS, NO RESERVES at all! Bags/blues etc are RR! Need dps only (no locks yet)! 23/25", -- [1]
+			"Fronten", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Fronten", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			197, -- [11]
+			"Player-4478-01F3CB81", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dFronten|r",
+			[51] = 1586271460,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [121]
+		{
+			"any ony pugs going on?", -- [1]
+			"Powerfok", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Powerfok", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1137, -- [11]
+			"Player-4478-0232FDA7", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaPowerfok|r",
+			[51] = 1586272888,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [122]
+		{
+			"easy cooking skillups available on AH: |cffffffff|Hitem:6362::::::::1:::::::|h[Raw Rockscale Cod]|h|r|cffffffff|Hitem:6359::::::::1:::::::|h[Firefin Snapper]|h|r|cffffffff|Hitem:6889::::::::1:::::::|h[Small Egg]|h|r", -- [1]
+			"Weelassyheed-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Weelassyheed", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1170, -- [11]
+			"Player-4478-025DC15C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dWeelassyheed|r",
+			[51] = 1586272937,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [123]
+		{
+			"willing to join Stockades as a healer", -- [1]
+			"Balys", -- [2]
+			"", -- [3]
+			"1. General - Stormwind City", -- [4]
+			"Balys", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Stormwind City", -- [9]
+			0, -- [10]
+			1787, -- [11]
+			"Player-4478-0259C088", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffBalys|r",
+			[51] = 1586442816,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [124]
+		{
+			"WTS |cff1eff00|Hitem:20520::::::::60:::::::|h[Dark Rune]|h|r x20 u offer", -- [1]
+			"Halos", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Halos", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1789, -- [11]
+			"Player-4478-023BB35C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaHalos|r",
+			[51] = 1586442818,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [125]
+		{
+			"LF tank for LBRS", -- [1]
+			"Krallis", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Krallis", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1790, -- [11]
+			"Player-4478-0217DCF9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aKrallis|r",
+			[51] = 1586442819,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [126]
+		{
+			"WTS Arcanite CD 5g", -- [1]
+			"Feom", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Feom", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1792, -- [11]
+			"Player-4478-0202052B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Feom|r",
+			[51] = 1586442822,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},

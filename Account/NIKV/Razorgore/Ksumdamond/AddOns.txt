@@ -5,3 +5,9 @@ ElvUI_EverySecondCounts: disabled
 ElvUI_AuraBarsMovers: disabled
 OPie_Classic: disabled
 WeakAurasCompanion: enabled
+TinyTooltip: disabled
+BiSTracker: disabled
+ClassTrainerPlus: disabled
+ItemRack: disabled
+ItemRackOptions: disabled
+Pawn: disabled

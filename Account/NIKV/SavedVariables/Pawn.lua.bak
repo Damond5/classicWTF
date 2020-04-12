@@ -228,10 +228,10 @@ PawnCommon = {
 		},
 		["\"Classic\":WARLOCK"] = {
 			["PerCharacterOptions"] = {
-				["Damond-Razorgore"] = {
+				["Damondbank-Razorgore"] = {
 					["Visible"] = true,
 				},
-				["Damondbank-Razorgore"] = {
+				["Damond-Razorgore"] = {
 					["Visible"] = true,
 				},
 			},
@@ -284,10 +284,10 @@ PawnCommon = {
 		},
 		["\"Classic\":WARLOCK2"] = {
 			["PerCharacterOptions"] = {
-				["Damond-Razorgore"] = {
+				["Damondbank-Razorgore"] = {
 					["Visible"] = true,
 				},
-				["Damondbank-Razorgore"] = {
+				["Damond-Razorgore"] = {
 					["Visible"] = true,
 				},
 			},
@@ -350,10 +350,10 @@ PawnCommon = {
 		},
 		["\"Classic\":WARLOCK3"] = {
 			["PerCharacterOptions"] = {
-				["Damond-Razorgore"] = {
+				["Damondbank-Razorgore"] = {
 					["Visible"] = true,
 				},
-				["Damondbank-Razorgore"] = {
+				["Damond-Razorgore"] = {
 					["Visible"] = true,
 				},
 			},
@@ -445,10 +445,10 @@ PawnCommon = {
 		},
 		["\"Classic\":WARLOCK1"] = {
 			["PerCharacterOptions"] = {
-				["Damond-Razorgore"] = {
+				["Damondbank-Razorgore"] = {
 					["Visible"] = true,
 				},
-				["Damondbank-Razorgore"] = {
+				["Damond-Razorgore"] = {
 					["Visible"] = true,
 				},
 			},
@@ -572,6 +572,6 @@ PawnCommon = {
 	["ButtonPosition"] = 2,
 	["ShowLootUpgradeAdvisor"] = true,
 	["ShowQuestUpgradeAdvisor"] = true,
-	["LastVersion"] = 2.0323,
+	["LastVersion"] = 2.0324,
 	["Digits"] = 1,
 }

@@ -22,17 +22,25 @@ OneRing_Config = {
 		["RingKeeper"] = {
 			["druid"] = {
 				{
-					["id"] = 20580,
-					["sliceToken"] = "ABue4mb3=he",
+					["id"] = 2782,
+					["sliceToken"] = "ABue4Yp33oe",
 				}, -- [1]
 				{
-					["id"] = 1126,
-					["sliceToken"] = "ABue4mb3=hr",
+					["id"] = 5234,
+					["sliceToken"] = "ABue4OHUovu",
 				}, -- [2]
 				{
-					["id"] = 782,
-					["sliceToken"] = "ABue4Q8KOze",
+					["id"] = 783,
+					["sliceToken"] = "ABue4OHUovy",
 				}, -- [3]
+				{
+					["id"] = 1066,
+					["sliceToken"] = "ABue47tabke",
+				}, -- [4]
+				{
+					["id"] = 1075,
+					["sliceToken"] = "ABue4OHUovt",
+				}, -- [5]
 				["name"] = "druid",
 				["save"] = true,
 				["hotkey"] = "V",
@@ -40,19 +48,19 @@ OneRing_Config = {
 			},
 			["demons"] = {
 				{
-					["id"] = 688,
 					["sliceToken"] = "ABueh21QF0Q",
+					["id"] = 688,
 				}, -- [1]
 				{
-					["id"] = 697,
 					["sliceToken"] = "ABueh21QF0m",
+					["id"] = 697,
 				}, -- [2]
 				{
-					["id"] = 712,
 					["sliceToken"] = "ABueh21QF0n",
+					["id"] = 712,
 				}, -- [3]
-				["save"] = true,
 				["name"] = "demons",
+				["save"] = true,
 				["limit"] = "Damond-Razorgore",
 			},
 			["lock"] = {
@@ -62,28 +70,28 @@ OneRing_Config = {
 					["sliceToken"] = "ABueh21QF0O",
 				}, -- [1]
 				{
-					["id"] = 20757,
 					["sliceToken"] = "ABuehfsJGDu",
+					["id"] = 20757,
 				}, -- [2]
 				{
-					["id"] = 11730,
 					["sliceToken"] = "ABueh3SPPze",
+					["id"] = 11730,
 				}, -- [3]
 				{
-					["id"] = 11735,
 					["sliceToken"] = "ABuehfsJGDy",
+					["id"] = 11735,
 				}, -- [4]
 				{
-					["id"] = 5697,
 					["sliceToken"] = "ABuehoqlDLr",
+					["id"] = 5697,
 				}, -- [5]
 				{
 					"macro", -- [1]
 					"summon", -- [2]
 					["sliceToken"] = "ABueh3puYGe",
 				}, -- [6]
-				["save"] = true,
 				["limit"] = "Damond-Razorgore",
+				["save"] = true,
 				["name"] = "lock",
 			},
 			["OPieFlagStore"] = {
@@ -91,13 +99,17 @@ OneRing_Config = {
 			},
 		},
 		["AutoQuestWhitelist"] = {
-			[7627] = true,
 			[6061] = true,
+			[4907] = true,
+			[11933] = true,
 			[21920] = true,
+			[8079] = true,
 			[5605] = true,
 			[5591] = true,
-			[11933] = true,
-			[4907] = true,
+			[9362] = true,
+			[6085] = true,
+			[7607] = true,
+			[7627] = true,
 		},
 	},
 	["_GameLocale"] = "enUS",

@@ -1,8 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0323,
-	["LastPlayerFullName"] = "Damonddruid-Razorgore",
-	["AutoSelectScales"] = false,
+	["LastVersion"] = 2.0324,
 	["ItemLevels"] = {
 		{
 			["ID"] = 16929,
@@ -85,6 +83,8 @@ PawnOptions = {
 			["Link"] = "|cff0070dd|Hitem:19108::::::::60:::11::::|h[Wand of Biting Cold]|h|r",
 		},
 	},
+	["AutoSelectScales"] = false,
+	["LastPlayerFullName"] = "Damonddruid-Razorgore",
 }
 PawnMrRobotScaleProviderOptions = nil
 PawnClassicScaleProviderOptions = {

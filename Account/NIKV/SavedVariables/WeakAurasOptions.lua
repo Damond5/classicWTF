@@ -1520,15 +1520,15 @@ WeakAurasOptionsSaved = {
 			[11554] = 132366,
 			[19778] = 132366,
 			[11558] = 132366,
-			[13730] = 132366,
-			[6191] = 132366,
+			[11555] = 132366,
+			[23511] = 132366,
 			[16244] = 132366,
 			[11559] = 132366,
 			[6190] = 132366,
-			[11555] = 132366,
+			[13730] = 132366,
 			[11557] = 132366,
 			[1065] = 132366,
-			[23511] = 132366,
+			[6191] = 132366,
 			[27579] = 132366,
 			[11556] = 132366,
 		},
@@ -7851,14 +7851,14 @@ WeakAurasOptionsSaved = {
 			[16726] = 136192,
 		},
 		["Fireball Volley"] = {
-			[15243] = 135812,
+			[15285] = 135812,
 			[11989] = 135812,
 			[16250] = 135812,
-			[15285] = 135812,
 			[11988] = 135812,
-			[17203] = 135812,
-			[23512] = 135812,
 			[22425] = 135812,
+			[15243] = 135812,
+			[23512] = 135812,
+			[17203] = 135812,
 		},
 		["Self Fear"] = {
 			[31365] = 136183,
@@ -20228,7 +20228,7 @@ WeakAurasOptionsSaved = {
 			[8507] = 135824,
 			[16079] = 135824,
 			[11313] = 135824,
-			[8443] = 135824,
+			[8350] = 135824,
 			[8508] = 135824,
 			[11306] = 135824,
 			[26073] = 135824,
@@ -20239,16 +20239,16 @@ WeakAurasOptionsSaved = {
 			[12470] = 135824,
 			[8504] = 135824,
 			[11308] = 135824,
-			[17366] = 135824,
+			[8505] = 135824,
 			[8503] = 135824,
 			[20602] = 135824,
 			[11309] = 135824,
 			[16635] = 135824,
 			[8349] = 135824,
-			[8505] = 135824,
+			[17366] = 135824,
 			[11310] = 135824,
 			[11969] = 135824,
-			[8350] = 135824,
+			[8443] = 135824,
 			[20203] = 135824,
 			[11311] = 135824,
 			[11970] = 135824,
@@ -27829,19 +27829,19 @@ WeakAurasOptionsSaved = {
 		["Plans: Darkrune Gauntlets"] = {
 			[24915] = 136235,
 		},
-		["Vampirism"] = {
-			[28831] = 136235,
-			[28839] = 135930,
-		},
-		["Rising Spirit"] = {
-			[10767] = 136053,
+		["Goblin \"Boom\" Box"] = {
+			[12720] = 136235,
+			[12773] = 136235,
 		},
 		["Artisan Skinning"] = {
 			[10769] = 134366,
 		},
-		["Goblin \"Boom\" Box"] = {
-			[12720] = 136235,
-			[12773] = 136235,
+		["Rising Spirit"] = {
+			[10767] = 136053,
+		},
+		["Vampirism"] = {
+			[28831] = 136235,
+			[28839] = 135930,
 		},
 		["Improved Blizzard"] = {
 			[12488] = 135857,
@@ -27861,14 +27861,14 @@ WeakAurasOptionsSaved = {
 			[10193] = 136153,
 			[10195] = 136153,
 			[10191] = 136153,
-			[1481] = 136153,
-			[8497] = 136153,
-			[8495] = 136153,
+			[17740] = 136153,
 			[10192] = 136153,
+			[8495] = 136153,
+			[8497] = 136153,
 			[10194] = 136153,
 			[10196] = 136153,
 			[1463] = 136153,
-			[17740] = 136153,
+			[1481] = 136153,
 		},
 		["Pattern: Sandstalker Gauntlets"] = {
 			[24861] = 136235,
@@ -27999,15 +27999,15 @@ WeakAurasOptionsSaved = {
 		["Summon Ragnaros"] = {
 			[19774] = 135819,
 		},
-		["Stormshroud Pants"] = {
-			[19067] = 136235,
-		},
 		["Heavy Crocolisk Stew"] = {
 			[24418] = 136192,
 		},
 		["Elemental Vulnerability"] = {
 			[28771] = 136235,
 			[28772] = 135899,
+		},
+		["Plague Slime (Red)"] = {
+			[28990] = 135824,
 		},
 		["Portal Effect: Darnassus"] = {
 			[17608] = 135741,
@@ -28739,13 +28739,15 @@ WeakAurasOptionsSaved = {
 			[3294] = 136192,
 			[3300] = 136235,
 		},
-		["Skullsplitter Pet"] = {
-			[3621] = 136095,
+		["Improved Smite and Holy Fire"] = {
+			[24482] = 136235,
 		},
-		["Summon Voidwalkers"] = {
-			[15093] = 136221,
-			[15092] = 136221,
-			[15094] = 136221,
+		["Iron Will"] = {
+			[12959] = 135995,
+			[12960] = 135995,
+			[12961] = 135995,
+			[12300] = 135995,
+			[12962] = 135995,
 		},
 		["Garrote"] = {
 			[6737] = 132297,
@@ -30039,8 +30041,8 @@ WeakAurasOptionsSaved = {
 		["Sludge Passive"] = {
 			[3512] = 136188,
 		},
-		["Copy of Vanish"] = {
-			[29215] = 132331,
+		["Rocket, GREEN"] = {
+			[26345] = 136235,
 		},
 		["Copy of Mortal Strike"] = {
 			[26652] = 132355,
@@ -30048,8 +30050,8 @@ WeakAurasOptionsSaved = {
 		["Shoot Tauren Rifleman"] = {
 			[26282] = 132222,
 		},
-		["Despawn Toxic Slimes"] = {
-			[26585] = 136235,
+		["Plans: Runic Plate Shoulders"] = {
+			[16695] = 136235,
 		},
 		["Summon Dreadsteed"] = {
 			[23161] = 132238,
@@ -31203,14 +31205,8 @@ WeakAurasOptionsSaved = {
 			[3293] = 136192,
 			[3299] = 136235,
 		},
-		["Inferno"] = {
-			[19698] = 135818,
-			[1122] = 136219,
-			[1413] = 136219,
-			[19695] = 135818,
-			[22699] = 135860,
-			[20799] = 136235,
-			[24670] = 136219,
+		["Increased Frost Resist 30"] = {
+			[14569] = 136235,
 		},
 		["Poison Spray"] = {
 			[30043] = 136016,
@@ -31218,8 +31214,9 @@ WeakAurasOptionsSaved = {
 		["Dream Vision"] = {
 			[11403] = 135994,
 		},
-		["Increased Rejuvenation Duration"] = {
-			[21871] = 136081,
+		["Portal: Thunder Bluff"] = {
+			[11420] = 135750,
+			[11424] = 135750,
 		},
 		["Battle Command"] = {
 			[5115] = 132277,
@@ -31406,21 +31403,21 @@ WeakAurasOptionsSaved = {
 			[21484] = 136235,
 			[21485] = 136235,
 		},
-		["Summon Panda Cub"] = {
-			[26972] = 132311,
+		["Ward of Laze effect"] = {
+			[3826] = 136157,
 		},
 		["Control Shredder"] = {
 			[21556] = 133001,
 			[21566] = 133001,
 		},
-		["Create Zul'Gurub Talisman ROG R2 DND"] = {
-			[24073] = 136235,
+		["Refreshing Red Apple"] = {
+			[29055] = 133975,
 		},
 		["Increase Shadow Dam 31"] = {
 			[18012] = 136235,
 		},
-		["Ward of Laze effect"] = {
-			[3826] = 136157,
+		["Summon Panda Cub"] = {
+			[26972] = 132311,
 		},
 		["Heavy Woolen Pants"] = {
 			[3850] = 132149,
@@ -31563,8 +31560,8 @@ WeakAurasOptionsSaved = {
 		["Ragnaros Submerge Fade"] = {
 			[21107] = 135830,
 		},
-		["Ward of Myzrael"] = {
-			[4932] = 136222,
+		["Increased Agility 16"] = {
+			[14330] = 136235,
 		},
 		["Remove Trick or Treat"] = {
 			[24982] = 136235,
@@ -31576,8 +31573,8 @@ WeakAurasOptionsSaved = {
 		["Increase Healing 64"] = {
 			[18040] = 136235,
 		},
-		["Plans: Blue Glittering Axe"] = {
-			[9996] = 136235,
+		["Tasty Lion Steak"] = {
+			[3399] = 136192,
 		},
 		["Elixir of Minor Fortitude"] = {
 			[2334] = 136235,
@@ -31609,8 +31606,8 @@ WeakAurasOptionsSaved = {
 			[519] = 136235,
 			[5387] = 136095,
 		},
-		["Tasty Lion Steak"] = {
-			[3399] = 136192,
+		["Ward of Myzrael"] = {
+			[4932] = 136222,
 		},
 		["Conjure Mana Citrine"] = {
 			[10053] = 134116,
@@ -31635,9 +31632,8 @@ WeakAurasOptionsSaved = {
 			[16932] = 134355,
 			[19612] = 134355,
 		},
-		["Crafted Solid Shot"] = {
-			[3947] = 136235,
-			[4008] = 136235,
+		["Plans: Blue Glittering Axe"] = {
+			[9996] = 136235,
 		},
 		["Flow of the Northspring"] = {
 			[11014] = 135953,
@@ -32246,8 +32242,8 @@ WeakAurasOptionsSaved = {
 		["Summon Obsidian Shard"] = {
 			[10061] = 136222,
 		},
-		["Increased Nature Resist 41"] = {
-			[14984] = 136235,
+		["Summon Alarm-o-Bot"] = {
+			[23004] = 133002,
 		},
 		["Arugal's Gift"] = {
 			[7124] = 136130,
@@ -32863,11 +32859,12 @@ WeakAurasOptionsSaved = {
 			[8338] = 136075,
 			[23055] = 136075,
 		},
-		["Summon Karang's Banner"] = {
-			[20737] = 136235,
+		["Schematic: Mechanical Squirrel"] = {
+			[4026] = 136235,
 		},
-		["Summon Illusionary Phantasm"] = {
-			[8986] = 135824,
+		["Simple Teleport Group"] = {
+			[7078] = 135994,
+			[7143] = 135994,
 		},
 		["Precious Transform to Felhound DND"] = {
 			[23200] = 136235,
@@ -33044,16 +33041,16 @@ WeakAurasOptionsSaved = {
 		["Increase Arcane Dam 24"] = {
 			[17822] = 136235,
 		},
-		["Light On Fire"] = {
-			[17667] = 136235,
+		["Increased Fire Resist 07"] = {
+			[14587] = 136235,
 		},
 		["Increase Reputation"] = {
 			[27290] = 136235,
 			[24226] = 136235,
 			[17047] = 136235,
 		},
-		["Mithril Scale Shoulders"] = {
-			[9966] = 136192,
+		["Arcane Shot Mana Reduction"] = {
+			[23157] = 132218,
 		},
 		["Stunning Blast"] = {
 			[5648] = 135860,
@@ -33731,8 +33728,8 @@ WeakAurasOptionsSaved = {
 		["Increase Nature Dam 36"] = {
 			[17994] = 136235,
 		},
-		["Pattern: Spitfire Bracers"] = {
-			[24855] = 136235,
+		["Summon Son of Flame D"] = {
+			[21112] = 135819,
 		},
 		["QAEnchant Shield +7 Stamina"] = {
 			[22098] = 135913,
@@ -33746,8 +33743,8 @@ WeakAurasOptionsSaved = {
 		["Pattern: Stormcloth Pants"] = {
 			[12140] = 136235,
 		},
-		["Enchanted Thorium Helm"] = {
-			[16742] = 136192,
+		["Corrupt Redpath"] = {
+			[18666] = 136235,
 		},
 		["Flamespit"] = {
 			[11021] = 135812,
@@ -34630,18 +34627,17 @@ WeakAurasOptionsSaved = {
 		["Increased Arcane Resist 30"] = {
 			[14732] = 136235,
 		},
-		["Long bow shot (TEST)"] = {
-			[60] = 136235,
+		["Icy Energy"] = {
+			[24405] = 135845,
 		},
 		["Flarecore Gloves"] = {
 			[20849] = 132149,
 		},
-		["Icy Energy"] = {
-			[24405] = 135845,
+		["Growl of Fortitude Proc"] = {
+			[6923] = 132091,
 		},
-		["Aspect of the Pack"] = {
-			[13159] = 132267,
-			[13160] = 132267,
+		["Long bow shot (TEST)"] = {
+			[60] = 136235,
 		},
 		["Bows"] = {
 			[264] = 135493,
@@ -35279,14 +35275,15 @@ WeakAurasOptionsSaved = {
 		["Summon Assistants"] = {
 			[29316] = 136235,
 		},
-		["Growl of Fortitude Proc"] = {
-			[6923] = 132091,
+		["Increase Frost Dam 69"] = {
+			[26725] = 136235,
 		},
 		["Spirit Staff III"] = {
 			[2714] = 132325,
 		},
-		["Increase Frost Dam 69"] = {
-			[26725] = 136235,
+		["Aspect of the Pack"] = {
+			[13159] = 132267,
+			[13160] = 132267,
 		},
 		["Pattern: Phoenix Pants"] = {
 			[3898] = 136235,
@@ -35693,8 +35690,8 @@ WeakAurasOptionsSaved = {
 		["Running Speed"] = {
 			[9175] = 132307,
 		},
-		["Corrupt Redpath"] = {
-			[18666] = 136235,
+		["Enchanted Thorium Helm"] = {
+			[16742] = 136192,
 		},
 		["Recipe: Flask of Supreme Power"] = {
 			[17644] = 136235,
@@ -35703,8 +35700,8 @@ WeakAurasOptionsSaved = {
 			[14143] = 132151,
 			[14149] = 132151,
 		},
-		["Summon Son of Flame D"] = {
-			[21112] = 135819,
+		["Pattern: Spitfire Bracers"] = {
+			[24855] = 136235,
 		},
 		["Evil Twin"] = {
 			[23445] = 136129,
@@ -35999,11 +35996,11 @@ WeakAurasOptionsSaved = {
 		["Stance Rage (+5 Def)"] = {
 			[6592] = 132091,
 		},
-		["Arcane Shot Mana Reduction"] = {
-			[23157] = 132218,
+		["Mithril Scale Shoulders"] = {
+			[9966] = 136192,
 		},
-		["Increased Fire Resist 07"] = {
-			[14587] = 136235,
+		["Light On Fire"] = {
+			[17667] = 136235,
 		},
 		["Item +SPI/FR Leg R2"] = {
 			[15456] = 136235,
@@ -36090,12 +36087,11 @@ WeakAurasOptionsSaved = {
 			[196] = 132392,
 			[15984] = 132392,
 		},
-		["Simple Teleport Group"] = {
-			[7078] = 135994,
-			[7143] = 135994,
+		["Summon Illusionary Phantasm"] = {
+			[8986] = 135824,
 		},
-		["Schematic: Mechanical Squirrel"] = {
-			[4026] = 136235,
+		["Summon Karang's Banner"] = {
+			[20737] = 136235,
 		},
 		["Imbue Chest - Absorption"] = {
 			[7856] = 135913,
@@ -36474,14 +36470,14 @@ WeakAurasOptionsSaved = {
 		["Ironfeather Shoulders"] = {
 			[19062] = 136235,
 		},
-		["Schematic: Dark Iron Bomb"] = {
-			[19861] = 134153,
-		},
-		["Summon Alarm-o-Bot"] = {
-			[23004] = 133002,
-		},
 		["Recipe: Poached Sunscale Salmon"] = {
 			[18256] = 136235,
+		},
+		["Increased Nature Resist 41"] = {
+			[14984] = 136235,
+		},
+		["Schematic: Dark Iron Bomb"] = {
+			[19861] = 134153,
 		},
 		["Sillithus Flag, Horde, and speed limit (DND)"] = {
 			[29895] = 132486,
@@ -36724,8 +36720,9 @@ WeakAurasOptionsSaved = {
 			[19477] = 135894,
 			[27609] = 135894,
 		},
-		["Increased Agility 16"] = {
-			[14330] = 136235,
+		["Crafted Solid Shot"] = {
+			[3947] = 136235,
+			[4008] = 136235,
 		},
 		["Seething Plague"] = {
 			[23072] = 136127,
@@ -36811,8 +36808,8 @@ WeakAurasOptionsSaved = {
 		["Block Value 27"] = {
 			[23516] = 136235,
 		},
-		["Refreshing Red Apple"] = {
-			[29055] = 133975,
+		["Create Zul'Gurub Talisman ROG R2 DND"] = {
+			[24073] = 136235,
 		},
 		["Create Nimboya's Laden Pike"] = {
 			[18887] = 136235,
@@ -36890,12 +36887,17 @@ WeakAurasOptionsSaved = {
 		["Enchant Gloves - Threat"] = {
 			[25072] = 135913,
 		},
-		["Increased Frost Resist 30"] = {
-			[14569] = 136235,
+		["Inferno"] = {
+			[19698] = 135818,
+			[1122] = 136219,
+			[1413] = 136219,
+			[19695] = 135818,
+			[22699] = 135860,
+			[20799] = 136235,
+			[24670] = 136219,
 		},
-		["Portal: Thunder Bluff"] = {
-			[11420] = 135750,
-			[11424] = 135750,
+		["Increased Rejuvenation Duration"] = {
+			[21871] = 136081,
 		},
 		["Purple Ogre Costume"] = {
 			[30167] = 132288,
@@ -37466,11 +37468,11 @@ WeakAurasOptionsSaved = {
 		["Summon Type A"] = {
 			[28421] = 136235,
 		},
-		["Plans: Runic Plate Shoulders"] = {
-			[16695] = 136235,
+		["Despawn Toxic Slimes"] = {
+			[26585] = 136235,
 		},
-		["Rocket, GREEN"] = {
-			[26345] = 136235,
+		["Copy of Vanish"] = {
+			[29215] = 132331,
 		},
 		["H-Mid Trigger"] = {
 			[23935] = 136235,
@@ -38131,15 +38133,13 @@ WeakAurasOptionsSaved = {
 		["Create Zul'Gurub Talisman MAG R3 DND"] = {
 			[24040] = 136235,
 		},
-		["Iron Will"] = {
-			[12959] = 135995,
-			[12960] = 135995,
-			[12961] = 135995,
-			[12300] = 135995,
-			[12962] = 135995,
+		["Summon Voidwalkers"] = {
+			[15093] = 136221,
+			[15092] = 136221,
+			[15094] = 136221,
 		},
-		["Improved Smite and Holy Fire"] = {
-			[24482] = 136235,
+		["Skullsplitter Pet"] = {
+			[3621] = 136095,
 		},
 		["Increased Aura Radii"] = {
 			[23565] = 136235,
@@ -38414,11 +38414,11 @@ WeakAurasOptionsSaved = {
 		["Weak Poison"] = {
 			[6751] = 136016,
 		},
+		["Stormshroud Pants"] = {
+			[19067] = 136235,
+		},
 		["Summon Gnashjaw"] = {
 			[19561] = 136235,
-		},
-		["Plague Slime (Red)"] = {
-			[28990] = 135824,
 		},
 		["Enchant Gloves - Greater Strength"] = {
 			[20013] = 135913,
@@ -41868,5 +41868,5 @@ WeakAurasOptionsSaved = {
 			[18822] = 136154,
 		},
 	},
-	["build"] = "33526",
+	["build"] = "33920",
 }

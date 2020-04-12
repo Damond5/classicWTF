@@ -22,17 +22,25 @@ OneRing_Config = {
 		["RingKeeper"] = {
 			["druid"] = {
 				{
-					["id"] = 20580,
-					["sliceToken"] = "ABue4mb3=he",
+					["id"] = 2782,
+					["sliceToken"] = "ABue4Yp33oe",
 				}, -- [1]
 				{
-					["id"] = 1126,
-					["sliceToken"] = "ABue4mb3=hr",
+					["id"] = 5234,
+					["sliceToken"] = "ABue4OHUovu",
 				}, -- [2]
 				{
-					["id"] = 782,
-					["sliceToken"] = "ABue4Q8KOze",
+					["id"] = 783,
+					["sliceToken"] = "ABue4OHUovy",
 				}, -- [3]
+				{
+					["id"] = 1066,
+					["sliceToken"] = "ABue47tabke",
+				}, -- [4]
+				{
+					["id"] = 1075,
+					["sliceToken"] = "ABue4OHUovt",
+				}, -- [5]
 				["limit"] = "Damonddruid-Razorgore",
 				["save"] = true,
 				["hotkey"] = "V",
@@ -91,13 +99,17 @@ OneRing_Config = {
 			},
 		},
 		["AutoQuestWhitelist"] = {
-			[7627] = true,
 			[6061] = true,
-			[21920] = true,
-			[5591] = true,
-			[5605] = true,
 			[4907] = true,
 			[11933] = true,
+			[21920] = true,
+			[8079] = true,
+			[5605] = true,
+			[5591] = true,
+			[9362] = true,
+			[6085] = true,
+			[7607] = true,
+			[7627] = true,
 		},
 	},
 	["_GameLocale"] = "enUS",

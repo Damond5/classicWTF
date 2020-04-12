@@ -1,4 +1,11 @@
 Version: 1
+Frame: ScriptErrorsFrame
+FrameLevel: 1
+Anchor: RIGHT
+X: -231
+Y: -16
+W: 384
+H: 260
 Frame: ItemRefTooltip
 FrameLevel: 1
 Anchor: CENTER
@@ -16,8 +23,8 @@ H: 240
 Frame: AtlasLoot_GUI-Frame
 FrameLevel: 1
 Anchor: CENTER
-X: 167
-Y: 16
+X: 103
+Y: 1
 W: 920
 H: 600
 Frame: aux_frame
@@ -27,10 +34,3 @@ X: 185
 Y: -115
 W: 768
 H: 447
-Frame: ScriptErrorsFrame
-FrameLevel: 1
-Anchor: RIGHT
-X: -231
-Y: -16
-W: 384
-H: 260

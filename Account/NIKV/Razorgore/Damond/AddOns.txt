@@ -31,7 +31,7 @@ VendorPrice: disabled
 ExtendedCharacterStats: disabled
 AllyRoute: disabled
 OPie_Classic: disabled
-ItemRackOptions: enabled
+ItemRackOptions: disabled
 QuestLogEx: enabled
 BigWigs_MoltenCore: enabled
 BigWigs_Onyxia: enabled
@@ -46,3 +46,8 @@ SLoTe: disabled
 ElvUI_CustomTweaks: disabled
 WeakAurasArchive: enabled
 Capping_Options: enabled
+TinyTooltip: disabled
+BiSTracker: disabled
+ClassTrainerPlus: disabled
+ItemRack: disabled
+Pawn: disabled

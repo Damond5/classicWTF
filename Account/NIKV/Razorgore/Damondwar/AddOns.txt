@@ -29,3 +29,9 @@ Details_Streamer: disabled
 BigWigs: disabled
 TwitchEmotes: disabled
 SLoTe: disabled
+TinyTooltip: disabled
+BiSTracker: disabled
+ClassTrainerPlus: disabled
+ItemRack: disabled
+ItemRackOptions: disabled
+Pawn: disabled

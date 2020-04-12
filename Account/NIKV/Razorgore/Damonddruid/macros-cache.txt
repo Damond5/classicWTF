@@ -1,7 +1,14 @@
+VER 3 0000000001000003 "lfm" "INV_MISC_QUESTIONMARK"
+/y LF1M Gnomeregan healer
+/1 LF1M Gnomeregan healer
+/4 LF1M Gnomeregan healer
+/5 LF1M Gnomeregan healer
+/6 LF1M Gnomeregan healer
+END
 VER 3 0000000001000001 "startattack" "132223"
 #showtooltip Attack
 /startattack
 END
 VER 3 0000000001000002 "tar" "INV_MISC_QUESTIONMARK"
-/target Moonstalker
+/target Gruff
 END
