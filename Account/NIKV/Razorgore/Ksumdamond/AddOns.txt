@@ -11,3 +11,6 @@ ClassTrainerPlus: disabled
 ItemRack: disabled
 ItemRackOptions: disabled
 Pawn: disabled
+ElvUI_CustomTweaks: disabled
+WeakAurasArchive: enabled
+Skillet-Classic: disabled

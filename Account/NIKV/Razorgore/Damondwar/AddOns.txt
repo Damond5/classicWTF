@@ -35,3 +35,4 @@ ClassTrainerPlus: disabled
 ItemRack: disabled
 ItemRackOptions: disabled
 Pawn: disabled
+Skillet-Classic: disabled

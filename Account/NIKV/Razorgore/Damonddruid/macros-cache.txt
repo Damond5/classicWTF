@@ -1,9 +1,10 @@
 VER 3 0000000001000003 "lfm" "INV_MISC_QUESTIONMARK"
-/y LF1M Gnomeregan healer
-/1 LF1M Gnomeregan healer
-/4 LF1M Gnomeregan healer
-/5 LF1M Gnomeregan healer
-/6 LF1M Gnomeregan healer
+/y LF4M Gnomeregan
+/1 LF4M Gnomeregan
+/2 LF4M Gnomeregan
+/4 LF4M Gnomeregan
+/5 LF4M Gnomeregan
+/6 LF4M Gnomeregan
 END
 VER 3 0000000001000001 "startattack" "132223"
 #showtooltip Attack

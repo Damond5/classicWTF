@@ -1,9 +1,9 @@
 VER 3 0000000001000003 "lfm" "INV_MISC_QUESTIONMARK"
-/y LF4M Gnomeregan or RFK - 30+
-/1 LF4M Gnomeregan or RFK - 30+
-/4 LF4M Gnomeregan or RFK - 30+
-/5 LF4M Gnomeregan or RFK - 30+
-/6 LF4M Gnomeregan or RFK - 30+
+/y LF2M SM lib
+/1 LF2M SM lib
+/4 LF2M SM lib
+/5 LF2M SM lib
+/6 LF2M SM lib
 END
 VER 3 0000000001000001 "startattack" "132223"
 #showtooltip Attack

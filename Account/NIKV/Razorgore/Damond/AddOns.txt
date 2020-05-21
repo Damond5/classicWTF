@@ -51,3 +51,4 @@ BiSTracker: disabled
 ClassTrainerPlus: disabled
 ItemRack: disabled
 Pawn: disabled
+Skillet-Classic: disabled

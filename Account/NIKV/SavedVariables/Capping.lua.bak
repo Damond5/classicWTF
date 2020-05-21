@@ -2,6 +2,7 @@
 CappingSettings = {
 	["profileKeys"] = {
 		["Damonddruid - Razorgore"] = "Default",
+		["Ksumdamond - Razorgore"] = "Default",
 		["Damondbank - Razorgore"] = "Default",
 		["Damond - Razorgore"] = "Default",
 	},
