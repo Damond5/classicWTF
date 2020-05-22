@@ -34,13 +34,6 @@ X: -106
 Y: -93
 W: 920
 H: 600
-Frame: WIM3_msgFrame2
-FrameLevel: 2
-Anchor: TOPLEFT
-X: 305
-Y: -146
-W: 333
-H: 220
 Frame: aux_frame
 FrameLevel: 1
 Anchor: TOP

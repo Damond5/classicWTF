@@ -49,12 +49,12 @@ VExRT = {
 		["Left"] = 0.999798893928528,
 		["OnlyPromoted"] = true,
 		["ScaleBack"] = 33,
-		["Text1"] = " {alliance}Ne||rfarian{alliance}\n||cffffff00Onyxia Scale Cloak||r||r\n< ||cffff0000Groups||r||r >\n||cff00ff96Entrance Side||r||r:||r||r||r Odd groups\nEntrance Tank: ||cffc69b6dBanoffee||r   = ||cffc69b6dKarabaraz||r   = {square}\n||cff00ff96Throne Side:||r||r Even groups\nThrone Tank:||r||r ||cffc69b6dFarius||r  = {cross} ||cffc69b6dEcology||r    = {moon}\n||cffffff00Onyxia Scale Cloak||r||r\n\n||r< ||cffff0000Healing ||r>\n{spell:17} ||cffffff00Shadow Flame||r: ||cffffffffMegaleen||r {spell:17}\n20% BoPs -  \n||cfff48cbaPossa||r  - ||cff3fc6eaNipakoo||r \n||cfff48cbaCannoli||r  - ||cff3fc6eaAndy||r \n||cfff48cbaLoloops||r    - ||cff3fc6eaEsarus||r  \n\n",
+		["Text1"] = " {alliance}Ne||rfarian{alliance}\n||cffffff00Onyxia Scale Cloak||r||r\n< ||cffff0000Groups||r||r >\n||cff00ff96Entrance Side||r||r:||r||r||r Odd groups\nEntrance Tank: ||cffc69b6dBanoffee||r   = ||cffc69b6dKarabaraz||r   = {square}\n||cff00ff96Throne Side:||r||r Even groups\nThrone Tank:||r||r ||cffc69b6dFarius||r  = {cross} ||cffc69b6dEcology||r    = {moon}\n||cffffff00Onyxia Scale Cloak||r||r\n\n||r< ||cffff0000Healing ||r>\n{spell:17} ||cffffff00Shadow Flame||r: ||cffffffffNalena||r  {spell:17}\n20% BoPs -  \n||cfff48cbaPossa||r  - ||cff3fc6eaSolem||r \n||cfff48cbaMatty||r  - ||cff3fc6eaAndy||r \n||cfff48cbaTpaartos||r    - ||cff3fc6eaEsarus||r  \n\n",
 		["OptionsFormatting"] = true,
 		["DefName"] = "2BWL Nefarian",
 		["SaveAllNew"] = true,
-		["LastUpdateName"] = "Maeil-Razorgore",
-		["LastUpdateTime"] = 1589481587,
+		["LastUpdateName"] = "Banoffee-Razorgore",
+		["LastUpdateTime"] = 1590087018,
 		["Width"] = 424.001159667969,
 		["Top"] = 1079.99987792969,
 		["BlackLastUpdateTime"] = {
@@ -82,20 +82,20 @@ VExRT = {
 			1584040926, -- [22]
 			1584041796, -- [23]
 			1589219197, -- [24]
-			1589478403, -- [25]
-			1589479382, -- [26]
-			1589479605, -- [27]
-			1588617616, -- [28]
-			1589481587, -- [29]
+			1590083206, -- [25]
+			1590084177, -- [26]
+			1590084384, -- [27]
+			1590085841, -- [28]
+			1590087018, -- [29]
 			1584040053, -- [30]
 			1584040390, -- [31]
 			1584041501, -- [32]
 			1588617818, -- [33]
 			1589222324, -- [34]
 			1584041163, -- [35]
-			1589477841, -- [36]
-			1589478728, -- [37]
-			1589480027, -- [38]
+			1590082617, -- [36]
+			1590083537, -- [37]
+			1590084875, -- [38]
 			1589479822, -- [39]
 			1589221700, -- [40]
 		},
@@ -127,20 +127,20 @@ VExRT = {
 			"Echology-Razorgore", -- [22]
 			"Echology-Razorgore", -- [23]
 			"Cannoli-Razorgore", -- [24]
-			"Maeil-Razorgore", -- [25]
-			"Maeil-Razorgore", -- [26]
-			"Maeil-Razorgore", -- [27]
-			"Cannoli-Razorgore", -- [28]
-			"Maeil-Razorgore", -- [29]
+			"Banoffee-Razorgore", -- [25]
+			"Banoffee-Razorgore", -- [26]
+			"Banoffee-Razorgore", -- [27]
+			"Banoffee-Razorgore", -- [28]
+			"Banoffee-Razorgore", -- [29]
 			"Echology-Razorgore", -- [30]
 			"Echology-Razorgore", -- [31]
 			"Echology-Razorgore", -- [32]
 			"Cannoli-Razorgore", -- [33]
 			"Cannoli-Razorgore", -- [34]
 			"Echology-Razorgore", -- [35]
-			"Maeil-Razorgore", -- [36]
-			"Maeil-Razorgore", -- [37]
-			"Maeil-Razorgore", -- [38]
+			"Banoffee-Razorgore", -- [36]
+			"Banoffee-Razorgore", -- [37]
+			"Banoffee-Razorgore", -- [38]
 			"Maeil-Razorgore", -- [39]
 			"Cannoli-Razorgore", -- [40]
 		},
@@ -172,17 +172,17 @@ VExRT = {
 			"{alliance}||cffff0000Vael||r{alliance}\n< ||cffff0000Positioning||r >\n||cfffff468Melee:||r on {star}\n||cff3fc6eaRanged:||r||r on {circle}\n\n< ||cffff0000Threat||r >\n||cffc69b6dWarriors||r only  {spell:20569}\n< ||cffff0000Healing||r >\nUse{spell:17} ||cffff0000Flame Breath||r: ||cffffffffMegaleen||r \n\n< ||cffff0000Burning Adrenaline||r >\n{spell:23620}MOVE - Vael Entrance{spell:23620}\n\n< ||cffff0000Pull||r >\n||cffc69b6dBanoffee||r   - Stoneshield\n||cfff48cbaTpaartos||r   - {spell:10310}\n||cfffff468Melee||r: Fire Protection Potions\nPriests: Pre-shield", -- [25]
 			"{alliance}||cffff0000Broodlord||r{alliance}\n< ||cffff0000Tanking||r >\n||cff00ff96Boss:||r ||cffc69b6dBanoffee||r \n||cff00ff96Offtank:||r ||cffc69b6dKarabaraz||r  || ||cffc69b6dFarius||r \n||cffffff00Fight for threat||r\n\n||cffff0000< Pull >||r\n||cffc69b6dBanoffee||r  : Stoneshield\n||cfffff468Melee:||r Fire Protection Potions\n||cfff48cbaCannoli||r : LoH\n||cff8787edWarlocks||r: No CoR\n||cfffff468Rogues: ||rTraps Down\n||cffff7c0aRaid:||r Kill Whelps\n\n< ||cffff0000Positioning||r >\n||cfffff468Melee:||r on {star}\n||cff3fc6eaRanged:||r||r on {circle\n\n< ||cffff0000Healing||r >\nUse{spell:17} on ||cffff0000Mortal Strike||r: ||cffffffffMegaleen||r \n\n< ||cffff0000Consumable Usage||r >\n||cff3fc6eaRanged:||r Mana Potions\nHealers: Mana Potions\n||cfffff468Melee:||r LIP + Fire Protection Potions\n||cffc69b6dTanks:||r  LIP + FAP", -- [26]
 			"{alliance}||cffff0000Firemaw||r{alliance}\n< ||cff00ff96||r||cffff0000Tanking||r >\n||cffffff00Onyxia Scale Cloak||r||r\n||cff00ff96Boss||r = ||cffc69b6dBanoffee||r  \n||cff00ff96Debuff Reset||r = ||cffc69b6dKarabaraz||r \n||cff00ff96Wing Buffet||r = ||cffc69b6dFarius||r \n - Taunt 4-5 sec before ||cffff0000Buffet||r\n||cffffff00Onyxia Scale Cloak||r||r\n\n< ||cffff0000Healing||r >\nUse ||cffffff00Shadow Flame||r: ||cffffffffMegaleen||r {spell:17}\n\n< ||cffff0000Raid||r > \n||cff00ff96Reset Stacks:||r 6-7 stacks \n\n< ||cffff0000Consumable Usage||r >\n||cffff7c0aRaid:||r Bandages + Fire Protection Potions\n||cff3fc6eaRanged:||r Mana Potions\nHealers: Mana Potions\n||cfffff468Melee:||r LIP + Rage Potions \n||cffc69b6dTanks:||r  Stoneshield ", -- [27]
-			"{alliance}||cffff0000Ebonroc||r{alliance}\n< ||cffff0000Tanking||r||r > \n||cffffff00Onyxia Scale Cloak||r||r\n||cff00ff96Boss:||r ||cffc69b6dTinkeng||r \n||cff00ff96Shadow of Ebonroc:||r ||cffc69b6dDarkiee||r   + ||cffc69b6dKarabaraz||r  \n||cff00ff96Wing Buffet:||r ||cffc69b6dKarabaraz||r  + ||cffc69b6dDarkiee||r \n||cffffff00Onyxia Scale Cloak||r||r\n\n< ||cffff0000Healing ||r>\n{spell:17} ||cffffff00Shadow Flame||r: ||cffffffffMegaleen||r {spell:17}\n\n< ||cffff0000Positioning||r >\n||cfffff468Melee:||r on {star}\n||cff3fc6eaRanged:||r||r on {circle}\n\n< ||cffff0000Consumable Usage||r \n||cff3fc6eaRanged:||r Mana Potions\nHealers: Mana Potions\n||cfffff468Melee:||r LIP + Rage Potions \n||cffc69b6dTanks:||r Might Rage / Stoneshield / LIP", -- [28]
-			" {alliance}Ne||rfarian{alliance}\n||cffffff00Onyxia Scale Cloak||r||r\n< ||cffff0000Groups||r||r >\n||cff00ff96Entrance Side||r||r:||r||r||r Odd groups\nEntrance Tank: ||cffc69b6dBanoffee||r   = ||cffc69b6dKarabaraz||r   = {square}\n||cff00ff96Throne Side:||r||r Even groups\nThrone Tank:||r||r ||cffc69b6dFarius||r  = {cross} ||cffc69b6dEcology||r    = {moon}\n||cffffff00Onyxia Scale Cloak||r||r\n\n||r< ||cffff0000Healing ||r>\n{spell:17} ||cffffff00Shadow Flame||r: ||cffffffffMegaleen||r {spell:17}\n20% BoPs -  \n||cfff48cbaPossa||r  - ||cff3fc6eaNipakoo||r \n||cfff48cbaCannoli||r  - ||cff3fc6eaAndy||r \n||cfff48cbaLoloops||r    - ||cff3fc6eaEsarus||r  \n\n", -- [29]
+			"{alliance}||cffff0000Ebonroc||r{alliance}\n< ||cffff0000Tanking||r||r > \n||cffffff00Onyxia Scale Cloak||r||r\n||cff00ff96Boss:||r ||cffc69b6dBanoffee||r  \n||cff00ff96Shadow of Ebonroc:||r ||cffc69b6dKarabaraz||r   + ||cffc69b6dFarius||r \n||cff00ff96Wing Buffet:||r ||cffc69b6dFarius||r   + ||cffc69b6dKarabaraz||r  \n||cffffff00Onyxia Scale Cloak||r||r\n\n< ||cffff0000Healing ||r>\n{spell:17} ||cffffff00Shadow Flame||r: ||cffffffffNalena||r n||r {spell:17}\n\n< ||cffff0000Positioning||r >\n||cfffff468Melee:||r on {star}\n||cff3fc6eaRanged:||r||r on {circle}\n\n< ||cffff0000Consumable Usage||r \n||cff3fc6eaRanged:||r Mana Potions\nHealers: Mana Potions\n||cfffff468Melee:||r LIP + Rage Potions \n||cffc69b6dTanks:||r Might Rage / Stoneshield / LIP", -- [28]
+			" {alliance}Ne||rfarian{alliance}\n||cffffff00Onyxia Scale Cloak||r||r\n< ||cffff0000Groups||r||r >\n||cff00ff96Entrance Side||r||r:||r||r||r Odd groups\nEntrance Tank: ||cffc69b6dBanoffee||r   = ||cffc69b6dKarabaraz||r   = {square}\n||cff00ff96Throne Side:||r||r Even groups\nThrone Tank:||r||r ||cffc69b6dFarius||r  = {cross} ||cffc69b6dEcology||r    = {moon}\n||cffffff00Onyxia Scale Cloak||r||r\n\n||r< ||cffff0000Healing ||r>\n{spell:17} ||cffffff00Shadow Flame||r: ||cffffffffNalena||r  {spell:17}\n20% BoPs -  \n||cfff48cbaPossa||r  - ||cff3fc6eaSolem||r \n||cfff48cbaMatty||r  - ||cff3fc6eaAndy||r \n||cfff48cbaTpaartos||r    - ||cff3fc6eaEsarus||r  \n\n", -- [29]
 			"||cffff0000Post-Garr - Trash||r\n1st trash pack: Tank 2 - ||cffc41e3aFree Action Potion||r\n2nd trash pack: Tank 3 - ||cffc41e3aFree Action Potion||r\nAfter 1st trash pack: Melee - ||cffc41e3aGreater Fire Protection Potion||r\n\n{alliance}||cffff0000Geddon||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1\n\n< ||cff00ff96Healing||r >\n-\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1 - ||cffc41e3aMighty Rage||r\nOn pull: Casters - ||cffc41e3aRestrorative Potion||r\n\n< ||cff00ff96Douse||r >\n-\n\n||cffff0000Post-Geddon - Trash||r\n1st trash pack: Tank 2 - ||cffc41e3aFree Action Potion||r", -- [30]
 			"||cffff0000Post-Geddon - Trash||r\n1st trash pack: Tank 2 + Tank 3 - ||cffc41e3aFree Action Potion||r\n\n{alliance}||cffff0000Shazzrah||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1\n\n< ||cff00ff96Healing||r >\n-\n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1 - ||cffc41e3aMighty Rage||r\nOn pull: Melee+casters+healers - ||cffc41e3aRestrorative Potion||r\n\n< ||cff00ff96Douse||r >\n-\n\n||cffff0000Post-Shazzarah - Trash||r\n1st trash pack: Tank 2 + Tank 3 - ||cffc41e3aFree Action Potion||r\n2nd trash pack: Tank 1 + Tank 4 - ||cffc41e3aFree Action Potion||r\nMelee stack on {diamond} @Reaver packs\n", -- [31]
 			"||cffff0000Post-Golemagg||r\nWhen available: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cffffffffPriests||r: buff ||cff8787edShadow Protection||r\n\n{alliance}||cffff0000Major Domo||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{cross}: Tank 1 - ||cff00ffffAoE taunt||r on pull\n{moon}: Tank 2 - 2nd ||cff00ffffAoE taunt||r (after 5 sec)\n{alliance}Boss: Tank 3 || {skull}: Tank 4 \n{square}:  Tank 5 || {triangle}: Tank 6\n{diamond}: Tank 7 || {circle}: Tank 8\n{star}: Tank 9\n\n< ||cff00ff96Healing||r >\n-\n\n< ||cff00ff96Rogue stuns||r - x2 >\n{skull}: ||cfffff468Rogue 1||r \n{diamond}: ||cfffff468Rogue 2||r \n{circle}: ||cfffff468Rogue 3||r \n{star}: ||cfffff468Rogue 4||r \n\n< ||cff00ff96Consumable usage||r||r||r||r >\nOn pull: Tank 1 - ||cffc41e3aLimited Invulnerability Potion||r\nOn pull: DPS warriors - ||cffc41e3aMighty Rage||r\nAfter 5 seconds: Tank 2 - ||cffc41e3aLimited Invulnerability Potion||r\nAfter 2 seconds: ||cffc41e3aSapper Charges||r / ||cffc41e3aCrystal Charges||r\n\n< ||cff00ff96Douse||r >\n-\n\n||cffff0000Post-Major Domo||r\nRag spawning - ||cfffff468Daxxa||r\nWhen available: Everyone - ||cffee5555Swiftness Potion||r", -- [32]
 			"{alliance}||cffff0000Flamegor||r{alliance}\n||cffffff00Onyxia Scale Cloak||r||r\n||cff00ff96Boss:||r ||cffc69b6dTank 1||r\n||cff00ff96Wing Buffet:||r ||cffc69b6dTank 2 > ||cffc69b6dTank 3\n||cffffff00Onyxia Scale Cloak||r||r\n\n< ||cffff0000Hunter Tranq Rotation||r >\n||cffaad372Hunter 1||r-> ||cffaad372Hunter 2||r-> ||cffaad372Hunter 3||r\n\n< ||cffff0000Healing ||r>\n{spell:17} ||cffffff00Shadow Flame||r: Priest 1{spell:17}\n\n< ||cffff0000Positioning||r >\n||cfffff468Melee:||r on {star}\n||cff3fc6eaRanged:||r||r on {circle}\n||r\n< ||cffff0000Consumable Usage||r >\n||cff3fc6eaRanged:||r Mana Potions\nHealers: Mana Potions\n||cfffff468Melee:||r LIP + Rage Potions \n||cffc69b6dTanks:||r Might Rage / Stoneshield / LIP\n", -- [33]
 			"{alliance}Chrommagus{alliance}\n< ||cffff0000Tanking||r >\n||cff00ff96Boss:||r ||cffc69b6dTinkeng||r \n||cff00ff96Offtank:||r ||cffc69b6dKarabaraz||r   \n\n< ||cffff0000Pull||r >  \n||cffffff00Keep threat below||r ||cffc69b6dDarkiee||r   until first x2 Breaths\n\n< ||cffff0000Positioning||r >\n||cfffff468Melee:||r on {star}\n||cfffff468Melee||r Healers: In LoS of {star}\n||cff3fc6eaRanged:||r||r on {circle}\n||cff3fc6eaRanged||r Healers: In LoS of {circle}\n\n< ||cffff0000Hunter Tranq Rotation||r >\n||cffaad372Gonkd||r-> ||cffaad372Grlja||r  \n\n< ||cffff0000Healing||r >\nUse PRE{spell:17} on ||cffff0000Time Lapse||r: ||cffffffffNalena||r \n\n< ||cffff0000Consumable Usage||r >\n||cffff7c0aEveryone:||r Restorativea", -- [34]
 			"||cffff0000Post-Sulfuron - Trash||r\nWhen available: Everyone - ||cffc41e3aGreater Shadow Protection Potion||r\n\n{alliance}||cffff0000Golemagg||r{alliance}\n< ||cff00ff96||r||cff00ff96Tanking||r >\n{alliance}Boss: Tank 1\nAdds: Tank 2 - \n\n< ||cff00ff96Healing||r >\n-\n\n< ||cffaad372Hunter tranq shot||r >\n||cffaad372Hunter||r g1 -> ||cffaad372Hunter||r g2 -> ||cffaad372Hunter||r g3\n\n< ||cff00ff96Consumable usage||r||r||r||r >\n-\n\n< ||cff00ff96Douse||r >\n-\n\n||cffff0000Post-Golemagg||r\nWhen available: Everyone - ||cffc41e3aGreater Fire Protection Potion||r\n||cffffffffPriests||r: buff ||cff8787edShadow Protection||r", -- [35]
-			"{alliance}Razorgore||r{alliance}\n< ||cffff0000Groups||r||r >\n||cff00ff96Entrance side||r||r:||r||r||r Odd groups\n||cff00ff96Vael side||r:||r Even groups\n\n< ||cffff0000Tanking||r >\n||cff00ff96Boss||r: ||cffc69b6dKarabaraz||r  ||r|| Offtanking: Tank 1\n||cff00ff96Tank Marks||r: ||cffc69b6dBanoffee||r  = {skull} ||cffc69b6dFarius||r  = {square}\n||cff00ff96Tank Marks||r:||r ||cffc69b6dKarabaraz||r  = {cross} ||cffc69b6dEcology||r||cffc69b6d||r = {moon}\n||cff00ff96Positioning||r:||r  ||cffc69b6dFarius||r + ||cffc69b6dEcology||r = ||cffffff00Ramp\n||r\n< ||cffff0000Orb Control||r >\n||cff00ff96Orb:||r ||cffaad372Medruz||r \n||cff00ff96Orb Backup||r:||r ||cffaad372Thralski||r \n||cff00ff96Last Egg||r:||r ||cffc69b6dKarabaraz||r  \n\n< ||cffff0000Consumable Usage||r >\n||cfffff468Melee:||r FAP\n||cffc69b6dTanks:||r  FAP\n", -- [36]
+			"{alliance}Razorgore||r{alliance}\n< ||cffff0000Groups||r||r >\n||cff00ff96Entrance side||r||r:||r||r||r Odd groups\n||cff00ff96Vael side||r:||r Even groups\n\n< ||cffff0000Tanking||r >\n||cff00ff96Boss||r: ||cffc69b6dKarabaraz||r  ||r|| Offtanking: Tank 1\n||cff00ff96Tank Marks||r: ||cffc69b6dBanoffee||r  = {skull} ||cffc69b6dFarius||r  = {square}\n||cff00ff96Tank Marks||r:||r ||cffc69b6dKarabaraz||r  = {cross} ||cffc69b6dEcology||r||cffc69b6d||r = {moon}\n||cff00ff96Positioning||r:||r  ||cffc69b6dFarius||r + ||cffc69b6dEcology||r = ||cffffff00Ramp\n||r\n< ||cffff0000Orb Control||r >\n||cff00ff96Orb:||r ||cffaad372Medruz||r \n||cff00ff96Orb Backup||r:||r ||cffaad372Wores||r  \n||cff00ff96Last Egg||r:||r ||cffc69b6dKarabaraz||r  \n\n< ||cffff0000Consumable Usage||r >\n||cfffff468Melee:||r FAP\n||cffc69b6dTanks:||r  FAP\n", -- [36]
 			"{alliance}||cffff0000Post-Vael||r{alliance}\n||cff00ff96Tanking||r: {skull}: ||cffc69b6dBanoffee||r   || {cross}: ||cffc69b6dKarabaraz||r \n||cff00ff96Tanking||r: {square}: ||cffc69b6dFarius||r   || {moon}: ||cffc69b6dEcology||r   \n||cff00ff96Kiting:||r ||cffaad372Medruz||r    = Captain\n||cffffffff||cffff00ff||cffff7c0aDruids Sleep:||r||r Wyrmkin||r - \n{diamond}: ||cffff7c0aTarondor||r  || {triangle}: Heatonleen\n||cffaad372Hunter Tranq||r: Seethers: ||cffaad372Wores||r  \n{alliance}||cffff0000Suppression||r: {alliance}\n||cff3fc6eaSheep Spam||r: ||cff3fc6eaArcania||r :{skull} ||cff3fc6eaNipakoo||r a||r :||r {cross} ||cff3fc6eaRackpriest||r :||r{moon}\n\n\n\n", -- [37]
-			"{alliance}Hell Packs{alliance}\n\n< ||cffff0000Tanking||r >\n||cff8787edWarlocks||r: {skull}||cffc69b6dBanoffee||r   {cross}||cffc69b6dKarabaraz||r  \n||cff808080Overseer||r:  {square}||cffc69b6dFarius||r \n||cffa330c9Spellbinder||r: {moon}||cffc69b6dEcology||r     {triangle}||cffc69b6dMaeil||r \n||cff00ff00Goblins||r: ||cff3fc6eaRackpriest||r \n< ||cffff0000Pulling||r > \n||cff8787edWarlocks||r: {skull}||cffc69b6dBanoffee||r    {cross}||cffc69b6dKarabaraz||r \n||cff808080Overseer||r:  {square}||cffaad372Medruz||r  \n||cffa330c9Spellbinder||r||r: {moon}||cffaad372Wores||r     {triangle}||cffc69b6dMaeil||r \n||cff00ff00Goblins||r: ||cfff48cbaPossa||r \n\n< ||cffff0000Kill Order||r >\n||cfffff468Melee||r = {skull}>{cross} >{moon}>{square}/{triangle}\n||cff3fc6eaRanged||r = ||cff00ff00Goblins||r > {skull}>{cross}>{square}>{moon}/{triangle}\n\n< ||cffff0000Consumable Usage||r >\n||cffff7c0aRaid:||r Bandages + Fire Protection Potions\n||cff3fc6eaRanged:||r Mana Potions\nHealers: Mana Potions\n||cfffff468Melee:||r LIP + Rage Potions + FAP \n||cffc69b6dTanks:||r  LIP + FAP", -- [38]
+			"{alliance}Hell Packs{alliance}\n\n< ||cffff0000Tanking||r >\n||cff8787edWarlocks||r: {skull}||cffc69b6dBanoffee||r   {cross}||cffc69b6dKarabaraz||r  \n||cff808080Overseer||r:  {square}||cffc69b6dFarius||r \n||cffa330c9Spellbinder||r: {moon}||cffc69b6dEcology||r     {triangle}||cffc69b6dJaáz||r \n||cff00ff00Goblins||r: ||cff3fc6eaRackpriest||r \n< ||cffff0000Pulling||r > \n||cff8787edWarlocks||r: {skull}||cffc69b6dBanoffee||r    {cross}||cffc69b6dKarabaraz||r \n||cff808080Overseer||r:  {square}||cffaad372Medruz||r  \n||cffa330c9Spellbinder||r||r: {moon}||cffaad372Wores||r     {triangle}||cffc69b6dJaáz||r l||r \n||cff00ff00Goblins||r: ||cfff48cbaPossa||r \n\n< ||cffff0000Kill Order||r >\n||cfffff468Melee||r = {skull}>{cross} >{moon}>{square}/{triangle}\n||cff3fc6eaRanged||r = ||cff00ff00Goblins||r > {skull}>{cross}>{square}>{moon}/{triangle}\n\n< ||cffff0000Consumable Usage||r >\n||cffff7c0aRaid:||r Bandages + Fire Protection Potions\n||cff3fc6eaRanged:||r Mana Potions\nHealers: Mana Potions\n||cfffff468Melee:||r LIP + Rage Potions + FAP \n||cffc69b6dTanks:||r  LIP + FAP", -- [38]
 			"{alliance}4 Wyrmkins{alliance}\n||cff00ff96Tanking||r: {skull}: ||cffc69b6dBanoffee||r     || {cross}: ||cffc69b6dKarabaraz||r \n||cff00ff96Tanking||r: {square}: ||cffc69b6dFarius||r     || {moon}: ||cffc69b6dEcology||r  \n||cff00ff96Tanking:||r ||cffc69b6dMaeil||r  + ||cffc69b6dHammerfall||r   in raid to Taunt\n\n< ||cffff0000Pull||r >\n||cffffff00Dectect Magic||r = ||cff3fc6eaAndy||r  on {square}\nStack: {skull}+{cross}+{moon}\n||cffaad372Medruz||r : {skull}\n||cffaad372Wores||r : {cross}\n||cffaad372Nallena||r : {square}\n\n\n< ||cffff0000Consumable Usage||r >\nDarkiee: FAP\n||cfffff468Melee:||r FAP if on Darkiee\n||cff3fc6eaRanged:||r LIP if aggro\n\n", -- [39]
 			"{alliance}4 Wyrmkins{alliance}\n||cff00ff96Tanking||r: {skull}: ||cffc69b6dTinkeng||r  || {cross}: ||cffc69b6dSagsy||r \n||cff00ff96Tanking||r: {square}: ||cffc69b6dThresya||r  || {moon}: ||cffc69b6dMaeil||r \n||cff00ff96Tanking:||r ||cffc69b6dXguard||r  + ||cffc69b6dSchóu||r  in raid to Taunt\n\n< ||cffff0000Pull||r >\n||cffffff00Dectect Magic||r = ||cff3fc6eaAndy||r  on {square}\nStack: {skull}+{cross}+{moon}\n||cffaad372Medruz||r : {skull}\n||cffaad372Wores||r : {cross}\n||cffaad372Nallena||r : {square}\n\n\n< ||cffff0000Consumable Usage||r >\nDarkiee: FAP\n||cfffff468Melee:||r FAP if on Darkiee\n||cff3fc6eaRanged:||r LIP if aggro\n", -- [40]
 		},
@@ -601,6 +601,25 @@ VExRT = {
 				"^671^9^1589485371^88^1^40^59.41^Cheekybun", -- [402]
 				"^672^9^1589485753^96^1^40^59.41^Maeil", -- [403]
 				"^1084^9^1589486589^167^1^40^59.41^Thralski", -- [404]
+				"^610^9^1590082783^394^1^40^59.56^Esarus", -- [405]
+				"^611^9^1590083307^54^1^40^59.56^Tpaartos", -- [406]
+				"^612^9^1590084083^2^0^40^59.56^", -- [407]
+				"^612^9^1590084195^87^1^40^59.56^", -- [408]
+				"^613^9^1590084431^158^1^40^59.56^Solem", -- [409]
+				"^614^9^1590085904^166^1^40^59.56^Bèrlin", -- [410]
+				"^615^9^1590086157^94^1^40^59.56^", -- [411]
+				"^616^9^1590086621^243^1^40^59.56^Haglvejr", -- [412]
+				"^617^9^1590087074^1634^1^40^59.25^Tpaartos", -- [413]
+				"^663^9^1590089915^56^1^40^59.63^", -- [414]
+				"^664^9^1590090219^73^1^40^59.63^", -- [415]
+				"^665^9^1590090615^60^1^40^59.63^Meliah", -- [416]
+				"^666^9^1590091042^85^1^40^59.63^Karabaraz", -- [417]
+				"^668^9^1590091629^67^1^40^59.63^Tpaartos", -- [418]
+				"^667^9^1590091943^48^1^40^59.63^Bèrlin", -- [419]
+				"^669^9^1590092871^89^1^40^59.63^", -- [420]
+				"^670^9^1590093157^81^1^40^59.63^", -- [421]
+				"^671^9^1590093437^129^1^40^59.63^Banoffee", -- [422]
+				"^672^9^1590093960^119^1^40^59.63^Farius", -- [423]
 			},
 			["Ksumdamond"] = {
 			},
@@ -683,8 +702,11 @@ VExRT = {
 			["Potmplz"] = 0,
 			["Wyatt-Everlook"] = 0,
 			["Ýra"] = 0,
+			["Mysticer"] = 0,
 			["Poison"] = 0,
+			["Gravious"] = 0,
 			["Bjo"] = 0,
+			["Knobend"] = 0,
 			["Echology"] = 0,
 			["Sololobo"] = 0,
 			["Fxih"] = 0,
@@ -697,8 +719,8 @@ VExRT = {
 			["Eisha-Finkle"] = 0,
 			["Daxaa"] = 0,
 			["Tarondor"] = 0,
-			["Celus"] = 0,
 			["Microphobiac"] = 0,
+			["Niify"] = 0,
 			["Elice"] = 0,
 			["Palaleen"] = 0,
 			["Branxlockx"] = 0,
@@ -720,7 +742,7 @@ VExRT = {
 			["Cast"] = 0,
 			["Ecology"] = 0,
 			["Gigawoot"] = 0,
-			["Knobend"] = 0,
+			["Solem"] = 0,
 			["Impulse"] = 0,
 			["Fsumdamond"] = 0,
 			["Buzzhype"] = 0,
@@ -736,7 +758,7 @@ VExRT = {
 			["Bicheto"] = 0,
 			["Rizzer"] = 0,
 			["Holysos"] = 0,
-			["Niify"] = 0,
+			["Celus"] = 0,
 			["Aishanna"] = 0,
 			["Crucibal"] = 0,
 			["Ufo"] = 0,
@@ -931,13 +953,13 @@ VExRT = {
 		["ColorizeNoValorUpgrade"] = false,
 	},
 	["Addon"] = {
-		["PreVersion"] = 4150,
-		["Version"] = 4150,
-		["Timer"] = 0.1,
-		["IconMiniMapHide"] = true,
-		["IconMiniMapTop"] = -72.5138703023845,
 		["Scale"] = 1,
+		["Version"] = 4150,
+		["PreVersion"] = 4150,
+		["Timer"] = 0.1,
+		["IconMiniMapTop"] = -72.5138703023845,
 		["IconMiniMapLeft"] = -73.3416451545267,
+		["IconMiniMapHide"] = true,
 	},
 	["RaidCheck"] = {
 		["ReadyCheckFrameOnlyRL"] = true,

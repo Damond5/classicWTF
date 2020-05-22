@@ -124,18 +124,18 @@ WeakAurasSaved = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["rowSpace"] = 1,
+			["radius"] = 200,
 			["animate"] = false,
 			["sort"] = "none",
 			["scale"] = 1,
-			["gridType"] = "RD",
+			["xOffset"] = -897.977100372314,
 			["border"] = true,
 			["borderEdge"] = "Square Full White",
 			["regionType"] = "dynamicgroup",
 			["borderSize"] = 3,
 			["limit"] = 5,
-			["xOffset"] = -897.977100372314,
-			["grow"] = "DOWN",
+			["rotation"] = 0,
+			["useLimit"] = false,
 			["constantFactor"] = "RADIUS",
 			["borderInset"] = 1,
 			["borderOffset"] = 17,
@@ -168,11 +168,11 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
-			["radius"] = 200,
+			["grow"] = "DOWN",
 			["conditions"] = {
 			},
-			["useLimit"] = false,
-			["rotation"] = 0,
+			["gridType"] = "RD",
+			["rowSpace"] = 1,
 		},
 		["BG No. Announcer v1.0.3"] = {
 			["controlledChildren"] = {
@@ -670,24 +670,6 @@ WeakAurasSaved = {
 			["fixedWidth"] = 200,
 			["parent"] = "Raid Consumes",
 			["regionType"] = "icon",
-			["wordWrap"] = "WordWrap",
-			["uid"] = "eCxiQXRjR4L",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["anchorFrameType"] = "SCREEN",
-			["zoom"] = 0,
-			["justify"] = "LEFT",
-			["cooldownTextDisabled"] = false,
-			["auto"] = true,
-			["tocversion"] = 11303,
-			["id"] = "Consume item",
-			["cooldownEdge"] = false,
-			["alpha"] = 1,
-			["width"] = 24,
 			["animation"] = {
 				["start"] = {
 					["type"] = "preset",
@@ -710,11 +692,28 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["uid"] = "eCxiQXRjR4L",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["anchorFrameType"] = "SCREEN",
+			["zoom"] = 0,
+			["justify"] = "LEFT",
+			["cooldownTextDisabled"] = false,
+			["auto"] = true,
+			["tocversion"] = 11303,
+			["id"] = "Consume item",
+			["preferToUpdate"] = false,
+			["alpha"] = 1,
+			["width"] = 24,
+			["cooldownEdge"] = false,
 			["config"] = {
 			},
 			["inverse"] = false,
-			["authorOptions"] = {
-			},
+			["wordWrap"] = "WordWrap",
 			["conditions"] = {
 				{
 					["check"] = {
@@ -749,7 +748,8 @@ WeakAurasSaved = {
 				}, -- [1]
 			},
 			["cooldown"] = false,
-			["preferToUpdate"] = false,
+			["authorOptions"] = {
+			},
 		},
 		["cast bar"] = {
 			["sparkWidth"] = 10,
@@ -1214,6 +1214,7 @@ WeakAurasSaved = {
 			},
 			["regionType"] = "icon",
 			["displayIcon"] = "132526",
+			["xOffset"] = -904.126655578613,
 			["authorOptions"] = {
 				{
 					["type"] = "select",
@@ -1242,8 +1243,7 @@ WeakAurasSaved = {
 					["width"] = 1,
 				}, -- [2]
 			},
-			["icon"] = true,
-			["xOffset"] = -904.126655578613,
+			["cooldownEdge"] = false,
 			["semver"] = "1.1.1-3",
 			["frameStrata"] = 1,
 			["cooldownTextDisabled"] = false,
@@ -1262,7 +1262,6 @@ WeakAurasSaved = {
 			["zoom"] = 0,
 			["conditions"] = {
 			},
-			["cooldownEdge"] = false,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -1283,6 +1282,7 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["icon"] = true,
 		},
 		["Announcer"] = {
 			["outline"] = "OUTLINE",
@@ -1673,11 +1673,11 @@ WeakAurasSaved = {
 						["subeventPrefix"] = "SPELL",
 						["event"] = "Health",
 						["custom_type"] = "status",
-						["events"] = "PLAYER_TARGET_CHANGED UNIT_AURA",
-						["customName"] = "function()\n    local env = aura_env\n    local result = \"Missing Detect Magic\"\n    \n    for i=1, #env.debuffType do\n        for k=1, 2 do -- Checking up to 2 buffs to account for Enrage on Chromaggus\n            if select(10, UnitBuff(\"target\", k)) == env.debuffType[i][1] then\n                result = string.format(\"|cFF%s%s|r\", env.debuffType[i][3], env.debuffType[i][2])\n            end\n        end\n    end\n    \n    return result\nend",
 						["custom"] = "function()\n    for i=1, #aura_env.mobId do\n        if UnitExists(\"target\") then\n            local targetGUID = UnitGUID(\"target\")\n            local type, zero, server_id, instance_id, zone_uid, npc_id, spawn_uid = strsplit(\"-\", targetGUID);\n            npc_id = tonumber(npc_id)\n            \n            if npc_id == aura_env.mobId[i] then\n                return true\n            end\n        end\n    end\nend",
+						["customName"] = "function()\n    local env = aura_env\n    local result = \"Missing Detect Magic\"\n    \n    for i=1, #env.debuffType do\n        for k=1, 2 do -- Checking up to 2 buffs to account for Enrage on Chromaggus\n            if select(10, UnitBuff(\"target\", k)) == env.debuffType[i][1] then\n                result = string.format(\"|cFF%s%s|r\", env.debuffType[i][3], env.debuffType[i][2])\n            end\n        end\n    end\n    \n    return result\nend",
 						["spellIds"] = {
 						},
+						["events"] = "PLAYER_TARGET_CHANGED UNIT_AURA",
 						["check"] = "event",
 						["names"] = {
 						},
@@ -1798,16 +1798,16 @@ WeakAurasSaved = {
 		},
 		["Improved Shadowbolt"] = {
 			["alpha"] = 1,
-			["xOffset"] = 100,
-			["regionType"] = "icon",
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["regionType"] = "icon",
 			["authorOptions"] = {
 			},
+			["xOffset"] = 100,
 			["icon"] = true,
 			["yOffset"] = 0,
 			["anchorPoint"] = "CENTER",
@@ -1855,14 +1855,14 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
-			["desaturate"] = false,
+			["anchorFrameType"] = "SCREEN",
 			["internalVersion"] = 29,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["id"] = "Improved Shadowbolt",
 			["cooldownTextDisabled"] = false,
 			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
+			["width"] = 64,
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -1939,7 +1939,7 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["width"] = 64,
+			["desaturate"] = false,
 		},
 		["!ZG Drunk Toggle"] = {
 			["outline"] = "OUTLINE",
@@ -1972,11 +1972,11 @@ WeakAurasSaved = {
 						["use_unit"] = true,
 						["unit"] = "player",
 						["debuffType"] = "HELPFUL",
-						["events"] = "ZONE_CHANGED, ZONE_CHANGED_INDOORS, ZONE_CHANGED_NEW_AREA",
+						["health"] = "0",
 						["custom_type"] = "event",
 						["use_powertype"] = false,
 						["custom_hide"] = "timed",
-						["custom"] = "function()\n    return true\nend\n\n\n\n\n",
+						["events"] = "ZONE_CHANGED, ZONE_CHANGED_INDOORS, ZONE_CHANGED_NEW_AREA",
 						["type"] = "custom",
 						["use_health"] = true,
 						["unevent"] = "auto",
@@ -1987,7 +1987,7 @@ WeakAurasSaved = {
 						["health_operator"] = ">=",
 						["realSpellName"] = 0,
 						["use_spellName"] = true,
-						["health"] = "0",
+						["custom"] = "function()\n    return true\nend\n\n\n\n\n",
 						["unitisunit"] = "target",
 						["check"] = "update",
 						["subeventSuffix"] = "_CAST_START",
@@ -2027,28 +2027,19 @@ WeakAurasSaved = {
 			},
 			["width"] = 64,
 			["fontSize"] = 12,
-			["fixedWidth"] = 200,
-			["shadowXOffset"] = 1,
-			["authorOptions"] = {
-			},
 			["wordWrap"] = "WordWrap",
+			["shadowXOffset"] = 1,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["preferToUpdate"] = false,
 			["conditions"] = {
 			},
 			["regionType"] = "text",
-			["shadowYOffset"] = -1,
 			["icon"] = true,
-			["preferToUpdate"] = false,
-			["config"] = {
-			},
-			["alpha"] = 1,
-			["auto"] = false,
-			["cooldownTextDisabled"] = false,
-			["justify"] = "LEFT",
-			["tocversion"] = 11304,
-			["id"] = "!ZG Drunk Toggle",
-			["zoom"] = 0,
-			["frameStrata"] = 1,
-			["anchorFrameType"] = "SCREEN",
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -2069,14 +2060,23 @@ WeakAurasSaved = {
 					["easeType"] = "none",
 				},
 			},
+			["authorOptions"] = {
+			},
+			["config"] = {
+			},
+			["alpha"] = 1,
+			["auto"] = false,
+			["cooldownTextDisabled"] = false,
+			["justify"] = "LEFT",
+			["tocversion"] = 11304,
+			["id"] = "!ZG Drunk Toggle",
+			["zoom"] = 0,
+			["frameStrata"] = 1,
+			["anchorFrameType"] = "SCREEN",
+			["automaticWidth"] = "Auto",
 			["uid"] = "L9AMT4XrKfJ",
 			["inverse"] = false,
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["fixedWidth"] = 200,
 			["shadowColor"] = {
 				0, -- [1]
 				0, -- [2]
@@ -2084,8 +2084,8 @@ WeakAurasSaved = {
 				1, -- [4]
 			},
 			["displayIcon"] = " ",
+			["shadowYOffset"] = -1,
 			["url"] = "https://wago.io/Qar8gNmje/1",
-			["automaticWidth"] = "Auto",
 		},
 		["Details! Aura Group"] = {
 			["grow"] = "RIGHT",
@@ -2400,16 +2400,16 @@ WeakAurasSaved = {
 			},
 		},
 		["Carrot on a stick"] = {
-			["anchorFrameType"] = "SCREEN",
+			["desaturate"] = false,
+			["xOffset"] = 0,
+			["anchorPoint"] = "CENTER",
+			["authorOptions"] = {
+			},
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
-			},
-			["anchorPoint"] = "CENTER",
-			["xOffset"] = 0,
-			["authorOptions"] = {
 			},
 			["actions"] = {
 				["start"] = {
@@ -2484,8 +2484,8 @@ WeakAurasSaved = {
 			["id"] = "Carrot on a stick",
 			["zoom"] = 0,
 			["frameStrata"] = 1,
-			["desaturate"] = false,
 			["width"] = 64,
+			["anchorFrameType"] = "SCREEN",
 			["config"] = {
 			},
 			["inverse"] = false,
@@ -2766,14 +2766,14 @@ WeakAurasSaved = {
 			["regionType"] = "aurabar",
 			["config"] = {
 			},
-			["auto"] = true,
+			["semver"] = "1.0.3",
 			["icon_side"] = "RIGHT",
 			["width"] = 200,
 			["anchorFrameParent"] = true,
 			["texture"] = "ElvUI Norm",
-			["semver"] = "1.0.3",
-			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
 			["spark"] = false,
+			["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
+			["auto"] = true,
 			["tocversion"] = 11303,
 			["id"] = "Timer",
 			["sparkHidden"] = "NEVER",
@@ -2819,22 +2819,22 @@ WeakAurasSaved = {
 		},
 		["curse of elements"] = {
 			["alpha"] = 1,
-			["authorOptions"] = {
-			},
-			["regionType"] = "icon",
 			["xOffset"] = -3.9998779296875,
+			["regionType"] = "icon",
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["internalVersion"] = 29,
+			["authorOptions"] = {
+			},
+			["cooldownTextDisabled"] = false,
 			["yOffset"] = -259.000091552734,
 			["anchorPoint"] = "CENTER",
 			["icon"] = true,
 			["cooldownSwipe"] = true,
-			["zoom"] = 0,
+			["internalVersion"] = 29,
 			["config"] = {
 			},
 			["cooldownEdge"] = false,
@@ -2877,14 +2877,14 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
-			["anchorFrameType"] = "SCREEN",
-			["cooldownTextDisabled"] = false,
+			["width"] = 64,
+			["zoom"] = 0,
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
 			["id"] = "curse of elements",
 			["auto"] = true,
 			["frameStrata"] = 1,
-			["width"] = 64,
+			["desaturate"] = false,
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -2960,7 +2960,7 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["desaturate"] = false,
+			["anchorFrameType"] = "SCREEN",
 		},
 		["Arcaezia - My Threat Bar"] = {
 			["sparkWidth"] = 10,
@@ -3005,10 +3005,10 @@ WeakAurasSaved = {
 						["use_unitisunit"] = false,
 						["use_hostility"] = false,
 						["unevent"] = "auto",
-						["use_unit"] = true,
+						["unit"] = "target",
 						["duration"] = "1",
 						["use_character"] = true,
-						["unit"] = "target",
+						["hostility"] = "hostile",
 						["subeventPrefix"] = "SPELL",
 						["character"] = "npc",
 						["event"] = "Unit Characteristics",
@@ -3016,7 +3016,7 @@ WeakAurasSaved = {
 						["type"] = "status",
 						["subeventSuffix"] = "_CAST_START",
 						["use_attackable"] = true,
-						["hostility"] = "hostile",
+						["use_unit"] = true,
 					},
 					["untrigger"] = {
 						["unit"] = "target",
@@ -3213,18 +3213,17 @@ WeakAurasSaved = {
 			["outline"] = "OUTLINE",
 			["fontSize"] = 30,
 			["font"] = "Friz Quadrata TT",
-			["authorOptions"] = {
-			},
-			["displayText"] = "%1.matchCount",
-			["xOffset"] = 409.00048828125,
-			["yOffset"] = -200.999938964844,
-			["regionType"] = "text",
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["displayText"] = "%1.matchCount",
+			["xOffset"] = 409.00048828125,
+			["yOffset"] = -200.999938964844,
+			["regionType"] = "text",
+			["shadowXOffset"] = 1,
 			["shadowYOffset"] = -1,
 			["anchorPoint"] = "CENTER",
 			["customTextUpdate"] = "event",
@@ -3278,7 +3277,8 @@ WeakAurasSaved = {
 				}, -- [1]
 				["activeTriggerMode"] = -10,
 			},
-			["shadowXOffset"] = 1,
+			["authorOptions"] = {
+			},
 			["internalVersion"] = 29,
 			["justify"] = "LEFT",
 			["animation"] = {
