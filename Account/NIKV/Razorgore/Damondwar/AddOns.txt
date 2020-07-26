@@ -24,7 +24,7 @@ AllyRoute: disabled
 OPie: enabled
 OPie_Classic: disabled
 QuestLogEx: enabled
-Questie: enabled
+Questie: disabled
 Details_Streamer: disabled
 BigWigs: disabled
 TwitchEmotes: disabled
@@ -36,3 +36,7 @@ ItemRack: disabled
 ItemRackOptions: disabled
 Pawn: disabled
 Skillet-Classic: disabled
+Plater: enabled
+BattlegroundNotifier: disabled
+Capping: disabled
+Capping_Options: disabled

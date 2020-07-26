@@ -3,6 +3,7 @@ DBMOnyxia_AllSavedVars = {
 	["Damond-Razorgore"] = {
 		["Onyxia"] = {
 			[0] = {
+				["SetIconOnFireball"] = true,
 				["Timer18435cd2"] = false,
 				["announceother19633target"] = false,
 				["Timer18584castCVoice"] = 0,

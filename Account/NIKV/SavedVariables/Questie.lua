@@ -4829,13 +4829,13 @@ QuestieConfig = {
 		["Damondbank - Razorgore"] = {
 			["TrackerHiddenQuests"] = {
 			},
-			["collapsedQuests"] = {
+			["TrackerHiddenObjectives"] = {
 			},
 			["AutoUntrackedQuests"] = {
 			},
-			["TrackedQuests"] = {
+			["collapsedQuests"] = {
 			},
-			["TrackerHiddenObjectives"] = {
+			["TrackedQuests"] = {
 			},
 		},
 		["Damond - Razorgore"] = {
@@ -4909,13 +4909,13 @@ QuestieConfig = {
 				[4286] = true,
 				[4906] = true,
 				[7081] = true,
-				[5243] = true,
+				[969] = true,
 				[5050] = true,
-				[4862] = true,
+				[5243] = true,
 				[2605] = true,
 				[4866] = true,
 				[3942] = true,
-				[969] = true,
+				[4862] = true,
 				[7728] = true,
 				[4101] = true,
 				[7848] = true,
@@ -4923,7 +4923,6 @@ QuestieConfig = {
 				[7722] = true,
 				[5246] = true,
 				[5250] = true,
-				[1804] = true,
 				[4005] = true,
 				[4867] = true,
 				[4296] = true,
@@ -5333,26 +5332,30 @@ QuestieConfig = {
 				[5541] = true,
 				[412] = true,
 				[5561] = true,
+				[5384] = true,
 				[413] = true,
+				[1804] = true,
 				[2279] = true,
 				[7627] = true,
 				[414] = true,
 				[8883] = true,
-				[5601] = true,
 				[8803] = true,
 				[8788] = true,
+				[5601] = true,
 				[8375] = true,
-				[416] = true,
 				[5212] = true,
+				[8365] = true,
+				[416] = true,
+				[1052] = true,
 				[4602] = true,
 				[4606] = true,
 				[417] = true,
-				[8365] = true,
-				[1052] = true,
+				[8240] = true,
 				[8201] = true,
-				[418] = true,
 				[8107] = true,
+				[418] = true,
 				[8106] = true,
+				[8077] = true,
 				[8076] = true,
 				[419] = true,
 				[8059] = true,
@@ -5475,7 +5478,7 @@ QuestieConfig = {
 				[5528] = true,
 				[6141] = true,
 				[7168] = true,
-				[5384] = true,
+				[1795] = true,
 				[4342] = true,
 				[225] = true,
 				[1798] = true,
@@ -5721,7 +5724,19 @@ QuestieConfig = {
 			},
 			["TrackerHiddenQuests"] = {
 			},
-			["enabled"] = false,
+			["TrackedQuests"] = {
+			},
+			["TrackerHiddenObjectives"] = {
+			},
+			["TrackerLocation"] = {
+				"TOPLEFT", -- [1]
+				nil, -- [2]
+				"TOPLEFT", -- [3]
+				1608.00122070313, -- [4]
+				-272.999908447266, -- [5]
+			},
+			["collapsedQuests"] = {
+			},
 			["journey"] = {
 				{
 					["Party"] = {
@@ -28809,19 +28824,41 @@ QuestieConfig = {
 					["Quest"] = 8077,
 					["Level"] = 60,
 				}, -- [1813]
-			},
-			["collapsedQuests"] = {
-			},
-			["TrackerLocation"] = {
-				"TOPLEFT", -- [1]
-				nil, -- [2]
-				"TOPLEFT", -- [3]
-				1608.00122070313, -- [4]
-				-272.999908447266, -- [5]
-			},
-			["TrackerHiddenObjectives"] = {
-			},
-			["TrackedQuests"] = {
+				{
+					["Timestamp"] = 1592045183,
+					["Quest"] = 1804,
+					["Level"] = 60,
+					["Event"] = "Quest",
+					["SubType"] = "Complete",
+				}, -- [1814]
+				{
+					["Timestamp"] = 1592045184,
+					["Quest"] = 1795,
+					["Level"] = 60,
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+				}, -- [1815]
+				{
+					["Timestamp"] = 1592045198,
+					["Quest"] = 4962,
+					["Level"] = 60,
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+				}, -- [1816]
+				{
+					["Timestamp"] = 1592045274,
+					["Quest"] = 1795,
+					["Level"] = 60,
+					["Event"] = "Quest",
+					["SubType"] = "Complete",
+				}, -- [1817]
+				{
+					["Timestamp"] = 1592045658,
+					["Quest"] = 4962,
+					["Level"] = 60,
+					["Event"] = "Quest",
+					["SubType"] = "Abandon",
+				}, -- [1818]
 			},
 		},
 	},

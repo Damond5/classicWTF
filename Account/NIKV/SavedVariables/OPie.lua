@@ -4,7 +4,7 @@ OneRing_Config = {
 		["Razorgore-Damonddruid"] = "default",
 		["Lashlayer-Damond"] = "default",
 	},
-	["_GameVersion"] = "1.13.4",
+	["_GameVersion"] = "1.13.5",
 	["_OPieVersion"] = "Ancient Walnut 6 (3.101)",
 	["ProfileStorage"] = {
 		["default"] = {
@@ -13,8 +13,8 @@ OneRing_Config = {
 				["ABueh21QF0O"] = "ABueh21QF0n",
 			},
 			["Bindings"] = {
-				["lock"] = "V",
 				["druid"] = "V",
+				["lock"] = "V",
 			},
 		},
 	},
@@ -41,10 +41,10 @@ OneRing_Config = {
 					["id"] = 1075,
 					["sliceToken"] = "ABue4OHUovt",
 				}, -- [5]
-				["name"] = "druid",
+				["limit"] = "Damonddruid-Razorgore",
 				["save"] = true,
 				["hotkey"] = "V",
-				["limit"] = "Damonddruid-Razorgore",
+				["name"] = "druid",
 			},
 			["demons"] = {
 				{
@@ -59,9 +59,9 @@ OneRing_Config = {
 					["sliceToken"] = "ABueh21QF0n",
 					["id"] = 712,
 				}, -- [3]
-				["name"] = "demons",
-				["save"] = true,
 				["limit"] = "Damond-Razorgore",
+				["save"] = true,
+				["name"] = "demons",
 			},
 			["lock"] = {
 				{
@@ -90,9 +90,9 @@ OneRing_Config = {
 					"summon", -- [2]
 					["sliceToken"] = "ABueh3puYGe",
 				}, -- [6]
-				["limit"] = "Damond-Razorgore",
-				["save"] = true,
 				["name"] = "lock",
+				["save"] = true,
+				["limit"] = "Damond-Razorgore",
 			},
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,

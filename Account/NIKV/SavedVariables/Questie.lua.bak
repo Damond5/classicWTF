@@ -4829,13 +4829,13 @@ QuestieConfig = {
 		["Damondbank - Razorgore"] = {
 			["TrackerHiddenQuests"] = {
 			},
-			["collapsedQuests"] = {
+			["TrackerHiddenObjectives"] = {
 			},
 			["AutoUntrackedQuests"] = {
 			},
-			["TrackerHiddenObjectives"] = {
-			},
 			["TrackedQuests"] = {
+			},
+			["collapsedQuests"] = {
 			},
 		},
 		["Damond - Razorgore"] = {
@@ -4915,7 +4915,7 @@ QuestieConfig = {
 				[2605] = true,
 				[1804] = true,
 				[4005] = true,
-				[969] = true,
+				[4862] = true,
 				[3372] = true,
 				[4101] = true,
 				[7848] = true,
@@ -4935,8 +4935,8 @@ QuestieConfig = {
 				[7728] = true,
 				[3942] = true,
 				[7729] = true,
-				[4862] = true,
 				[5243] = true,
+				[969] = true,
 				[4906] = true,
 				[7223] = true,
 				[4450] = true,
@@ -5722,6 +5722,19 @@ QuestieConfig = {
 			["TrackerHiddenQuests"] = {
 			},
 			["enabled"] = false,
+			["TrackedQuests"] = {
+			},
+			["collapsedQuests"] = {
+			},
+			["TrackerLocation"] = {
+				"TOPLEFT", -- [1]
+				nil, -- [2]
+				"TOPLEFT", -- [3]
+				1608.00122070313, -- [4]
+				-272.999908447266, -- [5]
+			},
+			["TrackerHiddenObjectives"] = {
+			},
 			["journey"] = {
 				{
 					["Party"] = {
@@ -28809,19 +28822,6 @@ QuestieConfig = {
 					["Event"] = "Quest",
 					["SubType"] = "Accept",
 				}, -- [1813]
-			},
-			["TrackerHiddenObjectives"] = {
-			},
-			["TrackerLocation"] = {
-				"TOPLEFT", -- [1]
-				nil, -- [2]
-				"TOPLEFT", -- [3]
-				1608.00122070313, -- [4]
-				-272.999908447266, -- [5]
-			},
-			["collapsedQuests"] = {
-			},
-			["TrackedQuests"] = {
 			},
 		},
 	},

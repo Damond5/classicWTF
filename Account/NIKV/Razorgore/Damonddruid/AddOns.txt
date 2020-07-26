@@ -5,7 +5,7 @@ BigWigs_Plugins: enabled
 WeakAurasCompanion: enabled
 Details: enabled
 BigWigs: disabled
-Questie: enabled
+Questie: disabled
 ClickLinks: disabled
 NeatPlates: disabled
 OPie: enabled
@@ -45,7 +45,7 @@ TwitchEmotes: disabled
 SLoTe: disabled
 ElvUI_CustomTweaks: disabled
 WeakAurasArchive: enabled
-Capping_Options: enabled
+Capping_Options: disabled
 GroupCalendar: disabled
 TinyTooltip: disabled
 BiSTracker: disabled
@@ -53,3 +53,6 @@ ClassTrainerPlus: disabled
 ItemRack: disabled
 Pawn: disabled
 Skillet-Classic: disabled
+Plater: enabled
+BattlegroundNotifier: disabled
+Capping: disabled
