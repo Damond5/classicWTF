@@ -1,4 +1,11 @@
 Version: 1
+Frame: WIM3_msgFrame1
+FrameLevel: 2
+Anchor: TOPLEFT
+X: 305
+Y: -146
+W: 333
+H: 220
 Frame: ScriptErrorsFrame
 FrameLevel: 1
 Anchor: RIGHT

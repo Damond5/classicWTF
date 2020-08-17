@@ -42,7 +42,7 @@ DBMBWL_AllSavedVars = {
 				["announce19873count"] = true,
 				["SpeedClearTimer"] = true,
 				["SpecWarn22425movetoSWNote"] = true,
-				["FastestClear"] = 2040.92,
+				["FastestClear"] = 1908.555,
 			},
 		},
 		["Broodlord"] = {

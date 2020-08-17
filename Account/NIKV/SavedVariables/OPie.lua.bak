@@ -13,8 +13,8 @@ OneRing_Config = {
 				["ABueh21QF0O"] = "ABueh21QF0n",
 			},
 			["Bindings"] = {
-				["lock"] = "V",
 				["druid"] = "V",
+				["lock"] = "V",
 			},
 		},
 	},
@@ -41,27 +41,27 @@ OneRing_Config = {
 					["id"] = 1075,
 					["sliceToken"] = "ABue4OHUovt",
 				}, -- [5]
-				["name"] = "druid",
+				["limit"] = "Damonddruid-Razorgore",
 				["save"] = true,
 				["hotkey"] = "V",
-				["limit"] = "Damonddruid-Razorgore",
+				["name"] = "druid",
 			},
 			["demons"] = {
 				{
-					["sliceToken"] = "ABueh21QF0Q",
 					["id"] = 688,
+					["sliceToken"] = "ABueh21QF0Q",
 				}, -- [1]
 				{
-					["sliceToken"] = "ABueh21QF0m",
 					["id"] = 697,
+					["sliceToken"] = "ABueh21QF0m",
 				}, -- [2]
 				{
-					["sliceToken"] = "ABueh21QF0n",
 					["id"] = 712,
+					["sliceToken"] = "ABueh21QF0n",
 				}, -- [3]
-				["name"] = "demons",
 				["save"] = true,
 				["limit"] = "Damond-Razorgore",
+				["name"] = "demons",
 			},
 			["lock"] = {
 				{
@@ -70,29 +70,29 @@ OneRing_Config = {
 					["sliceToken"] = "ABueh21QF0O",
 				}, -- [1]
 				{
-					["sliceToken"] = "ABuehfsJGDu",
 					["id"] = 20757,
+					["sliceToken"] = "ABuehfsJGDu",
 				}, -- [2]
 				{
-					["sliceToken"] = "ABueh3SPPze",
 					["id"] = 11730,
+					["sliceToken"] = "ABueh3SPPze",
 				}, -- [3]
 				{
-					["sliceToken"] = "ABuehfsJGDy",
 					["id"] = 11735,
+					["sliceToken"] = "ABuehfsJGDy",
 				}, -- [4]
 				{
-					["sliceToken"] = "ABuehoqlDLr",
 					["id"] = 5697,
+					["sliceToken"] = "ABuehoqlDLr",
 				}, -- [5]
 				{
 					"macro", -- [1]
 					"summon", -- [2]
 					["sliceToken"] = "ABueh3puYGe",
 				}, -- [6]
-				["limit"] = "Damond-Razorgore",
 				["save"] = true,
 				["name"] = "lock",
+				["limit"] = "Damond-Razorgore",
 			},
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,
@@ -101,6 +101,7 @@ OneRing_Config = {
 		["AutoQuestWhitelist"] = {
 			[6061] = true,
 			[4907] = true,
+			[20464] = true,
 			[11933] = true,
 			[21920] = true,
 			[5605] = true,

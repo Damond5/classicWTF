@@ -5,7 +5,7 @@ BigWigs_Plugins: enabled
 WeakAurasCompanion: enabled
 Details: enabled
 BigWigs: disabled
-Questie: disabled
+Questie: enabled
 ClickLinks: disabled
 NeatPlates: disabled
 OPie: enabled

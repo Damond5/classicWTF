@@ -24,7 +24,7 @@ AllyRoute: disabled
 OPie: enabled
 OPie_Classic: disabled
 QuestLogEx: enabled
-Questie: disabled
+Questie: enabled
 Details_Streamer: disabled
 BigWigs: disabled
 TwitchEmotes: disabled
