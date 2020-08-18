@@ -2,7 +2,7 @@
 ItemRackSettings = {
 	["HideOOC"] = "OFF",
 	["Cooldown90"] = "OFF",
-	["ShowMinimap"] = "OFF",
+	["ShowMinimap"] = "ON",
 	["Notify"] = "ON",
 	["HideTradables"] = "OFF",
 	["AllowHidden"] = "ON",
@@ -11,7 +11,7 @@ ItemRackSettings = {
 	["MinimapTooltip"] = "ON",
 	["MenuOnShift"] = "OFF",
 	["TrinketMenuMode"] = "OFF",
-	["EventsVersion"] = 15,
+	["EventsVersion"] = 17,
 	["HidePetBattle"] = "ON",
 	["LargeNumbers"] = "OFF",
 	["DisableAltClick"] = "OFF",
@@ -26,7 +26,7 @@ ItemRackSettings = {
 	["TooltipFollow"] = "OFF",
 	["EquipOnSetPick"] = "OFF",
 	["CharacterSheetMenus"] = "ON",
-	["SquareMinimap"] = "OFF",
+	["SquareMinimap"] = "ON",
 	["AllowEmpty"] = "ON",
 }
 ItemRackItems = {
@@ -60,6 +60,13 @@ ItemRackEvents = {
 		["Stance"] = 2,
 		["Type"] = "Stance",
 	},
+	["Nefarian's Lair"] = {
+		["Unequip"] = 1,
+		["Type"] = "Zone",
+		["Zones"] = {
+			["Nefarian's Lair"] = 1,
+		},
+	},
 	["After Cast"] = {
 		["Trigger"] = "UNIT_SPELLCAST_SUCCEEDED",
 		["Type"] = "Script",
@@ -73,11 +80,11 @@ ItemRackEvents = {
 			["The Exodar"] = 1,
 			["Stormwind City"] = 1,
 			["Orgrimmar"] = 1,
-			["Silvermoon City"] = 1,
-			["Shattrath City"] = 1,
 			["Ironforge"] = 1,
-			["Dalaran"] = 1,
+			["Shattrath City"] = 1,
 			["Thunder Bluff"] = 1,
+			["Dalaran"] = 1,
+			["Silvermoon City"] = 1,
 			["Darnassus"] = 1,
 		},
 	},

@@ -32,8 +32,8 @@ SLoTe: disabled
 TinyTooltip: disabled
 BiSTracker: disabled
 ClassTrainerPlus: disabled
-ItemRack: disabled
-ItemRackOptions: disabled
+ItemRack: enabled
+ItemRackOptions: enabled
 Pawn: disabled
 Skillet-Classic: disabled
 Plater: enabled

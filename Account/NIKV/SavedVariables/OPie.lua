@@ -10,11 +10,11 @@ OneRing_Config = {
 		["default"] = {
 			["RingAtMouse"] = true,
 			["RotationTokens"] = {
-				["ABueh21QF0O"] = "ABueh21QF0n",
+				["ABueh21QF0O"] = "ABueh21QF0Q",
 			},
 			["Bindings"] = {
-				["lock"] = "V",
 				["druid"] = "V",
+				["lock"] = "V",
 			},
 		},
 	},
@@ -41,10 +41,10 @@ OneRing_Config = {
 					["id"] = 1075,
 					["sliceToken"] = "ABue4OHUovt",
 				}, -- [5]
-				["name"] = "druid",
+				["limit"] = "Damonddruid-Razorgore",
 				["save"] = true,
 				["hotkey"] = "V",
-				["limit"] = "Damonddruid-Razorgore",
+				["name"] = "druid",
 			},
 			["demons"] = {
 				{
@@ -59,9 +59,9 @@ OneRing_Config = {
 					["sliceToken"] = "ABueh21QF0n",
 					["id"] = 712,
 				}, -- [3]
-				["name"] = "demons",
-				["save"] = true,
 				["limit"] = "Damond-Razorgore",
+				["save"] = true,
+				["name"] = "demons",
 			},
 			["lock"] = {
 				{
@@ -90,9 +90,9 @@ OneRing_Config = {
 					"summon", -- [2]
 					["sliceToken"] = "ABueh3puYGe",
 				}, -- [6]
-				["limit"] = "Damond-Razorgore",
-				["save"] = true,
 				["name"] = "lock",
+				["save"] = true,
+				["limit"] = "Damond-Razorgore",
 			},
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,

@@ -31,7 +31,7 @@ VendorPrice: disabled
 ExtendedCharacterStats: disabled
 AllyRoute: disabled
 OPie_Classic: disabled
-ItemRackOptions: disabled
+ItemRackOptions: enabled
 QuestLogEx: enabled
 BigWigs_MoltenCore: enabled
 BigWigs_Onyxia: enabled
@@ -49,7 +49,7 @@ Capping_Options: disabled
 TinyTooltip: disabled
 BiSTracker: disabled
 ClassTrainerPlus: disabled
-ItemRack: disabled
+ItemRack: enabled
 Pawn: disabled
 Skillet-Classic: disabled
 Plater: enabled
