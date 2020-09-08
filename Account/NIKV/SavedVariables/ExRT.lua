@@ -53,7 +53,16 @@ VExRT = {
 			"BWL Nefarian*", -- [49]
 			"BWL Wyrmkins 4*", -- [50]
 			"BWL Chromaggus*", -- [51]
-			[54] = "BWL Wyrmkins*",
+			nil, -- [52]
+			nil, -- [53]
+			"BWL Wyrmkins*", -- [54]
+			"TWINS*", -- [55]
+			"C'THUN*", -- [56]
+			"SKERAM*", -- [57]
+			"SATURA*", -- [58]
+			"HUHU*", -- [59]
+			"FRANKRISS*", -- [60]
+			"TRASH*", -- [61]
 		},
 		["FontSize"] = 15,
 		["AutoLoad"] = {
@@ -61,14 +70,14 @@ VExRT = {
 		["Left"] = 0.999798893928528,
 		["OnlyPromoted"] = true,
 		["ScaleBack"] = 33,
-		["Text1"] = " {alliance}Ne||rfarian{alliance}\n||cffffff00Onyxia Scale Cloak||r||r\n< ||cffff0000Groups||r||r >\n||cff00ff96Entrance Side||r||r:||r||r||r Odd groups\nEntrance Tank: ||cffc69b6dBanoffee||r = {skull} ||cffff7c0aNiwien||r= {square}\n||cff00ff96Throne Side:||r||r Even groups\nThrone Tank:||r||r ||cffc69b6dTinkeng||r   = {cross} ||cffc69b6dEcology||r ||r ||r = {moon}\n||cffffff00Onyxia Scale Cloak||r||r\n\n||r< ||cffff0000Healing ||r>\n{spell:17} ||cffffff00Shadow Flame||r: Kespriest {spell:17}\n20% BoPs -  \n||cfff48cbaMatty ||r||r - ||cff3fc6eaAndy||r\n||cfff48cbaPossa||r ||r- ||cff3fc6eaGeowall||r\n||cfff48cbaEgels||r - ||cff3fc6eaMeliah||r\n||cfff48cbaPeterpwn||r - ||cff3fc6eaRackpriest\n                 - Solem ||cffffffff;'(||r||cffffffff||r\n||r",
+		["Text1"] = "C’THUN\nP1:\nPull 25 Seconds - \n20 - Banoffee // 15 - Groups 1,2\n10 - Groups 3,4 // 5 - Groups 5,6\n0 - Groups 7,8\nPositioning - \nMelee = 2 per Marking + 10 yards from next.\nRanged/Healers = Behind your melee mark, 10 yards apart healers infront.\nEveryone stand 5 yards away from outer black ring.\nKill Order - \nRanged = Eye Spawns / Tentacle Spawns / Boss\nMelee = Boss\nP2: \nPositioning:\nEveryone: move to far side\nKill Order:\nOutside: Small Eyes>Big Eyes>Big Tentacle\nStomach: Right Tentacle > Left Tentacle\nTL:DR\nSpread out.\nKill Small Eyes ASAP.\nInterrupt/Stun Big/Small Eyes\nGet to the platform in stomach then DPS\n",
 		["OptionsFormatting"] = true,
-		["DefName"] = "BWL Nefarian",
 		["SaveAllNew"] = true,
-		["LastUpdateName"] = "Maeil-Razorgore",
-		["LastUpdateTime"] = 1597342351,
+		["LastUpdateName"] = "Banoffee-Razorgore",
+		["LastUpdateTime"] = 1597953334,
 		["Width"] = 424.001159667969,
 		["Top"] = 1079.99987792969,
+		["EnableWhenReceive"] = true,
 		["BlackLastUpdateTime"] = {
 			nil, -- [1]
 			nil, -- [2]
@@ -124,65 +133,14 @@ VExRT = {
 			1592510847, -- [52]
 			1592510848, -- [53]
 			1597342083, -- [54]
-		},
-		["Strata"] = "HIGH",
-		["Height"] = 522.998413085938,
-		["Alpha"] = 100,
-		["BlackLastUpdateName"] = {
-			nil, -- [1]
-			nil, -- [2]
-			nil, -- [3]
-			"Rocci-Razorgore", -- [4]
-			"Rocci-Razorgore", -- [5]
-			"Rocci-Razorgore", -- [6]
-			"Wayze-Razorgore", -- [7]
-			"Rocci-Razorgore", -- [8]
-			"Rocci-Razorgore", -- [9]
-			"Rocci-Razorgore", -- [10]
-			"Rocci-Razorgore", -- [11]
-			"Fear-Razorgore", -- [12]
-			"Rocci-Razorgore", -- [13]
-			"Rocci-Razorgore", -- [14]
-			"Rocci-Razorgore", -- [15]
-			"Wayze-Razorgore", -- [16]
-			"Rocci-Razorgore", -- [17]
-			"Ecology-Razorgore", -- [18]
-			"Ecology-Razorgore", -- [19]
-			"Echology-Razorgore", -- [20]
-			"Echology-Razorgore", -- [21]
-			"Echology-Razorgore", -- [22]
-			"Echology-Razorgore", -- [23]
-			"Cannoli-Razorgore", -- [24]
-			"Banoffee-Razorgore", -- [25]
-			"Hjial-Razorgore", -- [26]
-			"Banoffee-Razorgore", -- [27]
-			"Banoffee-Razorgore", -- [28]
-			"Banoffee-Razorgore", -- [29]
-			"Echology-Razorgore", -- [30]
-			"Echology-Razorgore", -- [31]
-			"Echology-Razorgore", -- [32]
-			"Cannoli-Razorgore", -- [33]
-			"Hjial-Razorgore", -- [34]
-			"Echology-Razorgore", -- [35]
-			"Banoffee-Razorgore", -- [36]
-			"Hjial-Razorgore", -- [37]
-			"Hjial-Razorgore", -- [38]
-			"Hjial-Razorgore", -- [39]
-			"Hjial-Razorgore", -- [40]
-			"Maeil-Razorgore", -- [41]
-			"Maeil-Razorgore", -- [42]
-			"Maeil-Razorgore", -- [43]
-			"Maeil-Razorgore", -- [44]
-			"Maeil-Razorgore", -- [45]
-			"Maeil-Razorgore", -- [46]
-			"Maeil-Razorgore", -- [47]
-			"Maeil-Razorgore", -- [48]
-			"Maeil-Razorgore", -- [49]
-			"Maeil-Razorgore", -- [50]
-			"Hjial-Razorgore", -- [51]
-			"Palaleen-Razorgore", -- [52]
-			"Palaleen-Razorgore", -- [53]
-			"Maeil-Razorgore", -- [54]
+			1597949104, -- [55]
+			1597789075, -- [56]
+			1597944852, -- [57]
+			1597946020, -- [58]
+			1597947647, -- [59]
+			1597946707, -- [60]
+			1597948184, -- [61]
+			1597953334, -- [62]
 		},
 		["Black"] = {
 			"", -- [1]
@@ -239,7 +197,82 @@ VExRT = {
 			" {alliance}Ne||rfarian{alliance}\n||cffffff00Onyxia Scale Cloak||r||r\n< ||cffff0000Groups||r||r >\n||cff00ff96Entrance Side||r||r:||r||r||r Odd groups\nEntrance Tank: ||cffc69b6dBanoffee||r = {skull}  ||cffc69b6dEcology||r = {square}\n||cff00ff96Throne Side:||r||r Even groups\nThrone Tank:||r||r ||cffc69b6dKarabaraz ||r  = {cross} ||cffc69b6dHammerfall ||r ||r = {moon}\n||cffffff00Onyxia Scale Cloak||r||r\n\nRemember to equip your cloak ||cffc69b6dBanoffee||r\n\n||r< ||cffff0000Healing ||r>\n{spell:17} ||cffffff00Shadow Flame||r: Kespriest {spell:17}\n20% BoPs -  \n||cfff48cbaMatty||r  - ||cff3fc6eaAndy||r\n||cfff48cbaPeterpawn||r  - ||cff3fc6eaEsarus||r\n||cfff48cbaHitson||r - ||cff3fc6eaGamdar||r", -- [52]
 			" {alliance}Ne||rfarian{alliance}\n||cffffff00Onyxia Scale Cloak||r||r\n< ||cffff0000Groups||r||r >\n||cff00ff96Entrance Side||r||r:||r||r||r Odd groups\nEntrance Tank: ||cffc69b6dBanoffee||r = {skull}  ||cffc69b6dEcology||r = {square}\n||cff00ff96Throne Side:||r||r Even groups\nThrone Tank:||r||r ||cffc69b6dKarabaraz ||r  = {cross} ||cffc69b6dHammerfall ||r ||r = {moon}\n||cffffff00Onyxia Scale Cloak||r||r\n\nRemember to equip your cloak ||cffc69b6dBanoffee||r\n\n||r< ||cffff0000Healing ||r>\n{spell:17} ||cffffff00Shadow Flame||r: Kespriest {spell:17}\n20% BoPs -  \n||cfff48cbaMatty||r  - ||cff3fc6eaAndy||r\n||cfff48cbaPeterpawn||r  - ||cff3fc6eaEsarus||r\n||cfff48cbaHitson||r - ||cff3fc6eaGamdar||r", -- [53]
 			"{alliance}4 Wyrmkins{alliance}\n||cff00ff96Tanking||r: {skull}: ||cffc69b6dBanoffee||r  || {cross}: ||cffc69b6dTinkeng ||r||r||r||r||r\n||cff00ff96Tanking||r: {square}: ||cffff7c0aNiwien ||r||r || {moon}: Ecology\n||cff00ff96Tanking:||r ||cffc69b6dThresya  + Maeil in raid to Taunt\n\n< ||cffff0000Pull||r >\n||cffffff00Dectect Magic||r = Nipakoo  on {square}\nStack: {skull}+{cross}+{moon}\n||cffaad372Medruz||r ||r: {skull}\n||cffaad372Nallena||r : {cross}\n-: {square}\n\n\n< ||cffff0000Consumable Usage||r >\n||cffc69b6dTinkeng||r: FAP\n||cfffff468Melee:||r FAP if on ||cffc69b6dTinken||rg\n||cff3fc6eaRanged:||r LIP if aggro\n", -- [54]
+			"||cffffff00Positioning -||r\nMelee = Move with Star\nEntrance Healers = Circle\nExit Healers = Triangle\n||cffffff00Tanking -||r\nTinkeng/Gibbo/Shortman = Exit\nBanoffee/Damond/Betelgeuze = Entrance\nNiewen = Adds\n||cffffff00TL:DR -||r\nHealers = ALWAYS max range of Vek'lor\nHealers = pre-cast tank swap on Vek'lor\nWarrior Tanks = BS move out of Vek’lor within 2seconds.\nCasters = Bugs>Vek’lor (Watch Aggro)\nMelee = Move out 5 seconds before swap - stick on star\nAll = Move out of Blizzard\nAll = Watch exploding Bugs\n", -- [55]
+			"||cffff0000---PHASE 1---||r\n||cffffff00PULL: ||r15 Second Countdown:\n10 Seconds: Banoffee\n7 Seconds: Groups: 1,2,3,4\n3 Seconds: Groups: 4,5,6,7\n0 Seconds: Group: 8\n\n||cffffff00Melee:||r\n2/3 Melee Per Mark, Stay STACKED + 10 Yards\n\n||cffffff00Ranged: ||r\nFocus the Mind Flay > Tentacales > Boss\nStay a few yards away from the outer black circle:\nStay Behind Healers\nKeep 10 Yard Range\n\n||cffff0000---PHASE 2---||r\nGroup up Entrance side\nKill Order/Stomach = Left Tentacle > Right Tentacle\nOutside = Giant Eyes(Stun) > Mind Flays > Giant Tentacle\n\n\n\n", -- [56]
+			"||cffffff00Positioning -||r\nGroups- 1,3,5,7 =\nGroups- 2,4,6,8 =\n||cffffff00Tanking -\n||cffc69b6dBanoffee||r  + ||cffc69b6dMaeil||r  = Middle\n||cffc69b6dTinkeng||r  + ||cffc69b6dThresya||r  = Right\n||cffff7c0aNiwien||r  + ||cffc69b6dEcology||r = Left\n||cffffff00Kicking ||r-Mages save for Backup\n||cfffff468Daxaa||r /||cffc69b6dMaeil||r /||cff3fc6eaSolem||r  =  Middle\n||cfffff468Lilgav||r /||cffc69b6dEcology||r /||cff3fc6eaGeowall||r  = Left\n||cfffff468Hjial||r /||cffc69b6dThresya||r /||cff3fc6eaRackpriest||r = Right \n||cffffff00TL:DR -||r\nBOSS = ||r{star}\nKill Mirrors @ 75%, 50% ,25% (non-star)\n||cff3fc6eaMages||r/||cff8787edLocks||r- Sheep/MC'd Targets.\n||cffc69b6dTanks||r -Taunt/Aggro on Platforms ASAP.\nInterrupt - Arcane Explosion\n", -- [57]
+			"||cffffff00Positioning -||r\nStack = {skull}/{cross}/{square}\nBoss = Away from Raid\n||cffffff00Tanking -||r||r\nBanoffee + Hammerfall = BOSS\nSchou + Ecology = {skull}\nNiwien + Thresya = {square}\nTinkeng + Maeil = {cross}\n||cffffff00Kicking -||r\nPossa/Daxxa = {skull}\nZethiel/Lilgav = {square}\nEgels/Hijal= {cross}\n||cffffff00TL:DR -||r\nKill Order: Nuke {skull} > {square} > {cross}\nKeep Adds Stunned + Taunted\nBoss - Keep Taunt Rotation during WW\nBoss - Keep Stunned when not WW.\nSpread the fuck out.\n\n", -- [58]
+			"||cffffff00Positioning -||r\nMelee = Stack on Star\n||cffaad372Hunters||r = Tranq till 30% then stack on Star\nPaladins = Behind Melee (Bubble when called)\nRanged = Spread out around the boss\nPriests = In range to PoH\n||cffffff00TL:DR -||r\nPrePot - GNPP\nHunters -  Tranq FrenzyASAP.\nWyvern Sting - ONLY Dispell OT\nSave - Major CD's for the Last 30%\n", -- [59]
+			"||cffffff00Positioning -||r\nEveryone = Behind the Boss\n||cffffff00Tanking -||r\nBanoffee + Maeil = BOSS\nTinkeng = Adds + Worms\nNiwien + Tinkeng = Worms\n||cffffff00TL:DR -||r\nKill Order: Worms > Boss > AOE Adds\nEveryone switch + stun worms when they spawn\nHealers - keep up players cacooned \n\n\n", -- [60]
+			"Anubisath Defenders\n||cffffff00Positioning -||r\nMelee = Star\nRanged/Healers = Circle\nTinken/Niewen = Tank /CC Adds\n||cffffff00Abilities 1:||r\nMeteor = stay stacked \nPlague = move out\n||cffffff00Abilities 2 =||r\nShadow Storm = Ranged into Star\nThunderclap = Ranged out / Melee Light NR Gear\n||cffffff00Abiltiies 3 = ||r\nEnrage = Nuke + Extra Heal\nExplode = Run the fuck out\n||cffffff00TL:DR ||r-\nRanged Kill Order = Lashers > Defender\nMelee Kill Order = Warriors > Defender\nWarlocks/Priests = CC Adds.\n", -- [61]
+			"C’THUN\nP1:\nPull 25 Seconds - \n20 - Banoffee // 15 - Groups 1,2\n10 - Groups 3,4 // 5 - Groups 5,6\n0 - Groups 7,8\nPositioning - \nMelee = 2 per Marking + 10 yards from next.\nRanged/Healers = Behind your melee mark, 10 yards apart healers infront.\nEveryone stand 5 yards away from outer black ring.\nKill Order - \nRanged = Eye Spawns / Tentacle Spawns / Boss\nMelee = Boss\nP2: \nPositioning:\nEveryone: move to far side\nKill Order:\nOutside: Small Eyes>Big Eyes>Big Tentacle\nStomach: Right Tentacle > Left Tentacle\nTL:DR\nSpread out.\nKill Small Eyes ASAP.\nInterrupt/Stun Big/Small Eyes\nGet to the platform in stomach then DPS\n", -- [62]
 		},
+		["Height"] = 522.998413085938,
+		["BlackLastUpdateName"] = {
+			nil, -- [1]
+			nil, -- [2]
+			nil, -- [3]
+			"Rocci-Razorgore", -- [4]
+			"Rocci-Razorgore", -- [5]
+			"Rocci-Razorgore", -- [6]
+			"Wayze-Razorgore", -- [7]
+			"Rocci-Razorgore", -- [8]
+			"Rocci-Razorgore", -- [9]
+			"Rocci-Razorgore", -- [10]
+			"Rocci-Razorgore", -- [11]
+			"Fear-Razorgore", -- [12]
+			"Rocci-Razorgore", -- [13]
+			"Rocci-Razorgore", -- [14]
+			"Rocci-Razorgore", -- [15]
+			"Wayze-Razorgore", -- [16]
+			"Rocci-Razorgore", -- [17]
+			"Ecology-Razorgore", -- [18]
+			"Ecology-Razorgore", -- [19]
+			"Echology-Razorgore", -- [20]
+			"Echology-Razorgore", -- [21]
+			"Echology-Razorgore", -- [22]
+			"Echology-Razorgore", -- [23]
+			"Cannoli-Razorgore", -- [24]
+			"Banoffee-Razorgore", -- [25]
+			"Hjial-Razorgore", -- [26]
+			"Banoffee-Razorgore", -- [27]
+			"Banoffee-Razorgore", -- [28]
+			"Banoffee-Razorgore", -- [29]
+			"Echology-Razorgore", -- [30]
+			"Echology-Razorgore", -- [31]
+			"Echology-Razorgore", -- [32]
+			"Cannoli-Razorgore", -- [33]
+			"Hjial-Razorgore", -- [34]
+			"Echology-Razorgore", -- [35]
+			"Banoffee-Razorgore", -- [36]
+			"Hjial-Razorgore", -- [37]
+			"Hjial-Razorgore", -- [38]
+			"Hjial-Razorgore", -- [39]
+			"Hjial-Razorgore", -- [40]
+			"Maeil-Razorgore", -- [41]
+			"Maeil-Razorgore", -- [42]
+			"Maeil-Razorgore", -- [43]
+			"Maeil-Razorgore", -- [44]
+			"Maeil-Razorgore", -- [45]
+			"Maeil-Razorgore", -- [46]
+			"Maeil-Razorgore", -- [47]
+			"Maeil-Razorgore", -- [48]
+			"Maeil-Razorgore", -- [49]
+			"Maeil-Razorgore", -- [50]
+			"Hjial-Razorgore", -- [51]
+			"Palaleen-Razorgore", -- [52]
+			"Palaleen-Razorgore", -- [53]
+			"Maeil-Razorgore", -- [54]
+			"Banoffee-Razorgore", -- [55]
+			"Banoffee-Razorgore", -- [56]
+			"Banoffee-Razorgore", -- [57]
+			"Banoffee-Razorgore", -- [58]
+			"Banoffee-Razorgore", -- [59]
+			"Banoffee-Razorgore", -- [60]
+			"Banoffee-Razorgore", -- [61]
+			"Banoffee-Razorgore", -- [62]
+		},
+		["Alpha"] = 100,
+		["Strata"] = "HIGH",
 	},
 	["ProfileKeys"] = {
 		["Ksumdamond-Razorgore"] = "default",
@@ -249,6 +282,36 @@ VExRT = {
 		["Damond-Razorgore"] = "default",
 	},
 	["Encounter"] = {
+		["names"] = {
+			[616] = "Chromaggus",
+			[663] = "Lucifron",
+			[617] = "Nefarian",
+			[664] = "Magmadar",
+			[711] = "Battleguard Sartura",
+			[665] = "Gehennas",
+			[712] = "Fankriss the Unyielding",
+			[666] = "Garr",
+			[1084] = "Onyxia",
+			[667] = "Shazzrah",
+			[714] = "Princess Huhuran",
+			[668] = "Baron Geddon",
+			[715] = "Twin Emperors",
+			[669] = "Sulfuron Harbinger",
+			[716] = "Ouro",
+			[670] = "Golemagg the Incinerator",
+			[717] = "C'thun",
+			[671] = "Majordomo Executus",
+			[610] = "Razorgore the Untamed",
+			[611] = "Vaelastrasz the Corrupt",
+			[612] = "Broodlord Lashlayer",
+			[613] = "Firemaw",
+			[713] = "Viscidus",
+			[614] = "Ebonroc",
+			[710] = "Silithid Royalty",
+			[615] = "Flamegor",
+			[672] = "Ragnaros",
+			[709] = "The Prophet Skeram",
+		},
 		["list"] = {
 			["Damond"] = {
 				"^663^9^1573674522^40^1^40^54.75^Themurian", -- [1]
@@ -859,36 +922,99 @@ VExRT = {
 				"^670^9^1597346739^55^1^40^59.84^", -- [606]
 				"^671^9^1597346957^82^1^40^59.84^Antigosu", -- [607]
 				"^672^9^1597347317^75^1^40^59.84^Hjial", -- [608]
+				"^709^9^1597791247^117^1^40^59.69^Reshpu", -- [609]
+				"^711^9^1597792421^158^1^40^59.69^Zahgurim", -- [610]
+				"^712^9^1597793005^120^1^40^59.69^Damond", -- [611]
+				"^714^9^1597793926^132^0^40^59.69^Tinkeng", -- [612]
+				"^714^9^1597794066^16^0^40^59.69^Megaleen", -- [613]
+				"^714^9^1597794781^115^1^40^55.25^Reshpu", -- [614]
+				"^715^9^1597797587^26^0^40^57.75^Shakk", -- [615]
+				"^710^9^1597798290^134^1^40^59.69^", -- [616]
+				"^709^9^1597945272^80^1^40^59.69^Egels", -- [617]
+				"^711^9^1597946438^122^1^40^59.69^Kespriest", -- [618]
+				"^712^9^1597947019^67^1^40^59.69^", -- [619]
+				"^714^9^1597947913^92^1^40^59.69^", -- [620]
+				"^715^9^1597949813^266^0^40^58.97^Tinkeng", -- [621]
+				"^715^9^1597950532^448^1^40^58.97^Geowall", -- [622]
+				"^717^9^1597954725^366^0^40^59.94^Xguard", -- [623]
+				"^717^9^1597955619^0^0^40^59.94^Xguard", -- [624]
+				"^717^9^1597956631^428^1^40^59.94^Daxaa", -- [625]
+				"^716^9^1597957625^146^0^40^59.94^Banoffee", -- [626]
+				"^716^9^1597958103^809^1^40^59.94^Thresya", -- [627]
+				"^713^9^1598297080^94^0^40^55.38^Xguard", -- [628]
+				"^713^9^1598297285^8^0^40^55.38^", -- [629]
+				"^713^9^1598297659^191^0^40^55.38^Ecology", -- [630]
+				"^713^9^1598298347^217^0^40^55.56^Dreadful", -- [631]
+				"^713^9^1598299766^120^1^40^55.56^Tinkeng", -- [632]
+				"^710^9^1598300659^109^1^40^59.69^Solem", -- [633]
+				"^709^9^1598550160^74^1^40^59.69^Megaleen", -- [634]
+				"^711^9^1598550811^91^1^40^59.69^", -- [635]
+				"^712^9^1598551145^56^1^40^59.69^Daxaa", -- [636]
+				"^714^9^1598551880^76^1^40^55.56^Daxaa", -- [637]
+				"^715^9^1598553158^424^1^40^58.13^Shortman", -- [638]
+				"^717^9^1598555823^407^1^40^59.69^Hammerfall", -- [639]
+				"^716^9^1598557206^162^1^40^59.69^Geowall", -- [640]
+				"^710^9^1598558225^128^1^40^59.69^Damond", -- [641]
+				"^713^9^1598559103^126^1^40^55.56^Nalena", -- [642]
+				"^610^9^1598895553^379^1^40^59.69^Esarus", -- [643]
+				"^611^9^1598896054^39^1^40^59.69^Kespriest", -- [644]
+				"^612^9^1598896629^55^1^40^59.69^", -- [645]
+				"^613^9^1598896944^109^1^40^59.69^Thralski", -- [646]
+				"^614^9^1598897610^75^1^40^59.69^", -- [647]
+				"^615^9^1598897714^74^1^40^59.69^", -- [648]
+				"^616^9^1598897915^115^1^40^59.69^", -- [649]
+				"^617^9^1598898122^294^1^40^59.38^Torcpo", -- [650]
+				"^663^9^1598899488^31^1^40^60.00^Echology", -- [651]
+				"^664^9^1598899755^51^1^40^60.00^Andiel", -- [652]
+				"^665^9^1598900053^79^0^40^60.00^Xguard", -- [653]
+				"^665^9^1598900553^39^1^40^60.00^", -- [654]
+				"^666^9^1598900875^44^1^40^60.00^", -- [655]
+				"^668^9^1598901200^52^1^40^60.00^Borgzul", -- [656]
+				"^667^9^1598901589^32^1^40^60.00^Borgzul", -- [657]
+				"^669^9^1598902248^58^1^40^60.25^Thresya", -- [658]
+				"^670^9^1598902487^55^1^40^60.25^", -- [659]
+				"^671^9^1598902709^85^1^40^60.10^Kespriest", -- [660]
+				"^672^9^1598903104^75^1^40^60.10^Thralski", -- [661]
+				"^1084^9^1599063708^543^1^40^60.00^Nyxos", -- [662]
+				"^709^9^1599154785^61^1^40^60.00^Megaleen", -- [663]
+				"^710^9^1599155204^96^1^40^60.00^Esarus", -- [664]
+				"^711^9^1599155708^80^1^40^60.00^Andy", -- [665]
+				"^712^9^1599156029^52^1^40^60.00^Solem", -- [666]
+				"^713^9^1599156471^121^1^40^55.88^Chadyo", -- [667]
+				"^714^9^1599157144^63^1^40^60.00^", -- [668]
+				"^715^9^1599157948^250^1^40^57.06^Egels", -- [669]
+				"^717^9^1599160023^361^1^40^60.00^Xguard", -- [670]
+				"^716^9^1599160821^143^1^40^60.00^Xguard", -- [671]
+				"^610^9^1599500423^335^1^40^60.25^", -- [672]
+				"^611^9^1599500843^33^1^40^60.25^", -- [673]
+				"^612^9^1599501247^45^1^40^60.25^", -- [674]
+				"^613^9^1599501413^89^1^40^60.25^Zethiel", -- [675]
+				"^614^9^1599502102^62^1^40^60.25^", -- [676]
+				"^615^9^1599502178^96^0^40^60.25^Chadyo", -- [677]
+				"^615^9^1599502592^69^1^40^60.00^", -- [678]
+				"^616^9^1599502779^226^0^40^60.00^Tinkeng", -- [679]
+				"^616^9^1599503015^8^0^40^60.00^Solem", -- [680]
+				"^616^9^1599503658^149^1^40^60.25^", -- [681]
+				"^617^9^1599503884^309^1^40^60.09^Andy", -- [682]
+				"^663^9^1599505214^36^1^40^60.25^Xguard", -- [683]
+				"^664^9^1599505430^50^1^40^60.25^", -- [684]
+				"^665^9^1599505744^36^1^40^60.25^", -- [685]
+				"^666^9^1599506082^48^1^40^60.25^Possa", -- [686]
+				"^668^9^1599506531^46^1^40^60.25^Nyxos", -- [687]
+				"^667^9^1599506815^22^1^40^60.25^Echology", -- [688]
+				"^669^9^1599507373^57^1^40^60.25^Thresya", -- [689]
+				"^670^9^1599507573^53^1^40^60.25^", -- [690]
+				"^671^9^1599507766^87^1^40^60.25^Borgzul", -- [691]
+				"^672^9^1599508160^68^1^40^60.25^Xguard", -- [692]
 			},
 			["Ksumdamond"] = {
 			},
-			["Damondbank"] = {
+			["Damonddruid"] = {
 			},
 			["Fsumdamond"] = {
 			},
-			["Damonddruid"] = {
+			["Damondbank"] = {
 			},
-		},
-		["names"] = {
-			[616] = "Chromaggus",
-			[663] = "Lucifron",
-			[617] = "Nefarian",
-			[664] = "Magmadar",
-			[665] = "Gehennas",
-			[666] = "Garr",
-			[1084] = "Onyxia",
-			[667] = "Shazzrah",
-			[668] = "Baron Geddon",
-			[669] = "Sulfuron Harbinger",
-			[670] = "Golemagg the Incinerator",
-			[671] = "Majordomo Executus",
-			[610] = "Razorgore the Untamed",
-			[611] = "Vaelastrasz the Corrupt",
-			[612] = "Broodlord Lashlayer",
-			[613] = "Firemaw",
-			[614] = "Ebonroc",
-			[615] = "Flamegor",
-			[672] = "Ragnaros",
 		},
 	},
 	["Marks"] = {
@@ -923,40 +1049,43 @@ VExRT = {
 			["Murken"] = 0,
 			["Damondbank"] = 0,
 			["Banoffee"] = 0,
+			["Missdotty"] = 0,
 			["Mike"] = 0,
 			["Coso"] = 0,
 			["Knork"] = 0,
 			["Deg"] = 0,
+			["Knobend"] = 0,
 			["Erlina"] = 0,
 			["Tepper"] = 0,
 			["Alcador"] = 0,
-			["Fear"] = 0,
+			["Gallywiix"] = 0,
 			["Schóu"] = 0,
 			["Damond"] = 0,
-			["Knobend"] = 0,
-			["Gallywiix"] = 0,
-			["Niwien"] = 0,
+			["Arazol"] = 0,
+			["Mysticer"] = 0,
+			["Crucibal"] = 0,
+			["Machosavage"] = 0,
 			["Kllen"] = 0,
 			["Kyrre"] = 0,
 			["Deusvult"] = 0,
 			["Setris"] = 0,
 			["Forturn"] = 0,
-			["Possa"] = 0,
+			["Stiicky"] = 0,
 			["Disturbia"] = 0,
 			["Bicheto"] = 0,
-			["Kespriest"] = 0,
+			["Dracun"] = 0,
 			["Potmplz"] = 0,
 			["Wyatt-Everlook"] = 0,
-			["Gravious"] = 0,
+			["Palaleen"] = 0,
 			["Bèrlin"] = 0,
 			["Ýra"] = 0,
-			["Eisha-Finkle"] = 0,
+			["Nyxos"] = 0,
 			["Poison"] = 0,
-			["Perlina"] = 0,
+			["Sololobo"] = 0,
 			["Bjo"] = 0,
 			["Eckoj"] = 0,
 			["Echology"] = 0,
-			["Sololobo"] = 0,
+			["Geers"] = 0,
 			["Fxih"] = 0,
 			["Tarondor"] = 0,
 			["Laleh"] = 0,
@@ -964,51 +1093,51 @@ VExRT = {
 			["Tivn"] = 0,
 			["Daxxa"] = 0,
 			["Dwarfu"] = 0,
-			["Niify"] = 0,
-			["Daxaa"] = 0,
 			["Holysos"] = 0,
-			["Ksumdamond"] = 0,
-			["Celus"] = 0,
-			["Elice"] = 0,
+			["Megaleen"] = 0,
+			["Aishanna"] = 0,
+			["Niify"] = 0,
 			["Microphobiac"] = 0,
-			["Arcania"] = 0,
+			["Elice"] = 0,
 			["Edda"] = 0,
+			["Arcania"] = 0,
+			["Wizzy"] = 0,
 			["Gamdar"] = 0,
 			["Skallekalle"] = 0,
-			["Betelgeuze"] = 0,
-			["Seraine"] = 0,
-			["Tinkeng"] = 0,
-			["Themurian"] = 0,
-			["Windycurses"] = 0,
 			["Buzzhype"] = 0,
+			["Tinkeng"] = 0,
+			["Seraine"] = 0,
+			["Themurian"] = 0,
+			["Gigawoot"] = 0,
+			["Cast"] = 0,
 			["Masochism"] = 0,
 			["Sephirot"] = 0,
 			["Drikkedunk"] = 0,
-			["Gigawoot"] = 0,
-			["Nalena"] = 0,
-			["Cast"] = 0,
 			["Impulse"] = 0,
-			["Ecology"] = 0,
 			["Maoozz-Finkle"] = 0,
+			["Nalena"] = 0,
+			["Windycurses"] = 0,
+			["Ecology"] = 0,
+			["Betelgeuze"] = 0,
 			["Solem"] = 0,
-			["Wizzy"] = 0,
+			["Branxlockx"] = 0,
 			["Fsumdamond"] = 0,
 			["Lytslayer"] = 0,
-			["Branxlockx"] = 0,
+			["Celus"] = 0,
 			["Ulose"] = 0,
-			["Scý"] = 0,
-			["Geers"] = 0,
+			["Daxaa"] = 0,
+			["Ksumdamond"] = 0,
 			["Ragnis-Mograine"] = 0,
-			["Aishanna"] = 0,
+			["Scý"] = 0,
 			["Gíbbo"] = 0,
-			["Dracun"] = 0,
-			["Palaleen"] = 0,
-			["Stiicky"] = 0,
+			["Perlina"] = 0,
+			["Eisha-Finkle"] = 0,
+			["Gravious"] = 0,
 			["Rizzer"] = 0,
-			["Crucibal"] = 0,
-			["Mysticer"] = 0,
-			["Machosavage"] = 0,
-			["Arazol"] = 0,
+			["Kespriest"] = 0,
+			["Possa"] = 0,
+			["Niwien"] = 0,
+			["Fear"] = 0,
 			["Ufo"] = 0,
 		},
 		["NoRaid"] = true,
@@ -1016,7 +1145,7 @@ VExRT = {
 		},
 		["default_userCD"] = {
 		},
-		["userDB"] = {
+		["Save"] = {
 		},
 		["colSet"] = {
 			{
@@ -1026,13 +1155,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [1]
 			{
 				["enabled"] = true,
@@ -1041,13 +1170,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [2]
 			{
 				["enabled"] = true,
@@ -1056,13 +1185,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [3]
 			{
 				["frameGeneral"] = true,
@@ -1070,13 +1199,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [4]
 			{
 				["frameGeneral"] = true,
@@ -1084,13 +1213,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [5]
 			{
 				["frameGeneral"] = true,
@@ -1098,13 +1227,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [6]
 			{
 				["frameGeneral"] = true,
@@ -1112,13 +1241,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [7]
 			{
 				["frameGeneral"] = true,
@@ -1126,13 +1255,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [8]
 			{
 				["frameGeneral"] = true,
@@ -1140,13 +1269,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [9]
 			{
 				["frameGeneral"] = true,
@@ -1154,13 +1283,13 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [10]
 			{
 				["frameGeneral"] = true,
@@ -1168,20 +1297,20 @@ VExRT = {
 				["textGeneral"] = true,
 				["methodsGeneral"] = true,
 				["blacklistGeneral"] = true,
-				["fontShadow"] = false,
+				["textureGeneral"] = true,
 				["iconGeneral"] = true,
 				["fontOutline"] = true,
 				["visibilityGeneral"] = true,
 				["fontGeneral"] = true,
 				["textureAnimation"] = true,
-				["textureGeneral"] = true,
+				["fontShadow"] = false,
 			}, -- [11]
 		},
 		["Priority"] = {
 		},
 		["CDE"] = {
 		},
-		["Save"] = {
+		["userDB"] = {
 		},
 	},
 	["Attendance"] = {
@@ -1196,81 +1325,18 @@ VExRT = {
 		["ColorizeLowIlvl685"] = false,
 		["ColorizeNoEnch"] = true,
 		["ColorizeNoGems"] = true,
-		["ColorizeLowIlvl"] = true,
 		["ColorizeNoTopEnchGems"] = false,
+		["ColorizeLowIlvl"] = true,
 		["ColorizeNoValorUpgrade"] = false,
 	},
 	["Addon"] = {
-		["IconMiniMapLeft"] = -73.3416451545267,
-		["Version"] = 4160,
-		["Scale"] = 1,
-		["PreVersion"] = 4160,
-		["IconMiniMapTop"] = -72.5138703023845,
 		["IconMiniMapHide"] = true,
+		["Version"] = 4160,
+		["IconMiniMapLeft"] = -73.3416451545267,
+		["Scale"] = 1,
+		["IconMiniMapTop"] = -72.5138703023845,
 		["Timer"] = 0.1,
-	},
-	["RaidCheck"] = {
-		["ReadyCheckFrameOnlyRL"] = true,
-		["BuffsCheck"] = true,
-		["ReadyCheckFrame"] = true,
-		["ReadyCheckFrameTimerFade"] = 4,
-		["ReadyCheckTop"] = 1053.50012207031,
-		["ReadyCheckLeft"] = 107.998321533203,
-		["FlaskExp"] = 1,
-	},
-	["BossWatcher"] = {
-		["optionsDamageGraph"] = true,
-		["fightsNum"] = 15,
-		["enabled"] = true,
-		["optionsPositionsDist"] = true,
-		["optionsHealingGraph"] = true,
-		["trackingDamageSpells"] = {
-		},
-	},
-	["Profiles"] = {
-	},
-	["Profile"] = "default",
-	["LootLink"] = {
-	},
-	["InviteTool"] = {
-		["Words"] = "инв inv byd штм 123",
-		["InvByChat"] = true,
-		["RaidDiff"] = 16,
-		["PromoteRank"] = 2,
-		["Ranks"] = {
-			true, -- [1]
-		},
-		["LootThreshold"] = 2,
-		["MasterLooters"] = "",
-		["LootMethod"] = "group",
-		["PromoteNames"] = "",
-		["OnlyGuild"] = true,
-		["Rank"] = 1,
-	},
-	["WhoPulled"] = {
-	},
-	["Logging"] = {
-	},
-	["MarksBar"] = {
-		["pulltimer"] = 10,
-		["Strata"] = "HIGH",
-		["pulltimer_right"] = 10,
-		["Show"] = {
-			true, -- [1]
-			true, -- [2]
-			true, -- [3]
-			true, -- [4]
-			true, -- [5]
-		},
-	},
-	["VisNote"] = {
-		["data"] = {
-			{
-				"4478012A6DE51573665749", -- [1]
-			}, -- [1]
-		},
-		["sync_data"] = {
-		},
+		["PreVersion"] = 4160,
 	},
 	["Timers"] = {
 		["specTimes"] = {
@@ -1304,15 +1370,78 @@ VExRT = {
 			[72] = 10,
 			[104] = 10,
 			[73] = 10,
-			[581] = 10,
-			[105] = 10,
-			[577] = 10,
-			[256] = 10,
-			[254] = 10,
 			[252] = 10,
+			[105] = 10,
+			[254] = 10,
+			[256] = 10,
+			[577] = 10,
+			[581] = 10,
 		},
 		["Type"] = 2,
-		["Strata"] = "HIGH",
 		["timeToKillAnalyze"] = 15,
+		["Strata"] = "HIGH",
+	},
+	["Profiles"] = {
+	},
+	["BossWatcher"] = {
+		["optionsDamageGraph"] = true,
+		["fightsNum"] = 15,
+		["trackingDamageSpells"] = {
+		},
+		["optionsPositionsDist"] = true,
+		["optionsHealingGraph"] = true,
+		["enabled"] = true,
+	},
+	["Profile"] = "default",
+	["LootLink"] = {
+	},
+	["InviteTool"] = {
+		["Words"] = "инв inv byd штм 123",
+		["InvByChat"] = true,
+		["RaidDiff"] = 16,
+		["PromoteRank"] = 2,
+		["Ranks"] = {
+			true, -- [1]
+		},
+		["LootThreshold"] = 2,
+		["MasterLooters"] = "",
+		["LootMethod"] = "group",
+		["PromoteNames"] = "",
+		["OnlyGuild"] = true,
+		["Rank"] = 1,
+	},
+	["WhoPulled"] = {
+	},
+	["Logging"] = {
+	},
+	["MarksBar"] = {
+		["pulltimer"] = 10,
+		["Strata"] = "HIGH",
+		["Show"] = {
+			true, -- [1]
+			true, -- [2]
+			true, -- [3]
+			true, -- [4]
+			true, -- [5]
+		},
+		["pulltimer_right"] = 10,
+	},
+	["VisNote"] = {
+		["data"] = {
+			{
+				"4478012A6DE51573665749", -- [1]
+			}, -- [1]
+		},
+		["sync_data"] = {
+		},
+	},
+	["RaidCheck"] = {
+		["ReadyCheckFrameOnlyRL"] = true,
+		["BuffsCheck"] = true,
+		["ReadyCheckFrame"] = true,
+		["ReadyCheckFrameTimerFade"] = 4,
+		["FlaskExp"] = 1,
+		["ReadyCheckLeft"] = 107.998321533203,
+		["ReadyCheckTop"] = 1053.50012207031,
 	},
 }
