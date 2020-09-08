@@ -24,336 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"lf enchanter +100hp chest", -- [1]
-			"Nuckzer-Razorgore", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Nuckzer", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			499, -- [11]
-			"Player-4478-015A1E72", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaNuckzer|r",
-			[51] = 1599589604,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"enchanter 3 agi on cloak", -- [1]
-			"Wm-Razorgore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Wm", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			500, -- [11]
-			"Player-4478-01F6DBCC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dWm|r",
-			[51] = 1599589613,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"WTS STOCKADE BOOST 3G RUN (must join 5 runs)", -- [1]
-			"Truesilverx-Razorgore", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Truesilverx", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			503, -- [11]
-			"Player-4478-02AF8CA2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaTruesilverx|r",
-			[51] = 1599589629,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
-			"wheres the regen vendor in stormwind?", -- [1]
-			"Jinzy-Razorgore", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Jinzy", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			505, -- [11]
-			"Player-4478-02AC42B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaJinzy|r",
-			[51] = 1599589630,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
-		{
-			"WTS [Silk Cloth] cheap!", -- [1]
-			"Cigna-Razorgore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Cigna", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			508, -- [11]
-			"Player-4478-027AA4C8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCigna|r",
-			[51] = 1599589636,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
-		{
-			"LFM Lavarun emp/princess BRD", -- [1]
-			"Ipsychopath-Razorgore", -- [2]
-			"", -- [3]
-			"6. LookingForGroup", -- [4]
-			"Ipsychopath", -- [5]
-			"", -- [6]
-			24, -- [7]
-			6, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			509, -- [11]
-			"Player-4478-029DA786", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Ipsychopath|r",
-			[51] = 1599589637,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
-		{
-			"WTB 1 stockade run boost", -- [1]
-			"Nejtack", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Nejtack", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			515, -- [11]
-			"Player-4478-029F5859", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edNejtack|r",
-			[51] = 1599589649,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
-		{
-			"LF 4 stats enchanter", -- [1]
-			"Kutfin-Razorgore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kutfin", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			517, -- [11]
-			"Player-4478-01CDFD6A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Kutfin|r",
-			[51] = 1599589653,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
-		{
-			"LFG ZF or mara", -- [1]
-			"Yetusdeletus", -- [2]
-			"", -- [3]
-			"6. LookingForGroup", -- [4]
-			"Yetusdeletus", -- [5]
-			"", -- [6]
-			24, -- [7]
-			6, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			519, -- [11]
-			"Player-4478-016AF5C8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Yetusdeletus|r",
-			[51] = 1599589656,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
-		{
-			"WTB SM Boosts", -- [1]
-			"Lightjelly", -- [2]
-			"", -- [3]
-			"5. world", -- [4]
-			"Lightjelly", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"world", -- [9]
-			0, -- [10]
-			524, -- [11]
-			"Player-4478-0147A3E8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaLightjelly|r",
-			[51] = 1599589678,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
-		{
-			"LFM AQ20 soft reserve run need 1 dps", -- [1]
-			"Manaaddicted-Razorgore", -- [2]
-			"", -- [3]
-			"6. LookingForGroup", -- [4]
-			"Manaaddicted", -- [5]
-			"", -- [6]
-			24, -- [7]
-			6, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			528, -- [11]
-			"Player-4478-01E3EA28", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Manaaddicted|r",
-			[51] = 1599589684,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
-		{
-			"Mage lfg ZG", -- [1]
-			"Lorvy-Razorgore", -- [2]
-			"", -- [3]
-			"6. LookingForGroup", -- [4]
-			"Lorvy", -- [5]
-			"", -- [6]
-			24, -- [7]
-			6, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			529, -- [11]
-			"Player-4478-01A7A11B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaLorvy|r",
-			[51] = 1599589684,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
-		{
-			"WTB SM Boosts ", -- [1]
-			"Koronalev-Razorgore", -- [2]
-			"", -- [3]
-			"1. General - Stormwind City", -- [4]
-			"Koronalev", -- [5]
-			"", -- [6]
-			1, -- [7]
-			1, -- [8]
-			"General - Stormwind City", -- [9]
-			0, -- [10]
-			532, -- [11]
-			"Player-4478-0282F14F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaKoronalev|r",
-			[51] = 1599589686,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [13]
-		{
-			"WTS STOCKADE BOOST 3G RUN", -- [1]
-			"Truesilverx-Razorgore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Truesilverx", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			534, -- [11]
-			"Player-4478-02AF8CA2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaTruesilverx|r",
-			[51] = 1599589690,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [14]
-		{
-			"LF ZG boost", -- [1]
-			"Komen-Razorgore", -- [2]
-			"", -- [3]
-			"5. world", -- [4]
-			"Komen", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"world", -- [9]
-			0, -- [10]
-			537, -- [11]
-			"Player-4478-0189BB18", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aKomen|r",
-			[51] = 1599589694,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [15]
-		{
 			"WTS |cff1eff00|Hitem:13521::::::::60:::1::::|h[Recipe: Flask of Supreme Power]|h|r 150g", -- [1]
 			"Leanis-Razorgore", -- [2]
 			"", -- [3]
@@ -374,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aLeanis|r",
 			[51] = 1599589706,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
+		}, -- [1]
 		{
 			"LFM AQ20, soft res run", -- [1]
 			"Rocci-Razorgore", -- [2]
@@ -396,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRocci|r",
 			[51] = 1599589712,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
+		}, -- [2]
 		{
 			"wts stockade boosts 3g per run / 15g paying 5 runs front", -- [1]
 			"Truesilverx-Razorgore", -- [2]
@@ -418,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaTruesilverx|r",
 			[51] = 1599589717,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [18]
+		}, -- [3]
 		{
 			"LFM AQ20, soft res run ", -- [1]
 			"Rocci-Razorgore", -- [2]
@@ -440,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRocci|r",
 			[51] = 1599589720,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
+		}, -- [4]
 		{
 			"LFG Jailbreak", -- [1]
 			"Newk-Razorgore", -- [2]
@@ -462,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaNewk|r",
 			[51] = 1599589722,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
+		}, -- [5]
 		{
 			"lvl 20 priest healer LFG DM", -- [1]
 			"Lóros-Razorgore", -- [2]
@@ -484,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffLóros|r",
 			[51] = 1599589723,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [21]
+		}, -- [6]
 		{
 			"WTB Enchanting: Healing on hands", -- [1]
 			"Talyfox-Razorgore", -- [2]
@@ -506,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aTalyfox|r",
 			[51] = 1599589732,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
+		}, -- [7]
 		{
 			"LFM tank and mage Lavarun emp/princess BRD", -- [1]
 			"Ipsychopath-Razorgore", -- [2]
@@ -528,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Ipsychopath|r",
 			[51] = 1599589748,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [23]
+		}, -- [8]
 		{
 			"WTS STOCKADE BOOST 3G RUN", -- [1]
 			"Truesilverx-Razorgore", -- [2]
@@ -550,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaTruesilverx|r",
 			[51] = 1599589754,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
+		}, -- [9]
 		{
 			"LFG Scholo", -- [1]
 			"Wauki-Razorgore", -- [2]
@@ -572,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edWauki|r",
 			[51] = 1599589770,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
+		}, -- [10]
 		{
 			"Level 56 Holy Paladin LFG BRD/DME/LBRS~ ", -- [1]
 			"Buffadin", -- [2]
@@ -594,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaBuffadin|r",
 			[51] = 1599589778,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
+		}, -- [11]
 		{
 			"Level 56 Holy Paladin LFG BRD/DME/LBRS~", -- [1]
 			"Buffadin", -- [2]
@@ -616,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaBuffadin|r",
 			[51] = 1599589778,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
+		}, -- [12]
 		{
 			"WTS [Silk Cloth] cheap!", -- [1]
 			"Cigna-Razorgore", -- [2]
@@ -638,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffCigna|r",
 			[51] = 1599589779,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
+		}, -- [13]
 		{
 			"WTS |cffa335ee|Hitem:871::::::::60:::1::::|h[Flurry Axe]|h|r", -- [1]
 			"Xezoalot", -- [2]
@@ -660,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaXezoalot|r",
 			[51] = 1599589792,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
+		}, -- [14]
 		{
 			"Fully geared T2 Holy priest LF BWL or AQ20 raid", -- [1]
 			"Carperium-Razorgore", -- [2]
@@ -682,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffCarperium|r",
 			[51] = 1599589800,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
+		}, -- [15]
 		{
 			"lf aq 40 raid tomorrow", -- [1]
 			"Kaaboum", -- [2]
@@ -704,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Kaaboum|r",
 			[51] = 1599589801,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
+		}, -- [16]
 		{
 			"WTS |cff1eff00|Hitem:13521::::::::60:::1::::|h[Recipe: Flask of Supreme Power]|h|r 150g", -- [1]
 			"Leanis-Razorgore", -- [2]
@@ -726,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aLeanis|r",
 			[51] = 1599589818,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
+		}, -- [17]
 		{
 			"Enchanter LFW:+2% Threat gloves, +15 agi gloves, +20 fire power on gloves, +15 Nr on cloak, and many more!!! /w me  ", -- [1]
 			"Ours-Razorgore", -- [2]
@@ -748,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aOurs|r",
 			[51] = 1599589825,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
+		}, -- [18]
 		{
 			"{rt1} WTB Boost: MARA  ", -- [1]
 			"Plusz", -- [2]
@@ -770,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aPlusz|r",
 			[51] = 1599589842,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
+		}, -- [19]
 		{
 			"LF2M tank and dps Lavarun emp/princess BRD ", -- [1]
 			"Ipsychopath-Razorgore", -- [2]
@@ -792,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Ipsychopath|r",
 			[51] = 1599589854,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
+		}, -- [20]
 		{
 			"LF ZG boost", -- [1]
 			"Komen-Razorgore", -- [2]
@@ -814,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aKomen|r",
 			[51] = 1599589854,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
+		}, -- [21]
 		{
 			" {skull}{skull} WTS- ZG boost 20g run, (solo 40g)(waterfall)(maximum of two in a group) 11 packs", -- [1]
 			"Shaiba-Razorgore", -- [2]
@@ -836,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaShaiba|r",
 			[51] = 1599589859,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
+		}, -- [22]
 		{
 			"-= TitaniumBay =- Get your gold now. Fast and Secure! Delivery 5-10 min.", -- [1]
 			"Sshenorc-Razorgore", -- [2]
@@ -858,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dSshenorc|r",
 			[51] = 1599589859,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
+		}, -- [23]
 		{
 			"LFM AQ20, soft res run ", -- [1]
 			"Rocci-Razorgore", -- [2]
@@ -880,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffRocci|r",
 			[51] = 1599589867,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
+		}, -- [24]
 		{
 			"LFM ZG mostly guildies SR need tanks and dps", -- [1]
 			"Frostnutz", -- [2]
@@ -902,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaFrostnutz|r",
 			[51] = 1599589880,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
+		}, -- [25]
 		{
 			"WTB SM Boosts", -- [1]
 			"Lightjelly-Razorgore", -- [2]
@@ -924,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaLightjelly|r",
 			[51] = 1599589908,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
+		}, -- [26]
 		{
 			"WTS/Trade |cffffffff|Hitem:13512::::::::60:::::::|h[Flask of Supreme Power]|h|r |cffa335ee|Hitem:942::::::::60:::::::|h[Freezing Band]|h|r", -- [1]
 			"Dolen-Razorgore", -- [2]
@@ -946,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDolen|r",
 			[51] = 1599589923,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
+		}, -- [27]
 		{
 			"LF Enchanter", -- [1]
 			"Piu-Razorgore", -- [2]
@@ -968,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaPiu|r",
 			[51] = 1599589950,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
+		}, -- [28]
 		{
 			"Enchanter LFW:+2% Threat gloves, +15 agi gloves, +20 fire power on gloves, +15 Nr on cloak, and many more!!! /w me  ", -- [1]
 			"Ours-Razorgore", -- [2]
@@ -990,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aOurs|r",
 			[51] = 1599589955,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
+		}, -- [29]
 		{
 			"LF Tank + 2 DPS BRD", -- [1]
 			"Buffadin-Razorgore", -- [2]
@@ -1012,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaBuffadin|r",
 			[51] = 1599589961,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
+		}, -- [30]
 		{
 			"LFM BRD! Golem Lord / Emporer run - need tank and dps /w me", -- [1]
 			"Kwikninja-Razorgore", -- [2]
@@ -1034,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Kwikninja|r",
 			[51] = 1599589962,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
+		}, -- [31]
 		{
 			"LF2M Tank, dps Lavarun emp/princess BRD", -- [1]
 			"Ipsychopath-Razorgore", -- [2]
@@ -1056,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Ipsychopath|r",
 			[51] = 1599589973,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
+		}, -- [32]
 		{
 			" {skull}{skull} WTS- ZG boost 20g run, (solo 40g)(waterfall)(maximum of two in a group) 11 packs", -- [1]
 			"Shaiba-Razorgore", -- [2]
@@ -1078,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaShaiba|r",
 			[51] = 1599589976,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
+		}, -- [33]
 		{
 			"WTS/Trade |cffffffff|Hitem:13512::::::::60:::::::|h[Flask of Supreme Power]|h|r |cffa335ee|Hitem:942::::::::60:::::::|h[Freezing Band]|h|r", -- [1]
 			"Dolen-Razorgore", -- [2]
@@ -1100,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDolen|r",
 			[51] = 1599589996,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
+		}, -- [34]
 		{
 			"WTS |cffffffff|Hitem:20404::::::::60:::::::|h[Encrypted Twilight Text]|h|r|cff0070dd|Hitem:10567::::::::60:::1::::|h[Quillshooter]|h|r|cffa335ee|Hitem:18665::::::::60:::::::|h[The Eye of Shadow]|h|r", -- [1]
 			"Maqi", -- [2]
@@ -1122,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaMaqi|r",
 			[51] = 1599589996,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [50]
+		}, -- [35]
 		{
 			"LFM Onyxia (Head of ony res) - Need All", -- [1]
 			"Bruceree", -- [2]
@@ -1144,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Bruceree|r",
 			[51] = 1599590017,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [51]
+		}, -- [36]
 		{
 			"LFM Onyxia (Head of ony res) - Need All", -- [1]
 			"Bruceree-Razorgore", -- [2]
@@ -1166,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Bruceree|r",
 			[51] = 1599590020,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
+		}, -- [37]
 		{
 			"LFM ZG mostly guildies SR need tank and melee dps", -- [1]
 			"Frostnutz-Razorgore", -- [2]
@@ -1188,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaFrostnutz|r",
 			[51] = 1599590039,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
+		}, -- [38]
 		{
 			"WTS |cff1eff00|Hitem:13521::::::::60:::1::::|h[Recipe: Flask of Supreme Power]|h|r 150g", -- [1]
 			"Leanis-Razorgore", -- [2]
@@ -1210,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aLeanis|r",
 			[51] = 1599590063,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
+		}, -- [39]
 		{
 			"running stocks a few times, 3g/run", -- [1]
 			"Smeargo-Razorgore", -- [2]
@@ -1232,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSmeargo|r",
 			[51] = 1599590065,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
+		}, -- [40]
 		{
 			"LF2M Tank, dps Lavarun emp/princess BRD", -- [1]
 			"Ipsychopath-Razorgore", -- [2]
@@ -1254,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Ipsychopath|r",
 			[51] = 1599590072,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
+		}, -- [41]
 		{
 			"Hosting MC again Friday 11.09 at 19.30. SR +1 loot system, binding/eye/mats res, wisper me for info or sign up at https://discord.gg/t87UufZ", -- [1]
 			"Marryme-Razorgore", -- [2]
@@ -1276,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Marryme|r",
 			[51] = 1599590080,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
+		}, -- [42]
 		{
 			"LFM Onyxia (Head of ony res) - Need All (3/25)", -- [1]
 			"Bruceree-Razorgore", -- [2]
@@ -1298,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Bruceree|r",
 			[51] = 1599590110,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
+		}, -- [43]
 		{
 			"any BWL run up?", -- [1]
 			"Earnybank", -- [2]
@@ -1320,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaEarnybank|r",
 			[51] = 1599590116,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
+		}, -- [44]
 		{
 			" {skull}{skull} WTS- ZG boost 20g run, (solo 40g)(waterfall)(maximum of two in a group) 11 packs", -- [1]
 			"Shaiba-Razorgore", -- [2]
@@ -1342,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaShaiba|r",
 			[51] = 1599590152,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [60]
+		}, -- [45]
 		{
 			"WTS stocks boost 3g/run", -- [1]
 			"Smeargo-Razorgore", -- [2]
@@ -1364,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSmeargo|r",
 			[51] = 1599590153,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
+		}, -- [46]
 		{
 			"LFM ZG mostly guildies SR need 2 tank 1 healer", -- [1]
 			"Frostnutz-Razorgore", -- [2]
@@ -1386,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaFrostnutz|r",
 			[51] = 1599590189,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [62]
+		}, -- [47]
 		{
 			"LF ZG boost", -- [1]
 			"Komen-Razorgore", -- [2]
@@ -1408,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aKomen|r",
 			[51] = 1599590191,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
+		}, -- [48]
 		{
 			"WTS/Trade |cffffffff|Hitem:13512::::::::60:::::::|h[Flask of Supreme Power]|h|r |cffa335ee|Hitem:942::::::::60:::::::|h[Freezing Band]|h|r", -- [1]
 			"Dolen-Razorgore", -- [2]
@@ -1430,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDolen|r",
 			[51] = 1599590202,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [64]
+		}, -- [49]
 		{
 			"WTS |cffa335ee|Hitem:19277::::::::1:::::::|h[Portals Deck]|h|r 90g", -- [1]
 			"Goldbaum-Razorgore", -- [2]
@@ -1452,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Goldbaum|r",
 			[51] = 1599590205,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [50]
 		{
 			"WTB dmt id and summon", -- [1]
 			"Pigbenîs-Razorgore", -- [2]
@@ -1474,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPigbenîs|r",
 			[51] = 1599590207,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
+		}, -- [51]
 		{
 			"WTS |cffa335ee|Hitem:19277::::::::1:::::::|h[Portals Deck]|h|r 90g ", -- [1]
 			"Goldbaum-Razorgore", -- [2]
@@ -1496,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Goldbaum|r",
 			[51] = 1599590212,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
+		}, -- [52]
 		{
 			"LF2M Tank, dps Lavarun emp/princess BRD", -- [1]
 			"Ipsychopath-Razorgore", -- [2]
@@ -1518,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Ipsychopath|r",
 			[51] = 1599590216,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [53]
 		{
 			"WTB ZG boost", -- [1]
 			"Hvorerfar-Razorgore", -- [2]
@@ -1540,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edHvorerfar|r",
 			[51] = 1599590217,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
+		}, -- [54]
 		{
 			"LFM Onyxia (Head of ony res) - Need All (4/25)", -- [1]
 			"Bruceree-Razorgore", -- [2]
@@ -1562,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Bruceree|r",
 			[51] = 1599590235,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
+		}, -- [55]
 		{
 			"{rt1} WTB Boost: MARA  ", -- [1]
 			"Plusz-Razorgore", -- [2]
@@ -1584,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aPlusz|r",
 			[51] = 1599590238,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [56]
 		{
 			"LFM Scholo - Dark runes res", -- [1]
 			"Dolen-Razorgore", -- [2]
@@ -1606,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDolen|r",
 			[51] = 1599590261,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [57]
 		{
 			"LF2m stocks boost", -- [1]
 			"Smeargo-Razorgore", -- [2]
@@ -1628,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSmeargo|r",
 			[51] = 1599590261,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
+		}, -- [58]
 		{
 			"LF2M Tank, dps Lavarun emp/princess BRD", -- [1]
 			"Ipsychopath-Razorgore", -- [2]
@@ -1650,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Ipsychopath|r",
 			[51] = 1599590261,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
+		}, -- [59]
 		{
 			"tank zg pls", -- [1]
 			"Wouter-Razorgore", -- [2]
@@ -1672,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Wouter|r",
 			[51] = 1599590264,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
+		}, -- [60]
 		{
 			"pls c'mon", -- [1]
 			"Wouter-Razorgore", -- [2]
@@ -1694,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Wouter|r",
 			[51] = 1599590267,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [61]
 		{
 			"pls pls", -- [1]
 			"Wouter-Razorgore", -- [2]
@@ -1716,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Wouter|r",
 			[51] = 1599590268,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [62]
 		{
 			"NEE WOUTER", -- [1]
 			"Sugu-Razorgore", -- [2]
@@ -1738,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffSugu|r",
 			[51] = 1599590274,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
+		}, -- [63]
 		{
 			"WTS |cffa335ee|Hitem:19277::::::::1:::::::|h[Portals Deck]|h|r 90g ", -- [1]
 			"Goldbaum-Razorgore", -- [2]
@@ -1760,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Goldbaum|r",
 			[51] = 1599590276,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [64]
 		{
 			"WTB dmt id and summon", -- [1]
 			"Pigbenîs-Razorgore", -- [2]
@@ -1782,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dPigbenîs|r",
 			[51] = 1599590277,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [65]
 		{
 			"godverdomme", -- [1]
 			"Wouter-Razorgore", -- [2]
@@ -1804,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Wouter|r",
 			[51] = 1599590277,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
+		}, -- [66]
 		{
 			"Crafting [Lionheart Helm] [Elemental Sharpening Stone]", -- [1]
 			"Corfitz-Razorgore", -- [2]
@@ -1826,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dCorfitz|r",
 			[51] = 1599590278,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
+		}, -- [67]
 		{
 			"WTS |cff1eff00|Hitem:13521::::::::60:::1::::|h[Recipe: Flask of Supreme Power]|h|r 150g", -- [1]
 			"Leanis-Razorgore", -- [2]
@@ -1848,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aLeanis|r",
 			[51] = 1599590280,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [83]
+		}, -- [68]
 		{
 			"kom men tenen likken?", -- [1]
 			"Wouter-Razorgore", -- [2]
@@ -1870,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Wouter|r",
 			[51] = 1599590282,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [69]
 		{
 			"Nu even niet Wouter", -- [1]
 			"Hadesi", -- [2]
@@ -1892,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Hadesi|r",
 			[51] = 1599590282,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [70]
 		{
 			" WTS |cffa335ee|Hitem:19277::::::::1:::::::|h[Portals Deck]|h|r 90g ", -- [1]
 			"Goldbaum-Razorgore", -- [2]
@@ -1914,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Goldbaum|r",
 			[51] = 1599590285,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
+		}, -- [71]
 		{
 			"LF2m stocks boost 3g/run", -- [1]
 			"Smeargo-Razorgore", -- [2]
@@ -1936,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSmeargo|r",
 			[51] = 1599590290,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
+		}, -- [72]
 		{
 			"Ooooh, jammer dat je zo ver woont :(", -- [1]
 			"Sugu-Razorgore", -- [2]
@@ -1958,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffSugu|r",
 			[51] = 1599590296,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
+		}, -- [73]
 		{
 			"WTS SM boost 8g/reset 1 pull cath+arm 1  spot open", -- [1]
 			"Saggars-Razorgore", -- [2]
@@ -1980,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaSaggars|r",
 			[51] = 1599590297,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
+		}, -- [74]
 		{
 			"WTS |cff0070dd|Hitem:12628::::::::60:::::::|h[Demon Forged Breastplate]|h|r", -- [1]
 			"Gürik-Razorgore", -- [2]
@@ -2002,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dGürik|r",
 			[51] = 1599590299,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [75]
 		{
 			"Dispeller sw entrance if you are running in ", -- [1]
 			"Zugsug", -- [2]
@@ -2024,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaZugsug|r",
 			[51] = 1599590299,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [76]
 		{
 			"woutertje woutertje lief klein kaboutertje", -- [1]
 			"Gruune-Razorgore", -- [2]
@@ -2046,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edGruune|r",
 			[51] = 1599590301,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
+		}, -- [77]
 		{
 			"Zet ze ff op onze disc pls", -- [1]
 			"Sugu-Razorgore", -- [2]
@@ -2068,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffSugu|r",
 			[51] = 1599590306,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [78]
 		{
 			"ik was daarnet in nederland, kan wat verder rijden volgende keer", -- [1]
 			"Wouter-Razorgore", -- [2]
@@ -2090,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Wouter|r",
 			[51] = 1599590316,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [79]
 		{
 			"LF1m stocks boost 3g/run", -- [1]
 			"Smeargo-Razorgore", -- [2]
@@ -2112,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaSmeargo|r",
 			[51] = 1599590316,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [80]
 		{
 			"Haha doe maar", -- [1]
 			"Sugu-Razorgore", -- [2]
@@ -2134,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffSugu|r",
 			[51] = 1599590320,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [81]
 		{
 			"LF2M Tank, dps Lavarun emp/princess BRD", -- [1]
 			"Ipsychopath-Razorgore", -- [2]
@@ -2156,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Ipsychopath|r",
 			[51] = 1599590320,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [82]
 		{
 			"WTB dmt buff", -- [1]
 			"Reseter-Razorgore", -- [2]
@@ -2178,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dReseter|r",
 			[51] = 1599590323,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [83]
 		{
 			"LF ZG boost", -- [1]
 			"Komen-Razorgore", -- [2]
@@ -2199,6 +1869,336 @@ ElvCharacterDB = {
 			false, -- [17]
 			[52] = "|cffff7c0aKomen|r",
 			[51] = 1599590325,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [84]
+		{
+			"LF ZG boost", -- [1]
+			"Komen-Razorgore", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Komen", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			840, -- [11]
+			"Player-4478-0189BB18", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aKomen|r",
+			[51] = 1599590330,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [85]
+		{
+			"WTB dmt id and summon", -- [1]
+			"Pigbenîs-Razorgore", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Pigbenîs", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			841, -- [11]
+			"Player-4478-02427ED1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dPigbenîs|r",
+			[51] = 1599590330,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [86]
+		{
+			"maar euh", -- [1]
+			"Wouter-Razorgore", -- [2]
+			"", -- [3]
+			"1. General - Stormwind City", -- [4]
+			"Wouter", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Stormwind City", -- [9]
+			0, -- [10]
+			852, -- [11]
+			"Player-4478-0156247E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Wouter|r",
+			[51] = 1599590341,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [87]
+		{
+			"Crafting [Lionheart Helm] [Elemental Sharpening Stone]", -- [1]
+			"Corfitz-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Corfitz", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			854, -- [11]
+			"Player-4478-01409D5C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dCorfitz|r",
+			[51] = 1599590345,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [88]
+		{
+			"zg krachtpatser pls", -- [1]
+			"Wouter-Razorgore", -- [2]
+			"", -- [3]
+			"1. General - Stormwind City", -- [4]
+			"Wouter", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Stormwind City", -- [9]
+			0, -- [10]
+			857, -- [11]
+			"Player-4478-0156247E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Wouter|r",
+			[51] = 1599590347,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [89]
+		{
+			"LFG Gnomeregan", -- [1]
+			"Dewilee-Razorgore", -- [2]
+			"", -- [3]
+			"1. General - Stormwind City", -- [4]
+			"Dewilee", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Stormwind City", -- [9]
+			0, -- [10]
+			860, -- [11]
+			"Player-4478-01B15FC6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Dewilee|r",
+			[51] = 1599590348,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [90]
+		{
+			"WTB boost stockades", -- [1]
+			"Redainmage-Razorgore", -- [2]
+			"", -- [3]
+			"6. LookingForGroup", -- [4]
+			"Redainmage", -- [5]
+			"", -- [6]
+			24, -- [7]
+			6, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			863, -- [11]
+			"Player-4478-02A328F0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaRedainmage|r",
+			[51] = 1599590352,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [91]
+		{
+			"LF1m stocks boost 3g/run", -- [1]
+			"Smeargo-Razorgore", -- [2]
+			"", -- [3]
+			"6. LookingForGroup", -- [4]
+			"Smeargo", -- [5]
+			"", -- [6]
+			24, -- [7]
+			6, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			864, -- [11]
+			"Player-4478-027CC3FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSmeargo|r",
+			[51] = 1599590353,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"we hebben een krachtpatser nodig", -- [1]
+			"Wouter-Razorgore", -- [2]
+			"", -- [3]
+			"1. General - Stormwind City", -- [4]
+			"Wouter", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Stormwind City", -- [9]
+			0, -- [10]
+			865, -- [11]
+			"Player-4478-0156247E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Wouter|r",
+			[51] = 1599590354,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [93]
+		{
+			"WTS |cff0070dd|Hitem:12628::::::::60:::::::|h[Demon Forged Breastplate]|h|r", -- [1]
+			"Gürik-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Gürik", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			868, -- [11]
+			"Player-4478-02777021", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dGürik|r",
+			[51] = 1599590357,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"LF1M Strat UD --- Tank", -- [1]
+			"Lancelut-Razorgore", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Lancelut", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			29, -- [11]
+			"Player-4478-023FFA0B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaLancelut|r",
+			[51] = 1599590696,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"is the quest its a secret to everybody active", -- [1]
+			"Louree", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Louree", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			31, -- [11]
+			"Player-4478-02A9E3DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaLouree|r",
+			[51] = 1599590697,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"LF 2 tanks for ZG SR mostly guildies", -- [1]
+			"Frostnutz-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Frostnutz", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			44, -- [11]
+			"Player-4478-01EC065B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaFrostnutz|r",
+			[51] = 1599590710,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"LF 2 tanks for ZG  SR mostly guildies", -- [1]
+			"Frostnutz-Razorgore", -- [2]
+			"", -- [3]
+			"6. LookingForGroup", -- [4]
+			"Frostnutz", -- [5]
+			"", -- [6]
+			24, -- [7]
+			6, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			45, -- [11]
+			"Player-4478-01EC065B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaFrostnutz|r",
+			[51] = 1599590711,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"LFM 1 heal for SM", -- [1]
+			"Pallest", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Pallest", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			54, -- [11]
+			"Player-4478-029EE111", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaPallest|r",
+			[51] = 1599590717,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},

@@ -41,19 +41,19 @@ WIM3_Data = {
 				["autofocus"] = false,
 				["onReceive"] = true,
 			},
-			["arena"] = {
-				["keepfocus"] = false,
-				["supress"] = false,
-				["onSend"] = false,
-				["autofocus"] = false,
-				["onReceive"] = false,
-			},
 			["raid"] = {
 				["keepfocus"] = false,
 				["supress"] = true,
 				["onSend"] = true,
 				["autofocus"] = false,
 				["onReceive"] = true,
+			},
+			["arena"] = {
+				["keepfocus"] = false,
+				["supress"] = false,
+				["onSend"] = false,
+				["autofocus"] = false,
+				["onReceive"] = false,
 			},
 			["alwaysOther"] = false,
 		},
@@ -102,14 +102,14 @@ WIM3_Data = {
 				["autofocus"] = false,
 				["onReceive"] = false,
 			},
-			["arena"] = {
+			["raid"] = {
 				["keepfocus"] = false,
 				["supress"] = false,
 				["onSend"] = false,
 				["autofocus"] = false,
 				["onReceive"] = false,
 			},
-			["raid"] = {
+			["arena"] = {
 				["keepfocus"] = false,
 				["supress"] = false,
 				["onSend"] = false,
@@ -145,9 +145,9 @@ WIM3_Data = {
 			["custom_sml"] = "Chat Blip",
 			["say_sml"] = "Chat Blip",
 			["raid_sml"] = "Chat Blip",
-			["raidleader_sml"] = "Chat Blip",
 			["officer_sml"] = "Chat Blip",
 			["guild_sml"] = "Chat Blip",
+			["raidleader_sml"] = "Chat Blip",
 			["battlegroundleader_sml"] = "Chat Blip",
 			["battleground_sml"] = "Chat Blip",
 		},
@@ -200,12 +200,12 @@ WIM3_Data = {
 			["g"] = 0,
 			["b"] = 0,
 		},
+		["useSkin"] = true,
 		["BNwispIn"] = {
 			["r"] = 0,
 			["g"] = 0.486274509803922,
 			["b"] = 0.654901960784314,
 		},
-		["useSkin"] = true,
 		["historyOut"] = {
 			["r"] = 0.705882352941177,
 			["g"] = 0.705882352941177,
@@ -302,11 +302,11 @@ WIM3_Data = {
 		},
 	},
 	["ignoreArrowKeys"] = true,
+	["coloredNames"] = true,
 	["winLoc"] = {
 		["left"] = 217,
 		["top"] = 664,
 	},
-	["coloredNames"] = true,
 	["clampToScreen"] = true,
 	["stats"] = {
 		["startDate"] = "",
@@ -320,6 +320,21 @@ WIM3_Data = {
 		["selected"] = "WIM Classic",
 		["font"] = "ChatFontNormal",
 		["suggest"] = true,
+	},
+	["ClickControl"] = {
+		["clickSensitivity"] = 0.2,
+	},
+	["tabs"] = {
+		["sortBy"] = 2,
+		["whispers"] = {
+			["enabled"] = false,
+			["guild"] = false,
+			["friends"] = false,
+		},
+		["chat"] = {
+			["enabled"] = false,
+			["aswhisper"] = false,
+		},
 	},
 	["history"] = {
 		["ageLimit"] = true,
@@ -341,21 +356,6 @@ WIM3_Data = {
 			["maxCount"] = 500,
 			["previewCount"] = 25,
 		},
-	},
-	["tabs"] = {
-		["sortBy"] = 2,
-		["whispers"] = {
-			["enabled"] = false,
-			["guild"] = false,
-			["friends"] = false,
-		},
-		["chat"] = {
-			["enabled"] = false,
-			["aswhisper"] = false,
-		},
-	},
-	["ClickControl"] = {
-		["clickSensitivity"] = 0.2,
 	},
 	["chat"] = {
 		["bn"] = {
@@ -471,186 +471,186 @@ WIM3_Cache = {
 				["Solemp"] = 114,
 				["Vextas"] = 53,
 				["Geowal"] = 56,
-				["Berlinsummon"] = 32,
+				["Megaleen"] = 238,
 				["Alcador"] = 134,
 				["Bjornelisa"] = 50,
 				["Coldhammer"] = 19,
 				["Betelgeuze"] = 190,
 				["Ròóster"] = 52,
-				["Linasuma"] = 39,
-				["Hunterleen"] = 220,
-				["Jíji"] = 217,
+				["Tinkeng"] = 237,
+				["Chert"] = 122,
+				["Matty"] = 235,
 				["Thefro"] = 116,
-				["Antigósu"] = 62,
-				["Medruz"] = 197,
-				["Nallesum"] = 218,
+				["Berlinsummon"] = 32,
+				["Vaile"] = 161,
+				["Andy"] = 232,
 				["Drnielsen"] = 87,
-				["Zethiria"] = 66,
+				["Tenkeng"] = 230,
 				["Whiteman"] = 231,
-				["Soleme"] = 15,
-				["Perlina"] = 108,
-				["Hitson"] = 146,
-				["Andiella"] = 51,
+				["Zethiria"] = 66,
+				["Palaleen"] = 229,
+				["Nallena"] = 228,
+				["Tepper"] = 185,
 				["Fatgav"] = 28,
 				["Linasumd"] = 42,
 				["Kameel"] = 147,
 				["Karabaraz"] = 97,
 				["Kespally"] = 23,
-				["Esarus"] = 194,
+				["Nyxos"] = 153,
 				["Farius"] = 93,
 				["Bqsnataluda"] = 139,
 				["Echology"] = 89,
-				["Niwien"] = 181,
-				["Chadyo"] = 169,
+				["Arazol"] = 225,
+				["Humbleberry"] = 224,
 				["Doughnut"] = 219,
 				["Goodgameench"] = 209,
-				["Shaley"] = 158,
-				["Theriat"] = 26,
+				["Warlockleen"] = 223,
+				["Magerotten"] = 222,
 				["Daxxa"] = 85,
-				["Daxaa"] = 192,
+				["Tumbleberry"] = 4,
 				["Ermac"] = 44,
-				["Megaleen"] = 238,
-				["Tarondor"] = 203,
+				["Daxaa"] = 192,
+				["Aishanna"] = 77,
 				["Pløkkeren"] = 155,
-				["Diaolos"] = 170,
+				["Hunterleen"] = 220,
 				["Krondar"] = 99,
 				["Henrybolt"] = 176,
-				["Firakion"] = 60,
+				["Nallesum"] = 218,
 				["Wores"] = 206,
-				["Darador"] = 59,
+				["Jíji"] = 217,
 				["Skallekalle"] = 113,
 				["Tiefold"] = 117,
-				["Spice"] = 115,
+				["Jìji"] = 216,
 				["Loloops"] = 100,
-				["Minigav"] = 8,
+				["Kyk"] = 7,
 				["Loriel"] = 20,
-				["Lukus"] = 16,
-				["Aintgosu"] = 76,
-				["Nyxos"] = 153,
+				["Esar"] = 92,
+				["Maintank"] = 214,
+				["Jiji"] = 213,
 				["Gimdir"] = 69,
 				["Neleffi"] = 105,
 				["Väskanne"] = 11,
 				["Nalena"] = 236,
-				["Ecology"] = 193,
+				["Tarondor"] = 203,
 				["Henryheal"] = 24,
-				["Magerotten"] = 222,
-				["Berlina"] = 78,
+				["Hitson"] = 146,
+				["Shaley"] = 158,
 				["Trë"] = 49,
-				["Tjomii"] = 160,
-				["Jìji"] = 216,
+				["Jaáz"] = 177,
+				["Torcpo"] = 205,
 				["Venomsacs"] = 211,
 				["Ulose"] = 120,
 				["Vextos"] = 162,
 				["Solemb"] = 9,
-				["Bred"] = 140,
-				["Bigtank"] = 79,
-				["Verisity"] = 127,
-				["Dvärgfan"] = 172,
-				["Esar"] = 92,
-				["Tinkeng"] = 237,
-				["Jaazsummon"] = 36,
-				["Freetheapes"] = 34,
+				["Solem"] = 202,
+				["Shortman"] = 201,
 				["Dreadful"] = 171,
+				["Dvärgfan"] = 172,
+				["Bigtank"] = 79,
+				["Berlina"] = 78,
+				["Jaazsummon"] = 36,
+				["Medruz"] = 197,
+				["Kespriest"] = 196,
 				["Asvora"] = 126,
-				["Omanbank"] = 14,
 				["Hammerfall"] = 195,
+				["Esarus"] = 194,
 				["Usual"] = 57,
-				["Thralski"] = 186,
+				["Ecology"] = 193,
 				["Xguard"] = 187,
-				["Matty"] = 235,
+				["Chadyo"] = 169,
 				["Lathine"] = 71,
 				["Bumbleberry"] = 2,
-				["Palaleen"] = 229,
+				["Omanbank"] = 14,
 				["Dumbleberry"] = 3,
 				["Winard"] = 163,
-				["Meliah"] = 180,
-				["Borgzul"] = 166,
-				["Hailseitan"] = 45,
-				["Humbleberry"] = 224,
+				["Paz"] = 154,
+				["Geovaal"] = 35,
+				["Prästhäst"] = 68,
+				["Thralski"] = 186,
 				["Cannoli"] = 227,
 				["Edda"] = 90,
 				["Disi"] = 86,
-				["Darkiee"] = 84,
+				["Schóu"] = 184,
 				["Maeil"] = 234,
 				["Tjernobyl"] = 61,
 				["Haglvejr"] = 96,
 				["Karmakaze"] = 133,
 				["Arathos"] = 67,
-				["Tenkeng"] = 230,
-				["Tumbleberry"] = 4,
-				["Xprz"] = 164,
-				["Minisagsy"] = 72,
-				["Shortman"] = 201,
-				["Chert"] = 122,
+				["Firakion"] = 60,
+				["Tò"] = 119,
+				["Niwien"] = 181,
+				["Meliah"] = 180,
+				["Hailseitan"] = 45,
+				["Schouen"] = 111,
 				["Komher"] = 38,
-				["Maintank"] = 214,
+				["Grindlord"] = 95,
 				["Gapefan"] = 6,
-				["Egels"] = 173,
+				["Lilgav"] = 179,
 				["Russerniko"] = 110,
-				["Bloodystar"] = 80,
+				["Kamel"] = 178,
 				["Arazolbank"] = 207,
-				["Jaáz"] = 177,
+				["Darkiee"] = 84,
 				["Tinklina"] = 65,
 				["Clairè"] = 54,
 				["Kilde"] = 148,
 				["Possa"] = 199,
-				["Nallena"] = 228,
+				["Diaolos"] = 170,
 				["Rackpriest"] = 200,
-				["Warlockleen"] = 223,
+				["Minisagsy"] = 72,
 				["Biggav"] = 55,
-				["Erlina"] = 91,
-				["Tepper"] = 185,
+				["Lommekniv"] = 101,
+				["Egels"] = 173,
 				["Geowall"] = 174,
 				["Elockology"] = 43,
-				["Schóu"] = 184,
+				["Bloodystar"] = 80,
 				["Damond"] = 191,
 				["Blinkeng"] = 226,
-				["Bangalore"] = 138,
-				["Supreme"] = 159,
-				["Torcpo"] = 205,
+				["Borgzul"] = 166,
+				["Èn"] = 165,
+				["Xprz"] = 164,
 				["Hjial"] = 233,
-				["Bé"] = 129,
+				["Tjomii"] = 160,
 				["Tryllefar"] = 75,
 				["Gravious"] = 94,
 				["Daxlina"] = 63,
-				["Elyrinne"] = 141,
+				["Supreme"] = 159,
 				["Goodgamebank"] = 208,
 				["Lighteverdee"] = 124,
-				["Èn"] = 165,
-				["Goodgameore"] = 210,
-				["Vaile"] = 161,
+				["Elyrinne"] = 141,
+				["Sagsy"] = 157,
+				["Roomer"] = 156,
 				["Antigosu"] = 189,
 				["Bèrlin"] = 168,
-				["Andy"] = 232,
+				["Goodgameore"] = 210,
 				["Mollyx"] = 150,
 				["Nynks"] = 152,
 				["Rack"] = 109,
 				["Grlja"] = 143,
 				["Lekanatzou"] = 21,
 				["Gamdar"] = 142,
-				["Tò"] = 119,
+				["Bred"] = 140,
 				["Alesha"] = 135,
-				["Roomer"] = 156,
-				["Sagsy"] = 157,
+				["Bangalore"] = 138,
+				["Ana"] = 136,
 				["Linasumc"] = 41,
 				["Eddalina"] = 18,
-				["Lommekniv"] = 101,
-				["Myclunge"] = 125,
+				["Linasuma"] = 39,
+				["Rhysa"] = 130,
 				["Chadyoo"] = 12,
-				["Jiji"] = 213,
-				["Ana"] = 136,
-				["Grindlord"] = 95,
+				["Bé"] = 129,
+				["Baile"] = 47,
+				["Freetheapes"] = 34,
 				["Niwiensummon"] = 25,
 				["Linasumb"] = 40,
-				["Baile"] = 47,
+				["Verisity"] = 127,
 				["Nès"] = 107,
-				["Schouen"] = 111,
+				["Lukus"] = 16,
 				["Dwarfman"] = 88,
-				["Paz"] = 154,
+				["Myclunge"] = 125,
 				["Hunterrotten"] = 221,
 				["Summongg"] = 212,
 				["Kitumijasi"] = 98,
-				["Geovaal"] = 35,
+				["Theriat"] = 26,
 				["Narwyn"] = 123,
 				["Mewerixi"] = 31,
 				["Reshpu"] = 183,
@@ -658,30 +658,30 @@ WIM3_Cache = {
 				["Gertrüd"] = 73,
 				["Longman"] = 30,
 				["Eelinor"] = 131,
-				["Rhysa"] = 130,
-				["Nerlina"] = 106,
-				["Kamel"] = 178,
-				["Kyk"] = 7,
-				["Solem"] = 202,
+				["Spice"] = 115,
+				["Aintgosu"] = 76,
+				["Erlina"] = 91,
+				["Andiella"] = 51,
+				["Darador"] = 59,
 				["Sibla"] = 46,
 				["Heatonleen"] = 145,
-				["Aishanna"] = 77,
-				["Lilgav"] = 179,
+				["Perlina"] = 108,
+				["Nerlina"] = 106,
 				["Conval"] = 48,
 				["Serlina"] = 112,
 				["Ggsummon"] = 215,
-				["Prästhäst"] = 68,
-				["Kespriest"] = 196,
+				["Soleme"] = 15,
+				["Antigósu"] = 62,
 				["Gíbbo"] = 175,
 				["Cokex"] = 27,
 				["Maelk"] = 102,
-				["Arazol"] = 225,
+				["Kamels"] = 37,
 				["Zethiel"] = 188,
 				["Peterpwn"] = 182,
 				["Mewerix"] = 103,
 				["Umfumfuu"] = 58,
 				["Egelg"] = 33,
-				["Kamels"] = 37,
+				["Minigav"] = 8,
 			},
 		},
 		["Ksumdamond"] = {
@@ -756,8 +756,8 @@ WIM3_Cache = {
 				["|Km14|k"] = 2,
 				["|Km33|k"] = 2,
 				["|Km13|k"] = 2,
-				["|Km31|k"] = 2,
 				["|Km10|k"] = 2,
+				["|Km31|k"] = 2,
 			},
 		},
 		["Fsumdamond"] = {
@@ -1228,7 +1228,7 @@ WIM3_Cache = {
 				["Nightslither"] = 436,
 				["Nightywitch"] = 437,
 				["Twoshoots"] = 564,
-				["Boudiccane"] = 442,
+				["Cipic"] = 312,
 				["Elowiel"] = 80,
 				["Distùrbed"] = 304,
 				["Tzuu"] = 519,
@@ -1255,18 +1255,18 @@ WIM3_Cache = {
 				["Layos"] = 418,
 				["Zabadee"] = 248,
 				["Venmore"] = 34,
-				["Aitanokka"] = 336,
-				["Rättvisan"] = 489,
+				["Keirena"] = 94,
+				["Bns"] = 302,
 				["Tuttifrutti"] = 432,
-				["Deauth"] = 106,
+				["Dprest"] = 2,
 				["Ascetics"] = 161,
 				["Handsomdevil"] = 393,
-				["Pavarti"] = 130,
-				["Svessing"] = 401,
-				["Keirena"] = 94,
-				["Dprest"] = 2,
 				["Lioparas"] = 11,
-				["Ïmperius"] = 85,
+				["Svessing"] = 401,
+				["Aitanokka"] = 336,
+				["Deauth"] = 106,
+				["Pavarti"] = 130,
+				["Haedon"] = 429,
 				["Eluve"] = 539,
 				["Penor"] = 360,
 				["Tarexee"] = 341,
@@ -1274,7 +1274,7 @@ WIM3_Cache = {
 				["Traxés"] = 491,
 				["Nanì"] = 140,
 				["Pallopylly"] = 408,
-				["Eifoo"] = 377,
+				["Trippy"] = 197,
 				["Sorsok"] = 333,
 				["Onduqe"] = 332,
 				["Ripmaul"] = 211,
@@ -1306,7 +1306,7 @@ WIM3_Cache = {
 				["Syfillis"] = 280,
 				["Darkhorux"] = 173,
 				["Xyreon"] = 57,
-				["Mafijoz"] = 32,
+				["Chaco"] = 15,
 				["Azzir"] = 54,
 				["Fredag"] = 530,
 				["Scaredycat"] = 33,
@@ -1324,7 +1324,7 @@ WIM3_Cache = {
 				["Shakeit"] = 62,
 				["Harryportals"] = 200,
 				["Gyaur"] = 517,
-				["Chaco"] = 15,
+				["Mafijoz"] = 32,
 				["Hannawald"] = 406,
 				["Shrunk"] = 169,
 				["Gustavio"] = 149,
@@ -1343,12 +1343,12 @@ WIM3_Cache = {
 				["Masur"] = 109,
 				["Fatboii"] = 86,
 				["Amena"] = 9,
-				["Trippy"] = 197,
+				["Eifoo"] = 377,
 				["Welkin"] = 49,
 				["Redford"] = 210,
-				["Haedon"] = 429,
+				["Ïmperius"] = 85,
 				["Xyplode"] = 50,
-				["Bns"] = 302,
+				["Rättvisan"] = 489,
 				["Sacarina"] = 557,
 				["Musakka"] = 67,
 				["Basur"] = 113,
@@ -1364,7 +1364,7 @@ WIM3_Cache = {
 				["Theross"] = 66,
 				["Alille"] = 423,
 				["Nanceip"] = 139,
-				["Cipic"] = 312,
+				["Boudiccane"] = 442,
 				["Adicted"] = 70,
 				["Piratekex"] = 271,
 				["Dwarfpally"] = 370,
@@ -1457,23 +1457,15 @@ WIM3_Filters = {
 WIM3_History = {
 	["Razorgore"] = {
 		["Damond"] = {
-			["Meliah"] = {
+			["Ggsummon"] = {
 				{
 					["type"] = 1,
-					["time"] = 1599509181,
-					["from"] = "Meliah",
-					["msg"] = "give us a summon bud",
-					["inbound"] = true,
-					["convo"] = "Meliah",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1599509212,
+					["time"] = 1599152843,
 					["from"] = "Damond",
-					["msg"] = "youre right here bud",
+					["msg"] = "inv",
 					["inbound"] = false,
-					["convo"] = "Meliah",
-				}, -- [2]
+					["convo"] = "Ggsummon",
+				}, -- [1]
 				["info"] = {
 				},
 			},
@@ -1598,6 +1590,630 @@ WIM3_History = {
 					["inbound"] = true,
 					["convo"] = "Rackpriest",
 				}, -- [2]
+				["info"] = {
+				},
+			},
+			["Hjial"] = {
+				{
+					["type"] = 1,
+					["time"] = 1598457656,
+					["from"] = "Damond",
+					["msg"] = "gg",
+					["inbound"] = false,
+					["convo"] = "Hjial",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1598458249,
+					["from"] = "Hjial",
+					["msg"] = "Do you need them?",
+					["inbound"] = true,
+					["convo"] = "Hjial",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1598458265,
+					["from"] = "Damond",
+					["msg"] = "idk when id even use them",
+					["inbound"] = false,
+					["convo"] = "Hjial",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1598458270,
+					["from"] = "Damond",
+					["msg"] = "maybe sometime in naxx",
+					["inbound"] = false,
+					["convo"] = "Hjial",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1598458274,
+					["from"] = "Damond",
+					["msg"] = "idk though",
+					["inbound"] = false,
+					["convo"] = "Hjial",
+				}, -- [5]
+				{
+					["type"] = 1,
+					["time"] = 1598548380,
+					["from"] = "Damond",
+					["msg"] = "gg",
+					["inbound"] = false,
+					["convo"] = "Hjial",
+				}, -- [6]
+				{
+					["type"] = 1,
+					["time"] = 1598551977,
+					["from"] = "Hjial",
+					["msg"] = "So yeah, jeg får ikke rigtig tid til sortere grupper.",
+					["inbound"] = true,
+					["convo"] = "Hjial",
+				}, -- [7]
+				{
+					["type"] = 1,
+					["time"] = 1598551985,
+					["from"] = "Damond",
+					["msg"] = "ye |Helvmoji:%Oig=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\SlightFrown:16:16|t",
+					["inbound"] = false,
+					["convo"] = "Hjial",
+				}, -- [8]
+				{
+					["type"] = 1,
+					["time"] = 1598552004,
+					["from"] = "Damond",
+					["msg"] = "kan du ikke lave et sted på sheetet?",
+					["inbound"] = false,
+					["convo"] = "Hjial",
+				}, -- [9]
+				{
+					["type"] = 1,
+					["time"] = 1598552025,
+					["from"] = "Hjial",
+					["msg"] = "Joh, måske.",
+					["inbound"] = true,
+					["convo"] = "Hjial",
+				}, -- [10]
+				{
+					["type"] = 1,
+					["time"] = 1598552029,
+					["from"] = "Hjial",
+					["msg"] = "Det er tink der klarer det.",
+					["inbound"] = true,
+					["convo"] = "Hjial",
+				}, -- [11]
+				{
+					["type"] = 1,
+					["time"] = 1598552081,
+					["from"] = "Damond",
+					["msg"] = "prøver at huske på at spørge ham om det til næste reset",
+					["inbound"] = false,
+					["convo"] = "Hjial",
+				}, -- [12]
+				{
+					["type"] = 1,
+					["time"] = 1598552083,
+					["from"] = "Hjial",
+					["msg"] = "Men i sidste ende er det bare nemmere at sige at alle melee stacker under bossen.",
+					["inbound"] = true,
+					["convo"] = "Hjial",
+				}, -- [13]
+				{
+					["type"] = 1,
+					["time"] = 1598552101,
+					["from"] = "Damond",
+					["msg"] = "men super ineffektivt",
+					["inbound"] = false,
+					["convo"] = "Hjial",
+				}, -- [14]
+				{
+					["type"] = 1,
+					["time"] = 1598552107,
+					["from"] = "Damond",
+					["msg"] = "hvis alle melee er i NR gear",
+					["inbound"] = false,
+					["convo"] = "Hjial",
+				}, -- [15]
+				{
+					["type"] = 1,
+					["time"] = 1598552114,
+					["from"] = "Damond",
+					["msg"] = "big dps loss",
+					["inbound"] = false,
+					["convo"] = "Hjial",
+				}, -- [16]
+				{
+					["type"] = 1,
+					["time"] = 1598552121,
+					["from"] = "Hjial",
+					["msg"] = "Yeah, men det er jo ikke fordi vi ikke kan slå hende ihjel alligevel.",
+					["inbound"] = true,
+					["convo"] = "Hjial",
+				}, -- [17]
+				["info"] = {
+				},
+			},
+			["Adieu#2823"] = {
+				{
+					["type"] = 1,
+					["time"] = 1598807471,
+					["from"] = "Damond",
+					["msg"] = "I need a raid, can I inv you?",
+					["inbound"] = false,
+					["convo"] = "Adieu#2823",
+				}, -- [1]
+				["info"] = {
+				},
+			},
+			["Solem"] = {
+				{
+					["type"] = 1,
+					["time"] = 1598457811,
+					["from"] = "Solem",
+					["msg"] = "mememe",
+					["inbound"] = true,
+					["convo"] = "Solem",
+				}, -- [1]
+				["info"] = {
+				},
+			},
+			["Egels"] = {
+				{
+					["type"] = 1,
+					["time"] = 1598457995,
+					["from"] = "Egels",
+					["msg"] = "thanks",
+					["inbound"] = true,
+					["convo"] = "Egels",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1598553686,
+					["from"] = "Egels",
+					["msg"] = "can you summon please?",
+					["inbound"] = true,
+					["convo"] = "Egels",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1598553708,
+					["from"] = "Egels",
+					["msg"] = "thanks",
+					["inbound"] = true,
+					["convo"] = "Egels",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1598553713,
+					["from"] = "Damond",
+					["msg"] = "np",
+					["inbound"] = false,
+					["convo"] = "Egels",
+				}, -- [4]
+				["info"] = {
+				},
+			},
+			["Geowall"] = {
+				{
+					["type"] = 1,
+					["time"] = 1598457829,
+					["from"] = "Damond",
+					["msg"] = "got it?",
+					["inbound"] = false,
+					["convo"] = "Geowall",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1598457833,
+					["from"] = "Geowall",
+					["msg"] = "no",
+					["inbound"] = true,
+					["convo"] = "Geowall",
+				}, -- [2]
+				["info"] = {
+				},
+			},
+			["Diaolos"] = {
+				{
+					["type"] = 1,
+					["time"] = 1598457782,
+					["from"] = "Diaolos",
+					["msg"] = "summon me pls |Helvmoji:%OkQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin:16:16|t",
+					["inbound"] = true,
+					["convo"] = "Diaolos",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1598457791,
+					["from"] = "Diaolos",
+					["msg"] = "|Helvmoji:%PDM=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Heart:16:16|t",
+					["inbound"] = true,
+					["convo"] = "Diaolos",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1599161762,
+					["from"] = "Diaolos",
+					["msg"] = "summon me as well pls",
+					["inbound"] = true,
+					["convo"] = "Diaolos",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1599501749,
+					["from"] = "Diaolos",
+					["msg"] = "hs p[ls",
+					["inbound"] = true,
+					["convo"] = "Diaolos",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1599501758,
+					["from"] = "Diaolos",
+					["msg"] = "thx |Helvmoji:%OkQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin:16:16|t",
+					["inbound"] = true,
+					["convo"] = "Diaolos",
+				}, -- [5]
+				{
+					["type"] = 1,
+					["time"] = 1599501760,
+					["from"] = "Damond",
+					["msg"] = "np",
+					["inbound"] = false,
+					["convo"] = "Diaolos",
+				}, -- [6]
+				["info"] = {
+				},
+			},
+			["Bloodystar"] = {
+				{
+					["type"] = 1,
+					["time"] = 1599161740,
+					["from"] = "Bloodystar",
+					["msg"] = "ty",
+					["inbound"] = true,
+					["convo"] = "Bloodystar",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1599161747,
+					["from"] = "Damond",
+					["msg"] = "np",
+					["inbound"] = false,
+					["convo"] = "Bloodystar",
+				}, -- [2]
+				["info"] = {
+				},
+			},
+			["Betelgeuze"] = {
+				{
+					["type"] = 1,
+					["time"] = 1598809042,
+					["from"] = "Betelgeuze",
+					["msg"] = "cheers",
+					["inbound"] = true,
+					["convo"] = "Betelgeuze",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1598809049,
+					["from"] = "Damond",
+					["msg"] = "ty!",
+					["inbound"] = false,
+					["convo"] = "Betelgeuze",
+				}, -- [2]
+				["info"] = {
+				},
+			},
+			["Chadyo"] = {
+				{
+					["type"] = 1,
+					["time"] = 1598900459,
+					["from"] = "Damond",
+					["msg"] = "I trust you wont misuse this ss, like mega",
+					["inbound"] = false,
+					["convo"] = "Chadyo",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1598900470,
+					["from"] = "Chadyo",
+					["msg"] = "Hahahaha",
+					["inbound"] = true,
+					["convo"] = "Chadyo",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1598900477,
+					["from"] = "Chadyo",
+					["msg"] = "Nah I'll just run straight into the lava",
+					["inbound"] = true,
+					["convo"] = "Chadyo",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1598900505,
+					["from"] = "Damond",
+					["msg"] = "how much hp do you ress with? that might be fine",
+					["inbound"] = false,
+					["convo"] = "Chadyo",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1598900517,
+					["from"] = "Chadyo",
+					["msg"] = "like 40%",
+					["inbound"] = true,
+					["convo"] = "Chadyo",
+				}, -- [5]
+				{
+					["type"] = 1,
+					["time"] = 1598900521,
+					["from"] = "Damond",
+					["msg"] = "ye np then",
+					["inbound"] = false,
+					["convo"] = "Chadyo",
+				}, -- [6]
+				{
+					["type"] = 1,
+					["time"] = 1598900522,
+					["from"] = "Chadyo",
+					["msg"] = "it's pretty high with soulstone",
+					["inbound"] = true,
+					["convo"] = "Chadyo",
+				}, -- [7]
+				["info"] = {
+				},
+			},
+			["Megaleen"] = {
+				{
+					["type"] = 1,
+					["time"] = 1598552862,
+					["from"] = "Damond",
+					["msg"] = "titans eller?",
+					["inbound"] = false,
+					["convo"] = "Megaleen",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1598552874,
+					["from"] = "Megaleen",
+					["msg"] = "kek",
+					["inbound"] = true,
+					["convo"] = "Megaleen",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1598552876,
+					["from"] = "Megaleen",
+					["msg"] = "har glemt",
+					["inbound"] = true,
+					["convo"] = "Megaleen",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1598552879,
+					["from"] = "Damond",
+					["msg"] = "lmao",
+					["inbound"] = false,
+					["convo"] = "Megaleen",
+				}, -- [4]
+				{
+					["type"] = 1,
+					["time"] = 1598552884,
+					["from"] = "Megaleen",
+					["msg"] = "op af bakke",
+					["inbound"] = true,
+					["convo"] = "Megaleen",
+				}, -- [5]
+				{
+					["type"] = 1,
+					["time"] = 1598552894,
+					["from"] = "Damond",
+					["msg"] = "godt vi har specced til SR cap så",
+					["inbound"] = false,
+					["convo"] = "Megaleen",
+				}, -- [6]
+				{
+					["type"] = 1,
+					["time"] = 1598552913,
+					["from"] = "Megaleen",
+					["msg"] = "ja gogo void",
+					["inbound"] = true,
+					["convo"] = "Megaleen",
+				}, -- [7]
+				{
+					["type"] = 1,
+					["time"] = 1598552920,
+					["from"] = "Damond",
+					["msg"] = "nej",
+					["inbound"] = false,
+					["convo"] = "Megaleen",
+				}, -- [8]
+				{
+					["type"] = 1,
+					["time"] = 1598552923,
+					["from"] = "Damond",
+					["msg"] = "felhunter",
+					["inbound"] = false,
+					["convo"] = "Megaleen",
+				}, -- [9]
+				{
+					["type"] = 1,
+					["time"] = 1598552928,
+					["from"] = "Damond",
+					["msg"] = "+60 shadow res",
+					["inbound"] = false,
+					["convo"] = "Megaleen",
+				}, -- [10]
+				{
+					["type"] = 1,
+					["time"] = 1598552931,
+					["from"] = "Megaleen",
+					["msg"] = "er void ikke dmg redu",
+					["inbound"] = true,
+					["convo"] = "Megaleen",
+				}, -- [11]
+				{
+					["type"] = 1,
+					["time"] = 1598552938,
+					["from"] = "Damond",
+					["msg"] = "phys dmg",
+					["inbound"] = false,
+					["convo"] = "Megaleen",
+				}, -- [12]
+				{
+					["type"] = 1,
+					["time"] = 1598552940,
+					["from"] = "Megaleen",
+					["msg"] = "rip",
+					["inbound"] = true,
+					["convo"] = "Megaleen",
+				}, -- [13]
+				{
+					["type"] = 1,
+					["time"] = 1598552950,
+					["from"] = "Megaleen",
+					["msg"] = "jeg tænker nok på retail",
+					["inbound"] = true,
+					["convo"] = "Megaleen",
+				}, -- [14]
+				{
+					["type"] = 1,
+					["time"] = 1598552965,
+					["from"] = "Damond",
+					["msg"] = "mby",
+					["inbound"] = false,
+					["convo"] = "Megaleen",
+				}, -- [15]
+				{
+					["type"] = 1,
+					["time"] = 1598563464,
+					["from"] = "Damond",
+					["msg"] = "kan jeg få 3 ore?",
+					["inbound"] = false,
+					["convo"] = "Megaleen",
+				}, -- [16]
+				{
+					["type"] = 1,
+					["time"] = 1598563466,
+					["from"] = "Damond",
+					["msg"] = "til staff",
+					["inbound"] = false,
+					["convo"] = "Megaleen",
+				}, -- [17]
+				{
+					["type"] = 1,
+					["time"] = 1598563587,
+					["from"] = "Damond",
+					["msg"] = "ore til staff, yay or nay?",
+					["inbound"] = false,
+					["convo"] = "Megaleen",
+				}, -- [18]
+				{
+					["type"] = 1,
+					["time"] = 1598563612,
+					["from"] = "Damond",
+					["msg"] = "elementium ore",
+					["inbound"] = false,
+					["convo"] = "Megaleen",
+				}, -- [19]
+				{
+					["type"] = 1,
+					["time"] = 1598563634,
+					["from"] = "Megaleen",
+					["msg"] = "ofc",
+					["inbound"] = true,
+					["convo"] = "Megaleen",
+				}, -- [20]
+				{
+					["type"] = 1,
+					["time"] = 1598563639,
+					["from"] = "Megaleen",
+					["msg"] = "2 sec",
+					["inbound"] = true,
+					["convo"] = "Megaleen",
+				}, -- [21]
+				{
+					["type"] = 1,
+					["time"] = 1598563640,
+					["from"] = "Damond",
+					["msg"] = "noice",
+					["inbound"] = false,
+					["convo"] = "Megaleen",
+				}, -- [22]
+				{
+					["type"] = 1,
+					["time"] = 1598563641,
+					["from"] = "Megaleen",
+					["msg"] = "in SW",
+					["inbound"] = true,
+					["convo"] = "Megaleen",
+				}, -- [23]
+				{
+					["type"] = 1,
+					["time"] = 1598563644,
+					["from"] = "Damond",
+					["msg"] = "y",
+					["inbound"] = false,
+					["convo"] = "Megaleen",
+				}, -- [24]
+				{
+					["type"] = 1,
+					["time"] = 1598903829,
+					["from"] = "Damond",
+					["msg"] = "inv",
+					["inbound"] = false,
+					["convo"] = "Megaleen",
+				}, -- [25]
+				["info"] = {
+				},
+			},
+			["Tenkeng"] = {
+				{
+					["type"] = 1,
+					["time"] = 1598894075,
+					["from"] = "Damond",
+					["msg"] = "inv",
+					["inbound"] = false,
+					["convo"] = "Tenkeng",
+				}, -- [1]
+				["info"] = {
+				},
+			},
+			["Niwien"] = {
+				{
+					["type"] = 1,
+					["time"] = 1598559482,
+					["from"] = "Niwien",
+					["msg"] = "Gz!",
+					["inbound"] = true,
+					["convo"] = "Niwien",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1598559490,
+					["from"] = "Damond",
+					["msg"] = "ty",
+					["inbound"] = false,
+					["convo"] = "Niwien",
+				}, -- [2]
+				{
+					["type"] = 1,
+					["time"] = 1598559499,
+					["from"] = "Damond",
+					["msg"] = "gz on feral weap",
+					["inbound"] = false,
+					["convo"] = "Niwien",
+				}, -- [3]
+				{
+					["type"] = 1,
+					["time"] = 1598559505,
+					["from"] = "Niwien",
+					["msg"] = "thanks |Helvmoji:%Oik=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Smile:16:16|t",
+					["inbound"] = true,
+					["convo"] = "Niwien",
+				}, -- [4]
 				["info"] = {
 				},
 			},
@@ -2253,446 +2869,6 @@ WIM3_History = {
 				["info"] = {
 				},
 			},
-			["GigaWoot#2575"] = {
-				{
-					["type"] = 1,
-					["time"] = 1598540701,
-					["from"] = "GigaWoot#2575",
-					["msg"] = "inv",
-					["inbound"] = true,
-					["convo"] = "GigaWoot#2575",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1598540746,
-					["from"] = "GigaWoot#2575",
-					["msg"] = "inv",
-					["inbound"] = true,
-					["convo"] = "GigaWoot#2575",
-				}, -- [2]
-				["info"] = {
-				},
-			},
-			["Solem"] = {
-				{
-					["type"] = 1,
-					["time"] = 1598457811,
-					["from"] = "Solem",
-					["msg"] = "mememe",
-					["inbound"] = true,
-					["convo"] = "Solem",
-				}, -- [1]
-				["info"] = {
-				},
-			},
-			["Egels"] = {
-				{
-					["type"] = 1,
-					["time"] = 1598457995,
-					["from"] = "Egels",
-					["msg"] = "thanks",
-					["inbound"] = true,
-					["convo"] = "Egels",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1598553686,
-					["from"] = "Egels",
-					["msg"] = "can you summon please?",
-					["inbound"] = true,
-					["convo"] = "Egels",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1598553708,
-					["from"] = "Egels",
-					["msg"] = "thanks",
-					["inbound"] = true,
-					["convo"] = "Egels",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1598553713,
-					["from"] = "Damond",
-					["msg"] = "np",
-					["inbound"] = false,
-					["convo"] = "Egels",
-				}, -- [4]
-				["info"] = {
-				},
-			},
-			["Geowall"] = {
-				{
-					["type"] = 1,
-					["time"] = 1598457829,
-					["from"] = "Damond",
-					["msg"] = "got it?",
-					["inbound"] = false,
-					["convo"] = "Geowall",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1598457833,
-					["from"] = "Geowall",
-					["msg"] = "no",
-					["inbound"] = true,
-					["convo"] = "Geowall",
-				}, -- [2]
-				["info"] = {
-				},
-			},
-			["Diaolos"] = {
-				{
-					["type"] = 1,
-					["time"] = 1598457782,
-					["from"] = "Diaolos",
-					["msg"] = "summon me pls |Helvmoji:%OkQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin:16:16|t",
-					["inbound"] = true,
-					["convo"] = "Diaolos",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1598457791,
-					["from"] = "Diaolos",
-					["msg"] = "|Helvmoji:%PDM=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Heart:16:16|t",
-					["inbound"] = true,
-					["convo"] = "Diaolos",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1599161762,
-					["from"] = "Diaolos",
-					["msg"] = "summon me as well pls",
-					["inbound"] = true,
-					["convo"] = "Diaolos",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1599501749,
-					["from"] = "Diaolos",
-					["msg"] = "hs p[ls",
-					["inbound"] = true,
-					["convo"] = "Diaolos",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1599501758,
-					["from"] = "Diaolos",
-					["msg"] = "thx |Helvmoji:%OkQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin:16:16|t",
-					["inbound"] = true,
-					["convo"] = "Diaolos",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1599501760,
-					["from"] = "Damond",
-					["msg"] = "np",
-					["inbound"] = false,
-					["convo"] = "Diaolos",
-				}, -- [6]
-				["info"] = {
-				},
-			},
-			["Bloodystar"] = {
-				{
-					["type"] = 1,
-					["time"] = 1599161740,
-					["from"] = "Bloodystar",
-					["msg"] = "ty",
-					["inbound"] = true,
-					["convo"] = "Bloodystar",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1599161747,
-					["from"] = "Damond",
-					["msg"] = "np",
-					["inbound"] = false,
-					["convo"] = "Bloodystar",
-				}, -- [2]
-				["info"] = {
-				},
-			},
-			["Betelgeuze"] = {
-				{
-					["type"] = 1,
-					["time"] = 1598809042,
-					["from"] = "Betelgeuze",
-					["msg"] = "cheers",
-					["inbound"] = true,
-					["convo"] = "Betelgeuze",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1598809049,
-					["from"] = "Damond",
-					["msg"] = "ty!",
-					["inbound"] = false,
-					["convo"] = "Betelgeuze",
-				}, -- [2]
-				["info"] = {
-				},
-			},
-			["Chadyo"] = {
-				{
-					["type"] = 1,
-					["time"] = 1598900459,
-					["from"] = "Damond",
-					["msg"] = "I trust you wont misuse this ss, like mega",
-					["inbound"] = false,
-					["convo"] = "Chadyo",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1598900470,
-					["from"] = "Chadyo",
-					["msg"] = "Hahahaha",
-					["inbound"] = true,
-					["convo"] = "Chadyo",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1598900477,
-					["from"] = "Chadyo",
-					["msg"] = "Nah I'll just run straight into the lava",
-					["inbound"] = true,
-					["convo"] = "Chadyo",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1598900505,
-					["from"] = "Damond",
-					["msg"] = "how much hp do you ress with? that might be fine",
-					["inbound"] = false,
-					["convo"] = "Chadyo",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1598900517,
-					["from"] = "Chadyo",
-					["msg"] = "like 40%",
-					["inbound"] = true,
-					["convo"] = "Chadyo",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1598900521,
-					["from"] = "Damond",
-					["msg"] = "ye np then",
-					["inbound"] = false,
-					["convo"] = "Chadyo",
-				}, -- [6]
-				{
-					["type"] = 1,
-					["time"] = 1598900522,
-					["from"] = "Chadyo",
-					["msg"] = "it's pretty high with soulstone",
-					["inbound"] = true,
-					["convo"] = "Chadyo",
-				}, -- [7]
-				["info"] = {
-				},
-			},
-			["Ggsummon"] = {
-				{
-					["type"] = 1,
-					["time"] = 1599152843,
-					["from"] = "Damond",
-					["msg"] = "inv",
-					["inbound"] = false,
-					["convo"] = "Ggsummon",
-				}, -- [1]
-				["info"] = {
-				},
-			},
-			["Tenkeng"] = {
-				{
-					["type"] = 1,
-					["time"] = 1598894075,
-					["from"] = "Damond",
-					["msg"] = "inv",
-					["inbound"] = false,
-					["convo"] = "Tenkeng",
-				}, -- [1]
-				["info"] = {
-				},
-			},
-			["Niwien"] = {
-				{
-					["type"] = 1,
-					["time"] = 1598559482,
-					["from"] = "Niwien",
-					["msg"] = "Gz!",
-					["inbound"] = true,
-					["convo"] = "Niwien",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1598559490,
-					["from"] = "Damond",
-					["msg"] = "ty",
-					["inbound"] = false,
-					["convo"] = "Niwien",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1598559499,
-					["from"] = "Damond",
-					["msg"] = "gz on feral weap",
-					["inbound"] = false,
-					["convo"] = "Niwien",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1598559505,
-					["from"] = "Niwien",
-					["msg"] = "thanks |Helvmoji:%Oik=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Smile:16:16|t",
-					["inbound"] = true,
-					["convo"] = "Niwien",
-				}, -- [4]
-				["info"] = {
-				},
-			},
-			["Hjial"] = {
-				{
-					["type"] = 1,
-					["time"] = 1598457656,
-					["from"] = "Damond",
-					["msg"] = "gg",
-					["inbound"] = false,
-					["convo"] = "Hjial",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1598458249,
-					["from"] = "Hjial",
-					["msg"] = "Do you need them?",
-					["inbound"] = true,
-					["convo"] = "Hjial",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1598458265,
-					["from"] = "Damond",
-					["msg"] = "idk when id even use them",
-					["inbound"] = false,
-					["convo"] = "Hjial",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1598458270,
-					["from"] = "Damond",
-					["msg"] = "maybe sometime in naxx",
-					["inbound"] = false,
-					["convo"] = "Hjial",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1598458274,
-					["from"] = "Damond",
-					["msg"] = "idk though",
-					["inbound"] = false,
-					["convo"] = "Hjial",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1598548380,
-					["from"] = "Damond",
-					["msg"] = "gg",
-					["inbound"] = false,
-					["convo"] = "Hjial",
-				}, -- [6]
-				{
-					["type"] = 1,
-					["time"] = 1598551977,
-					["from"] = "Hjial",
-					["msg"] = "So yeah, jeg får ikke rigtig tid til sortere grupper.",
-					["inbound"] = true,
-					["convo"] = "Hjial",
-				}, -- [7]
-				{
-					["type"] = 1,
-					["time"] = 1598551985,
-					["from"] = "Damond",
-					["msg"] = "ye |Helvmoji:%Oig=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\SlightFrown:16:16|t",
-					["inbound"] = false,
-					["convo"] = "Hjial",
-				}, -- [8]
-				{
-					["type"] = 1,
-					["time"] = 1598552004,
-					["from"] = "Damond",
-					["msg"] = "kan du ikke lave et sted på sheetet?",
-					["inbound"] = false,
-					["convo"] = "Hjial",
-				}, -- [9]
-				{
-					["type"] = 1,
-					["time"] = 1598552025,
-					["from"] = "Hjial",
-					["msg"] = "Joh, måske.",
-					["inbound"] = true,
-					["convo"] = "Hjial",
-				}, -- [10]
-				{
-					["type"] = 1,
-					["time"] = 1598552029,
-					["from"] = "Hjial",
-					["msg"] = "Det er tink der klarer det.",
-					["inbound"] = true,
-					["convo"] = "Hjial",
-				}, -- [11]
-				{
-					["type"] = 1,
-					["time"] = 1598552081,
-					["from"] = "Damond",
-					["msg"] = "prøver at huske på at spørge ham om det til næste reset",
-					["inbound"] = false,
-					["convo"] = "Hjial",
-				}, -- [12]
-				{
-					["type"] = 1,
-					["time"] = 1598552083,
-					["from"] = "Hjial",
-					["msg"] = "Men i sidste ende er det bare nemmere at sige at alle melee stacker under bossen.",
-					["inbound"] = true,
-					["convo"] = "Hjial",
-				}, -- [13]
-				{
-					["type"] = 1,
-					["time"] = 1598552101,
-					["from"] = "Damond",
-					["msg"] = "men super ineffektivt",
-					["inbound"] = false,
-					["convo"] = "Hjial",
-				}, -- [14]
-				{
-					["type"] = 1,
-					["time"] = 1598552107,
-					["from"] = "Damond",
-					["msg"] = "hvis alle melee er i NR gear",
-					["inbound"] = false,
-					["convo"] = "Hjial",
-				}, -- [15]
-				{
-					["type"] = 1,
-					["time"] = 1598552114,
-					["from"] = "Damond",
-					["msg"] = "big dps loss",
-					["inbound"] = false,
-					["convo"] = "Hjial",
-				}, -- [16]
-				{
-					["type"] = 1,
-					["time"] = 1598552121,
-					["from"] = "Hjial",
-					["msg"] = "Yeah, men det er jo ikke fordi vi ikke kan slå hende ihjel alligevel.",
-					["inbound"] = true,
-					["convo"] = "Hjial",
-				}, -- [17]
-				["info"] = {
-				},
-			},
 			["Shortman"] = {
 				{
 					["type"] = 1,
@@ -2762,150 +2938,6 @@ WIM3_History = {
 					["inbound"] = false,
 					["convo"] = "Humbleberry",
 				}, -- [1]
-				["info"] = {
-				},
-			},
-			["Adieu#2823"] = {
-				{
-					["type"] = 1,
-					["time"] = 1598807471,
-					["from"] = "Damond",
-					["msg"] = "I need a raid, can I inv you?",
-					["inbound"] = false,
-					["convo"] = "Adieu#2823",
-				}, -- [1]
-				["info"] = {
-				},
-			},
-			["Esarus"] = {
-				{
-					["type"] = 1,
-					["time"] = 1599156012,
-					["from"] = "Esarus",
-					["msg"] = "egg pls",
-					["inbound"] = true,
-					["convo"] = "Esarus",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1599157808,
-					["from"] = "Esarus",
-					["msg"] = "egg pls",
-					["inbound"] = true,
-					["convo"] = "Esarus",
-				}, -- [2]
-				["info"] = {
-				},
-			},
-			["Thralski"] = {
-				{
-					["type"] = 1,
-					["time"] = 1598896002,
-					["from"] = "Thralski",
-					["msg"] = "ty",
-					["inbound"] = true,
-					["convo"] = "Thralski",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1598896005,
-					["from"] = "Damond",
-					["msg"] = "np",
-					["inbound"] = false,
-					["convo"] = "Thralski",
-				}, -- [2]
-				["info"] = {
-				},
-			},
-			["Goodgamebank"] = {
-				{
-					["type"] = 1,
-					["time"] = 1598563832,
-					["from"] = "Damond",
-					["msg"] = "oh",
-					["inbound"] = false,
-					["convo"] = "Goodgamebank",
-				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1598563836,
-					["from"] = "Damond",
-					["msg"] = "har vi nexus",
-					["inbound"] = false,
-					["convo"] = "Goodgamebank",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1598563841,
-					["from"] = "Goodgamebank",
-					["msg"] = "ja vi har lidt",
-					["inbound"] = true,
-					["convo"] = "Goodgamebank",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1598563842,
-					["from"] = "Damond",
-					["msg"] = "til shadow ench gloves?",
-					["inbound"] = false,
-					["convo"] = "Goodgamebank",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1598563850,
-					["from"] = "Goodgamebank",
-					["msg"] = "hvor mange",
-					["inbound"] = true,
-					["convo"] = "Goodgamebank",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1598563871,
-					["from"] = "Damond",
-					["msg"] = "3 nexus 10 large brilliant",
-					["inbound"] = false,
-					["convo"] = "Goodgamebank",
-				}, -- [6]
-				{
-					["type"] = 1,
-					["time"] = 1598563888,
-					["from"] = "Goodgamebank",
-					["msg"] = "på den anden",
-					["inbound"] = true,
-					["convo"] = "Goodgamebank",
-				}, -- [7]
-				{
-					["type"] = 1,
-					["time"] = 1598563893,
-					["from"] = "Goodgamebank",
-					["msg"] = "jeg har nexus",
-					["inbound"] = true,
-					["convo"] = "Goodgamebank",
-				}, -- [8]
-				{
-					["type"] = 1,
-					["time"] = 1598563894,
-					["from"] = "Goodgamebank",
-					["msg"] = "reseten",
-					["inbound"] = true,
-					["convo"] = "Goodgamebank",
-				}, -- [9]
-				{
-					["type"] = 1,
-					["time"] = 1598563896,
-					["from"] = "Goodgamebank",
-					["msg"] = "resten",
-					["inbound"] = true,
-					["convo"] = "Goodgamebank",
-				}, -- [10]
-				{
-					["type"] = 1,
-					["time"] = 1598563899,
-					["from"] = "Goodgamebank",
-					["msg"] = "må du selv",
-					["inbound"] = true,
-					["convo"] = "Goodgamebank",
-				}, -- [11]
 				["info"] = {
 				},
 			},
@@ -3029,207 +3061,175 @@ WIM3_History = {
 				["info"] = {
 				},
 			},
-			["Megaleen"] = {
+			["Thralski"] = {
 				{
 					["type"] = 1,
-					["time"] = 1598552862,
-					["from"] = "Damond",
-					["msg"] = "titans eller?",
-					["inbound"] = false,
-					["convo"] = "Megaleen",
+					["time"] = 1598896002,
+					["from"] = "Thralski",
+					["msg"] = "ty",
+					["inbound"] = true,
+					["convo"] = "Thralski",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1598552874,
-					["from"] = "Megaleen",
-					["msg"] = "kek",
-					["inbound"] = true,
-					["convo"] = "Megaleen",
+					["time"] = 1598896005,
+					["from"] = "Damond",
+					["msg"] = "np",
+					["inbound"] = false,
+					["convo"] = "Thralski",
+				}, -- [2]
+				["info"] = {
+				},
+			},
+			["Goodgamebank"] = {
+				{
+					["type"] = 1,
+					["time"] = 1598563832,
+					["from"] = "Damond",
+					["msg"] = "oh",
+					["inbound"] = false,
+					["convo"] = "Goodgamebank",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1598563836,
+					["from"] = "Damond",
+					["msg"] = "har vi nexus",
+					["inbound"] = false,
+					["convo"] = "Goodgamebank",
 				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1598552876,
-					["from"] = "Megaleen",
-					["msg"] = "har glemt",
+					["time"] = 1598563841,
+					["from"] = "Goodgamebank",
+					["msg"] = "ja vi har lidt",
 					["inbound"] = true,
-					["convo"] = "Megaleen",
+					["convo"] = "Goodgamebank",
 				}, -- [3]
 				{
 					["type"] = 1,
-					["time"] = 1598552879,
+					["time"] = 1598563842,
 					["from"] = "Damond",
-					["msg"] = "lmao",
+					["msg"] = "til shadow ench gloves?",
 					["inbound"] = false,
-					["convo"] = "Megaleen",
+					["convo"] = "Goodgamebank",
 				}, -- [4]
 				{
 					["type"] = 1,
-					["time"] = 1598552884,
-					["from"] = "Megaleen",
-					["msg"] = "op af bakke",
+					["time"] = 1598563850,
+					["from"] = "Goodgamebank",
+					["msg"] = "hvor mange",
 					["inbound"] = true,
-					["convo"] = "Megaleen",
+					["convo"] = "Goodgamebank",
 				}, -- [5]
 				{
 					["type"] = 1,
-					["time"] = 1598552894,
+					["time"] = 1598563871,
 					["from"] = "Damond",
-					["msg"] = "godt vi har specced til SR cap så",
+					["msg"] = "3 nexus 10 large brilliant",
 					["inbound"] = false,
-					["convo"] = "Megaleen",
+					["convo"] = "Goodgamebank",
 				}, -- [6]
 				{
 					["type"] = 1,
-					["time"] = 1598552913,
-					["from"] = "Megaleen",
-					["msg"] = "ja gogo void",
+					["time"] = 1598563888,
+					["from"] = "Goodgamebank",
+					["msg"] = "på den anden",
 					["inbound"] = true,
-					["convo"] = "Megaleen",
+					["convo"] = "Goodgamebank",
 				}, -- [7]
 				{
 					["type"] = 1,
-					["time"] = 1598552920,
-					["from"] = "Damond",
-					["msg"] = "nej",
-					["inbound"] = false,
-					["convo"] = "Megaleen",
+					["time"] = 1598563893,
+					["from"] = "Goodgamebank",
+					["msg"] = "jeg har nexus",
+					["inbound"] = true,
+					["convo"] = "Goodgamebank",
 				}, -- [8]
 				{
 					["type"] = 1,
-					["time"] = 1598552923,
-					["from"] = "Damond",
-					["msg"] = "felhunter",
-					["inbound"] = false,
-					["convo"] = "Megaleen",
+					["time"] = 1598563894,
+					["from"] = "Goodgamebank",
+					["msg"] = "reseten",
+					["inbound"] = true,
+					["convo"] = "Goodgamebank",
 				}, -- [9]
 				{
 					["type"] = 1,
-					["time"] = 1598552928,
-					["from"] = "Damond",
-					["msg"] = "+60 shadow res",
-					["inbound"] = false,
-					["convo"] = "Megaleen",
+					["time"] = 1598563896,
+					["from"] = "Goodgamebank",
+					["msg"] = "resten",
+					["inbound"] = true,
+					["convo"] = "Goodgamebank",
 				}, -- [10]
 				{
 					["type"] = 1,
-					["time"] = 1598552931,
-					["from"] = "Megaleen",
-					["msg"] = "er void ikke dmg redu",
+					["time"] = 1598563899,
+					["from"] = "Goodgamebank",
+					["msg"] = "må du selv",
 					["inbound"] = true,
-					["convo"] = "Megaleen",
+					["convo"] = "Goodgamebank",
 				}, -- [11]
+				["info"] = {
+				},
+			},
+			["GigaWoot#2575"] = {
 				{
 					["type"] = 1,
-					["time"] = 1598552938,
-					["from"] = "Damond",
-					["msg"] = "phys dmg",
-					["inbound"] = false,
-					["convo"] = "Megaleen",
-				}, -- [12]
-				{
-					["type"] = 1,
-					["time"] = 1598552940,
-					["from"] = "Megaleen",
-					["msg"] = "rip",
-					["inbound"] = true,
-					["convo"] = "Megaleen",
-				}, -- [13]
-				{
-					["type"] = 1,
-					["time"] = 1598552950,
-					["from"] = "Megaleen",
-					["msg"] = "jeg tænker nok på retail",
-					["inbound"] = true,
-					["convo"] = "Megaleen",
-				}, -- [14]
-				{
-					["type"] = 1,
-					["time"] = 1598552965,
-					["from"] = "Damond",
-					["msg"] = "mby",
-					["inbound"] = false,
-					["convo"] = "Megaleen",
-				}, -- [15]
-				{
-					["type"] = 1,
-					["time"] = 1598563464,
-					["from"] = "Damond",
-					["msg"] = "kan jeg få 3 ore?",
-					["inbound"] = false,
-					["convo"] = "Megaleen",
-				}, -- [16]
-				{
-					["type"] = 1,
-					["time"] = 1598563466,
-					["from"] = "Damond",
-					["msg"] = "til staff",
-					["inbound"] = false,
-					["convo"] = "Megaleen",
-				}, -- [17]
-				{
-					["type"] = 1,
-					["time"] = 1598563587,
-					["from"] = "Damond",
-					["msg"] = "ore til staff, yay or nay?",
-					["inbound"] = false,
-					["convo"] = "Megaleen",
-				}, -- [18]
-				{
-					["type"] = 1,
-					["time"] = 1598563612,
-					["from"] = "Damond",
-					["msg"] = "elementium ore",
-					["inbound"] = false,
-					["convo"] = "Megaleen",
-				}, -- [19]
-				{
-					["type"] = 1,
-					["time"] = 1598563634,
-					["from"] = "Megaleen",
-					["msg"] = "ofc",
-					["inbound"] = true,
-					["convo"] = "Megaleen",
-				}, -- [20]
-				{
-					["type"] = 1,
-					["time"] = 1598563639,
-					["from"] = "Megaleen",
-					["msg"] = "2 sec",
-					["inbound"] = true,
-					["convo"] = "Megaleen",
-				}, -- [21]
-				{
-					["type"] = 1,
-					["time"] = 1598563640,
-					["from"] = "Damond",
-					["msg"] = "noice",
-					["inbound"] = false,
-					["convo"] = "Megaleen",
-				}, -- [22]
-				{
-					["type"] = 1,
-					["time"] = 1598563641,
-					["from"] = "Megaleen",
-					["msg"] = "in SW",
-					["inbound"] = true,
-					["convo"] = "Megaleen",
-				}, -- [23]
-				{
-					["type"] = 1,
-					["time"] = 1598563644,
-					["from"] = "Damond",
-					["msg"] = "y",
-					["inbound"] = false,
-					["convo"] = "Megaleen",
-				}, -- [24]
-				{
-					["type"] = 1,
-					["time"] = 1598903829,
-					["from"] = "Damond",
+					["time"] = 1598540701,
+					["from"] = "GigaWoot#2575",
 					["msg"] = "inv",
+					["inbound"] = true,
+					["convo"] = "GigaWoot#2575",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1598540746,
+					["from"] = "GigaWoot#2575",
+					["msg"] = "inv",
+					["inbound"] = true,
+					["convo"] = "GigaWoot#2575",
+				}, -- [2]
+				["info"] = {
+				},
+			},
+			["Esarus"] = {
+				{
+					["type"] = 1,
+					["time"] = 1599156012,
+					["from"] = "Esarus",
+					["msg"] = "egg pls",
+					["inbound"] = true,
+					["convo"] = "Esarus",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1599157808,
+					["from"] = "Esarus",
+					["msg"] = "egg pls",
+					["inbound"] = true,
+					["convo"] = "Esarus",
+				}, -- [2]
+				["info"] = {
+				},
+			},
+			["Meliah"] = {
+				{
+					["type"] = 1,
+					["time"] = 1599509181,
+					["from"] = "Meliah",
+					["msg"] = "give us a summon bud",
+					["inbound"] = true,
+					["convo"] = "Meliah",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1599509212,
+					["from"] = "Damond",
+					["msg"] = "youre right here bud",
 					["inbound"] = false,
-					["convo"] = "Megaleen",
-				}, -- [25]
+					["convo"] = "Meliah",
+				}, -- [2]
 				["info"] = {
 				},
 			},
