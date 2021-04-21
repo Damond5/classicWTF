@@ -1,6 +1,7 @@
 
 Details_TinyThreatDB = {
 	["characters"] = {
+		["Ksumdamond - Razorgore"] = "Damond - Razorgore",
 		["Damondbank - Razorgore"] = "Damond - Razorgore",
 		["Damond - Razorgore"] = "Damond - Razorgore",
 	},

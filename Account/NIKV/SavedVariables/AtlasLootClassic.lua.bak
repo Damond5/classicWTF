@@ -8,7 +8,7 @@ AtlasLootClassicDB = {
 		["Damond - Razorgore"] = "Damond - Razorgore",
 	},
 	["global"] = {
-		["__addonrevision"] = 1050006,
+		["__addonrevision"] = 1050009,
 	},
 	["profiles"] = {
 		["Ksumdamond - Razorgore"] = {
@@ -59,14 +59,14 @@ AtlasLootClassicDB = {
 					nil, -- [1]
 					nil, -- [2]
 					"CENTER", -- [3]
-					45.0002746582031, -- [4]
-					20.0001811981201, -- [5]
+					72.0000076293945, -- [4]
+					18.9999752044678, -- [5]
 				},
 				["selected"] = {
 					nil, -- [1]
-					"TheRuinsofAhnQiraj", -- [2]
-					6, -- [3]
-					2, -- [4]
+					"Naxxramas", -- [2]
+					15, -- [3]
+					3, -- [4]
 					0, -- [5]
 				},
 			},

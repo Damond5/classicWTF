@@ -2,7 +2,7 @@
 WeakAurasOptionsSaved = {
 	["locale"] = "enUS",
 	["needsRebuild"] = false,
-	["version"] = "2.18.4",
+	["version"] = "3.2.1",
 	["magnetAlign"] = true,
 	["spellCache"] = {
 		["Enchant Cloak - Greater Defense"] = {
@@ -20458,6 +20458,7 @@ WeakAurasOptionsSaved = {
 		["Slime Bolt"] = {
 			["spells"] = {
 				[28311] = 136016,
+				[32309] = 136016,
 			},
 		},
 		["Copy of Corruption"] = {
@@ -32252,7 +32253,7 @@ WeakAurasOptionsSaved = {
 		},
 		["Attack"] = {
 			["spells"] = {
-				[6603] = 135157,
+				[6603] = 135150,
 				[6350] = 135825,
 				[10435] = 135825,
 				[6352] = 135825,
@@ -62720,5 +62721,5 @@ WeakAurasOptionsSaved = {
 	["spellCacheAchivements"] = true,
 	["savedSnippets"] = {
 	},
-	["build"] = "35753",
+	["build"] = "37497",
 }

@@ -12,17 +12,17 @@ VER 3 0000000000000003 "LFM" "INV_MISC_QUESTIONMARK"
 /5 LF2M healer + tank DMW (including lock mount q)
 /7 LF2M healer + tank DMW (including lock mount q)
 END
-VER 3 0000000000000006 "mount" "INV_MISC_QUESTIONMARK"
-/1 WTB warlock epic mount summon
-/4 WTB warlock epic mount summon
-/5 WTB warlock epic mount summon
-/7 WTB warlock epic mount summon
+VER 3 0000000000000007 "PI" "132089"
+/w chadyo PI NOW!!!
 END
 VER 3 0000000000000005 "summon" "INV_MISC_QUESTIONMARK"
 /cast Ritual of Summoning
 /say Summoning %t
 /party Summoning %t
 /raid Summoning %t
+END
+VER 3 0000000000000006 "tar" "INV_MISC_QUESTIONMARK"
+/tar sayge
 END
 VER 3 0000000000000004 "torch" "132093"
 /1 LFG BRD torch runs - 48 lock                                             

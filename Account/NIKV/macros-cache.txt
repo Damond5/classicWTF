@@ -1,6 +1,10 @@
 VER 3 0000000000000001 "attack" "INV_MISC_QUESTIONMARK"
 /cast !shoot
 END
+VER 3 0000000000000008 "hs" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Major Healthstone
+END
 VER 3 0000000000000002 "LFG" "INV_MISC_QUESTIONMARK"
 /1 LFG/LFM Scholo
 /4 LFG/LFM Scholo
@@ -11,6 +15,9 @@ VER 3 0000000000000003 "LFM" "INV_MISC_QUESTIONMARK"
 /4 LF2M healer + tank DMW (including lock mount q)
 /5 LF2M healer + tank DMW (including lock mount q)
 /7 LF2M healer + tank DMW (including lock mount q)
+END
+VER 3 0000000000000007 "PI" "132089"
+/w chadyo PI NOW!!!
 END
 VER 3 0000000000000005 "summon" "INV_MISC_QUESTIONMARK"
 /cast Ritual of Summoning

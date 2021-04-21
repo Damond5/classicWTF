@@ -56,3 +56,4 @@ Plater: enabled
 BattlegroundNotifier: disabled
 Capping: disabled
 ElvUI_DTBars2: disabled
+ElvUI_QuestXP_Classic: disabled

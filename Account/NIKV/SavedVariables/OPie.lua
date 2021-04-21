@@ -4,13 +4,13 @@ OneRing_Config = {
 		["Razorgore-Damonddruid"] = "default",
 		["Lashlayer-Damond"] = "default",
 	},
-	["_GameVersion"] = "1.13.5",
-	["_OPieVersion"] = "Ancient Walnut 6 (3.101)",
+	["_GameVersion"] = "1.13.6",
+	["_OPieVersion"] = "Ancient Xe 2a (3.104)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["RingAtMouse"] = true,
 			["RotationTokens"] = {
-				["ABueh21QF0O"] = "ABueh21QF0n",
+				["ABueh21QF0O"] = "ABueh21QF0Q",
 			},
 			["Bindings"] = {
 				["lock"] = "V",
@@ -19,6 +19,20 @@ OneRing_Config = {
 		},
 	},
 	["PersistentStorage"] = {
+		["AutoQuestWhitelist"] = {
+			[6061] = true,
+			[4907] = true,
+			[20464] = true,
+			[11933] = true,
+			[21920] = true,
+			[8079] = true,
+			[5605] = true,
+			[5591] = true,
+			[9362] = true,
+			[6085] = true,
+			[7607] = true,
+			[7627] = true,
+		},
 		["RingKeeper"] = {
 			["druid"] = {
 				{
@@ -63,9 +77,9 @@ OneRing_Config = {
 					["sliceToken"] = "ABuejLWXIuw",
 					["id"] = 691,
 				}, -- [4]
-				["name"] = "demons",
-				["save"] = true,
 				["limit"] = "Damond-Razorgore",
+				["save"] = true,
+				["name"] = "demons",
 			},
 			["lock"] = {
 				{
@@ -94,27 +108,15 @@ OneRing_Config = {
 					"summon", -- [2]
 					["sliceToken"] = "ABueh3puYGe",
 				}, -- [6]
-				["limit"] = "Damond-Razorgore",
-				["save"] = true,
 				["name"] = "lock",
+				["save"] = true,
+				["limit"] = "Damond-Razorgore",
 			},
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,
 			},
 		},
-		["AutoQuestWhitelist"] = {
-			[6061] = true,
-			[4907] = true,
-			[20464] = true,
-			[11933] = true,
-			[21920] = true,
-			[5605] = true,
-			[5591] = true,
-			[9362] = true,
-			[6085] = true,
-			[7607] = true,
-			[7627] = true,
-		},
 	},
 	["_GameLocale"] = "enUS",
 }
+OPie_SavedData = nil

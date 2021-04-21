@@ -9,7 +9,7 @@ ClassicLFG_DB = {
 	},
 	["profiles"] = {
 		["Ksumdamond - Razorgore"] = {
-			["BroadcastDungeonGroupChannel"] = 0,
+			["BroadcastDungeonGroupChannel"] = 1,
 		},
 		["Damonddruid - Razorgore"] = {
 			["BroadcastDungeonGroupInterval"] = 180,
@@ -22,11 +22,11 @@ ClassicLFG_DB = {
 			["BroadcastDungeonGroupChannel"] = 1,
 		},
 		["Damondbank - Razorgore"] = {
-			["BroadcastDungeonGroupChannel"] = 1,
+			["BroadcastDungeonGroupChannel"] = 0,
 		},
 		["Damond - Razorgore"] = {
 			["BroadcastDungeonGroupInterval"] = 180,
-			["BroadcastDungeonGroupChannel"] = 0,
+			["BroadcastDungeonGroupChannel"] = 1,
 			["ShareTalents"] = false,
 			["Toast"] = {
 				["Y"] = -274.285583496094,

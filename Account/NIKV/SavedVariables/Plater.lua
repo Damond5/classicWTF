@@ -451,137 +451,145 @@ PlaterDB = {
 			["aura_y_offset"] = 5,
 			["use_ui_parent"] = true,
 			["npc_cache"] = {
-				[12017] = {
-					"Broodlord Lashlayer", -- [1]
+				[12056] = {
+					"Baron Geddon", -- [1]
+					"Molten Core", -- [2]
+				},
+				[16148] = {
+					"Spectral Deathknight", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16156] = {
+					"Dark Touched Warrior", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16447] = {
+					"Plagued Ghoul", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[12076] = {
+					"Lava Elemental", -- [1]
+					"Molten Core", -- [2]
+				},
+				[16168] = {
+					"Stoneskin Gargoyle", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[12100] = {
+					"Lava Reaver", -- [1]
+					"Molten Core", -- [2]
+				},
+				[16216] = {
+					"Unholy Swords", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15725] = {
+					"Claw Tentacle", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[16244] = {
+					"Infectious Ghoul", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15230] = {
+					"Vekniss Warrior", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[11661] = {
+					"Flamewaker", -- [1]
+					"Molten Core", -- [2]
+				},
+				[11665] = {
+					"Lava Annihilator", -- [1]
+					"Molten Core", -- [2]
+				},
+				[15246] = {
+					"Qiraji Mindslayer", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[11673] = {
+					"Ancient Core Hound", -- [1]
+					"Molten Core", -- [2]
+				},
+				[15262] = {
+					"Obsidian Eradicator", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[14264] = {
+					"Red Drakonid", -- [1]
 					"Blackwing Lair", -- [2]
+				},
+				[10184] = {
+					"Onyxia", -- [1]
+					"Onyxia's Lair", -- [2]
+				},
+				[12264] = {
+					"Shazzrah", -- [1]
+					"Molten Core", -- [2]
+				},
+				[15334] = {
+					"Giant Eye Tentacle", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
 				},
 				[15338] = {
 					"Obsidian Destroyer", -- [1]
 					"Ruins of Ahn'Qiraj", -- [2]
 				},
-				[15340] = {
-					"Moam", -- [1]
-					"Ruins of Ahn'Qiraj", -- [2]
+				[16368] = {
+					"Necropolis Acolyte", -- [1]
+					"Naxxramas", -- [2]
 				},
 				[11262] = {
 					"Onyxian Whelp", -- [1]
 					"Onyxia's Lair", -- [2]
 				},
-				[15344] = {
-					"Swarmguard Needler", -- [1]
-					"Ruins of Ahn'Qiraj", -- [2]
-				},
-				[15348] = {
-					"Kurinnaxx", -- [1]
-					"Ruins of Ahn'Qiraj", -- [2]
-				},
-				[12557] = {
-					"Grethok the Controller", -- [1]
-					"Blackwing Lair", -- [2]
-				},
-				[15621] = {
-					"Yauj Brood", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
 				[15370] = {
 					"Buru the Gorger", -- [1]
 					"Ruins of Ahn'Qiraj", -- [2]
 				},
-				[12057] = {
-					"Garr", -- [1]
-					"Molten Core", -- [2]
-				},
 				[15386] = {
 					"Major Yeggeth", -- [1]
-					"Ruins of Ahn'Qiraj", -- [2]
-				},
-				[15388] = {
-					"Major Pakkon", -- [1]
 					"Ruins of Ahn'Qiraj", -- [2]
 				},
 				[15390] = {
 					"Captain Xurrem", -- [1]
 					"Ruins of Ahn'Qiraj", -- [2]
 				},
-				[15392] = {
-					"Captain Tuubid", -- [1]
-					"Ruins of Ahn'Qiraj", -- [2]
-				},
-				[11830] = {
-					"Hakkari Priest", -- [1]
+				[14883] = {
+					"Voodoo Slave", -- [1]
 					"Zul'Gurub", -- [2]
 				},
-				[15667] = {
-					"Glob of Viscidus", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
+				[16983] = {
+					"Plagued Champion", -- [1]
+					"Naxxramas", -- [2]
 				},
-				[12099] = {
-					"Firesworn", -- [1]
-					"Molten Core", -- [2]
-				},
-				[12101] = {
-					"Lava Surger", -- [1]
-					"Molten Core", -- [2]
-				},
-				[11340] = {
-					"Hakkari Blood Priest", -- [1]
-					"Zul'Gurub", -- [2]
-				},
-				[15934] = {
-					"Hive'Zara Hornet", -- [1]
-					"Ruins of Ahn'Qiraj", -- [2]
-				},
-				[11348] = {
-					"Zealot Zath", -- [1]
-					"Zul'Gurub", -- [2]
+				[15929] = {
+					"Stalagg", -- [1]
+					"Naxxramas", -- [2]
 				},
 				[11350] = {
 					"Gurubashi Axe Thrower", -- [1]
 					"Zul'Gurub", -- [2]
 				},
-				[11352] = {
-					"Gurubashi Berserker", -- [1]
-					"Zul'Gurub", -- [2]
-				},
-				[12119] = {
-					"Flamewaker Protector", -- [1]
-					"Molten Core", -- [2]
-				},
-				[11356] = {
-					"Gurubashi Champion", -- [1]
-					"Zul'Gurub", -- [2]
-				},
-				[11360] = {
-					"Zulian Cub", -- [1]
-					"Zul'Gurub", -- [2]
-				},
-				[12129] = {
-					"Onyxian Warder", -- [1]
-					"Onyxia's Lair", -- [2]
-				},
-				[15962] = {
-					"Vekniss Hatchling", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[11374] = {
-					"Hooktooth Frenzy", -- [1]
-					"Zul'Gurub", -- [2]
-				},
-				[11380] = {
-					"Jin'do the Hexxer", -- [1]
-					"Zul'Gurub", -- [2]
+				[15953] = {
+					"Grand Widow Faerlina", -- [1]
+					"Naxxramas", -- [2]
 				},
 				[15462] = {
 					"Spitting Scarab", -- [1]
 					"Ruins of Ahn'Qiraj", -- [2]
 				},
-				[15725] = {
-					"Claw Tentacle", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
+				[15977] = {
+					"Infectious Skitterer", -- [1]
+					"Naxxramas", -- [2]
 				},
-				[15984] = {
-					"Sartura's Royal Guard", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
+				[11382] = {
+					"Bloodlord Mandokir", -- [1]
+					"Zul'Gurub", -- [2]
+				},
+				[14456] = {
+					"Blackwing Guardsman", -- [1]
+					"Blackwing Lair", -- [2]
 				},
 				[12416] = {
 					"Blackwing Legionnaire", -- [1]
@@ -591,104 +599,156 @@ PlaterDB = {
 					"Blackwing Mage", -- [1]
 					"Blackwing Lair", -- [2]
 				},
-				[12422] = {
-					"Death Talon Dragonspawn", -- [1]
-					"Blackwing Lair", -- [2]
+				[14987] = {
+					"Powerful Healing Ward", -- [1]
+					"Zul'Gurub", -- [2]
 				},
-				[11659] = {
-					"Molten Destroyer", -- [1]
-					"Molten Core", -- [2]
+				[16017] = {
+					"Patchwork Golem", -- [1]
+					"Naxxramas", -- [2]
 				},
-				[11661] = {
-					"Flamewaker", -- [1]
-					"Molten Core", -- [2]
-				},
-				[15233] = {
-					"Vekniss Guardian", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[11665] = {
-					"Lava Annihilator", -- [1]
-					"Molten Core", -- [2]
-				},
-				[11667] = {
-					"Flameguard", -- [1]
-					"Molten Core", -- [2]
-				},
-				[11669] = {
-					"Flame Imp", -- [1]
-					"Molten Core", -- [2]
-				},
-				[11671] = {
-					"Core Hound", -- [1]
-					"Molten Core", -- [2]
-				},
-				[11673] = {
-					"Ancient Core Hound", -- [1]
-					"Molten Core", -- [2]
-				},
-				[15247] = {
-					"Qiraji Brainwasher", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[15249] = {
-					"Qiraji Lasher", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[15510] = {
-					"Fankriss the Unyielding", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
+				[16021] = {
+					"Living Monstrosity", -- [1]
+					"Naxxramas", -- [2]
 				},
 				[15514] = {
 					"Buru Egg", -- [1]
 					"Ruins of Ahn'Qiraj", -- [2]
 				},
-				[15516] = {
-					"Battleguard Sartura", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
+				[16029] = {
+					"Sludge Belcher", -- [1]
+					"Naxxramas", -- [2]
 				},
-				[12458] = {
-					"Blackwing Taskmaster", -- [1]
-					"Blackwing Lair", -- [2]
-				},
-				[12460] = {
-					"Death Talon Wyrmguard", -- [1]
-					"Blackwing Lair", -- [2]
+				[16037] = {
+					"Plagued Bat", -- [1]
+					"Naxxramas", -- [2]
 				},
 				[12464] = {
 					"Death Talon Seether", -- [1]
-					"Blackwing Lair", -- [2]
-				},
-				[13996] = {
-					"Blackwing Technician", -- [1]
 					"Blackwing Lair", -- [2]
 				},
 				[12468] = {
 					"Death Talon Hatcher", -- [1]
 					"Blackwing Lair", -- [2]
 				},
-				[15275] = {
-					"Emperor Vek'nilash", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[15277] = {
-					"Anubisath Defender", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
 				[15538] = {
 					"Anubisath Swarmguard", -- [1]
 					"Ahn'Qiraj Temple", -- [2]
 				},
-				[15544] = {
-					"Vem", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
+				[16057] = {
+					"Rotting Maggot", -- [1]
+					"Naxxramas", -- [2]
 				},
-				[14020] = {
-					"Chromaggus", -- [1]
+				[16061] = {
+					"Instructor Razuvious", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15043] = {
+					"Zulian Crocolisk", -- [1]
+					"Zul'Gurub", -- [2]
+				},
+				[11981] = {
+					"Flamegor", -- [1]
 					"Blackwing Lair", -- [2]
 				},
-				[14022] = {
-					"Corrupted Red Whelp", -- [1]
+				[12017] = {
+					"Broodlord Lashlayer", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[16125] = {
+					"Unrelenting Deathknight", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16385] = {
+					"Lightning Totem", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15622] = {
+					"Vekniss Borer", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[15630] = {
+					"Spawn of Fankriss", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[16145] = {
+					"Deathknight Captain", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16149] = {
+					"Spectral Horse", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16157] = {
+					"Doom Touched Warrior", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16449] = {
+					"Spirit of Naxxramas", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16165] = {
+					"Necro Knight", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16984] = {
+					"Plagued Warrior", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16505] = {
+					"Naxxramas Follower", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16193] = {
+					"Skeletal Smith", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[14668] = {
+					"Corrupted Infernal", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[12129] = {
+					"Onyxian Warder", -- [1]
+					"Onyxia's Lair", -- [2]
+				},
+				[15718] = {
+					"Ouro Scarab", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[15726] = {
+					"Eye Tentacle", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[15235] = {
+					"Vekniss Stinger", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[11662] = {
+					"Flamewaker Priest", -- [1]
+					"Molten Core", -- [2]
+				},
+				[11666] = {
+					"Firewalker", -- [1]
+					"Molten Core", -- [2]
+				},
+				[15247] = {
+					"Qiraji Brainwasher", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[15263] = {
+					"The Prophet Skeram", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[16297] = {
+					"Mutated Grub", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[14261] = {
+					"Blue Drakonid", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[14265] = {
+					"Black Drakonid", -- [1]
 					"Blackwing Lair", -- [2]
 				},
 				[15299] = {
@@ -699,33 +759,17 @@ PlaterDB = {
 					"Anubisath Warder", -- [1]
 					"Ahn'Qiraj Temple", -- [2]
 				},
-				[15317] = {
-					"Qiraji Scorpion", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[12259] = {
-					"Gehennas", -- [1]
-					"Molten Core", -- [2]
-				},
 				[15323] = {
 					"Hive'Zara Sandstalker", -- [1]
-					"Ruins of Ahn'Qiraj", -- [2]
-				},
-				[15325] = {
-					"Hive'Zara Wasp", -- [1]
 					"Ruins of Ahn'Qiraj", -- [2]
 				},
 				[15327] = {
 					"Hive'Zara Stinger", -- [1]
 					"Ruins of Ahn'Qiraj", -- [2]
 				},
-				[14821] = {
-					"Razzashi Raptor", -- [1]
-					"Zul'Gurub", -- [2]
-				},
-				[15333] = {
-					"Silicate Feeder", -- [1]
-					"Ruins of Ahn'Qiraj", -- [2]
+				[12265] = {
+					"Lava Spawn", -- [1]
+					"Molten Core", -- [2]
 				},
 				[15335] = {
 					"Flesh Hunter", -- [1]
@@ -733,10 +777,6 @@ PlaterDB = {
 				},
 				[15339] = {
 					"Ossirian the Unscarred", -- [1]
-					"Ruins of Ahn'Qiraj", -- [2]
-				},
-				[15341] = {
-					"General Rajaxx", -- [1]
 					"Ruins of Ahn'Qiraj", -- [2]
 				},
 				[15343] = {
@@ -747,349 +787,205 @@ PlaterDB = {
 					"Anubisath Guardian", -- [1]
 					"Ruins of Ahn'Qiraj", -- [2]
 				},
-				[15622] = {
-					"Vekniss Borer", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[15369] = {
-					"Ayamiss the Hunter", -- [1]
-					"Ruins of Ahn'Qiraj", -- [2]
-				},
-				[12056] = {
-					"Baron Geddon", -- [1]
-					"Molten Core", -- [2]
-				},
-				[15630] = {
-					"Spawn of Fankriss", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[15385] = {
-					"Colonel Zerran", -- [1]
-					"Ruins of Ahn'Qiraj", -- [2]
-				},
 				[15387] = {
 					"Qiraji Warrior", -- [1]
 					"Ruins of Ahn'Qiraj", -- [2]
-				},
-				[15389] = {
-					"Captain Drenn", -- [1]
-					"Ruins of Ahn'Qiraj", -- [2]
-				},
-				[12076] = {
-					"Lava Elemental", -- [1]
-					"Molten Core", -- [2]
-				},
-				[14883] = {
-					"Voodoo Slave", -- [1]
-					"Zul'Gurub", -- [2]
-				},
-				[15146] = {
-					"Mad Voidwalker", -- [1]
-					"Zul'Gurub", -- [2]
-				},
-				[12098] = {
-					"Sulfuron Harbinger", -- [1]
-					"Molten Core", -- [2]
-				},
-				[12100] = {
-					"Lava Reaver", -- [1]
-					"Molten Core", -- [2]
-				},
-				[14401] = {
-					"Master Elemental Shaper Krixix", -- [1]
-					"Blackwing Lair", -- [2]
-				},
-				[15168] = {
-					"Vile Scarab", -- [1]
-					"Ruins of Ahn'Qiraj", -- [2]
-				},
-				[11347] = {
-					"Zealot Lor'Khan", -- [1]
-					"Zul'Gurub", -- [2]
-				},
-				[12118] = {
-					"Lucifron", -- [1]
-					"Molten Core", -- [2]
-				},
-				[14668] = {
-					"Corrupted Infernal", -- [1]
-					"Blackwing Lair", -- [2]
-				},
-				[11357] = {
-					"KongSalomon", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
 				},
 				[15391] = {
 					"Captain Qeez", -- [1]
 					"Ruins of Ahn'Qiraj", -- [2]
 				},
-				[11361] = {
-					"Zulian Tiger", -- [1]
+				[11830] = {
+					"Hakkari Priest", -- [1]
 					"Zul'Gurub", -- [2]
 				},
-				[166359] = {
-					"Zulian Tiger", -- [1]
+				[16506] = {
+					"Naxxramas Worshipper", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[11347] = {
+					"Zealot Lor'Khan", -- [1]
 					"Zul'Gurub", -- [2]
 				},
-				[15324] = {
-					"Qiraji Gladiator", -- [1]
-					"Ruins of Ahn'Qiraj", -- [2]
+				[15954] = {
+					"Noth the Plaguebringer", -- [1]
+					"Naxxramas", -- [2]
 				},
-				[15084] = {
-					"Renataki", -- [1]
-					"Zul'Gurub", -- [2]
-				},
-				[15235] = {
-					"Vekniss Stinger", -- [1]
+				[15962] = {
+					"Vekniss Hatchling", -- [1]
 					"Ahn'Qiraj Temple", -- [2]
 				},
 				[11371] = {
 					"Razzashi Serpent", -- [1]
 					"Zul'Gurub", -- [2]
 				},
-				[14986] = {
-					"Shade of Jin'do", -- [1]
+				[15974] = {
+					"Dread Creeper", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15978] = {
+					"Crypt Reaver", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15990] = {
+					"Kel'Thuzad", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[14988] = {
+					"Ohgan", -- [1]
 					"Zul'Gurub", -- [2]
 				},
-				[11663] = {
-					"Flamewaker Healer", -- [1]
-					"Molten Core", -- [2]
-				},
-				[14825] = {
-					"Withered Mistress", -- [1]
-					"Zul'Gurub", -- [2]
-				},
-				[14601] = {
-					"Ebonroc", -- [1]
-					"Blackwing Lair", -- [2]
-				},
-				[15461] = {
-					"Shrieker Scarab", -- [1]
-					"Ruins of Ahn'Qiraj", -- [2]
-				},
-				[15718] = {
-					"Ouro Scarab", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[15229] = {
-					"Vekniss Soldier", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[12018] = {
-					"Majordomo Executus", -- [1]
-					"Molten Core", -- [2]
-				},
-				[15263] = {
-					"The Prophet Skeram", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[15726] = {
-					"Eye Tentacle", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[14024] = {
-					"Corrupted Blue Whelp", -- [1]
-					"Blackwing Lair", -- [2]
-				},
-				[14023] = {
-					"Corrupted Green Whelp", -- [1]
-					"Blackwing Lair", -- [2]
-				},
-				[14025] = {
-					"Corrupted Bronze Whelp", -- [1]
-					"Blackwing Lair", -- [2]
-				},
-				[11983] = {
-					"Firemaw", -- [1]
-					"Blackwing Lair", -- [2]
-				},
-				[11672] = {
-					"Core Rager", -- [1]
-					"Molten Core", -- [2]
-				},
-				[11658] = {
-					"Molten Giant", -- [1]
-					"Molten Core", -- [2]
-				},
-				[15230] = {
-					"Vekniss Warrior", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[11662] = {
-					"Flamewaker Priest", -- [1]
-					"Molten Core", -- [2]
-				},
-				[11664] = {
-					"Flamewaker Elite", -- [1]
-					"Molten Core", -- [2]
-				},
-				[15236] = {
-					"Vekniss Wasp", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[11668] = {
-					"Firelord", -- [1]
-					"Molten Core", -- [2]
-				},
-				[15240] = {
-					"Vekniss Hive Crawler", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[14987] = {
-					"Powerful Healing Ward", -- [1]
-					"Zul'Gurub", -- [2]
-				},
-				[15555] = {
-					"Hive'Zara Larva", -- [1]
-					"Ruins of Ahn'Qiraj", -- [2]
-				},
-				[15246] = {
-					"Qiraji Mindslayer", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[12265] = {
-					"Lava Spawn", -- [1]
-					"Molten Core", -- [2]
-				},
-				[15505] = {
-					"Canal Frenzy", -- [1]
-					"Ruins of Ahn'Qiraj", -- [2]
-				},
-				[15252] = {
-					"Qiraji Champion", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[15509] = {
-					"Princess Huhuran", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
+				[16018] = {
+					"Bile Retcher", -- [1]
+					"Naxxramas", -- [2]
 				},
 				[15511] = {
 					"Lord Kri", -- [1]
 					"Ahn'Qiraj Temple", -- [2]
 				},
-				[14456] = {
-					"Blackwing Guardsman", -- [1]
+				[16698] = {
+					"Corpse Scarab", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[12457] = {
+					"Blackwing Spellbinder", -- [1]
 					"Blackwing Lair", -- [2]
-				},
-				[15521] = {
-					"Hive'Zara Hatchling", -- [1]
-					"Ruins of Ahn'Qiraj", -- [2]
-				},
-				[15262] = {
-					"Obsidian Eradicator", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[15264] = {
-					"Anubisath Sentinel", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
 				},
 				[12461] = {
 					"Death Talon Overseer", -- [1]
-					"Blackwing Lair", -- [2]
-				},
-				[12463] = {
-					"Death Talon Flamescale", -- [1]
-					"Blackwing Lair", -- [2]
-				},
-				[12465] = {
-					"Death Talon Wyrmkin", -- [1]
-					"Blackwing Lair", -- [2]
-				},
-				[12467] = {
-					"Death Talon Captain", -- [1]
 					"Blackwing Lair", -- [2]
 				},
 				[14509] = {
 					"High Priest Thekal", -- [1]
 					"Zul'Gurub", -- [2]
 				},
-				[15276] = {
-					"Emperor Vek'lor", -- [1]
+				[15543] = {
+					"Princess Yauj", -- [1]
 					"Ahn'Qiraj Temple", -- [2]
+				},
+				[16062] = {
+					"Highlord Mograine", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15555] = {
+					"Hive'Zara Larva", -- [1]
+					"Ruins of Ahn'Qiraj", -- [2]
 				},
 				[15068] = {
 					"Zulian Guardian", -- [1]
 					"Zul'Gurub", -- [2]
 				},
-				[15537] = {
-					"Anubisath Warrior", -- [1]
+				[15084] = {
+					"Renataki", -- [1]
+					"Zul'Gurub", -- [2]
+				},
+				[16126] = {
+					"Unrelenting Rider", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[14601] = {
+					"Ebonroc", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[14605] = {
+					"Bone Construct", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[16142] = {
+					"Bile Sludge", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16146] = {
+					"Deathknight", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16150] = {
+					"Spectral Rider", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16154] = {
+					"Risen Deathknight", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16158] = {
+					"Death Touched Warrior", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16451] = {
+					"Deathknight Vindicator", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15667] = {
+					"Glob of Viscidus", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[12098] = {
+					"Sulfuron Harbinger", -- [1]
+					"Molten Core", -- [2]
+				},
+				[15168] = {
+					"Vile Scarab", -- [1]
+					"Ruins of Ahn'Qiraj", -- [2]
+				},
+				[16194] = {
+					"Unholy Axe", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[9044] = {
+					"Scarshield Sentry", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[12118] = {
+					"Lucifron", -- [1]
+					"Molten Core", -- [2]
+				},
+				[15236] = {
+					"Vekniss Wasp", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[15240] = {
+					"Vekniss Hive Crawler", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[11667] = {
+					"Flameguard", -- [1]
+					"Molten Core", -- [2]
+				},
+				[11671] = {
+					"Core Hound", -- [1]
+					"Molten Core", -- [2]
+				},
+				[15252] = {
+					"Qiraji Champion", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[15264] = {
+					"Anubisath Sentinel", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[16290] = {
+					"Fallout Slime", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15276] = {
+					"Emperor Vek'lor", -- [1]
 					"Ahn'Qiraj Temple", -- [2]
 				},
 				[14262] = {
 					"Green Drakonid", -- [1]
 					"Blackwing Lair", -- [2]
 				},
-				[10184] = {
-					"Onyxia", -- [1]
-					"Onyxia's Lair", -- [2]
-				},
-				[14605] = {
-					"Bone Construct", -- [1]
-					"Blackwing Lair", -- [2]
-				},
-				[15543] = {
-					"Princess Yauj", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[12459] = {
-					"Blackwing Warlock", -- [1]
-					"Blackwing Lair", -- [2]
-				},
-				[12457] = {
-					"Blackwing Spellbinder", -- [1]
-					"Blackwing Lair", -- [2]
-				},
-				[15250] = {
-					"Qiraji Slayer", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[11981] = {
-					"Flamegor", -- [1]
-					"Blackwing Lair", -- [2]
-				},
-				[15043] = {
-					"Zulian Crocolisk", -- [1]
-					"Zul'Gurub", -- [2]
-				},
 				[15300] = {
 					"Vekniss Drone", -- [1]
 					"Ahn'Qiraj Temple", -- [2]
-				},
-				[12435] = {
-					"Razorgore the Untamed", -- [1]
-					"Blackwing Lair", -- [2]
-				},
-				[11666] = {
-					"Firewalker", -- [1]
-					"Molten Core", -- [2]
-				},
-				[9696] = {
-					"Lildarkiee", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[2850] = {
-					"Kahlúa", -- [1]
-					"Ahn'Qiraj Temple", -- [2]
-				},
-				[11372] = {
-					"Razzashi Adder", -- [1]
-					"Zul'Gurub", -- [2]
 				},
 				[15312] = {
 					"Obsidian Nullifier", -- [1]
 					"Ahn'Qiraj Temple", -- [2]
 				},
-				[14882] = {
-					"Atal'ai Mistress", -- [1]
-					"Zul'Gurub", -- [2]
-				},
 				[15316] = {
 					"Qiraji Scarab", -- [1]
 					"Ahn'Qiraj Temple", -- [2]
-				},
-				[15111] = {
-					"Mad Servant", -- [1]
-					"Zul'Gurub", -- [2]
 				},
 				[15320] = {
 					"Hive'Zara Soldier", -- [1]
@@ -1099,21 +995,573 @@ PlaterDB = {
 					"Chromatic Drakonid", -- [1]
 					"Blackwing Lair", -- [2]
 				},
-				[12264] = {
-					"Shazzrah", -- [1]
+				[14821] = {
+					"Razzashi Raptor", -- [1]
+					"Zul'Gurub", -- [2]
+				},
+				[14825] = {
+					"Withered Mistress", -- [1]
+					"Zul'Gurub", -- [2]
+				},
+				[15340] = {
+					"Moam", -- [1]
+					"Ruins of Ahn'Qiraj", -- [2]
+				},
+				[15344] = {
+					"Swarmguard Needler", -- [1]
+					"Ruins of Ahn'Qiraj", -- [2]
+				},
+				[15348] = {
+					"Kurinnaxx", -- [1]
+					"Ruins of Ahn'Qiraj", -- [2]
+				},
+				[16428] = {
+					"Unstoppable Abomination", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15388] = {
+					"Major Pakkon", -- [1]
+					"Ruins of Ahn'Qiraj", -- [2]
+				},
+				[15392] = {
+					"Captain Tuubid", -- [1]
+					"Ruins of Ahn'Qiraj", -- [2]
+				},
+				[16452] = {
+					"Necro Knight Guardian", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15931] = {
+					"Grobbulus", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[11340] = {
+					"Hakkari Blood Priest", -- [1]
+					"Zul'Gurub", -- [2]
+				},
+				[11348] = {
+					"Zealot Zath", -- [1]
+					"Zul'Gurub", -- [2]
+				},
+				[11352] = {
+					"Gurubashi Berserker", -- [1]
+					"Zul'Gurub", -- [2]
+				},
+				[11356] = {
+					"Gurubashi Champion", -- [1]
+					"Zul'Gurub", -- [2]
+				},
+				[11360] = {
+					"Zulian Cub", -- [1]
+					"Zul'Gurub", -- [2]
+				},
+				[2850] = {
+					"Kahlúa", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[11372] = {
+					"Razzashi Adder", -- [1]
+					"Zul'Gurub", -- [2]
+				},
+				[15975] = {
+					"Carrion Spinner", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15979] = {
+					"Tomb Horror", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[12422] = {
+					"Death Talon Dragonspawn", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[16011] = {
+					"Loatheb", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15516] = {
+					"Battleguard Sartura", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[12458] = {
+					"Blackwing Taskmaster", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[15544] = {
+					"Vem", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[9416] = {
+					"Scarshield Worg", -- [1]
+					"Blackrock Spire", -- [2]
+				},
+				[16063] = {
+					"Sir Zeliek", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16067] = {
+					"Skeletal Steed", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[11983] = {
+					"Firemaw", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[176525] = {
+					"The Prophet Skeram", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[16127] = {
+					"Spectral Trainee", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16429] = {
+					"Soul Weaver", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16453] = {
+					"Necro Stalker", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16167] = {
+					"Bony Construct", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[12099] = {
+					"Firesworn", -- [1]
 					"Molten Core", -- [2]
+				},
+				[9045] = {
+					"Scarshield Acolyte", -- [1]
+					"Blackrock Spire", -- [2]
+				},
+				[12119] = {
+					"Flamewaker Protector", -- [1]
+					"Molten Core", -- [2]
+				},
+				[16215] = {
+					"Unholy Staff", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16573] = {
+					"Crypt Guard", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16243] = {
+					"Plague Slime", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16286] = {
+					"Spore", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[9097] = {
+					"Scarshield Legionnaire", -- [1]
+					"Blackrock Spire", -- [2]
+				},
+				[15233] = {
+					"Vekniss Guardian", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[16360] = {
+					"Zombie Chow", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[11664] = {
+					"Flamewaker Elite", -- [1]
+					"Molten Core", -- [2]
+				},
+				[11668] = {
+					"Firelord", -- [1]
+					"Molten Core", -- [2]
+				},
+				[11672] = {
+					"Core Rager", -- [1]
+					"Molten Core", -- [2]
+				},
+				[11374] = {
+					"Hooktooth Frenzy", -- [1]
+					"Zul'Gurub", -- [2]
+				},
+				[16065] = {
+					"Lady Blaumeux", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15324] = {
+					"Qiraji Gladiator", -- [1]
+					"Ruins of Ahn'Qiraj", -- [2]
+				},
+				[12465] = {
+					"Death Talon Wyrmkin", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[12101] = {
+					"Lava Surger", -- [1]
+					"Molten Core", -- [2]
+				},
+				[12557] = {
+					"Grethok the Controller", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[15277] = {
+					"Anubisath Defender", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[16803] = {
+					"Deathknight Understudy", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[14263] = {
+					"Bronze Drakonid", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[15111] = {
+					"Mad Servant", -- [1]
+					"Zul'Gurub", -- [2]
+				},
+				[12057] = {
+					"Garr", -- [1]
+					"Molten Core", -- [2]
+				},
+				[166359] = {
+					"Zulian Tiger", -- [1]
+					"Zul'Gurub", -- [2]
+				},
+				[14101] = {
+					"Enraged Felguard", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[9258] = {
+					"Scarshield Raider", -- [1]
+					"Blackrock Spire", -- [2]
+				},
+				[9262] = {
+					"Firebrand Invoker", -- [1]
+					"Blackrock Spire", -- [2]
+				},
+				[15229] = {
+					"Vekniss Soldier", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[9696] = {
+					"Lildarkiee", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[11663] = {
+					"Flamewaker Healer", -- [1]
+					"Molten Core", -- [2]
+				},
+				[15325] = {
+					"Hive'Zara Wasp", -- [1]
+					"Ruins of Ahn'Qiraj", -- [2]
+				},
+				[16163] = {
+					"Deathknight Cavalier", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15333] = {
+					"Silicate Feeder", -- [1]
+					"Ruins of Ahn'Qiraj", -- [2]
+				},
+				[15934] = {
+					"Hive'Zara Hornet", -- [1]
+					"Ruins of Ahn'Qiraj", -- [2]
+				},
+				[15341] = {
+					"General Rajaxx", -- [1]
+					"Ruins of Ahn'Qiraj", -- [2]
+				},
+				[16861] = {
+					"Death Lord", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[12259] = {
+					"Gehennas", -- [1]
+					"Molten Core", -- [2]
+				},
+				[16375] = {
+					"Sewage Slime", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[14020] = {
+					"Chromaggus", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[16034] = {
+					"Plague Beast", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16390] = {
+					"Deathchill Servant", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15369] = {
+					"Ayamiss the Hunter", -- [1]
+					"Ruins of Ahn'Qiraj", -- [2]
+				},
+				[15317] = {
+					"Qiraji Scorpion", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[14882] = {
+					"Atal'ai Mistress", -- [1]
+					"Zul'Gurub", -- [2]
+				},
+				[16446] = {
+					"Plagued Gargoyle", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15385] = {
+					"Colonel Zerran", -- [1]
+					"Ruins of Ahn'Qiraj", -- [2]
+				},
+				[9257] = {
+					"Scarshield Warlock", -- [1]
+					"Blackrock Spire", -- [2]
+				},
+				[9261] = {
+					"Firebrand Darkweaver", -- [1]
+					"Blackrock Spire", -- [2]
+				},
+				[15510] = {
+					"Fankriss the Unyielding", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[13996] = {
+					"Blackwing Technician", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[16036] = {
+					"Frenzied Bat", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[11380] = {
+					"Jin'do the Hexxer", -- [1]
+					"Zul'Gurub", -- [2]
+				},
+				[16486] = {
+					"Web Wrap", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15928] = {
+					"Thaddius", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15932] = {
+					"Gluth", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15936] = {
+					"Heigan the Unclean", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16022] = {
+					"Surgical Assistant", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[17055] = {
+					"Maexxna Spiderling", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16020] = {
+					"Mad Scientist", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15952] = {
+					"Maexxna", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15956] = {
+					"Anub'Rekhan", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[11361] = {
+					"Zulian Tiger", -- [1]
+					"Zul'Gurub", -- [2]
 				},
 				[11353] = {
 					"Gurubashi Blood Drinker", -- [1]
 					"Zul'Gurub", -- [2]
 				},
-				[14988] = {
-					"Ohgan", -- [1]
+				[11357] = {
+					"KongSalomon", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[15461] = {
+					"Shrieker Scarab", -- [1]
+					"Ruins of Ahn'Qiraj", -- [2]
+				},
+				[15976] = {
+					"Venom Stalker", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15980] = {
+					"Naxxramas Cultist", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15984] = {
+					"Sartura's Royal Guard", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[15249] = {
+					"Qiraji Lasher", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[12460] = {
+					"Death Talon Wyrmguard", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[10375] = {
+					"Spire Spiderling", -- [1]
+					"Blackrock Spire", -- [2]
+				},
+				[15275] = {
+					"Emperor Vek'nilash", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[11659] = {
+					"Molten Destroyer", -- [1]
+					"Molten Core", -- [2]
+				},
+				[14986] = {
+					"Shade of Jin'do", -- [1]
 					"Zul'Gurub", -- [2]
 				},
-				[11382] = {
-					"Bloodlord Mandokir", -- [1]
+				[12435] = {
+					"Razorgore the Untamed", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[15505] = {
+					"Canal Frenzy", -- [1]
+					"Ruins of Ahn'Qiraj", -- [2]
+				},
+				[15509] = {
+					"Princess Huhuran", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[16024] = {
+					"Embalming Slime", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[11669] = {
+					"Flame Imp", -- [1]
+					"Molten Core", -- [2]
+				},
+				[15521] = {
+					"Hive'Zara Hatchling", -- [1]
+					"Ruins of Ahn'Qiraj", -- [2]
+				},
+				[12459] = {
+					"Blackwing Warlock", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[12463] = {
+					"Death Talon Flamescale", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[12467] = {
+					"Death Talon Captain", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[15537] = {
+					"Anubisath Warrior", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[15389] = {
+					"Captain Drenn", -- [1]
+					"Ruins of Ahn'Qiraj", -- [2]
+				},
+				[16056] = {
+					"Diseased Maggot", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16060] = {
+					"Gothik the Harvester", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16064] = {
+					"Thane Korth'azz", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[14024] = {
+					"Corrupted Blue Whelp", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[9098] = {
+					"Scarshield Spellbinder", -- [1]
+					"Blackrock Spire", -- [2]
+				},
+				[9259] = {
+					"Firebrand Grunt", -- [1]
+					"Blackrock Spire", -- [2]
+				},
+				[16164] = {
+					"Shade of Naxxramas", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[15146] = {
+					"Mad Voidwalker", -- [1]
 					"Zul'Gurub", -- [2]
+				},
+				[14023] = {
+					"Corrupted Green Whelp", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[14401] = {
+					"Master Elemental Shaper Krixix", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[15981] = {
+					"Naxxramas Acolyte", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[12018] = {
+					"Majordomo Executus", -- [1]
+					"Molten Core", -- [2]
+				},
+				[16236] = {
+					"Eye Stalk", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[14025] = {
+					"Corrupted Bronze Whelp", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[11658] = {
+					"Molten Giant", -- [1]
+					"Molten Core", -- [2]
+				},
+				[15250] = {
+					"Qiraji Slayer", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[16025] = {
+					"Stitched Spewer", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16124] = {
+					"Unrelenting Trainee", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[14022] = {
+					"Corrupted Red Whelp", -- [1]
+					"Blackwing Lair", -- [2]
+				},
+				[15621] = {
+					"Yauj Brood", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
+				},
+				[16427] = {
+					"Soldier of the Frozen Wastes", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[16441] = {
+					"Guardian of Icecrown", -- [1]
+					"Naxxramas", -- [2]
+				},
+				[11368] = {
+					"Vlad", -- [1]
+					"Ahn'Qiraj Temple", -- [2]
 				},
 			},
 			["hook_data"] = {
@@ -1716,172 +2164,15 @@ PlaterDB = {
 					["version"] = -1,
 				}, -- [14]
 				{
-					["Enabled"] = false,
-					["Revision"] = 250,
-					["Options"] = {
-						{
-							["Type"] = 5,
-							["Key"] = "option4",
-							["Value"] = "Icon Settings:",
-							["Name"] = "Icon Settings",
-							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_label",
-							["Desc"] = "",
-						}, -- [1]
-						{
-							["Type"] = 4,
-							["Key"] = "showIcon",
-							["Value"] = true,
-							["Name"] = "Show Icon",
-							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_bool",
-							["Desc"] = "Show the castbar icon when enabled",
-						}, -- [2]
-						{
-							["Type"] = 4,
-							["Key"] = "iconOnLeftSide",
-							["Value"] = true,
-							["Name"] = "Icon on Left Side",
-							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_bool",
-							["Desc"] = "If enabled it anchor the icon on the left side, right otherwise",
-						}, -- [3]
-						{
-							["Type"] = 4,
-							["Name"] = "Use Big Icon",
-							["Value"] = false,
-							["Key"] = "useFullSize",
-							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_bool",
-							["Desc"] = "If enabled the icon has the size of the cast bar plus the healthbar",
-						}, -- [4]
-						{
-							["Type"] = 2,
-							["Max"] = 5,
-							["Desc"] = "Fine tune the icon size",
-							["Min"] = 0,
-							["Name"] = "Icon Size Offset",
-							["Value"] = 0,
-							["Fraction"] = true,
-							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_number",
-							["Key"] = "iconSizeOffset",
-						}, -- [5]
-						{
-							["Type"] = 2,
-							["Max"] = 5,
-							["Desc"] = "Space between the icon and the cast bar",
-							["Min"] = -5,
-							["Key"] = "iconPadding",
-							["Value"] = 0,
-							["Name"] = "Icon Padding",
-							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_number",
-							["Fraction"] = false,
-						}, -- [6]
-						{
-							["Type"] = 6,
-							["Key"] = "option6",
-							["Value"] = 0,
-							["Name"] = "Blank Space",
-							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_blank",
-							["Desc"] = "",
-						}, -- [7]
-						{
-							["Type"] = 5,
-							["Key"] = "option5",
-							["Value"] = "Can't Interrupt Texture:",
-							["Name"] = "Interrupt Texture",
-							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_label",
-							["Desc"] = "",
-						}, -- [8]
-						{
-							["Type"] = 4,
-							["Key"] = "showTexture",
-							["Value"] = true,
-							["Name"] = "Show Texture",
-							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_bool",
-							["Desc"] = "If enabled show a texture to tell the cast can't be interrupted",
-						}, -- [9]
-						{
-							["Type"] = 3,
-							["Key"] = "iconTexturePath",
-							["Value"] = "Interface\\\\GROUPFRAME\\\\UI-GROUP-MAINTANKICON",
-							["Name"] = "Texture Path",
-							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_text",
-							["Desc"] = "Insert the path for the texture",
-						}, -- [10]
-						{
-							["Type"] = 4,
-							["Key"] = "desaturatedTexture",
-							["Value"] = true,
-							["Name"] = "Texture Desaturated",
-							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_bool",
-							["Desc"] = "If enbaled, texture is shown in black & white",
-						}, -- [11]
-						{
-							["Type"] = 1,
-							["Key"] = "textureColor",
-							["Value"] = {
-								1, -- [1]
-								1, -- [2]
-								1, -- [3]
-								0.305671572685242, -- [4]
-							},
-							["Name"] = "Texture Color",
-							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_color",
-							["Desc"] = "Select the color of the texture",
-						}, -- [12]
-						{
-							["Type"] = 2,
-							["Max"] = 32,
-							["Desc"] = "Adjust the texture width",
-							["Min"] = 1,
-							["Name"] = "Texture Width",
-							["Value"] = 10,
-							["Fraction"] = false,
-							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_number",
-							["Key"] = "textureWidth",
-						}, -- [13]
-						{
-							["Type"] = 2,
-							["Max"] = 32,
-							["Desc"] = "Adjust the texture height",
-							["Min"] = 1,
-							["Key"] = "textureHeight",
-							["Value"] = 12,
-							["Name"] = "Texture Height",
-							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_number",
-							["Fraction"] = false,
-						}, -- [14]
-						{
-							["Type"] = 2,
-							["Max"] = 32,
-							["Desc"] = "Adjust the texture position",
-							["Min"] = -32,
-							["Name"] = "Texture Position",
-							["Value"] = 0,
-							["Fraction"] = false,
-							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_number",
-							["Key"] = "texturePosition",
-						}, -- [15]
-						{
-							["Type"] = 2,
-							["Max"] = 1,
-							["Desc"] = "Adjust the texture transparency",
-							["Min"] = 0,
-							["Fraction"] = true,
-							["Value"] = 1,
-							["Key"] = "textureAlpha",
-							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_number",
-							["Name"] = "Texture Alpha",
-						}, -- [16]
+					["OptionsValues"] = {
 					},
-					["HooksTemp"] = {
-					},
-					["semver"] = "",
-					["Author"] = "Ditador-Azralon",
-					["version"] = -1,
-					["Desc"] = "Move the icon of the spell cast to the left or right side of the nameplate.",
+					["LastHookEdited"] = "",
 					["Hooks"] = {
-						["Cast Update"] = "function (self, unitId, unitFrame, envTable)\n    \n    envTable.UpdateIconPosition (unitFrame)\n    self.ThrottleUpdate = -1\n    \nend\n\n\n",
 						["Cast Start"] = "function (self, unitId, unitFrame, envTable)\n    \n    unitFrame.castBar.BorderShield:SetDrawLayer(\"artwork\")\n    envTable.UpdateIconPosition (unitFrame)\n    \nend\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-						["Constructor"] = "function (self, unitId, unitFrame, envTable, modTable)\n    \n    --private:\n    function envTable.UpdateIconPosition (unitFrame)\n        local castBar = unitFrame.castBar\n        local icon = castBar.Icon\n        local noInterruptTexture = castBar.BorderShield\n        \n        if (modTable.config.showIcon) then\n            icon:ClearAllPoints()\n            \n            if (modTable.config.iconOnLeftSide) then\n                if (modTable.config.useFullSize) then\n                    icon:SetPoint (\"topright\", unitFrame.healthBar, \"topleft\", -1, modTable.config.iconSizeOffset)\n                    icon:SetPoint (\"bottomright\", unitFrame.castBar, \"bottomleft\", -modTable.config.iconPadding, 0)\n                else\n                    icon:SetPoint (\"topright\", unitFrame.castBar, \"topleft\", -1, modTable.config.iconSizeOffset)\n                    icon:SetPoint (\"bottomright\", unitFrame.castBar, \"bottomleft\", -modTable.config.iconPadding, 0)\n                end\n            else\n                if (modTable.config.useFullSize) then\n                    icon:SetPoint (\"topleft\", unitFrame.healthBar, \"topright\", 1, modTable.config.iconSizeOffset)\n                    icon:SetPoint (\"bottomleft\", unitFrame.castBar, \"bottomright\", modTable.config.iconPadding, 0)\n                else\n                    icon:SetPoint (\"topleft\", unitFrame.castBar, \"topright\", 1, modTable.config.iconSizeOffset)\n                    icon:SetPoint (\"bottomleft\", unitFrame.castBar, \"bottomright\", modTable.config.iconPadding, 0)\n                end\n            end\n            \n            icon:SetWidth (icon:GetHeight())\n            icon:Show()\n        else\n            icon:Hide()\n        end\n        \n        if (modTable.config.showTexture and not castBar.canInterrupt) then\n            noInterruptTexture:Show()\n            noInterruptTexture:SetTexture (modTable.config.iconTexturePath)\n            noInterruptTexture:SetTexCoord (0, 1, 0, 1)\n            noInterruptTexture:SetVertexColor (1, 1, 1, 1)            \n            \n            if (modTable.config.desaturatedTexture) then\n                noInterruptTexture:SetDesaturated (modTable.config.desaturatedTexture)\n            else\n                noInterruptTexture:SetVertexColor (DetailsFramework:ParseColors (modTable.config.textureColor))\n            end\n            \n            noInterruptTexture:SetSize (modTable.config.textureWidth, modTable.config.textureHeight)\n            noInterruptTexture:ClearAllPoints()\n            noInterruptTexture:SetPoint (\"center\", castBar, \"left\", modTable.config.texturePosition, 0)\n            noInterruptTexture:SetAlpha (modTable.config.textureAlpha)\n        else\n            noInterruptTexture:Hide()\n        end\n    end\nend",
+						["Cast Update"] = "function (self, unitId, unitFrame, envTable)\n    \n    envTable.UpdateIconPosition (unitFrame)\n    self.ThrottleUpdate = -1\n    \nend\n\n\n",
+						["Constructor"] = "function (self, unitId, unitFrame, envTable, modTable)\n    \n    --private:\n    function envTable.UpdateIconPosition (unitFrame)\n        local castBar = unitFrame.castBar\n        local icon = castBar.Icon\n        local noInterruptTexture = castBar.BorderShield\n        \n        if (modTable.config.showIcon) then\n            icon:ClearAllPoints()\n            \n            if (modTable.config.iconOnLeftSide) then\n                if (modTable.config.useFullSize) then\n                    icon:SetPoint (\"topright\", unitFrame.healthBar, \"topleft\", modTable.config.iconPadding, modTable.config.iconSizeOffset)\n                    icon:SetPoint (\"bottomright\", unitFrame.castBar, \"bottomleft\", modTable.config.iconPadding, -modTable.config.iconSizeOffset)\n                    \n                else\n                    \n                    icon:SetPoint (\"topright\", unitFrame.castBar, \"topleft\", modTable.config.iconPadding, modTable.config.iconSizeOffset)\n                    icon:SetPoint (\"bottomright\", unitFrame.castBar, \"bottomleft\", modTable.config.iconPadding, -modTable.config.iconSizeOffset)\n                end\n                \n            else\n                if (modTable.config.useFullSize) then\n                    icon:SetPoint (\"topleft\", unitFrame.healthBar, \"topright\", modTable.config.iconPadding, modTable.config.iconSizeOffset)\n                    icon:SetPoint (\"bottomleft\", unitFrame.castBar, \"bottomright\", modTable.config.iconPadding, -modTable.config.iconSizeOffset)\n                    \n                else\n                    \n                    icon:SetPoint (\"topleft\", unitFrame.castBar, \"topright\", modTable.config.iconPadding, modTable.config.iconSizeOffset)\n                    icon:SetPoint (\"bottomleft\", unitFrame.castBar, \"bottomright\", modTable.config.iconPadding, -modTable.config.iconSizeOffset)\n                end\n            end\n            \n            icon:SetWidth (icon:GetHeight())\n            icon:Show()\n        else\n            icon:Hide()\n        end\n        \n        if (modTable.config.showTexture and not castBar.canInterrupt) then\n            noInterruptTexture:Show()\n            \n            local texturePath = modTable.config.iconTexturePath\n            texturePath = texturePath:gsub(\"//\", \"/\")\n            texturePath = texturePath:gsub(\"\\\\\", \"/\")\n            \n            noInterruptTexture:SetTexture (texturePath)\n            noInterruptTexture:SetTexCoord (0, 1, 0, 1)\n            \n            if (modTable.config.desaturatedTexture) then\n                noInterruptTexture:SetDesaturated (modTable.config.desaturatedTexture)\n            else\n                noInterruptTexture:SetVertexColor (DetailsFramework:ParseColors (modTable.config.textureColor))\n            end\n            \n            noInterruptTexture:SetSize (modTable.config.textureWidth, castBar:GetHeight() + modTable.config.textureHeightMod)\n            noInterruptTexture:ClearAllPoints()\n            noInterruptTexture:SetPoint (\"center\", castBar, \"left\", modTable.config.texturePosition, 0)\n            noInterruptTexture:SetAlpha (modTable.config.textureAlpha)\n        else\n            noInterruptTexture:Hide()\n        end\n    end\nend",
 					},
+					["Time"] = 1597097268,
 					["LoadConditions"] = {
 						["talent"] = {
 						},
@@ -1891,11 +2182,11 @@ PlaterDB = {
 						},
 						["map_ids"] = {
 						},
-						["race"] = {
+						["role"] = {
 						},
 						["pvptalent"] = {
 						},
-						["role"] = {
+						["race"] = {
 						},
 						["affix"] = {
 						},
@@ -1904,12 +2195,171 @@ PlaterDB = {
 						["spec"] = {
 						},
 					},
-					["Time"] = 1596670932,
-					["PlaterCore"] = 1,
-					["LastHookEdited"] = "",
 					["url"] = "",
 					["Icon"] = "Interface\\AddOns\\Plater\\images\\castbar_icon",
+					["Enabled"] = false,
+					["Revision"] = 348,
+					["semver"] = "",
+					["Author"] = "Ditador-Azralon",
+					["Desc"] = "Move the icon of the spell cast to the left or right side of the nameplate.",
 					["Name"] = "Cast Bar Icon Settings [P]",
+					["PlaterCore"] = 1,
+					["version"] = -1,
+					["HooksTemp"] = {
+					},
+					["Options"] = {
+						{
+							["Type"] = 5,
+							["Name"] = "Icon Settings",
+							["Value"] = "Icon Settings:",
+							["Key"] = "option4",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_label",
+							["Desc"] = "",
+						}, -- [1]
+						{
+							["Type"] = 4,
+							["Name"] = "Show Icon",
+							["Value"] = true,
+							["Key"] = "showIcon",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_bool",
+							["Desc"] = "Show the castbar icon when enabled",
+						}, -- [2]
+						{
+							["Type"] = 4,
+							["Name"] = "Icon on Left Side",
+							["Value"] = true,
+							["Key"] = "iconOnLeftSide",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_bool",
+							["Desc"] = "If enabled it anchor the icon on the left side, right otherwise",
+						}, -- [3]
+						{
+							["Type"] = 4,
+							["Key"] = "useFullSize",
+							["Value"] = false,
+							["Name"] = "Use Big Icon",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_bool",
+							["Desc"] = "If enabled the icon has the size of the cast bar plus the healthbar",
+						}, -- [4]
+						{
+							["Type"] = 2,
+							["Max"] = 5,
+							["Desc"] = "Fine tune the icon size",
+							["Min"] = 0,
+							["Fraction"] = true,
+							["Value"] = 0,
+							["Name"] = "Icon Size Offset",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_number",
+							["Key"] = "iconSizeOffset",
+						}, -- [5]
+						{
+							["Type"] = 2,
+							["Max"] = 5,
+							["Desc"] = "Space between the icon and the cast bar",
+							["Min"] = -5,
+							["Name"] = "Icon Padding",
+							["Value"] = 0,
+							["Key"] = "iconPadding",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_number",
+							["Fraction"] = false,
+						}, -- [6]
+						{
+							["Type"] = 6,
+							["Name"] = "Blank Space",
+							["Value"] = 0,
+							["Key"] = "option6",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_blank",
+							["Desc"] = "",
+						}, -- [7]
+						{
+							["Type"] = 5,
+							["Name"] = "Interrupt Texture",
+							["Value"] = "Can't Interrupt Texture:",
+							["Key"] = "option5",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_label",
+							["Desc"] = "",
+						}, -- [8]
+						{
+							["Type"] = 4,
+							["Name"] = "Show Texture",
+							["Value"] = true,
+							["Key"] = "showTexture",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_bool",
+							["Desc"] = "If enabled show a texture to tell the cast can't be interrupted",
+						}, -- [9]
+						{
+							["Type"] = 3,
+							["Name"] = "Texture Path",
+							["Value"] = "Interface\\GROUPFRAME\\UI-GROUP-MAINTANKICON",
+							["Key"] = "iconTexturePath",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_text",
+							["Desc"] = "Insert the path for the texture",
+						}, -- [10]
+						{
+							["Type"] = 4,
+							["Name"] = "Texture Desaturated",
+							["Value"] = true,
+							["Key"] = "desaturatedTexture",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_bool",
+							["Desc"] = "If enbaled, texture is shown in black & white",
+						}, -- [11]
+						{
+							["Type"] = 1,
+							["Name"] = "Texture Color",
+							["Value"] = {
+								1, -- [1]
+								1, -- [2]
+								1, -- [3]
+								0.305671572685242, -- [4]
+							},
+							["Key"] = "textureColor",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_color",
+							["Desc"] = "Select the color of the texture",
+						}, -- [12]
+						{
+							["Type"] = 2,
+							["Max"] = 32,
+							["Desc"] = "Adjust the texture width",
+							["Min"] = 1,
+							["Fraction"] = false,
+							["Value"] = 10,
+							["Name"] = "Texture Width",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_number",
+							["Key"] = "textureWidth",
+						}, -- [13]
+						{
+							["Type"] = 2,
+							["Max"] = 16,
+							["Desc"] = "The texture is set to be the same size as the cast bar, fine tune the height as wanted",
+							["Min"] = -16,
+							["Name"] = "Texture Height Mod",
+							["Value"] = 0,
+							["Key"] = "textureHeightMod",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_number",
+							["Fraction"] = true,
+						}, -- [14]
+						{
+							["Type"] = 2,
+							["Max"] = 32,
+							["Desc"] = "Adjust the texture position",
+							["Min"] = -32,
+							["Fraction"] = false,
+							["Value"] = 0,
+							["Name"] = "Texture Position",
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_number",
+							["Key"] = "texturePosition",
+						}, -- [15]
+						{
+							["Type"] = 2,
+							["Max"] = 1,
+							["Desc"] = "Adjust the texture transparency",
+							["Min"] = 0,
+							["Key"] = "textureAlpha",
+							["Value"] = 1,
+							["Fraction"] = true,
+							["Icon"] = "Interface\\AddOns\\Plater\\images\\option_number",
+							["Name"] = "Texture Alpha",
+						}, -- [16]
+					},
 				}, -- [15]
 			},
 			["script_auto_imported"] = {
@@ -1920,8 +2370,8 @@ PlaterDB = {
 				["Aura Border Color"] = 1,
 				["Cast - Very Important"] = 2,
 				["Explosion Affix M+"] = 3,
-				["Unit Power"] = 1,
 				["Aura - Debuff Alert"] = 3,
+				["Unit Power"] = 1,
 				["Cast - Frontal Cone"] = 2,
 				["Fixate"] = 3,
 				["Aura - Blink Time Left"] = 1,
@@ -1938,6 +2388,15 @@ PlaterDB = {
 			["aura_tracker"] = {
 				["buff_tracked"] = {
 					[209859] = true,
+				},
+			},
+			["captured_spells"] = {
+				[0] = {
+					["type"] = "BUFF",
+					["source"] = "Xguard",
+					["npcID"] = 0,
+					["event"] = "SPELL_AURA_APPLIED",
+					["encounterID"] = 1114,
 				},
 			},
 			["aura2_x_offset"] = 0,
@@ -1958,20 +2417,20 @@ PlaterDB = {
 				["nameplateSelfTopInset"] = ".5",
 				["nameplateMotion"] = "1",
 				["nameplateGlobalScale"] = "1",
-				["nameplateMinScale"] = "1",
+				["nameplateShowAll"] = "1",
 				["nameplateMaxDistance"] = "20",
-				["nameplateShowFriendlyMinions"] = "0",
+				["nameplateOtherTopInset"] = "0.085",
 				["nameplateSelfScale"] = "1",
 				["nameplateSelfBottomInset"] = ".2",
 				["nameplateOccludedAlphaMult"] = "1",
 				["nameplateShowFriendlyGuardians"] = "0",
 				["nameplateSelfAlpha"] = "1",
 				["NamePlateHorizontalScale"] = "1",
-				["nameplateOtherTopInset"] = "0.085",
-				["nameplateShowAll"] = "1",
+				["nameplateShowFriendlyMinions"] = "0",
+				["nameplateMinScale"] = "1",
 				["NamePlateVerticalScale"] = "1",
 			},
-			["login_counter"] = 2402,
+			["login_counter"] = 3339,
 			["patch_version"] = 12,
 			["number_region_first_run"] = true,
 			["OptionsPanelDB"] = {
@@ -1980,30 +2439,22 @@ PlaterDB = {
 				},
 			},
 			["hook_auto_imported"] = {
-				["Targetting Alpha"] = 3,
 				["Reorder Nameplate"] = 4,
+				["Targetting Alpha"] = 3,
 				["Dont Have Aura"] = 1,
 				["Players Targetting Amount"] = 4,
 				["Color Automation"] = 1,
 				["Bwonsamdi Reaping"] = 1,
 				["Attacking Specific Unit"] = 1,
-				["Blockade Encounter"] = 1,
+				["Jaina Encounter"] = 6,
 				["Aura Reorder"] = 2,
-				["Cast Bar Icon Config"] = 1,
+				["Cast Bar Icon Config"] = 2,
 				["Extra Border"] = 3,
 				["Combo Points"] = 3,
 				["Hide Neutral Units"] = 1,
 				["Target Color"] = 3,
 				["Execute Range"] = 1,
-				["Jaina Encounter"] = 6,
-			},
-			["captured_spells"] = {
-				[0] = {
-					["npcID"] = 0,
-					["event"] = "SPELL_CAST_SUCCESS",
-					["source"] = "Zethiel",
-					["encounterID"] = 722,
-				},
+				["Blockade Encounter"] = 1,
 			},
 		},
 	},
