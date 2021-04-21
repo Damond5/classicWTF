@@ -24,600 +24,6 @@ ElvCharacterDB = {
 	},
 	["ChatHistoryLog"] = {
 		{
-			"EPGP: |cffa335ee|Hitem:23041::::::::60:0::::::|h[Slayer's Crest]|h|r (ilvl 90)", -- [1]
-			"Upirspike-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Upirspike", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5016, -- [11]
-			"Player-4478-015509A3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaUpirspike|r",
-			[51] = 1618519644,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [1]
-		{
-			"(Ressing) Only flesh and bone. Paladins are such easy prey, Driftar...", -- [1]
-			"Pazzi-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pazzi", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5020, -- [11]
-			"Player-4478-02BBCA0A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaPazzi|r",
-			[51] = 1618519663,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [2]
-		{
-			"The loot master was awarded with |cffa335ee|Hitem:23050::::::::60:::::::|h[Cloak of the Necropolis]|h|r for Store in bag and award later!", -- [1]
-			"Megaleen-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Megaleen", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5022, -- [11]
-			"Player-4478-012AE8C1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffMegaleen|r",
-			[51] = 1618519669,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [3]
-		{
-			"The loot master was awarded with |cffa335ee|Hitem:23041::::::::60:::::::|h[Slayer's Crest]|h|r for Store in bag and award later!", -- [1]
-			"Megaleen-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Megaleen", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5024, -- [11]
-			"Player-4478-012AE8C1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffMegaleen|r",
-			[51] = 1618519669,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [4]
-		{
-			"(Ressing) Perhaps you'll need another lesson in pain, Examplex!", -- [1]
-			"Pazzi-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pazzi", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5032, -- [11]
-			"Player-4478-02BBCA0A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaPazzi|r",
-			[51] = 1618519679,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [5]
-		{
-			"you doing cos?", -- [1]
-			"Shortman-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Shortman", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5038, -- [11]
-			"Player-4478-0138FA0A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edShortman|r",
-			[51] = 1618519684,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [6]
-		{
-			"i can", -- [1]
-			"Abdell-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Abdell", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5048, -- [11]
-			"Player-4478-0197480F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaAbdell|r",
-			[51] = 1618519693,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [7]
-		{
-			"i can sit", -- [1]
-			"Pazzi-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pazzi", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5049, -- [11]
-			"Player-4478-02BBCA0A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaPazzi|r",
-			[51] = 1618519693,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [8]
-		{
-			"ok", -- [1]
-			"Shortman-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Shortman", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5050, -- [11]
-			"Player-4478-0138FA0A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edShortman|r",
-			[51] = 1618519694,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [9]
-		{
-			"i sit yeh?", -- [1]
-			"Pazzi-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pazzi", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5055, -- [11]
-			"Player-4478-02BBCA0A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaPazzi|r",
-			[51] = 1618519710,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
-		{
-			"ait", -- [1]
-			"Pazzi-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pazzi", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5057, -- [11]
-			"Player-4478-02BBCA0A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaPazzi|r",
-			[51] = 1618519717,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [11]
-		{
-			"no kt log :P", -- [1]
-			"Pazzi-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pazzi", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5058, -- [11]
-			"Player-4478-02BBCA0A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaPazzi|r",
-			[51] = 1618519720,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [12]
-		{
-			"why", -- [1]
-			"Malenkihren-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Malenkihren", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5059, -- [11]
-			"Player-4478-015800FD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Malenkihren|r",
-			[51] = 1618519721,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [13]
-		{
-			":(", -- [1]
-			"Malenkihren-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Malenkihren", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5060, -- [11]
-			"Player-4478-015800FD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Malenkihren|r",
-			[51] = 1618519722,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [14]
-		{
-			"matty can buff kings then", -- [1]
-			"Loloops-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Loloops", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5062, -- [11]
-			"Player-4478-019AB5E2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaLoloops|r",
-			[51] = 1618519723,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [15]
-		{
-			"!", -- [1]
-			"Loloops-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Loloops", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5064, -- [11]
-			"Player-4478-019AB5E2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaLoloops|r",
-			[51] = 1618519727,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [16]
-		{
-			"yea", -- [1]
-			"Matty-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Matty", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5066, -- [11]
-			"Player-4478-01562599", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaMatty|r",
-			[51] = 1618519737,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [17]
-		{
-			"LFM ZG SR Full run need 1 dps ", -- [1]
-			"Sargàt-Razorgore", -- [2]
-			"", -- [3]
-			"6. LookingForGroup", -- [4]
-			"Sargàt", -- [5]
-			"", -- [6]
-			24, -- [7]
-			6, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			5068, -- [11]
-			"Player-4478-02FCA7C9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaSargàt|r",
-			[51] = 1618519747,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
-		{
-			"WTS {Circle} 1-15 Boost! {Circle} Takes 1-2 hours, any class/race", -- [1]
-			"Ar-Razorgore", -- [2]
-			"", -- [3]
-			"5. world", -- [4]
-			"Ar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"world", -- [9]
-			0, -- [10]
-			5074, -- [11]
-			"Player-4478-012A959F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Ar|r",
-			[51] = 1618519755,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
-		{
-			"Summoning Zupahh", -- [1]
-			"Damond-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Damond", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5075, -- [11]
-			"Player-4478-012A6DE5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1618519757,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
-		{
-			"Summoning Zupahh", -- [1]
-			"Damond-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Damond", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5076, -- [11]
-			"Player-4478-012A6DE5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1618519757,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [21]
-		{
-			"Summoning Zupahh", -- [1]
-			"Damond-Razorgore", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Damond", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5077, -- [11]
-			"Player-4478-012A6DE5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edDamond|r",
-			[51] = 1618519757,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
-		{
-			"this is the 5 slayers?", -- [1]
-			"Jokkefox-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jokkefox", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5080, -- [11]
-			"Player-4478-019C7D2E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Jokkefox|r",
-			[51] = 1618519769,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [23]
-		{
-			"wts |cff0070dd|Hitem:13335::::::::60:::::::|h[Deathcharger's Reins]|h|r", -- [1]
-			"Milimi-Razorgore", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Milimi", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5082, -- [11]
-			"Player-4478-02BC9358", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dMilimi|r",
-			[51] = 1618519773,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
-		{
-			"no need for a summon", -- [1]
-			"Bèrlin-Razorgore", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Bèrlin", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5083, -- [11]
-			"Player-4478-023D5B57", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBèrlin|r",
-			[51] = 1618519774,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
-		{
-			"Thanks mate", -- [1]
-			"Driftar-Razorgore", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Driftar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5084, -- [11]
-			"Player-4478-01E2CBD2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaDriftar|r",
-			[51] = 1618519780,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
-		{
-			"something like that", -- [1]
-			"Daxaa-Razorgore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daxaa", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			5085, -- [11]
-			"Player-4478-01541E94", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Daxaa|r",
-			[51] = 1618519783,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [27]
-		{
 			"needed some str", -- [1]
 			"Driftar-Razorgore", -- [2]
 			"Common", -- [3]
@@ -638,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDriftar|r",
 			[51] = 1618519783,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
+		}, -- [1]
 		{
 			"lets go", -- [1]
 			"Loloops-Razorgore", -- [2]
@@ -660,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaLoloops|r",
 			[51] = 1618519793,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [29]
+		}, -- [2]
 		{
 			"it sells to vendor for 25g", -- [1]
 			"Milimi-Razorgore", -- [2]
@@ -682,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dMilimi|r",
 			[51] = 1618519801,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [30]
+		}, -- [3]
 		{
 			"spits on you.", -- [1]
 			"Abdell-Razorgore", -- [2]
@@ -704,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaAbdell|r",
 			[51] = 1618519860,
 			[50] = "CHAT_MSG_EMOTE",
-		}, -- [31]
+		}, -- [4]
 		{
 			"WTS {Circle} 1-15 Boost! {Circle} Takes 1-2 hours, any class/race", -- [1]
 			"Ar-Razorgore", -- [2]
@@ -726,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Ar|r",
 			[51] = 1618519899,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
+		}, -- [5]
 		{
 			"LFM ZG SR run! (Heart HR for pop tomorrow!)", -- [1]
 			"Steezé-Razorgore", -- [2]
@@ -748,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aSteezé|r",
 			[51] = 1618519961,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
+		}, -- [6]
 		{
 			"WTB STOCKADES BOOST", -- [1]
 			"Starvipe-Razorgore", -- [2]
@@ -770,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Starvipe|r",
 			[51] = 1618519996,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
+		}, -- [7]
 		{
 			"stfu abdell u gypsy", -- [1]
 			"Loloops-Razorgore", -- [2]
@@ -792,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaLoloops|r",
 			[51] = 1618519997,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [35]
+		}, -- [8]
 		{
 			"change megaleens name to Ghadaffi", -- [1]
 			"Examplex-Razorgore", -- [2]
@@ -814,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Examplex|r",
 			[51] = 1618520054,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [36]
+		}, -- [9]
 		{
 			"100g", -- [1]
 			"Examplex-Razorgore", -- [2]
@@ -836,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Examplex|r",
 			[51] = 1618520056,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [37]
+		}, -- [10]
 		{
 			"LFM MC - Sunday @ 14:00 - 2 (off)tanks, 2-3 healers and a few DPS - Lootrules and signups: https://discord.gg/dF3QMqnYkY", -- [1]
 			"Toecrusher-Razorgore", -- [2]
@@ -858,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Toecrusher|r",
 			[51] = 1618520056,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
+		}, -- [11]
 		{
 			"LFM ZG SR run! (Heart HR for pop tomorrow!)", -- [1]
 			"Steezé-Razorgore", -- [2]
@@ -880,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aSteezé|r",
 			[51] = 1618520064,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
+		}, -- [12]
 		{
 			"naah change it to choughaleen", -- [1]
 			"Acidwille-Razorgore", -- [2]
@@ -902,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffAcidwille|r",
 			[51] = 1618520099,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [40]
+		}, -- [13]
 		{
 			"Coughdaffi", -- [1]
 			"Examplex-Razorgore", -- [2]
@@ -924,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Examplex|r",
 			[51] = 1618520114,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [41]
+		}, -- [14]
 		{
 			"resist", -- [1]
 			"Driftar-Razorgore", -- [2]
@@ -946,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDriftar|r",
 			[51] = 1618520133,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [42]
+		}, -- [15]
 		{
 			"I will need on all spellhit gear fuck this", -- [1]
 			"Driftar-Razorgore", -- [2]
@@ -968,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDriftar|r",
 			[51] = 1618520147,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [43]
+		}, -- [16]
 		{
 			">:3", -- [1]
 			"Driftar-Razorgore", -- [2]
@@ -990,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaDriftar|r",
 			[51] = 1618520157,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [44]
+		}, -- [17]
 		{
 			"wts |cff0070dd|Hitem:22375::::::::2:::::::|h[Wartorn Plate Scrap]|h|r cheap", -- [1]
 			"Terycrooz-Razorgore", -- [2]
@@ -1012,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dTerycrooz|r",
 			[51] = 1618520161,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
+		}, -- [18]
 		{
 			"range", -- [1]
 			"Nalena-Razorgore", -- [2]
@@ -1034,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffNalena|r",
 			[51] = 1618520220,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
+		}, -- [19]
 		{
 			"spread", -- [1]
 			"Nalena-Razorgore", -- [2]
@@ -1056,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffNalena|r",
 			[51] = 1618520221,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [47]
+		}, -- [20]
 		{
 			"Shadow Fissure on Schóu", -- [1]
 			"Schóu-Razorgore", -- [2]
@@ -1078,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dSchóu|r",
 			[51] = 1618520226,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [48]
+		}, -- [21]
 		{
 			"> Last Stand 20sec <", -- [1]
 			"Tinkeng-Razorgore", -- [2]
@@ -1100,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dTinkeng|r",
 			[51] = 1618520229,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [22]
 		{
 			"Group 2 Pummeled!", -- [1]
 			"Milimi-Razorgore", -- [2]
@@ -1122,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dMilimi|r",
 			[51] = 1618520240,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [50]
+		}, -- [23]
 		{
 			"Detonate Mana", -- [1]
 			"Solem-Razorgore", -- [2]
@@ -1144,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaSolem|r",
 			[51] = 1618520241,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [51]
+		}, -- [24]
 		{
 			"Shadow Fissure on Matty", -- [1]
 			"Matty-Razorgore", -- [2]
@@ -1166,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaMatty|r",
 			[51] = 1618520270,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [52]
+		}, -- [25]
 		{
 			"Detonate Mana", -- [1]
 			"Vijavica-Razorgore", -- [2]
@@ -1188,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaVijavica|r",
 			[51] = 1618520271,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [53]
+		}, -- [26]
 		{
 			"LFM ZG SR run! (Heart HR for pop tomorrow!)", -- [1]
 			"Steezé-Razorgore", -- [2]
@@ -1210,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aSteezé|r",
 			[51] = 1618520283,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
+		}, -- [27]
 		{
 			"WTB Deadmines boost.", -- [1]
 			"Chien", -- [2]
@@ -1232,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffChien|r",
 			[51] = 1618520307,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
+		}, -- [28]
 		{
 			"Group 2 Pummeled!", -- [1]
 			"Milimi-Razorgore", -- [2]
@@ -1254,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dMilimi|r",
 			[51] = 1618520314,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [56]
+		}, -- [29]
 		{
 			"Used Nature´s swiftness on Zahgurim and Healing touch rank 11.", -- [1]
 			"Renatem-Razorgore", -- [2]
@@ -1276,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aRenatem|r",
 			[51] = 1618520315,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [57]
+		}, -- [30]
 		{
 			"NEED 2 HEALERS FOR WSG PREMADE", -- [1]
 			"Caiman", -- [2]
@@ -1298,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edCaiman|r",
 			[51] = 1618520341,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
+		}, -- [31]
 		{
 			"Shadow Fissure on Vijavica", -- [1]
 			"Vijavica-Razorgore", -- [2]
@@ -1320,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaVijavica|r",
 			[51] = 1618520349,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [59]
+		}, -- [32]
 		{
 			"Detonate Mana", -- [1]
 			"Matty-Razorgore", -- [2]
@@ -1342,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaMatty|r",
 			[51] = 1618520350,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [60]
+		}, -- [33]
 		{
 			"{rt7} Matty EXPLODING! {rt7}", -- [1]
 			"Matty-Razorgore", -- [2]
@@ -1364,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaMatty|r",
 			[51] = 1618520350,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [34]
 		{
 			"EPGP: |cffa335ee|Hitem:23059::::::::60:0::::::|h[Ring of the Dreadnaught]|h|r (ilvl 92)", -- [1]
 			"Upirspike-Razorgore", -- [2]
@@ -1386,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaUpirspike|r",
 			[51] = 1618520376,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [62]
+		}, -- [35]
 		{
 			"EPGP: |cffa335ee|Hitem:23064::::::::60:0::::::|h[Ring of the Dreamwalker]|h|r (ilvl 92)", -- [1]
 			"Upirspike-Razorgore", -- [2]
@@ -1408,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaUpirspike|r",
 			[51] = 1618520376,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [63]
+		}, -- [36]
 		{
 			"EPGP: |cffa335ee|Hitem:22520::::::::60:0::::::|h[The Phylactery of Kel'Thuzad]|h|r (ilvl 60)", -- [1]
 			"Upirspike-Razorgore", -- [2]
@@ -1430,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaUpirspike|r",
 			[51] = 1618520376,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [64]
+		}, -- [37]
 		{
 			"EPGP: |cffa335ee|Hitem:22799::::::::60:0::::::|h[Soulseeker]|h|r (ilvl 89)", -- [1]
 			"Upirspike-Razorgore", -- [2]
@@ -1452,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaUpirspike|r",
 			[51] = 1618520376,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [65]
+		}, -- [38]
 		{
 			"EPGP: |cffa335ee|Hitem:23053::::::::60:0::::::|h[Stormrage's Talisman of Seething]|h|r (ilvl 92)", -- [1]
 			"Upirspike-Razorgore", -- [2]
@@ -1474,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaUpirspike|r",
 			[51] = 1618520376,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [66]
+		}, -- [39]
 		{
 			"staff for solem", -- [1]
 			"Abdell-Razorgore", -- [2]
@@ -1496,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaAbdell|r",
 			[51] = 1618520393,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [67]
+		}, -- [40]
 		{
 			"|cffa335ee|Hitem:22799::::::::60:::::::|h[Soulseeker]|h|r", -- [1]
 			"Abdell-Razorgore", -- [2]
@@ -1518,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaAbdell|r",
 			[51] = 1618520395,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [68]
+		}, -- [41]
 		{
 			"LFM jailbreak", -- [1]
 			"Mégakaren-Razorgore", -- [2]
@@ -1540,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dMégakaren|r",
 			[51] = 1618520414,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
+		}, -- [42]
 		{
 			"any sm booster", -- [1]
 			"Sicko-Razorgore", -- [2]
@@ -1562,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaSicko|r",
 			[51] = 1618520419,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
+		}, -- [43]
 		{
 			"WTB deadmines boost 25g", -- [1]
 			"Chien-Razorgore", -- [2]
@@ -1584,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffChien|r",
 			[51] = 1618520439,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [44]
 		{
 			"{star} Best Zul`Gurub Boost: Solo-50, Duo-25g (pull 11 packs) {star}", -- [1]
 			"Ibaha", -- [2]
@@ -1606,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaIbaha|r",
 			[51] = 1618520443,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [45]
 		{
 			"whats the command for the rc show thing", -- [1]
 			"Abdell-Razorgore", -- [2]
@@ -1628,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaAbdell|r",
 			[51] = 1618520457,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [73]
+		}, -- [46]
 		{
 			"  /rc open", -- [1]
 			"Milimi-Razorgore", -- [2]
@@ -1650,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dMilimi|r",
 			[51] = 1618520464,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [74]
+		}, -- [47]
 		{
 			" /rc open", -- [1]
 			"Matty-Razorgore", -- [2]
@@ -1672,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaMatty|r",
 			[51] = 1618520464,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [75]
+		}, -- [48]
 		{
 			"WTB STOCKADES BOOST", -- [1]
 			"Starvipe-Razorgore", -- [2]
@@ -1694,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Starvipe|r",
 			[51] = 1618520465,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [49]
 		{
 			"tyty", -- [1]
 			"Abdell-Razorgore", -- [2]
@@ -1716,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaAbdell|r",
 			[51] = 1618520467,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [77]
+		}, -- [50]
 		{
 			"always forget", -- [1]
 			"Abdell-Razorgore", -- [2]
@@ -1738,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaAbdell|r",
 			[51] = 1618520469,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [78]
+		}, -- [51]
 		{
 			"NEED 2 HEALERS FOR WSG PREMADE", -- [1]
 			"Caiman-Razorgore", -- [2]
@@ -1760,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edCaiman|r",
 			[51] = 1618520492,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [52]
 		{
 			"the neck", -- [1]
 			"Loloops-Razorgore", -- [2]
@@ -1782,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaLoloops|r",
 			[51] = 1618520494,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [80]
+		}, -- [53]
 		{
 			"u tit", -- [1]
 			"Loloops-Razorgore", -- [2]
@@ -1804,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaLoloops|r",
 			[51] = 1618520495,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [81]
+		}, -- [54]
 		{
 			"|cffa335ee|Hitem:19377::::::::60:::::::|h[Prestor's Talisman of Connivery]|h|rbis pve", -- [1]
 			"Malenkihren-Razorgore", -- [2]
@@ -1826,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Malenkihren|r",
 			[51] = 1618520506,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [82]
+		}, -- [55]
 		{
 			"ty for raid gn!", -- [1]
 			"Banoffee-Razorgore", -- [2]
@@ -1848,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBanoffee|r",
 			[51] = 1618520526,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [83]
+		}, -- [56]
 		{
 			"LOL", -- [1]
 			"Loloops-Razorgore", -- [2]
@@ -1870,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaLoloops|r",
 			[51] = 1618520532,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [84]
+		}, -- [57]
 		{
 			"Megaleen was awarded with |cffa335ee|Hitem:23064::::::::60:::::::|h[Ring of the Dreamwalker]|h|r for Disenchant!", -- [1]
 			"Megaleen-Razorgore", -- [2]
@@ -1892,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffMegaleen|r",
 			[51] = 1618520534,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [85]
+		}, -- [58]
 		{
 			"LF3M jailbreak 1 tank 2 dps ", -- [1]
 			"Mégakaren-Razorgore", -- [2]
@@ -1914,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dMégakaren|r",
 			[51] = 1618520541,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
+		}, -- [59]
 		{
 			"Kamel was awarded with |cffa335ee|Hitem:23053::::::::60:::::::|h[Stormrage's Talisman of Seething]|h|r for Bis!", -- [1]
 			"Megaleen-Razorgore", -- [2]
@@ -1936,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffMegaleen|r",
 			[51] = 1618520544,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [87]
+		}, -- [60]
 		{
 			"Vijavica was awarded with |cffa335ee|Hitem:23050::::::::60:::::::|h[Cloak of the Necropolis]|h|r for Bis!", -- [1]
 			"Megaleen-Razorgore", -- [2]
@@ -1958,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffMegaleen|r",
 			[51] = 1618520547,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [88]
+		}, -- [61]
 		{
 			"Thresya was awarded with |cffa335ee|Hitem:23059::::::::60:::::::|h[Ring of the Dreadnaught]|h|r for Offspecc!", -- [1]
 			"Megaleen-Razorgore", -- [2]
@@ -1980,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffMegaleen|r",
 			[51] = 1618520558,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [89]
+		}, -- [62]
 		{
 			"i need 50g have world buffs", -- [1]
 			"Thresya-Razorgore", -- [2]
@@ -2002,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dThresya|r",
 			[51] = 1618520573,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [90]
+		}, -- [63]
 		{
 			"{star} Best Zul`Gurub Boost: Solo-50, Duo-25g (pull 11 packs) {star}", -- [1]
 			"Ibaha-Razorgore", -- [2]
@@ -2024,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaIbaha|r",
 			[51] = 1618520587,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [64]
 		{
 			"ill come for 100g", -- [1]
 			"Jokkefox-Razorgore", -- [2]
@@ -2046,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Jokkefox|r",
 			[51] = 1618520587,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [92]
+		}, -- [65]
 		{
 			"wbuffed bis dps", -- [1]
 			"Jokkefox-Razorgore", -- [2]
@@ -2068,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Jokkefox|r",
 			[51] = 1618520591,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [93]
+		}, -- [66]
 		{
 			"NEED 2 HEALERS FOR WSG PREMADE", -- [1]
 			"Caiman-Razorgore", -- [2]
@@ -2090,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edCaiman|r",
 			[51] = 1618520593,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [67]
 		{
 			"kek", -- [1]
 			"Examplex-Razorgore", -- [2]
@@ -2112,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Examplex|r",
 			[51] = 1618520603,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [95]
+		}, -- [68]
 		{
 			"2k for me", -- [1]
 			"Abdell-Razorgore", -- [2]
@@ -2134,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaAbdell|r",
 			[51] = 1618520605,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [96]
+		}, -- [69]
 		{
 			"im best mage", -- [1]
 			"Abdell-Razorgore", -- [2]
@@ -2156,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaAbdell|r",
 			[51] = 1618520609,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [97]
+		}, -- [70]
 		{
 			"Schóu was awarded with |cffa335ee|Hitem:23041::::::::60:::::::|h[Slayer's Crest]|h|r for Upgrade!", -- [1]
 			"Megaleen-Razorgore", -- [2]
@@ -2178,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffMegaleen|r",
 			[51] = 1618520630,
 			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [98]
+		}, -- [71]
 		{
 			"cheers", -- [1]
 			"Damond-Razorgore", -- [2]
@@ -2200,6 +1606,600 @@ ElvCharacterDB = {
 			[52] = "|cff8787edDamond|r",
 			[51] = 1618520635,
 			[50] = "CHAT_MSG_RAID",
+		}, -- [72]
+		{
+			"hmmm", -- [1]
+			"Damnstraight-Razorgore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Damnstraight", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4, -- [11]
+			"Player-4478-01721D81", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dDamnstraight|r",
+			[51] = 1619035361,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [73]
+		{
+			"WTB stockade boost", -- [1]
+			"Coyolxauhqui", -- [2]
+			"", -- [3]
+			"1. General - Stormwind City", -- [4]
+			"Coyolxauhqui", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Stormwind City", -- [9]
+			0, -- [10]
+			5, -- [11]
+			"Player-4478-031CE557", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aCoyolxauhqui|r",
+			[51] = 1619035363,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [74]
+		{
+			"Come Casino! Roll 1-59 = loss, Roll 60-99 = Win x2, roll 100 = win 3x!  Message \"inv\"  - Trade then roll. 50g+! If you roll 500g+ you win at 56+! Can also play black jack! Roll 1-11! Draw = Go again! minbet 100g!", -- [1]
+			"Examplex-Razorgore", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Examplex", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			6, -- [11]
+			"Player-4478-0306CBA5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Examplex|r",
+			[51] = 1619035374,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [75]
+		{
+			"<Nocturnals> is a new late night raiding guild formed for TBC. We are progress focused and led by experienced TBC raiders. Raids will start 21:30pm (CET), Expect an efficient & focused raid. Recruiting most classes. /w for more info", -- [1]
+			"Napolean", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Napolean", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			7, -- [11]
+			"Player-4478-0206C07E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaNapolean|r",
+			[51] = 1619035379,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [76]
+		{
+			"WTS ZG Boost || 11 packs || solo 45g/r, duo 25g/r", -- [1]
+			"Kalasbajs-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kalasbajs", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			10, -- [11]
+			"Player-4478-029138A0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edKalasbajs|r",
+			[51] = 1619035392,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [77]
+		{
+			"LFM Jailbreak need tank or dps can summon soon", -- [1]
+			"Phenöm", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Phenöm", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			13, -- [11]
+			"Player-4478-0272A601", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aPhenöm|r",
+			[51] = 1619035409,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [78]
+		{
+			"WTS SM boost, cath/arms. 12g per run last spot", -- [1]
+			"Banamahs-Razorgore", -- [2]
+			"", -- [3]
+			"6. LookingForGroup", -- [4]
+			"Banamahs", -- [5]
+			"", -- [6]
+			24, -- [7]
+			6, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			14, -- [11]
+			"Player-4478-01C18B75", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaBanamahs|r",
+			[51] = 1619035412,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [79]
+		{
+			"WTS SM boost, cath/arms. 12g per run", -- [1]
+			"Banamahs-Razorgore", -- [2]
+			"", -- [3]
+			"1. General - Stormwind City", -- [4]
+			"Banamahs", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Stormwind City", -- [9]
+			0, -- [10]
+			16, -- [11]
+			"Player-4478-01C18B75", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaBanamahs|r",
+			[51] = 1619035413,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [80]
+		{
+			"Free ZG for followers lvl 59 Mage(you get more exp than a 60). Twitch.tv/YourUncleJun", -- [1]
+			"Cardes", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Cardes", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			17, -- [11]
+			"Player-4478-02939231", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaCardes|r",
+			[51] = 1619035416,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [81]
+		{
+			"Full 60 Group LF tank to do Ony attunement, from Marshal Windsor. Can summon!", -- [1]
+			"Vishra", -- [2]
+			"", -- [3]
+			"6. LookingForGroup", -- [4]
+			"Vishra", -- [5]
+			"", -- [6]
+			24, -- [7]
+			6, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			18, -- [11]
+			"Player-4478-03079F64", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edVishra|r",
+			[51] = 1619035418,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [82]
+		{
+			"WTB Stockades boost", -- [1]
+			"Coyolxauhqui-Razorgore", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Coyolxauhqui", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			19, -- [11]
+			"Player-4478-031CE557", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aCoyolxauhqui|r",
+			[51] = 1619035418,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [83]
+		{
+			"{star}Enchanting services {star} Have all (even 4 stats). Also selling Brilliant Mana,  Brilliant Wizard oils and Enchanted thorium bars", -- [1]
+			"Papsy-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Papsy", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			20, -- [11]
+			"Player-4478-020D8BA5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dPapsy|r",
+			[51] = 1619035418,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [84]
+		{
+			"LF +9 str bracer enchanter", -- [1]
+			"Tyl-Razorgore", -- [2]
+			"", -- [3]
+			"1. General - Stormwind City", -- [4]
+			"Tyl", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Stormwind City", -- [9]
+			0, -- [10]
+			29, -- [11]
+			"Player-4478-02AC5455", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dTyl|r",
+			[51] = 1619035473,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [85]
+		{
+			"LFM Jailbreak need tank or dps can summon soon", -- [1]
+			"Phenöm-Razorgore", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Phenöm", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			30, -- [11]
+			"Player-4478-0272A601", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aPhenöm|r",
+			[51] = 1619035476,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [86]
+		{
+			"LFM ZG pug, need 1 tank, 4 healers and DPS (no more hunters), SR, MS>OS, going when full, 11/20", -- [1]
+			"Sapitem", -- [2]
+			"", -- [3]
+			"6. LookingForGroup", -- [4]
+			"Sapitem", -- [5]
+			"", -- [6]
+			24, -- [7]
+			6, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			31, -- [11]
+			"Player-4478-029BB78D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaSapitem|r",
+			[51] = 1619035477,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [87]
+		{
+			"LFM ZG pug, need 1 tank, 4 healers and DPS (no more hunters), SR, MS>OS, going when full, 11/20", -- [1]
+			"Sapitem-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Sapitem", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			32, -- [11]
+			"Player-4478-029BB78D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaSapitem|r",
+			[51] = 1619035479,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [88]
+		{
+			"Selling +8 spelldmg/healing, +1haste or dodge and +20 fireres to head/legs! ", -- [1]
+			"Bobshift-Razorgore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Bobshift", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			35, -- [11]
+			"Player-4478-022CAF89", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Bobshift|r",
+			[51] = 1619035485,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [89]
+		{
+			"{star}Johannes Pugs{star} Is Hosting 6X <NAXX> <GDKP> Pugs 5x are 15/15 in one raidtime - Friday 18:45 - Saturday 12:00 - Saturday 18:45  - Sunday 12:00 - Sunday 18:45 (Fresh roster 25th) - Tuesday 18:45  - https://discord.gg/JuUa7xF", -- [1]
+			"Johannes-Razorgore", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Johannes", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			37, -- [11]
+			"Player-4478-012A3FA6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dJohannes|r",
+			[51] = 1619035494,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [90]
+		{
+			"WTS sm armory boost 6g/run", -- [1]
+			"Mastiser", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mastiser", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			44, -- [11]
+			"Player-4478-01580231", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaMastiser|r",
+			[51] = 1619035502,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [91]
+		{
+			"Free ZG for followers lvl 59 Mage(you get more exp than a 60). Twitch.tv/YourUncleJun", -- [1]
+			"Cardes-Razorgore", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Cardes", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			46, -- [11]
+			"Player-4478-02939231", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaCardes|r",
+			[51] = 1619035504,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"wtb portal to Darna", -- [1]
+			"Darkpast-Razorgore", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Darkpast", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			48, -- [11]
+			"Player-4478-02B5EFF2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edDarkpast|r",
+			[51] = 1619035515,
+			[50] = "CHAT_MSG_YELL",
+		}, -- [93]
+		{
+			"Selling stockade boosts 20g/5runs", -- [1]
+			"Whiteé", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Whiteé", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			53, -- [11]
+			"Player-4478-0292557D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaWhiteé|r",
+			[51] = 1619035538,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"LFM AQ20 18/20 have summons", -- [1]
+			"Sallvation", -- [2]
+			"", -- [3]
+			"6. LookingForGroup", -- [4]
+			"Sallvation", -- [5]
+			"", -- [6]
+			24, -- [7]
+			6, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			54, -- [11]
+			"Player-4478-01CEC903", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSallvation|r",
+			[51] = 1619035556,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"LFM AQ20 18/20 have summons", -- [1]
+			"Sallvation-Razorgore", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Sallvation", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			55, -- [11]
+			"Player-4478-01CEC903", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaSallvation|r",
+			[51] = 1619035557,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"LFM Jailbreak need tank or dps can summon soon", -- [1]
+			"Phenöm-Razorgore", -- [2]
+			"", -- [3]
+			"5. world", -- [4]
+			"Phenöm", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			56, -- [11]
+			"Player-4478-0272A601", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aPhenöm|r",
+			[51] = 1619035565,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"Full 60 Group LF tank to do Ony attunement, from Marshal Windsor. Can summon!", -- [1]
+			"Vishra-Razorgore", -- [2]
+			"", -- [3]
+			"6. LookingForGroup", -- [4]
+			"Vishra", -- [5]
+			"", -- [6]
+			24, -- [7]
+			6, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			57, -- [11]
+			"Player-4478-03079F64", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edVishra|r",
+			[51] = 1619035568,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"ty", -- [1]
+			"Darkpast-Razorgore", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Darkpast", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			58, -- [11]
+			"Player-4478-02B5EFF2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edDarkpast|r",
+			[51] = 1619035571,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [99]
 	},
 }

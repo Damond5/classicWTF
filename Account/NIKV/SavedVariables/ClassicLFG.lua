@@ -13,10 +13,10 @@ ClassicLFG_DB = {
 		},
 		["Damonddruid - Razorgore"] = {
 			["BroadcastDungeonGroupInterval"] = 180,
-			["BroadcastDungeonGroupChannel"] = 1,
 			["minimap"] = {
 				["hide"] = true,
 			},
+			["BroadcastDungeonGroupChannel"] = 1,
 		},
 		["Fsumdamond - Razorgore"] = {
 			["BroadcastDungeonGroupChannel"] = 1,
@@ -26,7 +26,7 @@ ClassicLFG_DB = {
 		},
 		["Damond - Razorgore"] = {
 			["BroadcastDungeonGroupInterval"] = 180,
-			["BroadcastDungeonGroupChannel"] = 1,
+			["BroadcastDungeonGroupChannel"] = 0,
 			["ShareTalents"] = false,
 			["Toast"] = {
 				["Y"] = -274.285583496094,
