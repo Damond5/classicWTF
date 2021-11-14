@@ -1,0 +1,706 @@
+
+SkilletDB = {
+	["global"] = {
+		["customVersion"] = 1,
+		["MissingVendorItems"] = {
+			[52188] = "Jeweler's Setting",
+			[17035] = "Stranglethorn Seed",
+			[3857] = "Coal",
+			[30817] = "Simple Flour",
+			[38682] = "Enchanting Vellum",
+			[4399] = "Wooden Stock",
+			[4539] = "Goldenbark Apple",
+			[17034] = "Maple Seed",
+		},
+		["itemRecipeSource"] = {
+		},
+		["dataVersion"] = 5,
+		["wowBuild"] = "40892",
+		["locale"] = "enUS",
+		["version"] = "1.19.1",
+		["recipeVersion"] = 3,
+		["curseID"] = "339820",
+		["wowVersion"] = 20502,
+		["recipeDB"] = {
+		},
+		["queueVersion"] = 1,
+		["itemRecipeUsedIn"] = {
+		},
+	},
+	["profiles"] = {
+		["Damondbank - Razorgore"] = {
+			["FixBugs"] = true,
+			["WarnLog"] = true,
+			["plugins"] = {
+				["ATL"] = {
+					["buyFactor"] = 4,
+					["markup"] = 1.05,
+					["enabled"] = true,
+				},
+				["BBG"] = {
+					["enabled"] = true,
+				},
+				["AHDB"] = {
+					["buyFactor"] = 4,
+					["markup"] = 1.05,
+					["enabled"] = true,
+				},
+				["ATR"] = {
+					["buyFactor"] = 4,
+					["markup"] = 1.05,
+					["enabled"] = true,
+				},
+				["AUC"] = {
+					["buyFactor"] = 4,
+					["markup"] = 1.05,
+					["enabled"] = true,
+				},
+				["MTSL"] = {
+					["enabled"] = false,
+				},
+				["beancounter"] = {
+					["enabled"] = true,
+					["days"] = 30,
+				},
+			},
+		},
+		["Damond - Razorgore"] = {
+			["plugins"] = {
+				["beancounter"] = {
+					["enabled"] = true,
+					["days"] = 30,
+				},
+				["BBG"] = {
+					["enabled"] = true,
+				},
+				["MTSL"] = {
+					["enabled"] = false,
+				},
+				["ATR"] = {
+					["buyFactor"] = 4,
+					["markup"] = 1.05,
+					["enabled"] = true,
+				},
+				["ATL"] = {
+					["buyFactor"] = 4,
+					["markup"] = 1.05,
+					["enabled"] = true,
+				},
+				["AHDB"] = {
+					["buyFactor"] = 4,
+					["markup"] = 1.05,
+					["enabled"] = true,
+				},
+				["AUC"] = {
+					["buyFactor"] = 4,
+					["markup"] = 1.05,
+					["enabled"] = true,
+				},
+			},
+			["FixBugs"] = true,
+			["WarnLog"] = true,
+		},
+	},
+	["profileKeys"] = {
+		["Damondbank - Razorgore"] = "Damondbank - Razorgore",
+		["Damond - Razorgore"] = "Damond - Razorgore",
+	},
+	["realm"] = {
+		["Razorgore"] = {
+			["skillDB"] = {
+				["Damondbank"] = {
+				},
+			},
+			["bagData"] = {
+				["Damond"] = {
+					[8925] = 1,
+					[16203] = 25,
+					[6265] = 10,
+					[13468] = 1,
+					[14344] = 35,
+					[13422] = 10,
+					[19136] = 1,
+					[19802] = 1,
+					[6948] = 1,
+					[22754] = 1,
+					[19370] = 1,
+					[8766] = 12,
+					[19108] = 1,
+					[13463] = 140,
+					[15138] = 1,
+					[19812] = 1,
+					[8838] = 40,
+					[19720] = 1,
+					[3372] = 10,
+					[8846] = 30,
+					[16309] = 1,
+					[13465] = 140,
+					[12930] = 1,
+					[19718] = 1,
+					[19880] = 1,
+					[3358] = 20,
+					[14342] = 1,
+					[14530] = 19,
+				},
+				["Damondbank"] = {
+					[10050] = 1,
+					[10174] = 1,
+					[10139] = 1,
+					[14311] = 1,
+					[14313] = 1,
+					[5576] = 2,
+					[3914] = 1,
+					[11979] = 1,
+					[12046] = 1,
+				},
+			},
+			["invSlot"] = {
+				["Damondbank"] = {
+				},
+			},
+			["auctionData"] = {
+				["Damond"] = {
+					[13512] = 2,
+					[13454] = 40,
+					[20520] = 1,
+					[12360] = 1,
+				},
+				["Damondbank"] = {
+				},
+			},
+			["reagentsInQueue"] = {
+				["Damond"] = {
+				},
+				["Damondbank"] = {
+				},
+			},
+			["tradeSkills"] = {
+				["Damond"] = {
+					[3908] = {
+						["maxRank"] = 300,
+						["isCraft"] = false,
+						["name"] = "Tailoring",
+						["rank"] = 300,
+					},
+					[2259] = {
+						["maxRank"] = 300,
+						["isCraft"] = false,
+						["name"] = "Alchemy",
+						["rank"] = 300,
+					},
+				},
+				["Damondbank"] = {
+				},
+			},
+			["queueData"] = {
+				["Damond"] = {
+				},
+				["Damondbank"] = {
+				},
+			},
+			["subClass"] = {
+				["Damondbank"] = {
+				},
+			},
+			["groupSN"] = {
+			},
+			["bankData"] = {
+				["Damond"] = {
+				},
+				["Damondbank"] = {
+				},
+			},
+			["bankDetails"] = {
+				["Damond"] = {
+				},
+				["Damondbank"] = {
+				},
+			},
+			["inventoryData"] = {
+				["Damond"] = {
+					[8925] = 1,
+					[13463] = 140,
+					[13465] = 140,
+					[13422] = 10,
+					[3372] = 10,
+					[3358] = 20,
+					[13423] = "0 10",
+					[8846] = 30,
+					[13468] = 1,
+					[8838] = 40,
+				},
+				["Damondbank"] = {
+				},
+			},
+			["options"] = {
+				["Damond"] = {
+					[3908] = {
+						["searchtext"] = "",
+					},
+				},
+			},
+			["bagDetails"] = {
+				["Damond"] = {
+					{
+						["bag"] = 0,
+						["name"] = "Hearthstone",
+						["slot"] = 1,
+						["id"] = 6948,
+						["count"] = 1,
+					}, -- [1]
+					{
+						["bag"] = 0,
+						["name"] = "Morning Glory Dew",
+						["slot"] = 2,
+						["id"] = 8766,
+						["count"] = 12,
+					}, -- [2]
+					{
+						["bag"] = 0,
+						["name"] = "Heavy Runecloth Bandage",
+						["slot"] = 3,
+						["id"] = 14530,
+						["count"] = 19,
+					}, -- [3]
+					{
+						["bag"] = 0,
+						["name"] = "Eternal Quintessence",
+						["slot"] = 4,
+						["id"] = 22754,
+						["count"] = 1,
+					}, -- [4]
+					{
+						["bag"] = 0,
+						["name"] = "Greater Eternal Essence",
+						["slot"] = 5,
+						["id"] = 16203,
+						["count"] = 5,
+					}, -- [5]
+					{
+						["bag"] = 0,
+						["name"] = "Sungrass",
+						["slot"] = 6,
+						["id"] = 8838,
+						["count"] = 20,
+					}, -- [6]
+					{
+						["bag"] = 0,
+						["name"] = "Sungrass",
+						["slot"] = 7,
+						["id"] = 8838,
+						["count"] = 20,
+					}, -- [7]
+					{
+						["bag"] = 0,
+						["name"] = "Dreamfoil",
+						["slot"] = 8,
+						["id"] = 13463,
+						["count"] = 20,
+					}, -- [8]
+					{
+						["bag"] = 0,
+						["name"] = "Mountain Silversage",
+						["slot"] = 9,
+						["id"] = 13465,
+						["count"] = 20,
+					}, -- [9]
+					{
+						["bag"] = 0,
+						["name"] = "Mountain Silversage",
+						["slot"] = 10,
+						["id"] = 13465,
+						["count"] = 20,
+					}, -- [10]
+					{
+						["bag"] = 0,
+						["name"] = "Dreamfoil",
+						["slot"] = 15,
+						["id"] = 13463,
+						["count"] = 20,
+					}, -- [11]
+					{
+						["bag"] = 0,
+						["name"] = "Dreamfoil",
+						["slot"] = 16,
+						["id"] = 13463,
+						["count"] = 20,
+					}, -- [12]
+					{
+						["bag"] = 1,
+						["name"] = "Dreamfoil",
+						["slot"] = 1,
+						["id"] = 13463,
+						["count"] = 20,
+					}, -- [13]
+					{
+						["bag"] = 1,
+						["name"] = "Dreamfoil",
+						["slot"] = 2,
+						["id"] = 13463,
+						["count"] = 20,
+					}, -- [14]
+					{
+						["bag"] = 1,
+						["name"] = "Mountain Silversage",
+						["slot"] = 3,
+						["id"] = 13465,
+						["count"] = 20,
+					}, -- [15]
+					{
+						["bag"] = 1,
+						["name"] = "Mountain Silversage",
+						["slot"] = 4,
+						["id"] = 13465,
+						["count"] = 20,
+					}, -- [16]
+					{
+						["bag"] = 1,
+						["name"] = "Greater Eternal Essence",
+						["slot"] = 9,
+						["id"] = 16203,
+						["count"] = 10,
+					}, -- [17]
+					{
+						["bag"] = 1,
+						["name"] = "Mountain Silversage",
+						["slot"] = 10,
+						["id"] = 13465,
+						["count"] = 20,
+					}, -- [18]
+					{
+						["bag"] = 1,
+						["name"] = "Mountain Silversage",
+						["slot"] = 11,
+						["id"] = 13465,
+						["count"] = 20,
+					}, -- [19]
+					{
+						["bag"] = 1,
+						["name"] = "Mountain Silversage",
+						["slot"] = 12,
+						["id"] = 13465,
+						["count"] = 20,
+					}, -- [20]
+					{
+						["bag"] = 1,
+						["name"] = "Dreamfoil",
+						["slot"] = 13,
+						["id"] = 13463,
+						["count"] = 20,
+					}, -- [21]
+					{
+						["bag"] = 1,
+						["name"] = "Dreamfoil",
+						["slot"] = 14,
+						["id"] = 13463,
+						["count"] = 20,
+					}, -- [22]
+					{
+						["bag"] = 1,
+						["name"] = "Greater Eternal Essence",
+						["slot"] = 15,
+						["id"] = 16203,
+						["count"] = 10,
+					}, -- [23]
+					{
+						["bag"] = 1,
+						["name"] = "Black Lotus",
+						["slot"] = 16,
+						["id"] = 13468,
+						["count"] = 1,
+					}, -- [24]
+					{
+						["bag"] = 2,
+						["name"] = "Crystal Vial",
+						["slot"] = 1,
+						["id"] = 8925,
+						["count"] = 1,
+					}, -- [25]
+					{
+						["bag"] = 2,
+						["name"] = "Leaded Vial",
+						["slot"] = 2,
+						["id"] = 3372,
+						["count"] = 10,
+					}, -- [26]
+					{
+						["bag"] = 2,
+						["name"] = "Stonescale Eel",
+						["slot"] = 3,
+						["id"] = 13422,
+						["count"] = 10,
+					}, -- [27]
+					{
+						["bag"] = 2,
+						["name"] = "Gromsblood",
+						["slot"] = 4,
+						["id"] = 8846,
+						["count"] = 20,
+					}, -- [28]
+					{
+						["bag"] = 2,
+						["name"] = "Gromsblood",
+						["slot"] = 5,
+						["id"] = 8846,
+						["count"] = 10,
+					}, -- [29]
+					{
+						["bag"] = 2,
+						["name"] = "Large Brilliant Shard",
+						["slot"] = 6,
+						["id"] = 14344,
+						["count"] = 15,
+					}, -- [30]
+					{
+						["bag"] = 2,
+						["name"] = "Soul Shard",
+						["slot"] = 9,
+						["id"] = 6265,
+						["count"] = 1,
+					}, -- [31]
+					{
+						["bag"] = 2,
+						["name"] = "Soul Shard",
+						["slot"] = 10,
+						["id"] = 6265,
+						["count"] = 1,
+					}, -- [32]
+					{
+						["bag"] = 2,
+						["name"] = "Soul Shard",
+						["slot"] = 11,
+						["id"] = 6265,
+						["count"] = 1,
+					}, -- [33]
+					{
+						["bag"] = 2,
+						["name"] = "Soul Shard",
+						["slot"] = 12,
+						["id"] = 6265,
+						["count"] = 1,
+					}, -- [34]
+					{
+						["bag"] = 2,
+						["name"] = "Khadgar's Whisker",
+						["slot"] = 13,
+						["id"] = 3358,
+						["count"] = 20,
+					}, -- [35]
+					{
+						["bag"] = 2,
+						["name"] = "Mooncloth",
+						["slot"] = 14,
+						["id"] = 14342,
+						["count"] = 1,
+					}, -- [36]
+					{
+						["bag"] = 2,
+						["name"] = "Large Brilliant Shard",
+						["slot"] = 15,
+						["id"] = 14344,
+						["count"] = 20,
+					}, -- [37]
+					{
+						["bag"] = 2,
+						["name"] = "Soul Shard",
+						["slot"] = 16,
+						["id"] = 6265,
+						["count"] = 1,
+					}, -- [38]
+					{
+						["bag"] = 3,
+						["name"] = "Soul Shard",
+						["slot"] = 1,
+						["id"] = 6265,
+						["count"] = 1,
+					}, -- [39]
+					{
+						["bag"] = 3,
+						["name"] = "Soul Shard",
+						["slot"] = 2,
+						["id"] = 6265,
+						["count"] = 1,
+					}, -- [40]
+					{
+						["bag"] = 3,
+						["name"] = "Gurubashi Head Collection",
+						["slot"] = 3,
+						["id"] = 19880,
+						["count"] = 1,
+					}, -- [41]
+					{
+						["bag"] = 3,
+						["name"] = "Soul Shard",
+						["slot"] = 4,
+						["id"] = 6265,
+						["count"] = 1,
+					}, -- [42]
+					{
+						["bag"] = 3,
+						["name"] = "Soul Shard",
+						["slot"] = 5,
+						["id"] = 6265,
+						["count"] = 1,
+					}, -- [43]
+					{
+						["bag"] = 3,
+						["name"] = "Soul Shard",
+						["slot"] = 6,
+						["id"] = 6265,
+						["count"] = 1,
+					}, -- [44]
+					{
+						["bag"] = 3,
+						["name"] = "Primal Hakkari Sash",
+						["slot"] = 13,
+						["id"] = 19720,
+						["count"] = 1,
+					}, -- [45]
+					{
+						["bag"] = 3,
+						["name"] = "Primal Hakkari Stanchion",
+						["slot"] = 14,
+						["id"] = 19718,
+						["count"] = 1,
+					}, -- [46]
+					{
+						["bag"] = 3,
+						["name"] = "Heart of Hakkar",
+						["slot"] = 15,
+						["id"] = 19802,
+						["count"] = 1,
+					}, -- [47]
+					{
+						["bag"] = 3,
+						["name"] = "Mantle of the Blackwing Cabal",
+						["slot"] = 16,
+						["id"] = 19370,
+						["count"] = 1,
+					}, -- [48]
+					{
+						["bag"] = 4,
+						["name"] = "Mana Igniting Cord",
+						["slot"] = 1,
+						["id"] = 19136,
+						["count"] = 1,
+					}, -- [49]
+					{
+						["bag"] = 4,
+						["name"] = "Briarwood Reed",
+						["slot"] = 7,
+						["id"] = 12930,
+						["count"] = 1,
+					}, -- [50]
+					{
+						["bag"] = 4,
+						["name"] = "Onyxia Scale Cloak",
+						["slot"] = 8,
+						["id"] = 15138,
+						["count"] = 1,
+					}, -- [51]
+					{
+						["bag"] = 4,
+						["name"] = "Wand of Biting Cold",
+						["slot"] = 9,
+						["id"] = 19108,
+						["count"] = 1,
+					}, -- [52]
+					{
+						["bag"] = 4,
+						["name"] = "Drakefire Amulet",
+						["slot"] = 10,
+						["id"] = 16309,
+						["count"] = 1,
+					}, -- [53]
+					{
+						["bag"] = 4,
+						["name"] = "Rune of the Dawn",
+						["slot"] = 11,
+						["id"] = 19812,
+						["count"] = 1,
+					}, -- [54]
+				},
+				["Damondbank"] = {
+					{
+						["bag"] = 0,
+						["name"] = "Jungle Necklace of Frost Resistance",
+						["slot"] = 4,
+						["id"] = 12046,
+						["count"] = 1,
+					}, -- [1]
+					{
+						["bag"] = 0,
+						["name"] = "Mystical Cape of Frost Resistance",
+						["slot"] = 5,
+						["id"] = 10174,
+						["count"] = 1,
+					}, -- [2]
+					{
+						["bag"] = 0,
+						["name"] = "Large Brown Sack",
+						["slot"] = 7,
+						["id"] = 5576,
+						["count"] = 1,
+					}, -- [3]
+					{
+						["bag"] = 0,
+						["name"] = "Journeyman's Backpack",
+						["slot"] = 8,
+						["id"] = 3914,
+						["count"] = 1,
+					}, -- [4]
+					{
+						["bag"] = 0,
+						["name"] = "Large Brown Sack",
+						["slot"] = 9,
+						["id"] = 5576,
+						["count"] = 1,
+					}, -- [5]
+					{
+						["bag"] = 0,
+						["name"] = "Mageweave Bag",
+						["slot"] = 10,
+						["id"] = 10050,
+						["count"] = 1,
+					}, -- [6]
+					{
+						["bag"] = 0,
+						["name"] = "Peridot Circle of Arcane Resistance",
+						["slot"] = 14,
+						["id"] = 11979,
+						["count"] = 1,
+					}, -- [7]
+					{
+						["bag"] = 0,
+						["name"] = "Celestial Bindings of Nature Resistance",
+						["slot"] = 18,
+						["id"] = 14311,
+						["count"] = 1,
+					}, -- [8]
+					{
+						["bag"] = 0,
+						["name"] = "High Councillor's Circlet of Shadow Resistance",
+						["slot"] = 19,
+						["id"] = 10139,
+						["count"] = 1,
+					}, -- [9]
+					{
+						["bag"] = 0,
+						["name"] = "Celestial Cape of Shadow Resistance",
+						["slot"] = 20,
+						["id"] = 14313,
+						["count"] = 1,
+					}, -- [10]
+				},
+			},
+			["userIgnoredMats"] = {
+				["Damond"] = {
+				},
+				["Damondbank"] = {
+				},
+			},
+			["groupDB"] = {
+			},
+		},
+	},
+}

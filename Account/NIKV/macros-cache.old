@@ -1,25 +1,67 @@
 VER 3 0000000000000001 "attack" "INV_MISC_QUESTIONMARK"
 /cast !shoot
 END
+VER 3 0000000000000011 "banish 1" "INV_MISC_QUESTIONMARK"
+/showtooltip
+/cast Banish(Rank 1)
+/focus
+END
+VER 3 0000000000000010 "banish 2" "INV_MISC_QUESTIONMARK"
+/showtooltip
+/cast Banish(Rank 2)
+/focus
+END
+VER 3 000000000000000C "focus" "INV_MISC_QUESTIONMARK"
+/focus
+END
+VER 3 000000000000000A "hs" "INV_MISC_QUESTIONMARK"
+#showtooltip Master Healthstone
+/use item:22103
+/use item:22104
+/use item:22105
+END
+VER 3 0000000000000008 "hs" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Major Healthstone
+END
 VER 3 0000000000000002 "LFG" "INV_MISC_QUESTIONMARK"
-/1 LFG/LFM Scholo
-/4 LFG/LFM Scholo
-/5 LFG/LFM Scholo
-/7 LFG/LFM Scholo
+/y LFG SP (H) - lock
+/1 LFG SP (H) - lock
+/5 LFG SP (H) - lock
+/6 LFG SP (H) - lock
 END
 VER 3 0000000000000003 "LFM" "INV_MISC_QUESTIONMARK"
-/4 LF2M healer + tank DMW (including lock mount q)
-/5 LF2M healer + tank DMW (including lock mount q)
-/7 LF2M healer + tank DMW (including lock mount q)
+/y LF3M SP (H)
+/1 LF3M SP (H)
+/5 LF3M SP (H)
+/6 LF3M SP (H)
+END
+VER 3 000000000000000B "mount" "INV_MISC_QUESTIONMARK"
+#showtooltip Summon Dreadsteed(Summon)
+/cast Golden Gryphon
+/cast Summon Dreadsteed(Summon)
 END
 VER 3 0000000000000007 "PI" "132089"
 /w chadyo PI NOW!!!
+END
+VER 3 0000000000000009 "purple" "INV_MISC_QUESTIONMARK"
+/targetmarker 3
+END
+VER 3 000000000000000E "spitfire" "INV_MISC_QUESTIONMARK"
+/tar spitfire
 END
 VER 3 0000000000000005 "summon" "INV_MISC_QUESTIONMARK"
 /cast Ritual of Summoning
 /say Summoning %t
 /party Summoning %t
 /raid Summoning %t
+END
+VER 3 000000000000000F "Tainted Core" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Tainted Core
+/y <------- TAINTED CORE TO: %t ! ! !
+/s <------- TAINTED CORE TO: %t ! ! !
+/script SendChatMessage("!!! YOU HAVE THE CORE !!!", "WHISPER", "Common", UnitName("target"));
 END
 VER 3 0000000000000006 "tar" "INV_MISC_QUESTIONMARK"
 /tar sayge

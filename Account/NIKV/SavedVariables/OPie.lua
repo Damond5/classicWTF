@@ -4,14 +4,18 @@ OneRing_Config = {
 		["Razorgore-Damonddruid"] = "default",
 		["Lashlayer-Damond"] = "default",
 	},
-	["_GameVersion"] = "1.13.7",
+	["_GameVersion"] = "2.5.2",
 	["_OPieVersion"] = "Ancient Xe 2a (3.104)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["RingAtMouse"] = true,
+			["RotationTokens"] = {
+				["ABueh21QF0O"] = "ABueh21QF0Q",
+				["ABuezgUFgbt"] = "ABuezgUFgbe",
+			},
 			["Bindings"] = {
-				["druid"] = "V",
 				["lock"] = "V",
+				["druid"] = "V",
 			},
 		},
 	},
@@ -37,8 +41,8 @@ OneRing_Config = {
 					["sliceToken"] = "ABue4Yp33oe",
 				}, -- [1]
 				{
-					["id"] = 5234,
-					["sliceToken"] = "ABue4OHUovu",
+					["id"] = 8907,
+					["sliceToken"] = "ABuezwVxfUy",
 				}, -- [2]
 				{
 					["id"] = 783,
@@ -49,33 +53,37 @@ OneRing_Config = {
 					["sliceToken"] = "ABue47tabke",
 				}, -- [4]
 				{
-					["id"] = 1075,
-					["sliceToken"] = "ABue4OHUovt",
+					["id"] = 8914,
+					["sliceToken"] = "ABuezwVxfUt",
 				}, -- [5]
-				["limit"] = "Damonddruid-Razorgore",
+				["name"] = "druid",
 				["save"] = true,
 				["hotkey"] = "V",
-				["name"] = "druid",
+				["limit"] = "Damonddruid-Razorgore",
 			},
 			["demons"] = {
 				{
-					["sliceToken"] = "ABueh21QF0Q",
 					["id"] = 688,
+					["sliceToken"] = "ABueh21QF0Q",
 				}, -- [1]
 				{
-					["sliceToken"] = "ABueh21QF0m",
 					["id"] = 697,
+					["sliceToken"] = "ABueh21QF0m",
 				}, -- [2]
 				{
-					["sliceToken"] = "ABueh21QF0n",
 					["id"] = 712,
+					["sliceToken"] = "ABueh21QF0n",
 				}, -- [3]
 				{
-					["sliceToken"] = "ABuejLWXIuw",
 					["id"] = 691,
+					["sliceToken"] = "ABuejLWXIuw",
 				}, -- [4]
-				["name"] = "demons",
+				{
+					["id"] = 30146,
+					["sliceToken"] = "ABuezqWHEAw",
+				}, -- [5]
 				["save"] = true,
+				["name"] = "demons",
 				["limit"] = "Damond-Razorgore",
 			},
 			["lock"] = {
@@ -85,29 +93,43 @@ OneRing_Config = {
 					["sliceToken"] = "ABueh21QF0O",
 				}, -- [1]
 				{
-					["sliceToken"] = "ABuehfsJGDu",
-					["id"] = 20757,
+					["id"] = 27238,
+					["sliceToken"] = "ABuezvHFpAr",
 				}, -- [2]
 				{
-					["sliceToken"] = "ABueh3SPPze",
-					["id"] = 11730,
+					"ring", -- [1]
+					"stones", -- [2]
+					["sliceToken"] = "ABuezgUFgbt",
 				}, -- [3]
 				{
-					["sliceToken"] = "ABuehfsJGDy",
-					["id"] = 11735,
+					["id"] = 28189,
+					["sliceToken"] = "ABuezvHFpA1",
 				}, -- [4]
 				{
-					["sliceToken"] = "ABuehoqlDLr",
-					["id"] = 5697,
+					["id"] = 18288,
+					["sliceToken"] = "ABuezRiV1Y1",
 				}, -- [5]
 				{
 					"macro", -- [1]
 					"summon", -- [2]
 					["sliceToken"] = "ABueh3puYGe",
 				}, -- [6]
-				["limit"] = "Damond-Razorgore",
 				["save"] = true,
+				["limit"] = "Damond-Razorgore",
 				["name"] = "lock",
+			},
+			["stones"] = {
+				{
+					["id"] = 27230,
+					["sliceToken"] = "ABuezgUFgbr",
+				}, -- [1]
+				{
+					["id"] = 29893,
+					["sliceToken"] = "ABuezgUFgbe",
+				}, -- [2]
+				["save"] = true,
+				["name"] = "stones",
+				["limit"] = "Damond-Razorgore",
 			},
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,

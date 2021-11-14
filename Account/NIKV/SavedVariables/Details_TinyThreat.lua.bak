@@ -2,6 +2,7 @@
 Details_TinyThreatDB = {
 	["characters"] = {
 		["Ksumdamond - Razorgore"] = "Damond - Razorgore",
+		["Damonddruid - Razorgore"] = "Damond - Razorgore",
 		["Damondbank - Razorgore"] = "Damond - Razorgore",
 		["Damond - Razorgore"] = "Damond - Razorgore",
 	},
@@ -20,8 +21,8 @@ Details_TinyThreatDB = {
 			["dividebyhundred"] = true,
 			["showamount"] = true,
 			["useplayercolor"] = true,
-			["author"] = "Details! Team",
 			["alwaysshowme"] = true,
+			["author"] = "Details! Team",
 		},
 	},
 }

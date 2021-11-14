@@ -1,10 +1,23 @@
+VER 3 0000000001000006 "bear" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelform
+/cast Dire Bear Form(Shapeshift)
+END
+VER 3 0000000001000004 "cancelform" "INV_MISC_QUESTIONMARK"
+/cancelform
+END
+VER 3 0000000001000005 "cat" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelform
+/cast Cat Form(Shapeshift)
+END
 VER 3 0000000001000003 "lfm" "INV_MISC_QUESTIONMARK"
-/y LF4M Gnomeregan
-/1 LF4M Gnomeregan
-/2 LF4M Gnomeregan
-/4 LF4M Gnomeregan
-/5 LF4M Gnomeregan
-/6 LF4M Gnomeregan
+/y LFM Uldaman
+/1 LFM Uldaman
+/2 LFM Uldaman
+/4 LFM Uldaman
+/5 LFM Uldaman
+/6 LFM Uldaman
 END
 VER 3 0000000001000001 "startattack" "132223"
 #showtooltip Attack

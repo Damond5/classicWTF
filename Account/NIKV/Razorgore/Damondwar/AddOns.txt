@@ -40,3 +40,12 @@ Plater: enabled
 BattlegroundNotifier: disabled
 Capping: disabled
 Capping_Options: disabled
+AtlasLootClassic_Options: enabled
+AtlasLootClassic_Collections: enabled
+AtlasLootClassic_Crafting: enabled
+AtlasLootClassic_DungeonsAndRaids: enabled
+AtlasLootClassic_Factions: enabled
+AtlasLootClassic_PvP: enabled
+AtlasLootClassic: enabled
+AtlasLootClassic_Data: enabled
+ClassicLFG: enabled

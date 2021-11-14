@@ -7,7 +7,7 @@ oRA3DB = {
 		},
 		["Invite"] = {
 		},
-		["Tanks"] = {
+		["Alerts"] = {
 		},
 		["ReadyCheck"] = {
 			["profiles"] = {
@@ -19,11 +19,12 @@ oRA3DB = {
 		},
 		["Promote"] = {
 		},
-		["Alerts"] = {
+		["Tanks"] = {
 		},
 	},
 	["profileKeys"] = {
 		["Ksumdamond - Razorgore"] = "Default",
+		["Damond - Firemaw"] = "Default",
 		["Damonddruid - Razorgore"] = "Default",
 		["Fsumdamond - Razorgore"] = "Default",
 		["Damondbank - Razorgore"] = "Default",

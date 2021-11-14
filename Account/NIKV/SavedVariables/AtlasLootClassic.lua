@@ -1,17 +1,20 @@
 
 AtlasLootClassicDB = {
+	["global"] = {
+		["__addonrevision"] = 2040000,
+	},
 	["profileKeys"] = {
 		["Ksumdamond - Razorgore"] = "Ksumdamond - Razorgore",
+		["Damond - Firemaw"] = "Damond - Firemaw",
 		["Damonddruid - Razorgore"] = "Damonddruid - Razorgore",
 		["Fsumdamond - Razorgore"] = "Fsumdamond - Razorgore",
 		["Damondbank - Razorgore"] = "Damondbank - Razorgore",
 		["Damond - Razorgore"] = "Damond - Razorgore",
 	},
-	["global"] = {
-		["__addonrevision"] = 1050009,
-	},
 	["profiles"] = {
 		["Ksumdamond - Razorgore"] = {
+		},
+		["Damond - Firemaw"] = {
 		},
 		["Damonddruid - Razorgore"] = {
 			["minimap"] = {
@@ -24,13 +27,13 @@ AtlasLootClassicDB = {
 					nil, -- [1]
 					nil, -- [2]
 					"CENTER", -- [3]
-					103.000053405762, -- [4]
-					0.999974608421326, -- [5]
+					104.0000076293945, -- [4]
+					1.000047326087952, -- [5]
 				},
 				["selected"] = {
 					nil, -- [1]
-					"Gnomeregan", -- [2]
-					nil, -- [3]
+					"Zul'Farrak", -- [2]
+					8, -- [3]
 					1, -- [4]
 					0, -- [5]
 				},
@@ -50,25 +53,25 @@ AtlasLootClassicDB = {
 			},
 		},
 		["Damond - Razorgore"] = {
-			["minimap"] = {
-				["shown"] = false,
-				["hide"] = true,
-			},
 			["GUI"] = {
 				["point"] = {
-					nil, -- [1]
+					"BOTTOM", -- [1]
 					nil, -- [2]
-					"CENTER", -- [3]
-					72.0000076293945, -- [4]
-					18.9999752044678, -- [5]
+					"BOTTOM", -- [3]
+					234.9050140380859, -- [4]
+					45.95234298706055, -- [5]
 				},
 				["selected"] = {
 					nil, -- [1]
-					"Naxxramas", -- [2]
-					15, -- [3]
-					3, -- [4]
+					"TempestKeep", -- [2]
+					4, -- [3]
+					1, -- [4]
 					0, -- [5]
 				},
+			},
+			["minimap"] = {
+				["shown"] = false,
+				["hide"] = true,
 			},
 		},
 	},
