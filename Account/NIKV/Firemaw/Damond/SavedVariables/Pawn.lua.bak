@@ -1,0 +1,103 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0537,
+	["ItemLevels"] = {
+		{
+			["ID"] = 31051,
+			["Level"] = 146,
+			["Link"] = "|cffa335ee|Hitem:31051::::::::70:::::::::|h[Hood of the Malefic]|h|r",
+		}, -- [1]
+		{
+			["ID"] = 32649,
+			["Level"] = 141,
+			["Link"] = "|cffa335ee|Hitem:32649::::::::70:::::::::|h[Medallion of Karabor]|h|r",
+		}, -- [2]
+		{
+			["ID"] = 31054,
+			["Level"] = 146,
+			["Link"] = "|cffa335ee|Hitem:31054::::::::70:::::::::|h[Mantle of the Malefic]|h|r",
+		}, -- [3]
+		nil, -- [4]
+		{
+			["ID"] = 30107,
+			["Level"] = 138,
+			["Link"] = "|cffa335ee|Hitem:30107::::::::70:::::::::|h[Vestments of the Sea-Witch]|h|r",
+		}, -- [5]
+		{
+			["ID"] = 30038,
+			["Level"] = 128,
+			["Link"] = "|cffa335ee|Hitem:30038::::::::70:::::::::|h[Belt of Blasting]|h|r",
+		}, -- [6]
+		{
+			["ID"] = 31053,
+			["Level"] = 146,
+			["Link"] = "|cffa335ee|Hitem:31053::::::::70:::::::::|h[Leggings of the Malefic]|h|r",
+		}, -- [7]
+		{
+			["ID"] = 32239,
+			["Level"] = 141,
+			["Link"] = "|cffa335ee|Hitem:32239::::::::70:::::::::|h[Slippers of the Seacaller]|h|r",
+		}, -- [8]
+		{
+			["ID"] = 32586,
+			["Level"] = 141,
+			["Link"] = "|cffa335ee|Hitem:32586::::::::70:::::::::|h[Bracers of Nimble Thought]|h|r",
+		}, -- [9]
+		{
+			["ID"] = 31050,
+			["Level"] = 146,
+			["Link"] = "|cffa335ee|Hitem:31050:2614:::::::70:::::::::|h[Gloves of the Malefic]|h|r",
+		}, -- [10]
+		{
+			["ID"] = 29305,
+			["Level"] = 152,
+			["AlsoFitsIn"] = 12,
+			["Link"] = "|cffa335ee|Hitem:29305::::::::70:::::::::|h[Band of the Eternal Sage]|h|r",
+		}, -- [11]
+		{
+			["ID"] = 33498,
+			["Level"] = 141,
+			["AlsoFitsIn"] = 11,
+			["Link"] = "|cffa335ee|Hitem:33498::::::::70:::::::::|h[Signet of the Quiet Forest]|h|r",
+		}, -- [12]
+		{
+			["ID"] = 33829,
+			["Level"] = 133,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cffa335ee|Hitem:33829::::::::70:::::::::|h[Hex Shrunken Head]|h|r",
+		}, -- [13]
+		{
+			["ID"] = 37127,
+			["Level"] = 128,
+			["AlsoFitsIn"] = 13,
+			["Link"] = "|cffa335ee|Hitem:37127::::::::70:::::::::|h[Brightbrew Charm]|h|r",
+		}, -- [14]
+		{
+			["ID"] = 32590,
+			["Level"] = 141,
+			["Link"] = "|cffa335ee|Hitem:32590::::::::70:::::::::|h[Nethervoid Cloak]|h|r",
+		}, -- [15]
+		{
+			["ID"] = 30313,
+			["Level"] = 175,
+			["Link"] = "|cffff8000|Hitem:30313::::::::70:::::::::|h[Staff of Disintegration]|h|r",
+		}, -- [16]
+		{
+			["ID"] = 32361,
+			["Level"] = 141,
+			["Link"] = "|cffa335ee|Hitem:32361::::::::70:::::::::|h[Blind-Seers Icon]|h|r",
+		}, -- [17]
+		{
+			["ID"] = 29982,
+			["Level"] = 134,
+			["Link"] = "|cffa335ee|Hitem:29982::::::::70:::::::::|h[Wand of the Forgotten Star]|h|r",
+		}, -- [18]
+	},
+	["AutoSelectScales"] = false,
+	["LastPlayerFullName"] = "Damond-Firemaw",
+}
+PawnMrRobotScaleProviderOptions = nil
+PawnClassicScaleProviderOptions = {
+	["LastClass"] = "WARLOCK",
+	["LastAdded"] = 2,
+}

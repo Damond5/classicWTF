@@ -13,6 +13,11 @@ ClassicLFG_DB = {
 			["BroadcastDungeonGroupChannel"] = 1,
 		},
 		["Damond - Firemaw"] = {
+			["minimap"] = {
+				["minimapPos"] = 252.2675923959272,
+				["hide"] = true,
+			},
+			["BroadcastDungeonGroupChannel"] = 2,
 		},
 		["Damonddruid - Razorgore"] = {
 			["BroadcastDungeonGroupInterval"] = 180,

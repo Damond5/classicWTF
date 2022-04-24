@@ -145,9 +145,9 @@ WIM3_Data = {
 			["custom_sml"] = "Chat Blip",
 			["say_sml"] = "Chat Blip",
 			["raid_sml"] = "Chat Blip",
-			["raidleader_sml"] = "Chat Blip",
 			["officer_sml"] = "Chat Blip",
 			["guild_sml"] = "Chat Blip",
+			["raidleader_sml"] = "Chat Blip",
 			["battlegroundleader_sml"] = "Chat Blip",
 			["battleground_sml"] = "Chat Blip",
 		},
@@ -222,8 +222,8 @@ WIM3_Data = {
 	["showToolTips"] = true,
 	["minimap"] = {
 		["free_position"] = {
-			["y"] = -121.2189826349022,
-			["x"] = -125.4081966024091,
+			["y"] = -121.8952277405733,
+			["x"] = -122.5654720414455,
 			["point"] = "TOPRIGHT",
 		},
 		["free"] = false,
@@ -560,12 +560,12 @@ WIM3_Cache = {
 				["Maeil"] = 168,
 				["Tjernobyl"] = 93,
 				["Leemak"] = 59,
-				["Molomo"] = 27,
-				["Xamø"] = 17,
-				["Bambibreaker"] = 46,
-				["Serlina"] = 124,
 				["Plash"] = 173,
 				["Wirr"] = 189,
+				["Bambibreaker"] = 46,
+				["Serlina"] = 124,
+				["Molomo"] = 27,
+				["Xamø"] = 17,
 				["Hailseitan"] = 88,
 				["Schouen"] = 74,
 				["Komher"] = 23,
@@ -576,7 +576,7 @@ WIM3_Cache = {
 				["Heatonleen"] = 162,
 				["Arazolbank"] = 1,
 				["Chadyoosum"] = 19,
-				["Damond"] = 183,
+				["Avila"] = 9,
 				["Clairè"] = 50,
 				["Kilde"] = 154,
 				["Mulumu"] = 37,
@@ -584,7 +584,7 @@ WIM3_Cache = {
 				["Rackpriest"] = 140,
 				["Warlockleen"] = 205,
 				["Biggav"] = 34,
-				["Avila"] = 9,
+				["Damond"] = 183,
 				["Milehmy"] = 169,
 				["Geowall"] = 147,
 				["Upirspike"] = 177,
@@ -604,8 +604,8 @@ WIM3_Cache = {
 				["Zedge"] = 191,
 				["Elyrinne"] = 134,
 				["Soleme"] = 13,
-				["Proximo"] = 152,
 				["Supreme"] = 143,
+				["Proximo"] = 152,
 				["Bèrlin"] = 49,
 				["Ligebagdig"] = 61,
 				["Thralski"] = 175,
@@ -615,20 +615,20 @@ WIM3_Cache = {
 				["Lekanatzou"] = 14,
 				["Medrux"] = 65,
 				["Dreadhunt"] = 118,
-				["Xamo"] = 178,
 				["Dreadful"] = 133,
 				["Kamels"] = 22,
+				["Xamo"] = 178,
 				["Jizzy"] = 164,
 				["Nallena"] = 66,
 				["Kinkeng"] = 200,
 				["Azarol"] = 33,
 				["Chadyoo"] = 25,
-				["Tenkeng"] = 199,
 				["Rikia"] = 71,
+				["Ana"] = 114,
 				["Andy"] = 132,
 				["Nefiri"] = 122,
 				["Boppop"] = 48,
-				["Ana"] = 114,
+				["Tenkeng"] = 199,
 				["Nès"] = 171,
 				["Zuphunter"] = 81,
 				["Dwarfman"] = 53,
@@ -683,23 +683,23 @@ WIM3_Cache = {
 				["|Km9|k"] = 2,
 				["|Km31|k"] = 2,
 				["|Km26|k"] = 2,
-				["|Km25|k"] = 2,
-				["|Km7|k"] = 2,
-				["|Km23|k"] = 2,
 				["|Km13|k"] = 2,
+				["|Km14|k"] = 2,
+				["|Km23|k"] = 2,
+				["|Km2|k"] = 2,
 				["|Km3|k"] = 2,
 				["|Km30|k"] = 2,
 				["|Km27|k"] = 2,
 				["|Km21|k"] = 2,
 				["|Km24|k"] = 2,
 				["|Km29|k"] = 2,
-				["|Km14|k"] = 2,
+				["|Km32|k"] = 2,
 				["|Km6|k"] = 2,
 				["|Km18|k"] = 2,
 				["|Km4|k"] = 2,
 				["|Km20|k"] = 2,
-				["|Km32|k"] = 2,
-				["|Km2|k"] = 2,
+				["|Km7|k"] = 2,
+				["|Km25|k"] = 2,
 				["|Km16|k"] = 2,
 				["|Km5|k"] = 2,
 				["|Km10|k"] = 2,
@@ -1426,6 +1426,122 @@ WIM3_Cache = {
 				["|Kq4|k"] = 2,
 				["|Kq30|k"] = 2,
 			},
+			["guildList"] = {
+				["Daxxy"] = 63,
+				["Lathine"] = 12,
+				["Banoffeé"] = 47,
+				["Palaleen"] = 107,
+				["Bankpumper"] = 30,
+				["Pinkistinki"] = 56,
+				["Diaolos"] = 9,
+				["Arazol"] = 58,
+				["Matty"] = 15,
+				["Makeel"] = 76,
+				["Rigit"] = 81,
+				["Delemeii"] = 44,
+				["Banoffée"] = 92,
+				["Sinsemila"] = 3,
+				["Lagërtha"] = 74,
+				["Antigosu"] = 23,
+				["Napon"] = 16,
+				["Tissefluté"] = 87,
+				["Dreadhunt"] = 65,
+				["Magerotten"] = 112,
+				["Hunterleen"] = 111,
+				["Kinkeng"] = 110,
+				["Peterpewpew"] = 52,
+				["Lowjagger"] = 100,
+				["Sengore"] = 84,
+				["Oidtusa"] = 39,
+				["Werda"] = 88,
+				["Zanderoth"] = 21,
+				["Warlockleen"] = 108,
+				["Kameelbank"] = 32,
+				["Draénar"] = 4,
+				["Zupahh"] = 22,
+				["Alcador"] = 54,
+				["Univermage"] = 104,
+				["Jazrin"] = 49,
+				["Damond"] = 97,
+				["Dunktwo"] = 11,
+				["Schóú"] = 102,
+				["Shortman"] = 18,
+				["Solèm"] = 103,
+				["Peterpán"] = 17,
+				["Shameng"] = 114,
+				["Schóue"] = 83,
+				["Chubbadina"] = 38,
+				["Noluckman"] = 79,
+				["Tinkeng"] = 24,
+				["Goodgamebank"] = 105,
+				["Hedva"] = 98,
+				["Daaxa"] = 8,
+				["Chubbyman"] = 96,
+				["Eughor"] = 67,
+				["Lostpart"] = 5,
+				["Lathinja"] = 40,
+				["Lelanai"] = 13,
+				["Babybluee"] = 95,
+				["Mhd"] = 6,
+				["Xámø"] = 94,
+				["Dreádful"] = 10,
+				["Chubback"] = 37,
+				["Medrux"] = 1,
+				["Chubbyone"] = 61,
+				["Zilith"] = 90,
+				["Ellertt"] = 93,
+				["Ashliti"] = 91,
+				["Gcdsmalld"] = 26,
+				["Dinkeng"] = 113,
+				["Newgibbo"] = 78,
+				["Lexluthor"] = 41,
+				["Daxxa"] = 62,
+				["Antiesh"] = 36,
+				["Lockleen"] = 106,
+				["Qellai"] = 43,
+				["Sarrowkyn"] = 82,
+				["Farligfar"] = 48,
+				["Lathïnja"] = 45,
+				["Nès"] = 80,
+				["Médrux"] = 77,
+				["Wirroza"] = 20,
+				["Evilkgb"] = 68,
+				["Hunterrotten"] = 109,
+				["Greenlogs"] = 31,
+				["Loloops"] = 27,
+				["Kamèl"] = 72,
+				["Kameel"] = 71,
+				["Bigbluee"] = 59,
+				["Scythel"] = 42,
+				["Medruxbank"] = 33,
+				["Gertrüd"] = 69,
+				["Tankahh"] = 86,
+				["Lathian"] = 75,
+				["Bikmage"] = 7,
+				["Royalvodka"] = 55,
+				["Frostitudes"] = 28,
+				["Dertolen"] = 64,
+				["Ythera"] = 53,
+				["Dunkin"] = 66,
+				["Shekelmaker"] = 85,
+				["Osveta"] = 46,
+				["Megaleen"] = 25,
+				["Kml"] = 73,
+				["Acidwille"] = 57,
+				["Solemb"] = 34,
+				["Bluntzen"] = 60,
+				["Littlescary"] = 99,
+				["Tepbank"] = 35,
+				["Bankbluee"] = 29,
+				["Lilgav"] = 51,
+				["Malenkihren"] = 14,
+				["Medruz"] = 101,
+				["Holyfíre"] = 70,
+				["Gav"] = 2,
+				["Zenobiak"] = 89,
+				["Tepper"] = 19,
+				["Zhizha"] = 50,
+			},
 		},
 	},
 }
@@ -1476,272 +1592,96 @@ WIM3_Filters = {
 	}, -- [4]
 }
 WIM3_History = {
-	["Razorgore"] = {
+	["Firemaw"] = {
 		["Damond"] = {
-			["Jokkefukke"] = {
+			["Schóú"] = {
 				{
 					["type"] = 1,
-					["time"] = 1636042859,
-					["from"] = "Jokkefukke",
-					["msg"] = "u flask master?",
+					["time"] = 1650309790,
+					["from"] = "Schóú",
+					["msg"] = "!todaysstats",
 					["inbound"] = true,
-					["convo"] = "Jokkefukke",
+					["convo"] = "Schóú",
 				}, -- [1]
-				{
-					["type"] = 1,
-					["time"] = 1636042865,
-					["from"] = "Jokkefukke",
-					["msg"] = "ur whatever its called",
-					["inbound"] = true,
-					["convo"] = "Jokkefukke",
-				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1636042867,
-					["from"] = "Damond",
-					["msg"] = "y, elixir master",
-					["inbound"] = false,
-					["convo"] = "Jokkefukke",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1636042881,
-					["from"] = "Damond",
-					["msg"] = "omw to shatt crafting some right now",
-					["inbound"] = false,
-					["convo"] = "Jokkefukke",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1636042895,
-					["from"] = "Jokkefukke",
-					["msg"] = "so flask wont proc only elixirsw?",
-					["inbound"] = true,
-					["convo"] = "Jokkefukke",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1636042905,
-					["from"] = "Damond",
-					["msg"] = "elixir is both",
-					["inbound"] = false,
-					["convo"] = "Jokkefukke",
-				}, -- [6]
-				{
-					["type"] = 1,
-					["time"] = 1636042911,
-					["from"] = "Damond",
-					["msg"] = "so yes, I can proc flasks",
-					["inbound"] = false,
-					["convo"] = "Jokkefukke",
-				}, -- [7]
-				{
-					["type"] = 1,
-					["time"] = 1636042921,
-					["from"] = "Jokkefukke",
-					["msg"] = "nice u have relentless assault",
-					["inbound"] = true,
-					["convo"] = "Jokkefukke",
-				}, -- [8]
-				{
-					["type"] = 1,
-					["time"] = 1636042925,
-					["from"] = "Jokkefukke",
-					["msg"] = "?",
-					["inbound"] = true,
-					["convo"] = "Jokkefukke",
-				}, -- [9]
-				{
-					["type"] = 1,
-					["time"] = 1636042927,
-					["from"] = "Damond",
-					["msg"] = "yes, I have them all",
-					["inbound"] = false,
-					["convo"] = "Jokkefukke",
-				}, -- [10]
-				{
-					["type"] = 1,
-					["time"] = 1636042931,
-					["from"] = "Jokkefukke",
-					["msg"] = "nice ",
-					["inbound"] = true,
-					["convo"] = "Jokkefukke",
-				}, -- [11]
 				["info"] = {
 				},
 			},
-			["Hedva"] = {
+			["Antigosu"] = {
 				{
 					["type"] = 1,
-					["time"] = 1636401584,
-					["from"] = "Hedva",
-					["msg"] = "can ya mix me flasks now pls?",
-					["inbound"] = true,
-					["convo"] = "Hedva",
+					["time"] = 1649359439,
+					["from"] = "Damond",
+					["msg"] = "got cr?",
+					["inbound"] = false,
+					["convo"] = "Antigosu",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1636401588,
-					["from"] = "Damond",
-					["msg"] = "for sure",
-					["inbound"] = false,
-					["convo"] = "Hedva",
+					["time"] = 1649359446,
+					["from"] = "Antigosu",
+					["msg"] = "no, 7 mins",
+					["inbound"] = true,
+					["convo"] = "Antigosu",
 				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1636401629,
-					["from"] = "Damond",
-					["msg"] = "come alch lab",
-					["inbound"] = false,
-					["convo"] = "Hedva",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1636401665,
-					["from"] = "Hedva",
-					["msg"] = "Pure death",
-					["inbound"] = true,
-					["convo"] = "Hedva",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1636401670,
-					["from"] = "Damond",
-					["msg"] = "4 pure death",
-					["inbound"] = false,
-					["convo"] = "Hedva",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1636401710,
-					["from"] = "Damond",
-					["msg"] = "rip",
-					["inbound"] = false,
-					["convo"] = "Hedva",
-				}, -- [6]
-				{
-					["type"] = 1,
-					["time"] = 1636401732,
-					["from"] = "Hedva",
-					["msg"] = "ty .)",
-					["inbound"] = true,
-					["convo"] = "Hedva",
-				}, -- [7]
-				{
-					["type"] = 1,
-					["time"] = 1636401736,
-					["from"] = "Damond",
-					["msg"] = "anytime",
-					["inbound"] = false,
-					["convo"] = "Hedva",
-				}, -- [8]
 				["info"] = {
 				},
 			},
-			["Duscúdu"] = {
+			["Matty"] = {
 				{
 					["type"] = 1,
-					["time"] = 1636049145,
-					["from"] = "Duscúdu",
-					["msg"] = "er der cd på at crafte flask?",
-					["inbound"] = true,
-					["convo"] = "Duscúdu",
+					["time"] = 1649359431,
+					["from"] = "Damond",
+					["msg"] = "got cr?",
+					["inbound"] = false,
+					["convo"] = "Matty",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1636049409,
-					["from"] = "Damond",
-					["msg"] = "nej, men det kræver alch lab i shattrath",
-					["inbound"] = false,
-					["convo"] = "Duscúdu",
+					["time"] = 1649359434,
+					["from"] = "Matty",
+					["msg"] = "no",
+					["inbound"] = true,
+					["convo"] = "Matty",
 				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1636049423,
-					["from"] = "Duscúdu",
-					["msg"] = "ok, sender bare mats til dig på et tidspunkt",
-					["inbound"] = true,
-					["convo"] = "Duscúdu",
+					["time"] = 1649359460,
+					["from"] = "Damond",
+					["msg"] = "shorter than 7 min cd?",
+					["inbound"] = false,
+					["convo"] = "Matty",
 				}, -- [3]
 				{
 					["type"] = 1,
-					["time"] = 1636049427,
-					["from"] = "Damond",
-					["msg"] = "sure thing",
-					["inbound"] = false,
-					["convo"] = "Duscúdu",
+					["time"] = 1649359474,
+					["from"] = "Matty",
+					["msg"] = "it is 7min",
+					["inbound"] = true,
+					["convo"] = "Matty",
 				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1636049433,
-					["from"] = "Duscúdu",
-					["msg"] = "Kan bare se jeg alligevel køber dine på ah |Helvmoji:%eEQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Core\\Media\\ChatEmojis\\Grin:16:16|t",
-					["inbound"] = true,
-					["convo"] = "Duscúdu",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1636049439,
-					["from"] = "Damond",
-					["msg"] = "har nogle du kan låne i dag, hvis det er",
-					["inbound"] = false,
-					["convo"] = "Duscúdu",
-				}, -- [6]
-				{
-					["type"] = 1,
-					["time"] = 1636049442,
-					["from"] = "Damond",
-					["msg"] = "lmao",
-					["inbound"] = false,
-					["convo"] = "Duscúdu",
-				}, -- [7]
-				{
-					["type"] = 1,
-					["time"] = 1636049447,
-					["from"] = "Duscúdu",
-					["msg"] = "haha nej det er fint",
-					["inbound"] = true,
-					["convo"] = "Duscúdu",
-				}, -- [8]
-				{
-					["type"] = 1,
-					["time"] = 1636049449,
-					["from"] = "Duscúdu",
-					["msg"] = "eller tak",
-					["inbound"] = true,
-					["convo"] = "Duscúdu",
-				}, -- [9]
-				{
-					["type"] = 1,
-					["time"] = 1636049461,
-					["from"] = "Damond",
-					["msg"] = "aight brb til raid",
-					["inbound"] = false,
-					["convo"] = "Duscúdu",
-				}, -- [10]
 				["info"] = {
 				},
 			},
 			["Megaleen"] = {
 				{
 					["type"] = 1,
-					["time"] = 1635796137,
-					["from"] = "Damond",
-					["msg"] = "inv",
-					["inbound"] = false,
+					["time"] = 1649364280,
+					["from"] = "Megaleen",
+					["msg"] = "gider du summon",
+					["inbound"] = true,
 					["convo"] = "Megaleen",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1635796137,
-					["from"] = "Megaleen",
-					["msg"] = "[RIC]: Invite by codeword only possible during invite phase!",
-					["inbound"] = true,
+					["time"] = 1649364288,
+					["from"] = "Damond",
+					["msg"] = "sure",
+					["inbound"] = false,
 					["convo"] = "Megaleen",
 				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1636050580,
+					["time"] = 1649696871,
 					["from"] = "Damond",
 					["msg"] = "inv",
 					["inbound"] = false,
@@ -1749,7 +1689,7 @@ WIM3_History = {
 				}, -- [3]
 				{
 					["type"] = 1,
-					["time"] = 1636050580,
+					["time"] = 1649696872,
 					["from"] = "Megaleen",
 					["msg"] = "[RIC]: Invite by codeword only possible during invite phase!",
 					["inbound"] = true,
@@ -1757,39 +1697,39 @@ WIM3_History = {
 				}, -- [4]
 				{
 					["type"] = 1,
-					["time"] = 1636056080,
-					["from"] = "Megaleen",
-					["msg"] = "du er inde her til tidewalker",
-					["inbound"] = true,
+					["time"] = 1649704730,
+					["from"] = "Damond",
+					["msg"] = "inv",
+					["inbound"] = false,
 					["convo"] = "Megaleen",
 				}, -- [5]
 				{
 					["type"] = 1,
-					["time"] = 1636056121,
-					["from"] = "Damond",
-					["msg"] = "sure",
-					["inbound"] = false,
+					["time"] = 1649704730,
+					["from"] = "Megaleen",
+					["msg"] = "[RIC]: Invite by codeword only possible during invite phase!",
+					["inbound"] = true,
 					["convo"] = "Megaleen",
 				}, -- [6]
 				{
 					["type"] = 1,
-					["time"] = 1636056129,
+					["time"] = 1649958597,
 					["from"] = "Damond",
-					["msg"] = "er på voice, bare råb",
+					["msg"] = "inv",
 					["inbound"] = false,
 					["convo"] = "Megaleen",
 				}, -- [7]
 				{
 					["type"] = 1,
-					["time"] = 1636394960,
-					["from"] = "Damond",
-					["msg"] = "in",
-					["inbound"] = false,
+					["time"] = 1649958597,
+					["from"] = "Megaleen",
+					["msg"] = "[RIC]: Invite by codeword only possible during invite phase!",
+					["inbound"] = true,
 					["convo"] = "Megaleen",
 				}, -- [8]
 				{
 					["type"] = 1,
-					["time"] = 1636394964,
+					["time"] = 1650301563,
 					["from"] = "Damond",
 					["msg"] = "inv",
 					["inbound"] = false,
@@ -1797,7 +1737,7 @@ WIM3_History = {
 				}, -- [9]
 				{
 					["type"] = 1,
-					["time"] = 1636394964,
+					["time"] = 1650301563,
 					["from"] = "Megaleen",
 					["msg"] = "[RIC]: Invite by codeword only possible during invite phase!",
 					["inbound"] = true,
@@ -1805,972 +1745,228 @@ WIM3_History = {
 				}, -- [10]
 				{
 					["type"] = 1,
-					["time"] = 1636398383,
-					["from"] = "Damond",
-					["msg"] = "hello",
-					["inbound"] = false,
-					["convo"] = "Megaleen",
-				}, -- [11]
-				{
-					["type"] = 1,
-					["time"] = 1636655094,
+					["time"] = 1650561884,
 					["from"] = "Damond",
 					["msg"] = "inv",
 					["inbound"] = false,
 					["convo"] = "Megaleen",
-				}, -- [12]
+				}, -- [11]
 				{
 					["type"] = 1,
-					["time"] = 1636655094,
+					["time"] = 1650561884,
 					["from"] = "Megaleen",
 					["msg"] = "[RIC]: Invite by codeword only possible during invite phase!",
 					["inbound"] = true,
 					["convo"] = "Megaleen",
-				}, -- [13]
+				}, -- [12]
 				["info"] = {
 				},
 			},
-			["Goodgamebank"] = {
+			["Tissefluté"] = {
 				{
 					["type"] = 1,
-					["time"] = 1636388525,
-					["from"] = "Goodgamebank",
-					["msg"] = "skal bruge flask",
+					["time"] = 1649365126,
+					["from"] = "Tissefluté",
+					["msg"] = "en gang til! Det er skide skægt i bongbong land!",
 					["inbound"] = true,
-					["convo"] = "Goodgamebank",
+					["convo"] = "Tissefluté",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1636388530,
+					["time"] = 1649365138,
 					["from"] = "Damond",
-					["msg"] = "ok",
+					["msg"] = "inc",
 					["inbound"] = false,
-					["convo"] = "Goodgamebank",
+					["convo"] = "Tissefluté",
 				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1636388644,
-					["from"] = "Damond",
-					["msg"] = "6 |cffffd000|Henchant:28587|h[Alchemy: Flask of Fortification]|h|r",
-					["inbound"] = false,
-					["convo"] = "Goodgamebank",
+					["time"] = 1649365142,
+					["from"] = "Tissefluté",
+					["msg"] = "^^",
+					["inbound"] = true,
+					["convo"] = "Tissefluté",
 				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1636388649,
-					["from"] = "Goodgamebank",
-					["msg"] = "jatak",
-					["inbound"] = true,
-					["convo"] = "Goodgamebank",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1636388779,
-					["from"] = "Damond",
-					["msg"] = "unlucky",
-					["inbound"] = false,
-					["convo"] = "Goodgamebank",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1636388790,
-					["from"] = "Goodgamebank",
-					["msg"] = "ej men",
-					["inbound"] = true,
-					["convo"] = "Goodgamebank",
-				}, -- [6]
 				["info"] = {
 				},
 			},
-			["Niszen"] = {
+			["Solèm"] = {
 				{
 					["type"] = 1,
-					["time"] = 1636655451,
-					["from"] = "Niszen",
-					["msg"] = "can u make some things",
-					["inbound"] = true,
-					["convo"] = "Niszen",
+					["time"] = 1650311496,
+					["from"] = "Damond",
+					["msg"] = "inv",
+					["inbound"] = false,
+					["convo"] = "Solèm",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1636655453,
-					["from"] = "Niszen",
-					["msg"] = "ohh",
+					["time"] = 1650311503,
+					["from"] = "Damond",
+					["msg"] = "toxic",
+					["inbound"] = false,
+					["convo"] = "Solèm",
+				}, -- [2]
+				["info"] = {
+				},
+			},
+			["Tankahh"] = {
+				{
+					["type"] = 1,
+					["time"] = 1649710808,
+					["from"] = "Tankahh",
+					["msg"] = "Kan dig og Daxxa ikke lige summon min pala til ZA?",
 					["inbound"] = true,
-					["convo"] = "Niszen",
+					["convo"] = "Tankahh",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1649710849,
+					["from"] = "Damond",
+					["msg"] = "dax afk?",
+					["inbound"] = false,
+					["convo"] = "Tankahh",
+				}, -- [2]
+				["info"] = {
+				},
+			},
+			["Medruz"] = {
+				{
+					["type"] = 1,
+					["time"] = 1649966728,
+					["from"] = "Damond",
+					["msg"] = "inv",
+					["inbound"] = false,
+					["convo"] = "Medruz",
+				}, -- [1]
+				["info"] = {
+				},
+			},
+			["Mhd"] = {
+				{
+					["type"] = 1,
+					["time"] = 1649960787,
+					["from"] = "Mhd",
+					["msg"] = "mate its really rolls for g ?",
+					["inbound"] = true,
+					["convo"] = "Mhd",
+				}, -- [1]
+				{
+					["type"] = 1,
+					["time"] = 1649960802,
+					["from"] = "Damond",
+					["msg"] = "ye",
+					["inbound"] = false,
+					["convo"] = "Mhd",
 				}, -- [2]
 				{
 					["type"] = 1,
-					["time"] = 1636655456,
-					["from"] = "Niszen",
-					["msg"] = "u elixir master?",
+					["time"] = 1649960814,
+					["from"] = "Mhd",
+					["msg"] = "i think losed 100 g ",
 					["inbound"] = true,
-					["convo"] = "Niszen",
+					["convo"] = "Mhd",
 				}, -- [3]
 				{
 					["type"] = 1,
-					["time"] = 1636655464,
-					["from"] = "Damond",
-					["msg"] = "y",
-					["inbound"] = false,
-					["convo"] = "Niszen",
+					["time"] = 1649960822,
+					["from"] = "Mhd",
+					["msg"] = "trad with ?",
+					["inbound"] = true,
+					["convo"] = "Mhd",
 				}, -- [4]
 				{
 					["type"] = 1,
-					["time"] = 1636655469,
+					["time"] = 1649960837,
 					["from"] = "Damond",
-					["msg"] = "daxaa alt is pot master",
+					["msg"] = "uhmm idk",
 					["inbound"] = false,
-					["convo"] = "Niszen",
+					["convo"] = "Mhd",
 				}, -- [5]
 				{
 					["type"] = 1,
-					["time"] = 1636655480,
-					["from"] = "Niszen",
-					["msg"] = "13 mp",
-					["inbound"] = true,
-					["convo"] = "Niszen",
+					["time"] = 1649960841,
+					["from"] = "Damond",
+					["msg"] = "I just reloaded UI",
+					["inbound"] = false,
+					["convo"] = "Mhd",
 				}, -- [6]
 				{
 					["type"] = 1,
-					["time"] = 1636655484,
-					["from"] = "Niszen",
-					["msg"] = "10 of one of thems",
-					["inbound"] = true,
-					["convo"] = "Niszen",
+					["time"] = 1649960843,
+					["from"] = "Damond",
+					["msg"] = "|Helvmoji:%eEQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Core\\Media\\ChatEmojis\\Grin:16:16|t",
+					["inbound"] = false,
+					["convo"] = "Mhd",
 				}, -- [7]
 				{
 					["type"] = 1,
-					["time"] = 1636655487,
-					["from"] = "Niszen",
-					["msg"] = "15 of the other",
+					["time"] = 1649960853,
+					["from"] = "Mhd",
+					["msg"] = "|Helvmoji:%OkQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Core\\Media\\ChatEmojis\\Grin:16:16|t",
 					["inbound"] = true,
-					["convo"] = "Niszen",
+					["convo"] = "Mhd",
 				}, -- [8]
 				{
 					["type"] = 1,
-					["time"] = 1636655490,
-					["from"] = "Niszen",
-					["msg"] = "adepts and draenic",
-					["inbound"] = true,
-					["convo"] = "Niszen",
+					["time"] = 1649960869,
+					["from"] = "Damond",
+					["msg"] = "actually I think the round never finished",
+					["inbound"] = false,
+					["convo"] = "Mhd",
 				}, -- [9]
-				{
-					["type"] = 1,
-					["time"] = 1636655492,
-					["from"] = "Niszen",
-					["msg"] = "<333333",
-					["inbound"] = true,
-					["convo"] = "Niszen",
-				}, -- [10]
-				{
-					["type"] = 1,
-					["time"] = 1636655493,
-					["from"] = "Damond",
-					["msg"] = "mp = mana pot ye?",
-					["inbound"] = false,
-					["convo"] = "Niszen",
-				}, -- [11]
-				{
-					["type"] = 1,
-					["time"] = 1636655497,
-					["from"] = "Niszen",
-					["msg"] = "y",
-					["inbound"] = true,
-					["convo"] = "Niszen",
-				}, -- [12]
-				{
-					["type"] = 1,
-					["time"] = 1636655511,
-					["from"] = "Damond",
-					["msg"] = "I see 5 super mana pots",
-					["inbound"] = false,
-					["convo"] = "Niszen",
-				}, -- [13]
-				{
-					["type"] = 1,
-					["time"] = 1636655520,
-					["from"] = "Damond",
-					["msg"] = "missing imbued vials",
-					["inbound"] = false,
-					["convo"] = "Niszen",
-				}, -- [14]
-				{
-					["type"] = 1,
-					["time"] = 1636655528,
-					["from"] = "Damond",
-					["msg"] = "yep only 5 imbued vials",
-					["inbound"] = false,
-					["convo"] = "Niszen",
-				}, -- [15]
-				{
-					["type"] = 1,
-					["time"] = 1636655532,
-					["from"] = "Niszen",
-					["msg"] = "ohh damn",
-					["inbound"] = true,
-					["convo"] = "Niszen",
-				}, -- [16]
-				{
-					["type"] = 1,
-					["time"] = 1636655534,
-					["from"] = "Damond",
-					["msg"] = "the rest are wrong",
-					["inbound"] = false,
-					["convo"] = "Niszen",
-				}, -- [17]
-				{
-					["type"] = 1,
-					["time"] = 1636655535,
-					["from"] = "Niszen",
-					["msg"] = "what the others i gave",
-					["inbound"] = true,
-					["convo"] = "Niszen",
-				}, -- [18]
-				{
-					["type"] = 1,
-					["time"] = 1636655537,
-					["from"] = "Niszen",
-					["msg"] = "rip",
-					["inbound"] = true,
-					["convo"] = "Niszen",
-				}, -- [19]
-				{
-					["type"] = 1,
-					["time"] = 1636655544,
-					["from"] = "Niszen",
-					["msg"] = "go 5 mp then",
-					["inbound"] = true,
-					["convo"] = "Niszen",
-				}, -- [20]
-				{
-					["type"] = 1,
-					["time"] = 1636655545,
-					["from"] = "Damond",
-					["msg"] = "actually those 5 are prolly mine",
-					["inbound"] = false,
-					["convo"] = "Niszen",
-				}, -- [21]
-				{
-					["type"] = 1,
-					["time"] = 1636655553,
-					["from"] = "Niszen",
-					["msg"] = "i got flask to cover for",
-					["inbound"] = true,
-					["convo"] = "Niszen",
-				}, -- [22]
-				{
-					["type"] = 1,
-					["time"] = 1636655555,
-					["from"] = "Niszen",
-					["msg"] = "prob",
-					["inbound"] = true,
-					["convo"] = "Niszen",
-				}, -- [23]
-				{
-					["type"] = 1,
-					["time"] = 1636655559,
-					["from"] = "Niszen",
-					["msg"] = "can u hep me out",
-					["inbound"] = true,
-					["convo"] = "Niszen",
-				}, -- [24]
-				{
-					["type"] = 1,
-					["time"] = 1636655571,
-					["from"] = "Damond",
-					["msg"] = "I got |cffffffff|Hitem:22861::::::::70:::::::::|h[Flask of Blinding Light]|h|r",
-					["inbound"] = false,
-					["convo"] = "Niszen",
-				}, -- [25]
-				{
-					["type"] = 1,
-					["time"] = 1636655583,
-					["from"] = "Niszen",
-					["msg"] = "i got 1",
-					["inbound"] = true,
-					["convo"] = "Niszen",
-				}, -- [26]
-				{
-					["type"] = 1,
-					["time"] = 1636655586,
-					["from"] = "Niszen",
-					["msg"] = "for tk",
-					["inbound"] = true,
-					["convo"] = "Niszen",
-				}, -- [27]
-				{
-					["type"] = 1,
-					["time"] = 1636655591,
-					["from"] = "Niszen",
-					["msg"] = "mb friend",
-					["inbound"] = true,
-					["convo"] = "Niszen",
-				}, -- [28]
-				{
-					["type"] = 1,
-					["time"] = 1636655655,
-					["from"] = "Niszen",
-					["msg"] = "u got space to hold mats?",
-					["inbound"] = true,
-					["convo"] = "Niszen",
-				}, -- [29]
-				{
-					["type"] = 1,
-					["time"] = 1636655667,
-					["from"] = "Damond",
-					["msg"] = "sure",
-					["inbound"] = false,
-					["convo"] = "Niszen",
-				}, -- [30]
-				{
-					["type"] = 1,
-					["time"] = 1636655670,
-					["from"] = "Niszen",
-					["msg"] = "ty",
-					["inbound"] = true,
-					["convo"] = "Niszen",
-				}, -- [31]
-				{
-					["type"] = 1,
-					["time"] = 1636662805,
-					["from"] = "Damond",
-					["msg"] = "vials",
-					["inbound"] = false,
-					["convo"] = "Niszen",
-				}, -- [32]
-				{
-					["type"] = 1,
-					["time"] = 1636662825,
-					["from"] = "Niszen",
-					["msg"] = "big ups",
-					["inbound"] = true,
-					["convo"] = "Niszen",
-				}, -- [33]
-				{
-					["type"] = 1,
-					["time"] = 1636662841,
-					["from"] = "Damond",
-					["msg"] = "|cffffd000|Henchant:33740|h[Alchemy: Adept's Elixir]|h|r",
-					["inbound"] = false,
-					["convo"] = "Niszen",
-				}, -- [34]
-				{
-					["type"] = 1,
-					["time"] = 1636662883,
-					["from"] = "Niszen",
-					["msg"] = "ty",
-					["inbound"] = true,
-					["convo"] = "Niszen",
-				}, -- [35]
-				{
-					["type"] = 1,
-					["time"] = 1636663383,
-					["from"] = "Damond",
-					["msg"] = "so",
-					["inbound"] = false,
-					["convo"] = "Niszen",
-				}, -- [36]
-				{
-					["type"] = 1,
-					["time"] = 1636663387,
-					["from"] = "Damond",
-					["msg"] = "how many adepts",
-					["inbound"] = false,
-					["convo"] = "Niszen",
-				}, -- [37]
-				{
-					["type"] = 1,
-					["time"] = 1636663390,
-					["from"] = "Niszen",
-					["msg"] = "15 ",
-					["inbound"] = true,
-					["convo"] = "Niszen",
-				}, -- [38]
-				{
-					["type"] = 1,
-					["time"] = 1636663396,
-					["from"] = "Niszen",
-					["msg"] = "10 |cffffffff|Hitem:32067::::::::70:::::::::|h[Elixir of Draenic Wisdom]|h|r",
-					["inbound"] = true,
-					["convo"] = "Niszen",
-				}, -- [39]
-				{
-					["type"] = 1,
-					["time"] = 1636663397,
-					["from"] = "Niszen",
-					["msg"] = "8 mp",
-					["inbound"] = true,
-					["convo"] = "Niszen",
-				}, -- [40]
-				{
-					["type"] = 1,
-					["time"] = 1636663398,
-					["from"] = "Niszen",
-					["msg"] = "|Helvmoji:%PDM=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Core\\Media\\ChatEmojis\\Heart:16:16|t",
-					["inbound"] = true,
-					["convo"] = "Niszen",
-				}, -- [41]
-				{
-					["type"] = 1,
-					["time"] = 1636663531,
-					["from"] = "Niszen",
-					["msg"] = "ty",
-					["inbound"] = true,
-					["convo"] = "Niszen",
-				}, -- [42]
-				{
-					["type"] = 1,
-					["time"] = 1636663541,
-					["from"] = "Damond",
-					["msg"] = "any time",
-					["inbound"] = false,
-					["convo"] = "Niszen",
-				}, -- [43]
 				["info"] = {
 				},
 			},
-			["Jokkefox"] = {
+			["Zupahh"] = {
 				{
 					["type"] = 1,
-					["time"] = 1636043298,
-					["from"] = "Damond",
-					["msg"] = "you need crafts now?",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
+					["time"] = 1649963419,
+					["from"] = "Zupahh",
+					["msg"] = "|cffa335ee|Hitem:21709::::::::70:::::::::|h[Ring of the Fallen God]|h|r er det stadig worth |Helvmoji:%OkQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Core\\Media\\ChatEmojis\\Grin:16:16|t",
+					["inbound"] = true,
+					["convo"] = "Zupahh",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1636043301,
+					["time"] = 1649963436,
 					["from"] = "Damond",
-					["msg"] = "else I go get food",
+					["msg"] = "har ikke andet",
 					["inbound"] = false,
-					["convo"] = "Jokkefox",
+					["convo"] = "Zupahh",
 				}, -- [2]
-				{
-					["type"] = 1,
-					["time"] = 1636043307,
-					["from"] = "Jokkefox",
-					["msg"] = "yes pls",
-					["inbound"] = true,
-					["convo"] = "Jokkefox",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1636043320,
-					["from"] = "Damond",
-					["msg"] = "need me to pick up mats in sw?",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1636043326,
-					["from"] = "Damond",
-					["msg"] = "or should I just come shatt?",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1636043333,
-					["from"] = "Jokkefox",
-					["msg"] = "nah i got on me",
-					["inbound"] = true,
-					["convo"] = "Jokkefox",
-				}, -- [6]
-				{
-					["type"] = 1,
-					["time"] = 1636043343,
-					["from"] = "Damond",
-					["msg"] = "ghetto hearth",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [7]
-				{
-					["type"] = 1,
-					["time"] = 1636043402,
-					["from"] = "Jokkefox",
-					["msg"] = "should be 1 assualt, 4 haste and then some agility",
-					["inbound"] = true,
-					["convo"] = "Jokkefox",
-				}, -- [8]
-				{
-					["type"] = 1,
-					["time"] = 1636043417,
-					["from"] = "Damond",
-					["msg"] = "haste?",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [9]
-				{
-					["type"] = 1,
-					["time"] = 1636043419,
-					["from"] = "Damond",
-					["msg"] = "potions?",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [10]
-				{
-					["type"] = 1,
-					["time"] = 1636043422,
-					["from"] = "Damond",
-					["msg"] = "I cant proc those",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [11]
-				{
-					["type"] = 1,
-					["time"] = 1636043431,
-					["from"] = "Jokkefox",
-					["msg"] = "oh need daxxa yeah",
-					["inbound"] = true,
-					["convo"] = "Jokkefox",
-				}, -- [12]
-				{
-					["type"] = 1,
-					["time"] = 1636043433,
-					["from"] = "Jokkefox",
-					["msg"] = "k ",
-					["inbound"] = true,
-					["convo"] = "Jokkefox",
-				}, -- [13]
-				{
-					["type"] = 1,
-					["time"] = 1636043513,
-					["from"] = "Damond",
-					["msg"] = "come alch lab",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [14]
-				{
-					["type"] = 1,
-					["time"] = 1636043526,
-					["from"] = "Jokkefox",
-					["msg"] = "hope i got this right ",
-					["inbound"] = true,
-					["convo"] = "Jokkefox",
-				}, -- [15]
-				{
-					["type"] = 1,
-					["time"] = 1636043531,
-					["from"] = "Jokkefox",
-					["msg"] = "mats",
-					["inbound"] = true,
-					["convo"] = "Jokkefox",
-				}, -- [16]
-				{
-					["type"] = 1,
-					["time"] = 1636043544,
-					["from"] = "Damond",
-					["msg"] = "|cffffd000|Henchant:28589|h[Alchemy: Flask of Relentless Assault]|h|r",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [17]
-				{
-					["type"] = 1,
-					["time"] = 1636043551,
-					["from"] = "Damond",
-					["msg"] = "|cffffd000|Henchant:28553|h[Alchemy: Elixir of Major Agility]|h|r",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [18]
-				{
-					["type"] = 1,
-					["time"] = 1636043587,
-					["from"] = "Damond",
-					["msg"] = "x5 inc",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [19]
-				{
-					["type"] = 1,
-					["time"] = 1636043615,
-					["from"] = "Damond",
-					["msg"] = "rip",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [20]
-				{
-					["type"] = 1,
-					["time"] = 1636043620,
-					["from"] = "Jokkefox",
-					["msg"] = "darn",
-					["inbound"] = true,
-					["convo"] = "Jokkefox",
-				}, -- [21]
-				{
-					["type"] = 1,
-					["time"] = 1636043637,
-					["from"] = "Damond",
-					["msg"] = "inb4 0 procs",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [22]
-				{
-					["type"] = 1,
-					["time"] = 1636043643,
-					["from"] = "Jokkefox",
-					["msg"] = "will have some more soon need to move mana thistle from druid",
-					["inbound"] = true,
-					["convo"] = "Jokkefox",
-				}, -- [23]
-				{
-					["type"] = 1,
-					["time"] = 1636043651,
-					["from"] = "Jokkefox",
-					["msg"] = "in future",
-					["inbound"] = true,
-					["convo"] = "Jokkefox",
-				}, -- [24]
-				{
-					["type"] = 1,
-					["time"] = 1636043659,
-					["from"] = "Damond",
-					["msg"] = "1 proc!",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [25]
-				{
-					["type"] = 1,
-					["time"] = 1636043664,
-					["from"] = "Damond",
-					["msg"] = "no complaints",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [26]
-				{
-					["type"] = 1,
-					["time"] = 1636043698,
-					["from"] = "Jokkefox",
-					["msg"] = "can u do 10 more",
-					["inbound"] = true,
-					["convo"] = "Jokkefox",
-				}, -- [27]
-				{
-					["type"] = 1,
-					["time"] = 1636043706,
-					["from"] = "Jokkefox",
-					["msg"] = "nvm",
-					["inbound"] = true,
-					["convo"] = "Jokkefox",
-				}, -- [28]
-				{
-					["type"] = 1,
-					["time"] = 1636043706,
-					["from"] = "Damond",
-					["msg"] = "no more mats",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [29]
-				{
-					["type"] = 1,
-					["time"] = 1636043755,
-					["from"] = "Jokkefox",
-					["msg"] = "there we go",
-					["inbound"] = true,
-					["convo"] = "Jokkefox",
-				}, -- [30]
-				{
-					["type"] = 1,
-					["time"] = 1636043794,
-					["from"] = "Jokkefox",
-					["msg"] = "ty alot",
-					["inbound"] = true,
-					["convo"] = "Jokkefox",
-				}, -- [31]
-				{
-					["type"] = 1,
-					["time"] = 1636043798,
-					["from"] = "Damond",
-					["msg"] = "anytime",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [32]
-				{
-					["type"] = 1,
-					["time"] = 1636043800,
-					["from"] = "Damond",
-					["msg"] = "cya later!",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [33]
-				{
-					["type"] = 1,
-					["time"] = 1636396199,
-					["from"] = "Jokkefox",
-					["msg"] = "can u do 5 flask?",
-					["inbound"] = true,
-					["convo"] = "Jokkefox",
-				}, -- [34]
-				{
-					["type"] = 1,
-					["time"] = 1636396209,
-					["from"] = "Damond",
-					["msg"] = "yes, but not in here",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [35]
-				{
-					["type"] = 1,
-					["time"] = 1636396219,
-					["from"] = "Jokkefox",
-					["msg"] = "ofc ty",
-					["inbound"] = true,
-					["convo"] = "Jokkefox",
-				}, -- [36]
-				{
-					["type"] = 1,
-					["time"] = 1636401639,
-					["from"] = "Damond",
-					["msg"] = "flasks?",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [37]
-				{
-					["type"] = 1,
-					["time"] = 1636401668,
-					["from"] = "Jokkefox",
-					["msg"] = "yeah ty",
-					["inbound"] = true,
-					["convo"] = "Jokkefox",
-				}, -- [38]
-				{
-					["type"] = 1,
-					["time"] = 1636401742,
-					["from"] = "Damond",
-					["msg"] = "5 |cffffd000|Henchant:28589|h[Alchemy: Flask of Relentless Assault]|h|r",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [39]
-				{
-					["type"] = 1,
-					["time"] = 1636401751,
-					["from"] = "Jokkefox",
-					["msg"] = "yes pls",
-					["inbound"] = true,
-					["convo"] = "Jokkefox",
-				}, -- [40]
-				{
-					["type"] = 1,
-					["time"] = 1636401777,
-					["from"] = "Damond",
-					["msg"] = "actually broken",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [41]
-				{
-					["type"] = 1,
-					["time"] = 1636401777,
-					["from"] = "Damond",
-					["msg"] = "wtf",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [42]
-				{
-					["type"] = 1,
-					["time"] = 1636401790,
-					["from"] = "Jokkefox",
-					["msg"] = "cant see haha",
-					["inbound"] = true,
-					["convo"] = "Jokkefox",
-				}, -- [43]
-				{
-					["type"] = 1,
-					["time"] = 1636401810,
-					["from"] = "Damond",
-					["msg"] = "I did 10+ flasks today",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [44]
-				{
-					["type"] = 1,
-					["time"] = 1636401813,
-					["from"] = "Damond",
-					["msg"] = "0 procs",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [45]
-				{
-					["type"] = 1,
-					["time"] = 1636401816,
-					["from"] = "Damond",
-					["msg"] = "the hell",
-					["inbound"] = false,
-					["convo"] = "Jokkefox",
-				}, -- [46]
-				{
-					["type"] = 1,
-					["time"] = 1636401822,
-					["from"] = "Jokkefox",
-					["msg"] = "haha but ty ",
-					["inbound"] = true,
-					["convo"] = "Jokkefox",
-				}, -- [47]
-				{
-					["type"] = 1,
-					["time"] = 1636401823,
-					["from"] = "Jokkefox",
-					["msg"] = "gtg",
-					["inbound"] = true,
-					["convo"] = "Jokkefox",
-				}, -- [48]
 				["info"] = {
 				},
 			},
-			["Shekelfarmer"] = {
+			["Daaxa"] = {
 				{
 					["type"] = 1,
-					["time"] = 1635784202,
-					["from"] = "Shekelfarmer",
-					["msg"] = "yo",
-					["inbound"] = true,
-					["convo"] = "Shekelfarmer",
+					["time"] = 1649710898,
+					["from"] = "Damond",
+					["msg"] = "you there?",
+					["inbound"] = false,
+					["convo"] = "Daaxa",
 				}, -- [1]
 				{
 					["type"] = 1,
-					["time"] = 1635784206,
-					["from"] = "Damond",
-					["msg"] = "yo",
-					["inbound"] = false,
-					["convo"] = "Shekelfarmer",
+					["time"] = 1649710933,
+					["from"] = "Daaxa",
+					["msg"] = "go again",
+					["inbound"] = true,
+					["convo"] = "Daaxa",
 				}, -- [2]
+				["info"] = {
+				},
+			},
+			["Médrux"] = {
 				{
 					["type"] = 1,
-					["time"] = 1635784208,
-					["from"] = "Shekelfarmer",
-					["msg"] = "can you craft some flasks pls?",
-					["inbound"] = true,
-					["convo"] = "Shekelfarmer",
-				}, -- [3]
-				{
-					["type"] = 1,
-					["time"] = 1635784218,
+					["time"] = 1649711102,
 					["from"] = "Damond",
-					["msg"] = "sure",
+					["msg"] = "inv",
 					["inbound"] = false,
-					["convo"] = "Shekelfarmer",
-				}, -- [4]
-				{
-					["type"] = 1,
-					["time"] = 1635784229,
-					["from"] = "Damond",
-					["msg"] = "I need to finish AH stuff first",
-					["inbound"] = false,
-					["convo"] = "Shekelfarmer",
-				}, -- [5]
-				{
-					["type"] = 1,
-					["time"] = 1635784239,
-					["from"] = "Shekelfarmer",
-					["msg"] = "sure",
-					["inbound"] = true,
-					["convo"] = "Shekelfarmer",
-				}, -- [6]
-				{
-					["type"] = 1,
-					["time"] = 1635784325,
-					["from"] = "Shekelfarmer",
-					["msg"] = "check my mage gear |Helvmoji:%eEQ=|h|cFFffffff|r|h|TInterface\\AddOns\\ElvUI\\Media\\ChatEmojis\\Grin:16:16|t",
-					["inbound"] = true,
-					["convo"] = "Shekelfarmer",
-				}, -- [7]
-				{
-					["type"] = 1,
-					["time"] = 1635784350,
-					["from"] = "Damond",
-					["msg"] = "what raid did you rob?",
-					["inbound"] = false,
-					["convo"] = "Shekelfarmer",
-				}, -- [8]
-				{
-					["type"] = 1,
-					["time"] = 1635784355,
-					["from"] = "Shekelfarmer",
-					["msg"] = "haha",
-					["inbound"] = true,
-					["convo"] = "Shekelfarmer",
-				}, -- [9]
-				{
-					["type"] = 1,
-					["time"] = 1635784366,
-					["from"] = "Shekelfarmer",
-					["msg"] = "premonition raid 1 week",
-					["inbound"] = true,
-					["convo"] = "Shekelfarmer",
-				}, -- [10]
-				{
-					["type"] = 1,
-					["time"] = 1635784373,
-					["from"] = "Damond",
-					["msg"] = "LFM all mage gear hard reserved - need all!",
-					["inbound"] = false,
-					["convo"] = "Shekelfarmer",
-				}, -- [11]
-				{
-					["type"] = 1,
-					["time"] = 1635784382,
-					["from"] = "Shekelfarmer",
-					["msg"] = "idd",
-					["inbound"] = true,
-					["convo"] = "Shekelfarmer",
-				}, -- [12]
-				{
-					["type"] = 1,
-					["time"] = 1635784423,
-					["from"] = "Shekelfarmer",
-					["msg"] = "need just wand and |cffa335ee|Hitem:30038::24056:31867:::::70:::::::::|h[Belt of Blasting]|h|r",
-					["inbound"] = true,
-					["convo"] = "Shekelfarmer",
-				}, -- [13]
-				{
-					["type"] = 1,
-					["time"] = 1635784432,
-					["from"] = "Shekelfarmer",
-					["msg"] = "and t5 head for meta gem",
-					["inbound"] = true,
-					["convo"] = "Shekelfarmer",
-				}, -- [14]
-				{
-					["type"] = 1,
-					["time"] = 1635784908,
-					["from"] = "Damond",
-					["msg"] = "aight",
-					["inbound"] = false,
-					["convo"] = "Shekelfarmer",
-				}, -- [15]
-				{
-					["type"] = 1,
-					["time"] = 1635784914,
-					["from"] = "Damond",
-					["msg"] = "lets roll to shatt",
-					["inbound"] = false,
-					["convo"] = "Shekelfarmer",
-				}, -- [16]
-				{
-					["type"] = 1,
-					["time"] = 1635784986,
-					["from"] = "Damond",
-					["msg"] = "here goes nothing",
-					["inbound"] = false,
-					["convo"] = "Shekelfarmer",
-				}, -- [17]
-				{
-					["type"] = 1,
-					["time"] = 1636670053,
-					["from"] = "Shekelfarmer",
-					["msg"] = "y pls",
-					["inbound"] = true,
-					["convo"] = "Shekelfarmer",
-				}, -- [18]
-				{
-					["type"] = 1,
-					["time"] = 1636670060,
-					["from"] = "Shekelfarmer",
-					["msg"] = "ty:)",
-					["inbound"] = true,
-					["convo"] = "Shekelfarmer",
-				}, -- [19]
+					["convo"] = "Médrux",
+				}, -- [1]
 				["info"] = {
 				},
 			},

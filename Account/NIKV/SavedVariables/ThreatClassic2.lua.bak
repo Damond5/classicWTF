@@ -2,8 +2,9 @@
 ThreatClassic2DB = {
 	["profileKeys"] = {
 		["Damonddruid - Razorgore"] = "Default",
-		["Damondbank - Razorgore"] = "Default",
 		["Damond - Razorgore"] = "Default",
+		["Damondbank - Razorgore"] = "Default",
+		["Damond - Firemaw"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

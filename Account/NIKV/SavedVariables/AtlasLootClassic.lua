@@ -1,7 +1,7 @@
 
 AtlasLootClassicDB = {
 	["global"] = {
-		["__addonrevision"] = 2040000,
+		["__addonrevision"] = 2040002,
 	},
 	["profileKeys"] = {
 		["Ksumdamond - Razorgore"] = "Ksumdamond - Razorgore",
@@ -15,6 +15,27 @@ AtlasLootClassicDB = {
 		["Ksumdamond - Razorgore"] = {
 		},
 		["Damond - Firemaw"] = {
+			["minimap"] = {
+				["minimapPos"] = 150.5363023419624,
+				["shown"] = false,
+				["hide"] = true,
+			},
+			["GUI"] = {
+				["point"] = {
+					"RIGHT", -- [1]
+					nil, -- [2]
+					"RIGHT", -- [3]
+					-391.4761047363281, -- [4]
+					111.2382049560547, -- [5]
+				},
+				["selected"] = {
+					nil, -- [1]
+					"BlackTemple", -- [2]
+					9, -- [3]
+					1, -- [4]
+					0, -- [5]
+				},
+			},
 		},
 		["Damonddruid - Razorgore"] = {
 			["minimap"] = {

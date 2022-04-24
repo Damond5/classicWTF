@@ -2,6 +2,7 @@
 ClassicLFG_DB = {
 	["profileKeys"] = {
 		["Ksumdamond - Razorgore"] = "Ksumdamond - Razorgore",
+		["Damond - Firemaw"] = "Damond - Firemaw",
 		["Damonddruid - Razorgore"] = "Damonddruid - Razorgore",
 		["Fsumdamond - Razorgore"] = "Fsumdamond - Razorgore",
 		["Damondbank - Razorgore"] = "Damondbank - Razorgore",
@@ -10,6 +11,13 @@ ClassicLFG_DB = {
 	["profiles"] = {
 		["Ksumdamond - Razorgore"] = {
 			["BroadcastDungeonGroupChannel"] = 1,
+		},
+		["Damond - Firemaw"] = {
+			["minimap"] = {
+				["minimapPos"] = 252.2675923959272,
+				["hide"] = true,
+			},
+			["BroadcastDungeonGroupChannel"] = 2,
 		},
 		["Damonddruid - Razorgore"] = {
 			["BroadcastDungeonGroupInterval"] = 180,
