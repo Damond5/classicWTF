@@ -1,8 +1,9 @@
 
 AutoCombatLoggerDB = {
 	["profileKeys"] = {
-		["Damonddruid - Razorgore"] = "Default",
 		["Damond - Firemaw"] = "Default",
+		["Damonddruid - Razorgore"] = "Default",
+		["Damondbank - Firemaw"] = "Default",
 		["Damondbank - Razorgore"] = "Default",
 		["Damond - Razorgore"] = "Default",
 	},

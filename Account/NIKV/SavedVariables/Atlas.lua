@@ -2,6 +2,7 @@
 AtlasDB = {
 	["profileKeys"] = {
 		["Ksumdamond - Razorgore"] = "Default",
+		["Damondbank - Firemaw"] = "Default",
 		["Damond - Firemaw"] = "Default",
 		["Damonddruid - Razorgore"] = "Default",
 		["Fsumdamond - Razorgore"] = "Default",

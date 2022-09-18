@@ -11,6 +11,11 @@ VER 3 0000000000000010 "banish 2" "INV_MISC_QUESTIONMARK"
 /cast Banish(Rank 2)
 /focus
 END
+VER 3 0000000000000014 "enslave" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/tm [@target,exists] 4
+/cast Enslave Demon
+END
 VER 3 000000000000000C "focus" "INV_MISC_QUESTIONMARK"
 /focus
 END
@@ -39,13 +44,23 @@ END
 VER 3 000000000000000B "mount" "INV_MISC_QUESTIONMARK"
 #showtooltip Summon Dreadsteed(Summon)
 /cast Golden Gryphon
-/cast Summon Dreadsteed(Summon)
+/cast Dreadsteed
 END
 VER 3 0000000000000007 "PI" "132089"
 /w chadyo PI NOW!!!
 END
 VER 3 0000000000000009 "purple" "INV_MISC_QUESTIONMARK"
 /targetmarker 3
+END
+VER 3 0000000000000013 "seed" "INV_MISC_QUESTIONMARK"
+#showtooltip Seed of Corruption
+/cast Seed of Corruption
+/cast Shadow Bolt Volley
+END
+VER 3 0000000000000012 "shadow bolt" "INV_MISC_QUESTIONMARK"
+#showtooltip Shadow Bolt
+/cast Shadow Bolt
+/cast Shadow Bolt Volley
 END
 VER 3 000000000000000E "spitfire" "INV_MISC_QUESTIONMARK"
 /tar spitfire
@@ -71,4 +86,9 @@ VER 3 0000000000000004 "torch" "132093"
 /4 LFG BRD torch runs - 48 lock
 /5 LFG BRD torch runs - 48 lock
 /7 LFG BRD torch runs - 48 lock
+END
+VER 3 0000000000000015 "trinkets" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use 14
+/use 13
 END

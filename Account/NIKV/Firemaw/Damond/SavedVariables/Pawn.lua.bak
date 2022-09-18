@@ -1,16 +1,18 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0537,
+	["LastVersion"] = 2.0606,
+	["LastPlayerFullName"] = "Damond-Firemaw",
+	["AutoSelectScales"] = false,
 	["ItemLevels"] = {
 		{
-			["ID"] = 31051,
-			["Level"] = 146,
-			["Link"] = "|cffa335ee|Hitem:31051::::::::70:::::::::|h[Hood of the Malefic]|h|r",
+			["ID"] = 34340,
+			["Level"] = 164,
+			["Link"] = "|cffa335ee|Hitem:34340:3002:34220:32215:::::70:::::::::|h[Dark Conjuror's Collar]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 32649,
-			["Level"] = 141,
-			["Link"] = "|cffa335ee|Hitem:32649::::::::70:::::::::|h[Medallion of Karabor]|h|r",
+			["ID"] = 34204,
+			["Level"] = 154,
+			["Link"] = "|cffa335ee|Hitem:34204::::::::70:::::::::|h[Amulet of Unfettered Magics]|h|r",
 		}, -- [2]
 		{
 			["ID"] = 31054,
@@ -19,29 +21,29 @@ PawnOptions = {
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 30107,
-			["Level"] = 138,
-			["Link"] = "|cffa335ee|Hitem:30107::::::::70:::::::::|h[Vestments of the Sea-Witch]|h|r",
+			["ID"] = 34232,
+			["Level"] = 159,
+			["Link"] = "|cffa335ee|Hitem:34232::32196:35760:35760::::70:::::::::|h[Fel Conquerer Raiments]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 30038,
-			["Level"] = 128,
-			["Link"] = "|cffa335ee|Hitem:30038::::::::70:::::::::|h[Belt of Blasting]|h|r",
+			["ID"] = 34541,
+			["Level"] = 154,
+			["Link"] = "|cffa335ee|Hitem:34541::35760::::::70:::::::::|h[Belt of the Malefic]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 31053,
-			["Level"] = 146,
-			["Link"] = "|cffa335ee|Hitem:31053::::::::70:::::::::|h[Leggings of the Malefic]|h|r",
+			["ID"] = 34181,
+			["Level"] = 159,
+			["Link"] = "|cffa335ee|Hitem:34181:2748:32196:32196:35760::::70:::::::::|h[Leggings of Calamity]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 32239,
-			["Level"] = 141,
-			["Link"] = "|cffa335ee|Hitem:32239::::::::70:::::::::|h[Slippers of the Seacaller]|h|r",
+			["ID"] = 34564,
+			["Level"] = 154,
+			["Link"] = "|cffa335ee|Hitem:34564::35760::::::70:::::::::|h[Boots of the Malefic]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 32586,
-			["Level"] = 141,
-			["Link"] = "|cffa335ee|Hitem:32586::::::::70:::::::::|h[Bracers of Nimble Thought]|h|r",
+			["ID"] = 34436,
+			["Level"] = 154,
+			["Link"] = "|cffa335ee|Hitem:34436:2650:35760::::::70:::::::::|h[Bracers of the Malefic]|h|r",
 		}, -- [9]
 		{
 			["ID"] = 31050,
@@ -55,27 +57,27 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:29305::::::::70:::::::::|h[Band of the Eternal Sage]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 33498,
-			["Level"] = 141,
+			["ID"] = 32527,
+			["Level"] = 151,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cffa335ee|Hitem:33498::::::::70:::::::::|h[Signet of the Quiet Forest]|h|r",
+			["Link"] = "|cffa335ee|Hitem:32527::::::::70:::::::::|h[Ring of Ancient Knowledge]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 33829,
-			["Level"] = 133,
+			["ID"] = 34429,
+			["Level"] = 154,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cffa335ee|Hitem:33829::::::::70:::::::::|h[Hex Shrunken Head]|h|r",
+			["Link"] = "|cffa335ee|Hitem:34429::::::::70:::::::::|h[Shifting Naaru Sliver]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 37127,
-			["Level"] = 128,
+			["ID"] = 32483,
+			["Level"] = 151,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cffa335ee|Hitem:37127::::::::70:::::::::|h[Brightbrew Charm]|h|r",
+			["Link"] = "|cffa335ee|Hitem:32483::::::::70:::::::::|h[The Skull of Gul'dan]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 32590,
-			["Level"] = 141,
-			["Link"] = "|cffa335ee|Hitem:32590::::::::70:::::::::|h[Nethervoid Cloak]|h|r",
+			["ID"] = 34242,
+			["Level"] = 164,
+			["Link"] = "|cffa335ee|Hitem:34242::::::::70:::::::::|h[Tattered Cape of Antonidas]|h|r",
 		}, -- [15]
 		{
 			["ID"] = 30313,
@@ -83,9 +85,9 @@ PawnOptions = {
 			["Link"] = "|cffff8000|Hitem:30313::::::::70:::::::::|h[Staff of Disintegration]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 32361,
-			["Level"] = 141,
-			["Link"] = "|cffa335ee|Hitem:32361::::::::70:::::::::|h[Blind-Seers Icon]|h|r",
+			["ID"] = 34179,
+			["Level"] = 154,
+			["Link"] = "|cffa335ee|Hitem:34179::::::::70:::::::::|h[Heart of the Pit]|h|r",
 		}, -- [17]
 		{
 			["ID"] = 29982,
@@ -93,11 +95,9 @@ PawnOptions = {
 			["Link"] = "|cffa335ee|Hitem:29982::::::::70:::::::::|h[Wand of the Forgotten Star]|h|r",
 		}, -- [18]
 	},
-	["AutoSelectScales"] = false,
-	["LastPlayerFullName"] = "Damond-Firemaw",
 }
 PawnMrRobotScaleProviderOptions = nil
 PawnClassicScaleProviderOptions = {
 	["LastClass"] = "WARLOCK",
-	["LastAdded"] = 2,
+	["LastAdded"] = 3,
 }

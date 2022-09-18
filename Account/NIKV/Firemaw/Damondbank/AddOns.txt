@@ -24,3 +24,6 @@ Atlas_ClassicWoW: enabled
 Atlas: enabled
 ClassicLFG: enabled
 ElvUI_QuestXP: disabled
+ElvUI_CustomTags: disabled
+kExtraBossFrames: disabled
+ElvUI_OptionsUI: enabled

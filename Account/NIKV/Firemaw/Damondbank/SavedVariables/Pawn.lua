@@ -1,7 +1,7 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.053,
-	["LastPlayerFullName"] = "Damondbank-Razorgore",
+	["LastVersion"] = 2.0538,
+	["LastPlayerFullName"] = "Damondbank-Firemaw",
 	["AutoSelectScales"] = false,
 	["ItemLevels"] = {
 		[5] = {

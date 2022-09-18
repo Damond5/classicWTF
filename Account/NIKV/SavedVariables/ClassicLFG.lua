@@ -2,6 +2,7 @@
 ClassicLFG_DB = {
 	["profileKeys"] = {
 		["Ksumdamond - Razorgore"] = "Ksumdamond - Razorgore",
+		["Damondbank - Firemaw"] = "Damondbank - Firemaw",
 		["Damond - Firemaw"] = "Damond - Firemaw",
 		["Damonddruid - Razorgore"] = "Damonddruid - Razorgore",
 		["Fsumdamond - Razorgore"] = "Fsumdamond - Razorgore",
@@ -10,6 +11,9 @@ ClassicLFG_DB = {
 	},
 	["profiles"] = {
 		["Ksumdamond - Razorgore"] = {
+			["BroadcastDungeonGroupChannel"] = 1,
+		},
+		["Damondbank - Firemaw"] = {
 			["BroadcastDungeonGroupChannel"] = 1,
 		},
 		["Damond - Firemaw"] = {
@@ -21,10 +25,10 @@ ClassicLFG_DB = {
 		},
 		["Damonddruid - Razorgore"] = {
 			["BroadcastDungeonGroupInterval"] = 180,
-			["BroadcastDungeonGroupChannel"] = 0,
 			["minimap"] = {
 				["hide"] = true,
 			},
+			["BroadcastDungeonGroupChannel"] = 0,
 		},
 		["Fsumdamond - Razorgore"] = {
 			["BroadcastDungeonGroupChannel"] = 1,
@@ -35,15 +39,15 @@ ClassicLFG_DB = {
 		["Damond - Razorgore"] = {
 			["ShareTalents"] = false,
 			["BroadcastDungeonGroupInterval"] = 180,
-			["minimap"] = {
-				["minimapPos"] = 309.035868480252,
-				["hide"] = true,
-			},
+			["BroadcastDungeonGroupChannel"] = 0,
 			["Toast"] = {
 				["Y"] = -274.285583496094,
 				["X"] = 845.238159179688,
 			},
-			["BroadcastDungeonGroupChannel"] = 0,
+			["minimap"] = {
+				["minimapPos"] = 309.035868480252,
+				["hide"] = true,
+			},
 		},
 	},
 }

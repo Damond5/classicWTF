@@ -24,7 +24,6 @@ ClassicFCTCustomPresets = {
 			["fontPath"] = "Fonts\\FRIZQT__.TTF",
 		},
 		["filterRelativeEnabled"] = false,
-		["attachModeFallback"] = true,
 		["filterAverageThreshold"] = 10,
 		["mergeEventsBySchool"] = true,
 		["pethealmiss"] = {
@@ -49,14 +48,7 @@ ClassicFCTCustomPresets = {
 			},
 			["fontPath"] = "Fonts\\FRIZQT__.TTF",
 		},
-		["preventOverlap"] = true,
-		["mergeEvents"] = false,
-		["mergeEventsIntervalMode"] = "last",
-		["inheritNameplates"] = false,
-		["areaX"] = 0,
-		["abbreviateNumbers"] = false,
-		["filterAbsoluteThreshold"] = 100,
-		["healmiss"] = {
+		["healtickmiss"] = {
 			["enabled"] = true,
 			["fontSize"] = 42,
 			["fontColor"] = "FF00FF00",
@@ -67,7 +59,7 @@ ClassicFCTCustomPresets = {
 			},
 			["colorByType"] = false,
 			["showIcons"] = false,
-			["fontStyle"] = "",
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
 			["FadeOut"] = {
 				["enabled"] = true,
 				["duration"] = 0.3,
@@ -76,15 +68,15 @@ ClassicFCTCustomPresets = {
 				["enabled"] = true,
 				["duration"] = 0.07,
 			},
-			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["fontStyle"] = "",
 		},
-		["autocrit"] = {
+		["spelltickcrit"] = {
 			["enabled"] = true,
 			["FadeOut"] = {
 				["enabled"] = true,
 				["duration"] = 0.3,
 			},
-			["fontColor"] = "FFFFFFFF",
+			["fontColor"] = "FFFFE800",
 			["fontPath"] = "Fonts\\FRIZQT__.TTF",
 			["colorByType"] = false,
 			["showIcons"] = false,
@@ -93,18 +85,40 @@ ClassicFCTCustomPresets = {
 				["endScale"] = 1,
 				["initScale"] = 0.25,
 				["midScale"] = 1.55,
-				["duration"] = 0.3,
 				["inOutRatio"] = 0.7,
+				["duration"] = 0.3,
 			},
-			["fontStyle"] = "",
+			["fontSize"] = 60,
 			["FadeIn"] = {
 				["enabled"] = true,
 				["duration"] = 0.07,
 			},
-			["fontSize"] = 60,
+			["fontStyle"] = "",
 		},
-		["preventOverlapSpacingX"] = 30,
-		["filterMissesEnabled"] = false,
+		["mergeEventsIntervalMode"] = "last",
+		["inheritNameplates"] = false,
+		["healtick"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FF00FF00",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["showIcons"] = false,
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontStyle"] = "",
+		},
 		["petautocrit"] = {
 			["enabled"] = true,
 			["FadeOut"] = {
@@ -129,50 +143,6 @@ ClassicFCTCustomPresets = {
 				["duration"] = 0.07,
 			},
 			["fontSize"] = 60,
-		},
-		["heal"] = {
-			["enabled"] = true,
-			["fontSize"] = 42,
-			["fontColor"] = "FF00FF00",
-			["Scroll"] = {
-				["enabled"] = true,
-				["direction"] = "UP",
-				["distance"] = 32,
-			},
-			["colorByType"] = false,
-			["showIcons"] = false,
-			["fontStyle"] = "",
-			["FadeOut"] = {
-				["enabled"] = true,
-				["duration"] = 0.3,
-			},
-			["FadeIn"] = {
-				["enabled"] = true,
-				["duration"] = 0.07,
-			},
-			["fontPath"] = "Fonts\\FRIZQT__.TTF",
-		},
-		["petspellmiss"] = {
-			["enabled"] = true,
-			["fontSize"] = 42,
-			["fontColor"] = "FFFFE800",
-			["Scroll"] = {
-				["enabled"] = true,
-				["direction"] = "UP",
-				["distance"] = 32,
-			},
-			["colorByType"] = false,
-			["showIcons"] = false,
-			["fontStyle"] = "",
-			["FadeOut"] = {
-				["enabled"] = true,
-				["duration"] = 0.3,
-			},
-			["FadeIn"] = {
-				["enabled"] = true,
-				["duration"] = 0.07,
-			},
-			["fontPath"] = "Fonts\\FRIZQT__.TTF",
 		},
 		["petspellcrit"] = {
 			["enabled"] = true,
@@ -199,31 +169,7 @@ ClassicFCTCustomPresets = {
 			},
 			["fontSize"] = 60,
 		},
-		["spellIconAspectRatio"] = 1,
 		["mergeEventsInterval"] = 0.1,
-		["petauto"] = {
-			["enabled"] = true,
-			["fontSize"] = 42,
-			["fontColor"] = "FFFF9D00",
-			["Scroll"] = {
-				["enabled"] = true,
-				["direction"] = "UP",
-				["distance"] = 32,
-			},
-			["colorByType"] = false,
-			["showIcons"] = false,
-			["fontStyle"] = "",
-			["FadeOut"] = {
-				["enabled"] = true,
-				["duration"] = 0.3,
-			},
-			["FadeIn"] = {
-				["enabled"] = true,
-				["duration"] = 0.07,
-			},
-			["fontPath"] = "Fonts\\FRIZQT__.TTF",
-		},
-		["kiloSeparator"] = false,
 		["petautomiss"] = {
 			["enabled"] = true,
 			["fontSize"] = 42,
@@ -246,11 +192,9 @@ ClassicFCTCustomPresets = {
 			},
 			["fontPath"] = "Fonts\\FRIZQT__.TTF",
 		},
-		["sortMissPrio"] = false,
+		["colorTableDotEnabled"] = false,
 		["mergeEventsBySpellID"] = false,
-		["mergeEventsCounter"] = true,
-		["mergeEventsMisses"] = false,
-		["areaNY"] = 0,
+		["animDuration"] = 1.5,
 		["colorTable"] = {
 			"ffff0000", -- [1]
 			"ffffffb6", -- [2]
@@ -327,6 +271,323 @@ ClassicFCTCustomPresets = {
 			[96] = "ff0009ff",
 		},
 		["textStrata"] = "MEDIUM",
+		["dontOverlapNameplates"] = false,
+		["petspelltickmiss"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FFFFE800",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["showIcons"] = false,
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontStyle"] = "",
+		},
+		["animSpeed"] = 1,
+		["filterAbsoluteEnabled"] = false,
+		["preventOverlapSpacingY"] = 50,
+		["attachMode"] = "tn",
+		["auto"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FFFFFFFF",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["showIcons"] = false,
+			["fontStyle"] = "",
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		},
+		["filterRelativeThreshold"] = 10,
+		["areaNX"] = 0,
+		["filterAverageEnabled"] = false,
+		["sortByDamage"] = false,
+		["spellIconAspectRatio"] = 1,
+		["spelltick"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FFFFE800",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["showIcons"] = false,
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontStyle"] = "",
+		},
+		["preventOverlap"] = true,
+		["mergeEvents"] = false,
+		["abbreviateNumbers"] = false,
+		["filterAbsoluteThreshold"] = 100,
+		["autocrit"] = {
+			["enabled"] = true,
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["fontColor"] = "FFFFFFFF",
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["colorByType"] = false,
+			["showIcons"] = false,
+			["Pow"] = {
+				["enabled"] = true,
+				["endScale"] = 1,
+				["initScale"] = 0.25,
+				["midScale"] = 1.55,
+				["duration"] = 0.3,
+				["inOutRatio"] = 0.7,
+			},
+			["fontStyle"] = "",
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontSize"] = 60,
+		},
+		["preventOverlapSpacingX"] = 30,
+		["heal"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FF00FF00",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["showIcons"] = false,
+			["fontStyle"] = "",
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		},
+		["petauto"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FFFF9D00",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["showIcons"] = false,
+			["fontStyle"] = "",
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		},
+		["petspelltickcrit"] = {
+			["enabled"] = true,
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["fontColor"] = "FFFFE800",
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["colorByType"] = false,
+			["showIcons"] = false,
+			["Pow"] = {
+				["enabled"] = true,
+				["endScale"] = 1,
+				["initScale"] = 0.25,
+				["midScale"] = 1.55,
+				["inOutRatio"] = 0.7,
+				["duration"] = 0.3,
+			},
+			["fontSize"] = 60,
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontStyle"] = "",
+		},
+		["pethealtick"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FF00FF00",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["showIcons"] = false,
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontStyle"] = "",
+		},
+		["kiloSeparator"] = false,
+		["automiss"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FFFFFFFF",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["showIcons"] = false,
+			["fontStyle"] = "",
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		},
+		["filterMissesEnabled"] = false,
+		["spellIconOffsetY"] = 0,
+		["areaX"] = 0,
+		["mergeEventsMisses"] = false,
+		["petspell"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FFFFE800",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["showIcons"] = false,
+			["fontStyle"] = "",
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		},
+		["spellIconZoom"] = 1,
+		["petspelltick"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FFFFE800",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["showIcons"] = false,
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontStyle"] = "",
+		},
+		["mergeEventsByGuid"] = false,
+		["petspellmiss"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FFFFE800",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["showIcons"] = false,
+			["fontStyle"] = "",
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		},
+		["pethealcrit"] = {
+			["enabled"] = true,
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["fontColor"] = "FF00FF00",
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["colorByType"] = false,
+			["showIcons"] = false,
+			["Pow"] = {
+				["enabled"] = true,
+				["endScale"] = 1,
+				["initScale"] = 0.25,
+				["midScale"] = 1.55,
+				["duration"] = 0.3,
+				["inOutRatio"] = 0.7,
+			},
+			["fontStyle"] = "",
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontSize"] = 60,
+		},
 		["spellmiss"] = {
 			["enabled"] = true,
 			["fontSize"] = 42,
@@ -349,14 +610,31 @@ ClassicFCTCustomPresets = {
 			},
 			["fontPath"] = "Fonts\\FRIZQT__.TTF",
 		},
-		["dontOverlapNameplates"] = false,
-		["spellIconZoom"] = 1,
-		["attachMode"] = "tn",
-		["mergeEventsByGuid"] = false,
-		["animSpeed"] = 1,
-		["filterAbsoluteEnabled"] = false,
-		["preventOverlapSpacingY"] = 50,
-		["spellIconOffsetX"] = 0,
+		["pethealtickcrit"] = {
+			["enabled"] = true,
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["fontColor"] = "FF00FF00",
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["colorByType"] = false,
+			["showIcons"] = false,
+			["Pow"] = {
+				["enabled"] = true,
+				["endScale"] = 1,
+				["initScale"] = 0.25,
+				["midScale"] = 1.55,
+				["inOutRatio"] = 0.7,
+				["duration"] = 0.3,
+			},
+			["fontSize"] = 60,
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontStyle"] = "",
+		},
 		["spell"] = {
 			["enabled"] = true,
 			["fontSize"] = 42,
@@ -380,52 +658,10 @@ ClassicFCTCustomPresets = {
 			["fontPath"] = "Fonts\\FRIZQT__.TTF",
 		},
 		["areaY"] = 150,
-		["auto"] = {
-			["enabled"] = true,
-			["fontSize"] = 42,
-			["fontColor"] = "FFFFFFFF",
-			["Scroll"] = {
-				["enabled"] = true,
-				["direction"] = "UP",
-				["distance"] = 32,
-			},
-			["colorByType"] = false,
-			["showIcons"] = false,
-			["fontStyle"] = "",
-			["FadeOut"] = {
-				["enabled"] = true,
-				["duration"] = 0.3,
-			},
-			["FadeIn"] = {
-				["enabled"] = true,
-				["duration"] = 0.07,
-			},
-			["fontPath"] = "Fonts\\FRIZQT__.TTF",
-		},
-		["automiss"] = {
-			["enabled"] = true,
-			["fontSize"] = 42,
-			["fontColor"] = "FFFFFFFF",
-			["Scroll"] = {
-				["enabled"] = true,
-				["direction"] = "UP",
-				["distance"] = 32,
-			},
-			["colorByType"] = false,
-			["showIcons"] = false,
-			["fontStyle"] = "",
-			["FadeOut"] = {
-				["enabled"] = true,
-				["duration"] = 0.3,
-			},
-			["FadeIn"] = {
-				["enabled"] = true,
-				["duration"] = 0.07,
-			},
-			["fontPath"] = "Fonts\\FRIZQT__.TTF",
-		},
+		["spellIconOffsetX"] = 0,
+		["attachModeFallback"] = true,
 		["mergeEventsBySpellIcon"] = true,
-		["petspell"] = {
+		["spelltickmiss"] = {
 			["enabled"] = true,
 			["fontSize"] = 42,
 			["fontColor"] = "FFFFE800",
@@ -436,6 +672,28 @@ ClassicFCTCustomPresets = {
 			},
 			["colorByType"] = false,
 			["showIcons"] = false,
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontStyle"] = "",
+		},
+		["healmiss"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FF00FF00",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["showIcons"] = false,
 			["fontStyle"] = "",
 			["FadeOut"] = {
 				["enabled"] = true,
@@ -447,7 +705,6 @@ ClassicFCTCustomPresets = {
 			},
 			["fontPath"] = "Fonts\\FRIZQT__.TTF",
 		},
-		["filterRelativeThreshold"] = 10,
 		["healcrit"] = {
 			["enabled"] = true,
 			["FadeOut"] = {
@@ -498,11 +755,31 @@ ClassicFCTCustomPresets = {
 			},
 			["fontSize"] = 60,
 		},
-		["animDuration"] = 1.5,
-		["areaNX"] = 0,
-		["spellIconOffsetY"] = 0,
-		["filterAverageEnabled"] = false,
-		["pethealcrit"] = {
+		["sortMissPrio"] = false,
+		["pethealtickmiss"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FF00FF00",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["showIcons"] = false,
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontStyle"] = "",
+		},
+		["mergeEventsCounter"] = true,
+		["healtickcrit"] = {
 			["enabled"] = true,
 			["FadeOut"] = {
 				["enabled"] = true,
@@ -517,17 +794,92 @@ ClassicFCTCustomPresets = {
 				["endScale"] = 1,
 				["initScale"] = 0.25,
 				["midScale"] = 1.55,
-				["duration"] = 0.3,
 				["inOutRatio"] = 0.7,
+				["duration"] = 0.3,
 			},
-			["fontStyle"] = "",
+			["fontSize"] = 60,
 			["FadeIn"] = {
 				["enabled"] = true,
 				["duration"] = 0.07,
 			},
-			["fontSize"] = 60,
+			["fontStyle"] = "",
 		},
-		["sortByDamage"] = false,
+		["areaNY"] = 0,
+		["colorTableDot"] = {
+			"ffff0000", -- [1]
+			"ffffffb6", -- [2]
+			"ffffffe6", -- [3]
+			"ffff432c", -- [4]
+			"ffff8879", -- [5]
+			"ffffca68", -- [6]
+			nil, -- [7]
+			"ff3c9742", -- [8]
+			"ffa1eaa3", -- [9]
+			"ffe9ffa9", -- [10]
+			nil, -- [11]
+			"ffdfcfb6", -- [12]
+			nil, -- [13]
+			nil, -- [14]
+			nil, -- [15]
+			"ff00abff", -- [16]
+			"ff7dd5ff", -- [17]
+			"ffbffffc", -- [18]
+			nil, -- [19]
+			"ffff64ab", -- [20]
+			nil, -- [21]
+			nil, -- [22]
+			nil, -- [23]
+			"ff5de1de", -- [24]
+			nil, -- [25]
+			nil, -- [26]
+			nil, -- [27]
+			"ffffa500", -- [28]
+			nil, -- [29]
+			nil, -- [30]
+			nil, -- [31]
+			"ff9500b6", -- [32]
+			"ffa89cff", -- [33]
+			"ff242d8d", -- [34]
+			nil, -- [35]
+			"ffb92334", -- [36]
+			nil, -- [37]
+			nil, -- [38]
+			nil, -- [39]
+			"ff462b68", -- [40]
+			nil, -- [41]
+			nil, -- [42]
+			nil, -- [43]
+			nil, -- [44]
+			nil, -- [45]
+			nil, -- [46]
+			nil, -- [47]
+			"ff3a00e5", -- [48]
+			nil, -- [49]
+			nil, -- [50]
+			nil, -- [51]
+			nil, -- [52]
+			nil, -- [53]
+			nil, -- [54]
+			nil, -- [55]
+			nil, -- [56]
+			nil, -- [57]
+			nil, -- [58]
+			nil, -- [59]
+			nil, -- [60]
+			nil, -- [61]
+			"ffffffff", -- [62]
+			nil, -- [63]
+			"ffdd4aff", -- [64]
+			"ffa8caff", -- [65]
+			"fffff9ed", -- [66]
+			nil, -- [67]
+			"ffff4d5c", -- [68]
+			[126] = "ff97f4ff",
+			[124] = "ff8000ff",
+			[72] = "ff3f45ff",
+			[80] = "ff828ffd",
+			[96] = "ff0009ff",
+		},
 	},
 	["Mists of Pandaria"] = {
 		["petheal"] = {
@@ -561,7 +913,6 @@ ClassicFCTCustomPresets = {
 			["fontPath"] = "Fonts\\FRIZQT__.TTF",
 		},
 		["filterRelativeEnabled"] = false,
-		["attachModeFallback"] = true,
 		["filterAverageThreshold"] = 10,
 		["mergeEventsBySchool"] = true,
 		["pethealmiss"] = {
@@ -594,14 +945,7 @@ ClassicFCTCustomPresets = {
 			},
 			["fontPath"] = "Fonts\\FRIZQT__.TTF",
 		},
-		["preventOverlap"] = true,
-		["mergeEvents"] = false,
-		["mergeEventsIntervalMode"] = "last",
-		["inheritNameplates"] = false,
-		["areaX"] = 0,
-		["abbreviateNumbers"] = false,
-		["filterAbsoluteThreshold"] = 100,
-		["healmiss"] = {
+		["healtickmiss"] = {
 			["enabled"] = true,
 			["fontSize"] = 42,
 			["fontColor"] = "FF00FF00",
@@ -611,15 +955,15 @@ ClassicFCTCustomPresets = {
 				["distance"] = 32,
 			},
 			["colorByType"] = false,
-			["fontStyle"] = "",
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
 			["showIcons"] = false,
 			["Pow"] = {
 				["enabled"] = false,
 				["endScale"] = 1,
 				["initScale"] = 0.25,
 				["midScale"] = 1.55,
-				["inOutRatio"] = 0.7,
 				["duration"] = 0.3,
+				["inOutRatio"] = 0.7,
 			},
 			["FadeOut"] = {
 				["enabled"] = true,
@@ -629,27 +973,27 @@ ClassicFCTCustomPresets = {
 				["enabled"] = true,
 				["duration"] = 0.07,
 			},
-			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["fontStyle"] = "",
 		},
-		["autocrit"] = {
+		["spelltickcrit"] = {
 			["enabled"] = true,
 			["fontSize"] = 60,
-			["fontColor"] = "FFFFFFFF",
+			["fontColor"] = "FFFFE800",
 			["Scroll"] = {
 				["enabled"] = false,
 				["direction"] = "UP",
 				["distance"] = 32,
 			},
 			["colorByType"] = false,
-			["fontStyle"] = "",
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
 			["showIcons"] = false,
 			["Pow"] = {
 				["enabled"] = true,
 				["endScale"] = 1,
 				["initScale"] = 1.8,
 				["midScale"] = 1.6,
-				["duration"] = 0.16,
 				["inOutRatio"] = 0.3,
+				["duration"] = 0.16,
 			},
 			["FadeOut"] = {
 				["enabled"] = true,
@@ -659,10 +1003,40 @@ ClassicFCTCustomPresets = {
 				["enabled"] = true,
 				["duration"] = 0.07,
 			},
-			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["fontStyle"] = "",
 		},
-		["preventOverlapSpacingX"] = 30,
-		["filterMissesEnabled"] = false,
+		["mergeEventsIntervalMode"] = "last",
+		["inheritNameplates"] = false,
+		["healtick"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FF00FF00",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["showIcons"] = false,
+			["Pow"] = {
+				["enabled"] = false,
+				["endScale"] = 1,
+				["initScale"] = 0.25,
+				["midScale"] = 1.55,
+				["duration"] = 0.3,
+				["inOutRatio"] = 0.7,
+			},
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontStyle"] = "",
+		},
 		["petautocrit"] = {
 			["enabled"] = true,
 			["fontSize"] = 60,
@@ -682,66 +1056,6 @@ ClassicFCTCustomPresets = {
 				["midScale"] = 1.6,
 				["duration"] = 0.16,
 				["inOutRatio"] = 0.3,
-			},
-			["FadeOut"] = {
-				["enabled"] = true,
-				["duration"] = 0.3,
-			},
-			["FadeIn"] = {
-				["enabled"] = true,
-				["duration"] = 0.07,
-			},
-			["fontPath"] = "Fonts\\FRIZQT__.TTF",
-		},
-		["heal"] = {
-			["enabled"] = true,
-			["fontSize"] = 42,
-			["fontColor"] = "FF00FF00",
-			["Scroll"] = {
-				["enabled"] = true,
-				["direction"] = "UP",
-				["distance"] = 32,
-			},
-			["colorByType"] = false,
-			["fontStyle"] = "",
-			["showIcons"] = false,
-			["Pow"] = {
-				["enabled"] = false,
-				["endScale"] = 1,
-				["initScale"] = 0.25,
-				["midScale"] = 1.55,
-				["inOutRatio"] = 0.7,
-				["duration"] = 0.3,
-			},
-			["FadeOut"] = {
-				["enabled"] = true,
-				["duration"] = 0.3,
-			},
-			["FadeIn"] = {
-				["enabled"] = true,
-				["duration"] = 0.07,
-			},
-			["fontPath"] = "Fonts\\FRIZQT__.TTF",
-		},
-		["petspellmiss"] = {
-			["enabled"] = true,
-			["fontSize"] = 42,
-			["fontColor"] = "FFFFE800",
-			["Scroll"] = {
-				["enabled"] = true,
-				["direction"] = "UP",
-				["distance"] = 32,
-			},
-			["colorByType"] = false,
-			["fontStyle"] = "",
-			["showIcons"] = false,
-			["Pow"] = {
-				["enabled"] = false,
-				["endScale"] = 1,
-				["initScale"] = 0.25,
-				["midScale"] = 1.55,
-				["inOutRatio"] = 0.7,
-				["duration"] = 0.3,
 			},
 			["FadeOut"] = {
 				["enabled"] = true,
@@ -783,39 +1097,7 @@ ClassicFCTCustomPresets = {
 			},
 			["fontPath"] = "Fonts\\FRIZQT__.TTF",
 		},
-		["spellIconAspectRatio"] = 1,
 		["mergeEventsInterval"] = 0.1,
-		["petauto"] = {
-			["enabled"] = true,
-			["fontSize"] = 42,
-			["fontColor"] = "FFFF9D00",
-			["Scroll"] = {
-				["enabled"] = true,
-				["direction"] = "UP",
-				["distance"] = 32,
-			},
-			["colorByType"] = false,
-			["fontStyle"] = "",
-			["showIcons"] = false,
-			["Pow"] = {
-				["enabled"] = false,
-				["endScale"] = 1,
-				["initScale"] = 0.25,
-				["midScale"] = 1.55,
-				["inOutRatio"] = 0.7,
-				["duration"] = 0.3,
-			},
-			["FadeOut"] = {
-				["enabled"] = true,
-				["duration"] = 0.3,
-			},
-			["FadeIn"] = {
-				["enabled"] = true,
-				["duration"] = 0.07,
-			},
-			["fontPath"] = "Fonts\\FRIZQT__.TTF",
-		},
-		["kiloSeparator"] = false,
 		["petautomiss"] = {
 			["enabled"] = true,
 			["fontSize"] = 42,
@@ -846,11 +1128,9 @@ ClassicFCTCustomPresets = {
 			},
 			["fontPath"] = "Fonts\\FRIZQT__.TTF",
 		},
-		["sortMissPrio"] = false,
+		["colorTableDotEnabled"] = false,
 		["mergeEventsBySpellID"] = false,
-		["mergeEventsCounter"] = true,
-		["mergeEventsMisses"] = false,
-		["areaNY"] = 0,
+		["animDuration"] = 1.5,
 		["colorTable"] = {
 			"ffff0000", -- [1]
 			"ffffffb6", -- [2]
@@ -927,6 +1207,418 @@ ClassicFCTCustomPresets = {
 			[96] = "ff0009ff",
 		},
 		["textStrata"] = "MEDIUM",
+		["dontOverlapNameplates"] = false,
+		["petspelltickmiss"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FFFFE800",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["showIcons"] = false,
+			["Pow"] = {
+				["enabled"] = false,
+				["endScale"] = 1,
+				["initScale"] = 0.25,
+				["midScale"] = 1.55,
+				["duration"] = 0.3,
+				["inOutRatio"] = 0.7,
+			},
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontStyle"] = "",
+		},
+		["animSpeed"] = 1,
+		["filterAbsoluteEnabled"] = false,
+		["preventOverlapSpacingY"] = 50,
+		["attachMode"] = "tn",
+		["auto"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FFFFFFFF",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["fontStyle"] = "",
+			["showIcons"] = false,
+			["Pow"] = {
+				["enabled"] = false,
+				["endScale"] = 1,
+				["initScale"] = 0.25,
+				["midScale"] = 1.55,
+				["inOutRatio"] = 0.7,
+				["duration"] = 0.3,
+			},
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		},
+		["filterRelativeThreshold"] = 10,
+		["areaNX"] = 0,
+		["filterAverageEnabled"] = false,
+		["sortByDamage"] = false,
+		["spellIconAspectRatio"] = 1,
+		["spelltick"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FFFFE800",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["showIcons"] = false,
+			["Pow"] = {
+				["enabled"] = false,
+				["endScale"] = 1,
+				["initScale"] = 0.25,
+				["midScale"] = 1.55,
+				["duration"] = 0.3,
+				["inOutRatio"] = 0.7,
+			},
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontStyle"] = "",
+		},
+		["preventOverlap"] = true,
+		["mergeEvents"] = false,
+		["abbreviateNumbers"] = false,
+		["filterAbsoluteThreshold"] = 100,
+		["autocrit"] = {
+			["enabled"] = true,
+			["fontSize"] = 60,
+			["fontColor"] = "FFFFFFFF",
+			["Scroll"] = {
+				["enabled"] = false,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["fontStyle"] = "",
+			["showIcons"] = false,
+			["Pow"] = {
+				["enabled"] = true,
+				["endScale"] = 1,
+				["initScale"] = 1.8,
+				["midScale"] = 1.6,
+				["duration"] = 0.16,
+				["inOutRatio"] = 0.3,
+			},
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		},
+		["preventOverlapSpacingX"] = 30,
+		["heal"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FF00FF00",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["fontStyle"] = "",
+			["showIcons"] = false,
+			["Pow"] = {
+				["enabled"] = false,
+				["endScale"] = 1,
+				["initScale"] = 0.25,
+				["midScale"] = 1.55,
+				["inOutRatio"] = 0.7,
+				["duration"] = 0.3,
+			},
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		},
+		["petauto"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FFFF9D00",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["fontStyle"] = "",
+			["showIcons"] = false,
+			["Pow"] = {
+				["enabled"] = false,
+				["endScale"] = 1,
+				["initScale"] = 0.25,
+				["midScale"] = 1.55,
+				["inOutRatio"] = 0.7,
+				["duration"] = 0.3,
+			},
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		},
+		["petspelltickcrit"] = {
+			["enabled"] = true,
+			["fontSize"] = 60,
+			["fontColor"] = "FFFFE800",
+			["Scroll"] = {
+				["enabled"] = false,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["showIcons"] = false,
+			["Pow"] = {
+				["enabled"] = true,
+				["endScale"] = 1,
+				["initScale"] = 1.8,
+				["midScale"] = 1.6,
+				["inOutRatio"] = 0.3,
+				["duration"] = 0.16,
+			},
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontStyle"] = "",
+		},
+		["pethealtick"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FF00FF00",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["showIcons"] = false,
+			["Pow"] = {
+				["enabled"] = false,
+				["endScale"] = 1,
+				["initScale"] = 0.25,
+				["midScale"] = 1.55,
+				["duration"] = 0.3,
+				["inOutRatio"] = 0.7,
+			},
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontStyle"] = "",
+		},
+		["kiloSeparator"] = false,
+		["automiss"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FFFFFFFF",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["fontStyle"] = "",
+			["showIcons"] = false,
+			["Pow"] = {
+				["enabled"] = false,
+				["endScale"] = 1,
+				["initScale"] = 0.25,
+				["midScale"] = 1.55,
+				["inOutRatio"] = 0.7,
+				["duration"] = 0.3,
+			},
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		},
+		["filterMissesEnabled"] = false,
+		["spellIconOffsetY"] = 0,
+		["areaX"] = 0,
+		["mergeEventsMisses"] = false,
+		["petspell"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FFFFE800",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["fontStyle"] = "",
+			["showIcons"] = false,
+			["Pow"] = {
+				["enabled"] = false,
+				["endScale"] = 1,
+				["initScale"] = 0.25,
+				["midScale"] = 1.55,
+				["inOutRatio"] = 0.7,
+				["duration"] = 0.3,
+			},
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		},
+		["spellIconZoom"] = 1,
+		["petspelltick"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FFFFE800",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["showIcons"] = false,
+			["Pow"] = {
+				["enabled"] = false,
+				["endScale"] = 1,
+				["initScale"] = 0.25,
+				["midScale"] = 1.55,
+				["duration"] = 0.3,
+				["inOutRatio"] = 0.7,
+			},
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontStyle"] = "",
+		},
+		["mergeEventsByGuid"] = false,
+		["petspellmiss"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FFFFE800",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["fontStyle"] = "",
+			["showIcons"] = false,
+			["Pow"] = {
+				["enabled"] = false,
+				["endScale"] = 1,
+				["initScale"] = 0.25,
+				["midScale"] = 1.55,
+				["inOutRatio"] = 0.7,
+				["duration"] = 0.3,
+			},
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		},
+		["pethealcrit"] = {
+			["enabled"] = true,
+			["fontSize"] = 60,
+			["fontColor"] = "FF00FF00",
+			["Scroll"] = {
+				["enabled"] = false,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["fontStyle"] = "",
+			["showIcons"] = false,
+			["Pow"] = {
+				["enabled"] = true,
+				["endScale"] = 1,
+				["initScale"] = 1.8,
+				["midScale"] = 1.6,
+				["duration"] = 0.16,
+				["inOutRatio"] = 0.3,
+			},
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		},
 		["spellmiss"] = {
 			["enabled"] = true,
 			["fontSize"] = 42,
@@ -957,14 +1649,36 @@ ClassicFCTCustomPresets = {
 			},
 			["fontPath"] = "Fonts\\FRIZQT__.TTF",
 		},
-		["dontOverlapNameplates"] = false,
-		["spellIconZoom"] = 1,
-		["attachMode"] = "tn",
-		["mergeEventsByGuid"] = false,
-		["animSpeed"] = 1,
-		["filterAbsoluteEnabled"] = false,
-		["preventOverlapSpacingY"] = 50,
-		["spellIconOffsetX"] = 0,
+		["pethealtickcrit"] = {
+			["enabled"] = true,
+			["fontSize"] = 60,
+			["fontColor"] = "FF00FF00",
+			["Scroll"] = {
+				["enabled"] = false,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["showIcons"] = false,
+			["Pow"] = {
+				["enabled"] = true,
+				["endScale"] = 1,
+				["initScale"] = 1.8,
+				["midScale"] = 1.6,
+				["inOutRatio"] = 0.3,
+				["duration"] = 0.16,
+			},
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontStyle"] = "",
+		},
 		["spell"] = {
 			["enabled"] = true,
 			["fontSize"] = 42,
@@ -996,68 +1710,10 @@ ClassicFCTCustomPresets = {
 			["fontPath"] = "Fonts\\FRIZQT__.TTF",
 		},
 		["areaY"] = 150,
-		["auto"] = {
-			["enabled"] = true,
-			["fontSize"] = 42,
-			["fontColor"] = "FFFFFFFF",
-			["Scroll"] = {
-				["enabled"] = true,
-				["direction"] = "UP",
-				["distance"] = 32,
-			},
-			["colorByType"] = false,
-			["fontStyle"] = "",
-			["showIcons"] = false,
-			["Pow"] = {
-				["enabled"] = false,
-				["endScale"] = 1,
-				["initScale"] = 0.25,
-				["midScale"] = 1.55,
-				["inOutRatio"] = 0.7,
-				["duration"] = 0.3,
-			},
-			["FadeOut"] = {
-				["enabled"] = true,
-				["duration"] = 0.3,
-			},
-			["FadeIn"] = {
-				["enabled"] = true,
-				["duration"] = 0.07,
-			},
-			["fontPath"] = "Fonts\\FRIZQT__.TTF",
-		},
-		["automiss"] = {
-			["enabled"] = true,
-			["fontSize"] = 42,
-			["fontColor"] = "FFFFFFFF",
-			["Scroll"] = {
-				["enabled"] = true,
-				["direction"] = "UP",
-				["distance"] = 32,
-			},
-			["colorByType"] = false,
-			["fontStyle"] = "",
-			["showIcons"] = false,
-			["Pow"] = {
-				["enabled"] = false,
-				["endScale"] = 1,
-				["initScale"] = 0.25,
-				["midScale"] = 1.55,
-				["inOutRatio"] = 0.7,
-				["duration"] = 0.3,
-			},
-			["FadeOut"] = {
-				["enabled"] = true,
-				["duration"] = 0.3,
-			},
-			["FadeIn"] = {
-				["enabled"] = true,
-				["duration"] = 0.07,
-			},
-			["fontPath"] = "Fonts\\FRIZQT__.TTF",
-		},
+		["spellIconOffsetX"] = 0,
+		["attachModeFallback"] = true,
 		["mergeEventsBySpellIcon"] = true,
-		["petspell"] = {
+		["spelltickmiss"] = {
 			["enabled"] = true,
 			["fontSize"] = 42,
 			["fontColor"] = "FFFFE800",
@@ -1067,6 +1723,36 @@ ClassicFCTCustomPresets = {
 				["distance"] = 32,
 			},
 			["colorByType"] = false,
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["showIcons"] = false,
+			["Pow"] = {
+				["enabled"] = false,
+				["endScale"] = 1,
+				["initScale"] = 0.25,
+				["midScale"] = 1.55,
+				["duration"] = 0.3,
+				["inOutRatio"] = 0.7,
+			},
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontStyle"] = "",
+		},
+		["healmiss"] = {
+			["enabled"] = true,
+			["fontSize"] = 42,
+			["fontColor"] = "FF00FF00",
+			["Scroll"] = {
+				["enabled"] = true,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
 			["fontStyle"] = "",
 			["showIcons"] = false,
 			["Pow"] = {
@@ -1087,7 +1773,6 @@ ClassicFCTCustomPresets = {
 			},
 			["fontPath"] = "Fonts\\FRIZQT__.TTF",
 		},
-		["filterRelativeThreshold"] = 10,
 		["healcrit"] = {
 			["enabled"] = true,
 			["fontSize"] = 60,
@@ -1148,29 +1833,26 @@ ClassicFCTCustomPresets = {
 			},
 			["fontPath"] = "Fonts\\FRIZQT__.TTF",
 		},
-		["animDuration"] = 1.5,
-		["areaNX"] = 0,
-		["spellIconOffsetY"] = 0,
-		["filterAverageEnabled"] = false,
-		["pethealcrit"] = {
+		["sortMissPrio"] = false,
+		["pethealtickmiss"] = {
 			["enabled"] = true,
-			["fontSize"] = 60,
+			["fontSize"] = 42,
 			["fontColor"] = "FF00FF00",
 			["Scroll"] = {
-				["enabled"] = false,
+				["enabled"] = true,
 				["direction"] = "UP",
 				["distance"] = 32,
 			},
 			["colorByType"] = false,
-			["fontStyle"] = "",
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
 			["showIcons"] = false,
 			["Pow"] = {
-				["enabled"] = true,
+				["enabled"] = false,
 				["endScale"] = 1,
-				["initScale"] = 1.8,
-				["midScale"] = 1.6,
-				["duration"] = 0.16,
-				["inOutRatio"] = 0.3,
+				["initScale"] = 0.25,
+				["midScale"] = 1.55,
+				["duration"] = 0.3,
+				["inOutRatio"] = 0.7,
 			},
 			["FadeOut"] = {
 				["enabled"] = true,
@@ -1180,9 +1862,115 @@ ClassicFCTCustomPresets = {
 				["enabled"] = true,
 				["duration"] = 0.07,
 			},
-			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["fontStyle"] = "",
 		},
-		["sortByDamage"] = false,
+		["mergeEventsCounter"] = true,
+		["healtickcrit"] = {
+			["enabled"] = true,
+			["fontSize"] = 60,
+			["fontColor"] = "FF00FF00",
+			["Scroll"] = {
+				["enabled"] = false,
+				["direction"] = "UP",
+				["distance"] = 32,
+			},
+			["colorByType"] = false,
+			["fontPath"] = "Fonts\\FRIZQT__.TTF",
+			["showIcons"] = false,
+			["Pow"] = {
+				["enabled"] = true,
+				["endScale"] = 1,
+				["initScale"] = 1.8,
+				["midScale"] = 1.6,
+				["inOutRatio"] = 0.3,
+				["duration"] = 0.16,
+			},
+			["FadeOut"] = {
+				["enabled"] = true,
+				["duration"] = 0.3,
+			},
+			["FadeIn"] = {
+				["enabled"] = true,
+				["duration"] = 0.07,
+			},
+			["fontStyle"] = "",
+		},
+		["areaNY"] = 0,
+		["colorTableDot"] = {
+			"ffff0000", -- [1]
+			"ffffffb6", -- [2]
+			"ffffffe6", -- [3]
+			"ffff432c", -- [4]
+			"ffff8879", -- [5]
+			"ffffca68", -- [6]
+			nil, -- [7]
+			"ff3c9742", -- [8]
+			"ffa1eaa3", -- [9]
+			"ffe9ffa9", -- [10]
+			nil, -- [11]
+			"ffdfcfb6", -- [12]
+			nil, -- [13]
+			nil, -- [14]
+			nil, -- [15]
+			"ff00abff", -- [16]
+			"ff7dd5ff", -- [17]
+			"ffbffffc", -- [18]
+			nil, -- [19]
+			"ffff64ab", -- [20]
+			nil, -- [21]
+			nil, -- [22]
+			nil, -- [23]
+			"ff5de1de", -- [24]
+			nil, -- [25]
+			nil, -- [26]
+			nil, -- [27]
+			"ffffa500", -- [28]
+			nil, -- [29]
+			nil, -- [30]
+			nil, -- [31]
+			"ff9500b6", -- [32]
+			"ffa89cff", -- [33]
+			"ff242d8d", -- [34]
+			nil, -- [35]
+			"ffb92334", -- [36]
+			nil, -- [37]
+			nil, -- [38]
+			nil, -- [39]
+			"ff462b68", -- [40]
+			nil, -- [41]
+			nil, -- [42]
+			nil, -- [43]
+			nil, -- [44]
+			nil, -- [45]
+			nil, -- [46]
+			nil, -- [47]
+			"ff3a00e5", -- [48]
+			nil, -- [49]
+			nil, -- [50]
+			nil, -- [51]
+			nil, -- [52]
+			nil, -- [53]
+			nil, -- [54]
+			nil, -- [55]
+			nil, -- [56]
+			nil, -- [57]
+			nil, -- [58]
+			nil, -- [59]
+			nil, -- [60]
+			nil, -- [61]
+			"ffffffff", -- [62]
+			nil, -- [63]
+			"ffdd4aff", -- [64]
+			"ffa8caff", -- [65]
+			"fffff9ed", -- [66]
+			nil, -- [67]
+			"ffff4d5c", -- [68]
+			[126] = "ff97f4ff",
+			[124] = "ff8000ff",
+			[72] = "ff3f45ff",
+			[80] = "ff828ffd",
+			[96] = "ff0009ff",
+		},
 	},
 }
 ClassicFCTConfig = {
@@ -1216,76 +2004,9 @@ ClassicFCTConfig = {
 		},
 		["colorByType"] = false,
 	},
-	["pethealcrit"] = {
-		["enabled"] = true,
-		["fontSize"] = 60,
-		["fontColor"] = "FF00FF00",
-		["Scroll"] = {
-			["enabled"] = false,
-			["direction"] = "UP",
-			["distance"] = 32,
-		},
-		["fontStyle"] = "",
-		["fontPath"] = "Fonts\\FRIZQT__.TTF",
-		["showIcons"] = false,
-		["Pow"] = {
-			["enabled"] = true,
-			["endScale"] = 1,
-			["initScale"] = 1.8,
-			["midScale"] = 1.6,
-			["inOutRatio"] = 0.3,
-			["duration"] = 0.16,
-		},
-		["FadeOut"] = {
-			["enabled"] = true,
-			["duration"] = 0.3,
-		},
-		["FadeIn"] = {
-			["enabled"] = true,
-			["duration"] = 0.07,
-		},
-		["colorByType"] = false,
-	},
-	["attachModeFallback"] = true,
+	["sortMissPrio"] = false,
 	["filterAverageThreshold"] = 10,
 	["mergeEventsBySchool"] = true,
-	["pethealmiss"] = {
-		["enabled"] = true,
-		["fontSize"] = 42,
-		["fontColor"] = "FF00FF00",
-		["Scroll"] = {
-			["enabled"] = true,
-			["direction"] = "UP",
-			["distance"] = 32,
-		},
-		["fontStyle"] = "",
-		["fontPath"] = "Fonts\\FRIZQT__.TTF",
-		["showIcons"] = false,
-		["Pow"] = {
-			["enabled"] = false,
-			["endScale"] = 1,
-			["initScale"] = 0.25,
-			["midScale"] = 1.55,
-			["duration"] = 0.3,
-			["inOutRatio"] = 0.7,
-		},
-		["FadeOut"] = {
-			["enabled"] = true,
-			["duration"] = 0.3,
-		},
-		["FadeIn"] = {
-			["enabled"] = true,
-			["duration"] = 0.07,
-		},
-		["colorByType"] = false,
-	},
-	["preventOverlap"] = true,
-	["mergeEvents"] = false,
-	["mergeEventsIntervalMode"] = "last",
-	["inheritNameplates"] = false,
-	["spellIconAspectRatio"] = 1,
-	["abbreviateNumbers"] = false,
-	["filterAbsoluteThreshold"] = 100,
 	["petspellmiss"] = {
 		["enabled"] = true,
 		["fontSize"] = 42,
@@ -1316,25 +2037,25 @@ ClassicFCTConfig = {
 		},
 		["colorByType"] = false,
 	},
-	["autocrit"] = {
+	["healtickmiss"] = {
 		["enabled"] = true,
-		["fontSize"] = 60,
-		["fontColor"] = "FFFFFFFF",
+		["fontSize"] = 42,
+		["fontColor"] = "FF00FF00",
 		["Scroll"] = {
-			["enabled"] = false,
+			["enabled"] = true,
 			["direction"] = "UP",
 			["distance"] = 32,
 		},
 		["fontStyle"] = "",
-		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		["colorByType"] = false,
 		["showIcons"] = false,
 		["Pow"] = {
-			["enabled"] = true,
+			["enabled"] = false,
 			["endScale"] = 1,
-			["initScale"] = 1.8,
-			["midScale"] = 1.6,
-			["inOutRatio"] = 0.3,
-			["duration"] = 0.16,
+			["initScale"] = 0.25,
+			["midScale"] = 1.55,
+			["inOutRatio"] = 0.7,
+			["duration"] = 0.3,
 		},
 		["FadeOut"] = {
 			["enabled"] = true,
@@ -1344,10 +2065,70 @@ ClassicFCTConfig = {
 			["enabled"] = true,
 			["duration"] = 0.07,
 		},
-		["colorByType"] = false,
+		["fontPath"] = "Fonts\\FRIZQT__.TTF",
 	},
-	["preventOverlapSpacingX"] = 30,
-	["filterAverageEnabled"] = false,
+	["spelltickcrit"] = {
+		["enabled"] = true,
+		["fontSize"] = 60,
+		["fontColor"] = "FFFFE800",
+		["Scroll"] = {
+			["enabled"] = false,
+			["direction"] = "UP",
+			["distance"] = 32,
+		},
+		["fontStyle"] = "",
+		["colorByType"] = false,
+		["showIcons"] = false,
+		["Pow"] = {
+			["enabled"] = true,
+			["endScale"] = 1,
+			["initScale"] = 1.8,
+			["midScale"] = 1.6,
+			["duration"] = 0.16,
+			["inOutRatio"] = 0.3,
+		},
+		["FadeOut"] = {
+			["enabled"] = true,
+			["duration"] = 0.3,
+		},
+		["FadeIn"] = {
+			["enabled"] = true,
+			["duration"] = 0.07,
+		},
+		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+	},
+	["mergeEventsIntervalMode"] = "last",
+	["inheritNameplates"] = false,
+	["healtick"] = {
+		["enabled"] = true,
+		["fontSize"] = 42,
+		["fontColor"] = "FF00FF00",
+		["Scroll"] = {
+			["enabled"] = true,
+			["direction"] = "UP",
+			["distance"] = 32,
+		},
+		["fontStyle"] = "",
+		["colorByType"] = false,
+		["showIcons"] = false,
+		["Pow"] = {
+			["enabled"] = false,
+			["endScale"] = 1,
+			["initScale"] = 0.25,
+			["midScale"] = 1.55,
+			["inOutRatio"] = 0.7,
+			["duration"] = 0.3,
+		},
+		["FadeOut"] = {
+			["enabled"] = true,
+			["duration"] = 0.3,
+		},
+		["FadeIn"] = {
+			["enabled"] = true,
+			["duration"] = 0.07,
+		},
+		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+	},
 	["petautocrit"] = {
 		["enabled"] = true,
 		["fontSize"] = 60,
@@ -1378,38 +2159,6 @@ ClassicFCTConfig = {
 		},
 		["colorByType"] = false,
 	},
-	["heal"] = {
-		["enabled"] = true,
-		["fontSize"] = 42,
-		["fontColor"] = "FF00FF00",
-		["Scroll"] = {
-			["enabled"] = true,
-			["direction"] = "UP",
-			["distance"] = 32,
-		},
-		["fontStyle"] = "",
-		["fontPath"] = "Fonts\\FRIZQT__.TTF",
-		["showIcons"] = false,
-		["Pow"] = {
-			["enabled"] = false,
-			["endScale"] = 1,
-			["initScale"] = 0.25,
-			["midScale"] = 1.55,
-			["duration"] = 0.3,
-			["inOutRatio"] = 0.7,
-		},
-		["FadeOut"] = {
-			["enabled"] = true,
-			["duration"] = 0.3,
-		},
-		["FadeIn"] = {
-			["enabled"] = true,
-			["duration"] = 0.07,
-		},
-		["colorByType"] = false,
-	},
-	["filterRelativeEnabled"] = false,
-	["areaX"] = 0,
 	["petspellcrit"] = {
 		["enabled"] = true,
 		["fontSize"] = 60,
@@ -1441,37 +2190,6 @@ ClassicFCTConfig = {
 		["colorByType"] = false,
 	},
 	["mergeEventsInterval"] = 0.1,
-	["petauto"] = {
-		["enabled"] = true,
-		["fontSize"] = 42,
-		["fontColor"] = "FFFF9D00",
-		["Scroll"] = {
-			["enabled"] = true,
-			["direction"] = "UP",
-			["distance"] = 32,
-		},
-		["fontStyle"] = "",
-		["fontPath"] = "Fonts\\FRIZQT__.TTF",
-		["showIcons"] = false,
-		["Pow"] = {
-			["enabled"] = false,
-			["endScale"] = 1,
-			["initScale"] = 0.25,
-			["midScale"] = 1.55,
-			["duration"] = 0.3,
-			["inOutRatio"] = 0.7,
-		},
-		["FadeOut"] = {
-			["enabled"] = true,
-			["duration"] = 0.3,
-		},
-		["FadeIn"] = {
-			["enabled"] = true,
-			["duration"] = 0.07,
-		},
-		["colorByType"] = false,
-	},
-	["mergeEventsMisses"] = false,
 	["petautomiss"] = {
 		["enabled"] = true,
 		["fontSize"] = 42,
@@ -1502,6 +2220,9 @@ ClassicFCTConfig = {
 		},
 		["colorByType"] = false,
 	},
+	["colorTableDotEnabled"] = false,
+	["mergeEventsBySpellID"] = false,
+	["mergeEventsMisses"] = false,
 	["colorTable"] = {
 		"ffff0000", -- [1]
 		"ffffffb6", -- [2]
@@ -1580,9 +2301,7 @@ ClassicFCTConfig = {
 		[96] = "ff0009ff",
 		[126] = "ff97f4ff",
 	},
-	["mergeEventsBySpellID"] = false,
-	["mergeEventsCounter"] = true,
-	["animDuration"] = 1.5,
+	["textStrata"] = "MEDIUM",
 	["healcrit"] = {
 		["enabled"] = true,
 		["fontSize"] = 60,
@@ -1613,12 +2332,7 @@ ClassicFCTConfig = {
 		},
 		["colorByType"] = false,
 	},
-	["spellIconOffsetY"] = 0,
-	["textStrata"] = "MEDIUM",
-	["preventOverlapSpacingY"] = 50,
-	["dontOverlapNameplates"] = false,
-	["areaNY"] = 0,
-	["petspell"] = {
+	["petspelltickmiss"] = {
 		["enabled"] = true,
 		["fontSize"] = 42,
 		["fontColor"] = "FFFFE800",
@@ -1628,15 +2342,15 @@ ClassicFCTConfig = {
 			["distance"] = 32,
 		},
 		["fontStyle"] = "",
-		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		["colorByType"] = false,
 		["showIcons"] = false,
 		["Pow"] = {
 			["enabled"] = false,
 			["endScale"] = 1,
 			["initScale"] = 0.25,
 			["midScale"] = 1.55,
-			["duration"] = 0.3,
 			["inOutRatio"] = 0.7,
+			["duration"] = 0.3,
 		},
 		["FadeOut"] = {
 			["enabled"] = true,
@@ -1646,74 +2360,12 @@ ClassicFCTConfig = {
 			["enabled"] = true,
 			["duration"] = 0.07,
 		},
-		["colorByType"] = false,
+		["fontPath"] = "Fonts\\FRIZQT__.TTF",
 	},
-	["mergeEventsByGuid"] = false,
 	["animSpeed"] = 1,
 	["filterAbsoluteEnabled"] = false,
-	["spellmiss"] = {
-		["enabled"] = true,
-		["fontSize"] = 42,
-		["fontColor"] = "FFFFE800",
-		["Scroll"] = {
-			["enabled"] = true,
-			["direction"] = "UP",
-			["distance"] = 32,
-		},
-		["fontStyle"] = "",
-		["fontPath"] = "Fonts\\FRIZQT__.TTF",
-		["showIcons"] = false,
-		["Pow"] = {
-			["enabled"] = false,
-			["endScale"] = 1,
-			["initScale"] = 0.25,
-			["midScale"] = 1.55,
-			["duration"] = 0.3,
-			["inOutRatio"] = 0.7,
-		},
-		["FadeOut"] = {
-			["enabled"] = true,
-			["duration"] = 0.3,
-		},
-		["FadeIn"] = {
-			["enabled"] = true,
-			["duration"] = 0.07,
-		},
-		["colorByType"] = false,
-	},
-	["areaY"] = 150,
+	["preventOverlapSpacingY"] = 50,
 	["attachMode"] = "tn",
-	["spellIconOffsetX"] = 0,
-	["automiss"] = {
-		["enabled"] = true,
-		["fontSize"] = 42,
-		["fontColor"] = "FFFFFFFF",
-		["Scroll"] = {
-			["enabled"] = true,
-			["direction"] = "UP",
-			["distance"] = 32,
-		},
-		["fontStyle"] = "",
-		["fontPath"] = "Fonts\\FRIZQT__.TTF",
-		["showIcons"] = false,
-		["Pow"] = {
-			["enabled"] = false,
-			["endScale"] = 1,
-			["initScale"] = 0.25,
-			["midScale"] = 1.55,
-			["duration"] = 0.3,
-			["inOutRatio"] = 0.7,
-		},
-		["FadeOut"] = {
-			["enabled"] = true,
-			["duration"] = 0.3,
-		},
-		["FadeIn"] = {
-			["enabled"] = true,
-			["duration"] = 0.07,
-		},
-		["colorByType"] = false,
-	},
 	["auto"] = {
 		["enabled"] = true,
 		["fontSize"] = 42,
@@ -1744,8 +2396,12 @@ ClassicFCTConfig = {
 		},
 		["colorByType"] = false,
 	},
-	["mergeEventsBySpellIcon"] = true,
-	["spell"] = {
+	["filterRelativeThreshold"] = 10,
+	["areaNX"] = 0,
+	["filterAverageEnabled"] = false,
+	["sortByDamage"] = false,
+	["spellIconAspectRatio"] = 1,
+	["spelltick"] = {
 		["enabled"] = true,
 		["fontSize"] = 42,
 		["fontColor"] = "FFFFE800",
@@ -1755,15 +2411,15 @@ ClassicFCTConfig = {
 			["distance"] = 32,
 		},
 		["fontStyle"] = "",
-		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		["colorByType"] = false,
 		["showIcons"] = false,
 		["Pow"] = {
 			["enabled"] = false,
 			["endScale"] = 1,
 			["initScale"] = 0.25,
 			["midScale"] = 1.55,
-			["duration"] = 0.3,
 			["inOutRatio"] = 0.7,
+			["duration"] = 0.3,
 		},
 		["FadeOut"] = {
 			["enabled"] = true,
@@ -1773,42 +2429,9 @@ ClassicFCTConfig = {
 			["enabled"] = true,
 			["duration"] = 0.07,
 		},
-		["colorByType"] = false,
-	},
-	["filterRelativeThreshold"] = 10,
-	["spellIconZoom"] = 1,
-	["spellcrit"] = {
-		["enabled"] = true,
-		["fontSize"] = 60,
-		["fontColor"] = "FFFFE800",
-		["Scroll"] = {
-			["enabled"] = false,
-			["direction"] = "UP",
-			["distance"] = 32,
-		},
-		["fontStyle"] = "",
 		["fontPath"] = "Fonts\\FRIZQT__.TTF",
-		["showIcons"] = false,
-		["Pow"] = {
-			["enabled"] = true,
-			["endScale"] = 1,
-			["initScale"] = 1.8,
-			["midScale"] = 1.6,
-			["inOutRatio"] = 0.3,
-			["duration"] = 0.16,
-		},
-		["FadeOut"] = {
-			["enabled"] = true,
-			["duration"] = 0.3,
-		},
-		["FadeIn"] = {
-			["enabled"] = true,
-			["duration"] = 0.07,
-		},
-		["colorByType"] = false,
 	},
-	["kiloSeparator"] = false,
-	["areaNX"] = 0,
+	["preventOverlap"] = true,
 	["healmiss"] = {
 		["enabled"] = true,
 		["fontSize"] = 42,
@@ -1839,12 +2462,616 @@ ClassicFCTConfig = {
 		},
 		["colorByType"] = false,
 	},
+	["abbreviateNumbers"] = false,
+	["filterAbsoluteThreshold"] = 100,
+	["autocrit"] = {
+		["enabled"] = true,
+		["fontSize"] = 60,
+		["fontColor"] = "FFFFFFFF",
+		["Scroll"] = {
+			["enabled"] = false,
+			["direction"] = "UP",
+			["distance"] = 32,
+		},
+		["fontStyle"] = "",
+		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		["showIcons"] = false,
+		["Pow"] = {
+			["enabled"] = true,
+			["endScale"] = 1,
+			["initScale"] = 1.8,
+			["midScale"] = 1.6,
+			["inOutRatio"] = 0.3,
+			["duration"] = 0.16,
+		},
+		["FadeOut"] = {
+			["enabled"] = true,
+			["duration"] = 0.3,
+		},
+		["FadeIn"] = {
+			["enabled"] = true,
+			["duration"] = 0.07,
+		},
+		["colorByType"] = false,
+	},
+	["preventOverlapSpacingX"] = 30,
+	["heal"] = {
+		["enabled"] = true,
+		["fontSize"] = 42,
+		["fontColor"] = "FF00FF00",
+		["Scroll"] = {
+			["enabled"] = true,
+			["direction"] = "UP",
+			["distance"] = 32,
+		},
+		["fontStyle"] = "",
+		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		["showIcons"] = false,
+		["Pow"] = {
+			["enabled"] = false,
+			["endScale"] = 1,
+			["initScale"] = 0.25,
+			["midScale"] = 1.55,
+			["duration"] = 0.3,
+			["inOutRatio"] = 0.7,
+		},
+		["FadeOut"] = {
+			["enabled"] = true,
+			["duration"] = 0.3,
+		},
+		["FadeIn"] = {
+			["enabled"] = true,
+			["duration"] = 0.07,
+		},
+		["colorByType"] = false,
+	},
+	["petauto"] = {
+		["enabled"] = true,
+		["fontSize"] = 42,
+		["fontColor"] = "FFFF9D00",
+		["Scroll"] = {
+			["enabled"] = true,
+			["direction"] = "UP",
+			["distance"] = 32,
+		},
+		["fontStyle"] = "",
+		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		["showIcons"] = false,
+		["Pow"] = {
+			["enabled"] = false,
+			["endScale"] = 1,
+			["initScale"] = 0.25,
+			["midScale"] = 1.55,
+			["duration"] = 0.3,
+			["inOutRatio"] = 0.7,
+		},
+		["FadeOut"] = {
+			["enabled"] = true,
+			["duration"] = 0.3,
+		},
+		["FadeIn"] = {
+			["enabled"] = true,
+			["duration"] = 0.07,
+		},
+		["colorByType"] = false,
+	},
+	["petspelltickcrit"] = {
+		["enabled"] = true,
+		["fontSize"] = 60,
+		["fontColor"] = "FFFFE800",
+		["Scroll"] = {
+			["enabled"] = false,
+			["direction"] = "UP",
+			["distance"] = 32,
+		},
+		["fontStyle"] = "",
+		["colorByType"] = false,
+		["showIcons"] = false,
+		["Pow"] = {
+			["enabled"] = true,
+			["endScale"] = 1,
+			["initScale"] = 1.8,
+			["midScale"] = 1.6,
+			["duration"] = 0.16,
+			["inOutRatio"] = 0.3,
+		},
+		["FadeOut"] = {
+			["enabled"] = true,
+			["duration"] = 0.3,
+		},
+		["FadeIn"] = {
+			["enabled"] = true,
+			["duration"] = 0.07,
+		},
+		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+	},
+	["colorTableDot"] = {
+		"ffff0000", -- [1]
+		"ffffffb6", -- [2]
+		"ffffffe6", -- [3]
+		"ffff432c", -- [4]
+		"ffff8879", -- [5]
+		"ffffca68", -- [6]
+		nil, -- [7]
+		"ff3c9742", -- [8]
+		"ffa1eaa3", -- [9]
+		"ffe9ffa9", -- [10]
+		nil, -- [11]
+		"ffdfcfb6", -- [12]
+		nil, -- [13]
+		nil, -- [14]
+		nil, -- [15]
+		"ff00abff", -- [16]
+		"ff7dd5ff", -- [17]
+		"ffbffffc", -- [18]
+		nil, -- [19]
+		"ffff64ab", -- [20]
+		nil, -- [21]
+		nil, -- [22]
+		nil, -- [23]
+		"ff5de1de", -- [24]
+		nil, -- [25]
+		nil, -- [26]
+		nil, -- [27]
+		"ffffa500", -- [28]
+		nil, -- [29]
+		nil, -- [30]
+		nil, -- [31]
+		"ff9500b6", -- [32]
+		"ffa89cff", -- [33]
+		"ff242d8d", -- [34]
+		nil, -- [35]
+		"ffb92334", -- [36]
+		nil, -- [37]
+		nil, -- [38]
+		nil, -- [39]
+		"ff462b68", -- [40]
+		nil, -- [41]
+		nil, -- [42]
+		nil, -- [43]
+		nil, -- [44]
+		nil, -- [45]
+		nil, -- [46]
+		nil, -- [47]
+		"ff3a00e5", -- [48]
+		nil, -- [49]
+		nil, -- [50]
+		nil, -- [51]
+		nil, -- [52]
+		nil, -- [53]
+		nil, -- [54]
+		nil, -- [55]
+		nil, -- [56]
+		nil, -- [57]
+		nil, -- [58]
+		nil, -- [59]
+		nil, -- [60]
+		nil, -- [61]
+		"ffffffff", -- [62]
+		nil, -- [63]
+		"ffdd4aff", -- [64]
+		"ffa8caff", -- [65]
+		"fffff9ed", -- [66]
+		nil, -- [67]
+		"ffff4d5c", -- [68]
+		nil, -- [69]
+		nil, -- [70]
+		nil, -- [71]
+		"ff3f45ff", -- [72]
+		[124] = "ff8000ff",
+		[80] = "ff828ffd",
+		[96] = "ff0009ff",
+		[126] = "ff97f4ff",
+	},
+	["mergeEventsCounter"] = true,
+	["filterRelativeEnabled"] = false,
+	["healtickcrit"] = {
+		["enabled"] = true,
+		["fontSize"] = 60,
+		["fontColor"] = "FF00FF00",
+		["Scroll"] = {
+			["enabled"] = false,
+			["direction"] = "UP",
+			["distance"] = 32,
+		},
+		["fontStyle"] = "",
+		["colorByType"] = false,
+		["showIcons"] = false,
+		["Pow"] = {
+			["enabled"] = true,
+			["endScale"] = 1,
+			["initScale"] = 1.8,
+			["midScale"] = 1.6,
+			["duration"] = 0.16,
+			["inOutRatio"] = 0.3,
+		},
+		["FadeOut"] = {
+			["enabled"] = true,
+			["duration"] = 0.3,
+		},
+		["FadeIn"] = {
+			["enabled"] = true,
+			["duration"] = 0.07,
+		},
+		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+	},
+	["spellIconOffsetY"] = 0,
+	["petspelltick"] = {
+		["enabled"] = true,
+		["fontSize"] = 42,
+		["fontColor"] = "FFFFE800",
+		["Scroll"] = {
+			["enabled"] = true,
+			["direction"] = "UP",
+			["distance"] = 32,
+		},
+		["fontStyle"] = "",
+		["colorByType"] = false,
+		["showIcons"] = false,
+		["Pow"] = {
+			["enabled"] = false,
+			["endScale"] = 1,
+			["initScale"] = 0.25,
+			["midScale"] = 1.55,
+			["inOutRatio"] = 0.7,
+			["duration"] = 0.3,
+		},
+		["FadeOut"] = {
+			["enabled"] = true,
+			["duration"] = 0.3,
+		},
+		["FadeIn"] = {
+			["enabled"] = true,
+			["duration"] = 0.07,
+		},
+		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+	},
+	["automiss"] = {
+		["enabled"] = true,
+		["fontSize"] = 42,
+		["fontColor"] = "FFFFFFFF",
+		["Scroll"] = {
+			["enabled"] = true,
+			["direction"] = "UP",
+			["distance"] = 32,
+		},
+		["fontStyle"] = "",
+		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		["showIcons"] = false,
+		["Pow"] = {
+			["enabled"] = false,
+			["endScale"] = 1,
+			["initScale"] = 0.25,
+			["midScale"] = 1.55,
+			["duration"] = 0.3,
+			["inOutRatio"] = 0.7,
+		},
+		["FadeOut"] = {
+			["enabled"] = true,
+			["duration"] = 0.3,
+		},
+		["FadeIn"] = {
+			["enabled"] = true,
+			["duration"] = 0.07,
+		},
+		["colorByType"] = false,
+	},
+	["pethealtickmiss"] = {
+		["enabled"] = true,
+		["fontSize"] = 42,
+		["fontColor"] = "FF00FF00",
+		["Scroll"] = {
+			["enabled"] = true,
+			["direction"] = "UP",
+			["distance"] = 32,
+		},
+		["fontStyle"] = "",
+		["colorByType"] = false,
+		["showIcons"] = false,
+		["Pow"] = {
+			["enabled"] = false,
+			["endScale"] = 1,
+			["initScale"] = 0.25,
+			["midScale"] = 1.55,
+			["inOutRatio"] = 0.7,
+			["duration"] = 0.3,
+		},
+		["FadeOut"] = {
+			["enabled"] = true,
+			["duration"] = 0.3,
+		},
+		["FadeIn"] = {
+			["enabled"] = true,
+			["duration"] = 0.07,
+		},
+		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+	},
+	["areaNY"] = 0,
+	["kiloSeparator"] = false,
+	["mergeEventsByGuid"] = false,
+	["animDuration"] = 1.5,
+	["pethealcrit"] = {
+		["enabled"] = true,
+		["fontSize"] = 60,
+		["fontColor"] = "FF00FF00",
+		["Scroll"] = {
+			["enabled"] = false,
+			["direction"] = "UP",
+			["distance"] = 32,
+		},
+		["fontStyle"] = "",
+		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		["showIcons"] = false,
+		["Pow"] = {
+			["enabled"] = true,
+			["endScale"] = 1,
+			["initScale"] = 1.8,
+			["midScale"] = 1.6,
+			["inOutRatio"] = 0.3,
+			["duration"] = 0.16,
+		},
+		["FadeOut"] = {
+			["enabled"] = true,
+			["duration"] = 0.3,
+		},
+		["FadeIn"] = {
+			["enabled"] = true,
+			["duration"] = 0.07,
+		},
+		["colorByType"] = false,
+	},
+	["spellmiss"] = {
+		["enabled"] = true,
+		["fontSize"] = 42,
+		["fontColor"] = "FFFFE800",
+		["Scroll"] = {
+			["enabled"] = true,
+			["direction"] = "UP",
+			["distance"] = 32,
+		},
+		["fontStyle"] = "",
+		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		["showIcons"] = false,
+		["Pow"] = {
+			["enabled"] = false,
+			["endScale"] = 1,
+			["initScale"] = 0.25,
+			["midScale"] = 1.55,
+			["duration"] = 0.3,
+			["inOutRatio"] = 0.7,
+		},
+		["FadeOut"] = {
+			["enabled"] = true,
+			["duration"] = 0.3,
+		},
+		["FadeIn"] = {
+			["enabled"] = true,
+			["duration"] = 0.07,
+		},
+		["colorByType"] = false,
+	},
+	["petspell"] = {
+		["enabled"] = true,
+		["fontSize"] = 42,
+		["fontColor"] = "FFFFE800",
+		["Scroll"] = {
+			["enabled"] = true,
+			["direction"] = "UP",
+			["distance"] = 32,
+		},
+		["fontStyle"] = "",
+		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		["showIcons"] = false,
+		["Pow"] = {
+			["enabled"] = false,
+			["endScale"] = 1,
+			["initScale"] = 0.25,
+			["midScale"] = 1.55,
+			["duration"] = 0.3,
+			["inOutRatio"] = 0.7,
+		},
+		["FadeOut"] = {
+			["enabled"] = true,
+			["duration"] = 0.3,
+		},
+		["FadeIn"] = {
+			["enabled"] = true,
+			["duration"] = 0.07,
+		},
+		["colorByType"] = false,
+	},
+	["spell"] = {
+		["enabled"] = true,
+		["fontSize"] = 42,
+		["fontColor"] = "FFFFE800",
+		["Scroll"] = {
+			["enabled"] = true,
+			["direction"] = "UP",
+			["distance"] = 32,
+		},
+		["fontStyle"] = "",
+		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		["showIcons"] = false,
+		["Pow"] = {
+			["enabled"] = false,
+			["endScale"] = 1,
+			["initScale"] = 0.25,
+			["midScale"] = 1.55,
+			["duration"] = 0.3,
+			["inOutRatio"] = 0.7,
+		},
+		["FadeOut"] = {
+			["enabled"] = true,
+			["duration"] = 0.3,
+		},
+		["FadeIn"] = {
+			["enabled"] = true,
+			["duration"] = 0.07,
+		},
+		["colorByType"] = false,
+	},
+	["areaY"] = 150,
+	["pethealmiss"] = {
+		["enabled"] = true,
+		["fontSize"] = 42,
+		["fontColor"] = "FF00FF00",
+		["Scroll"] = {
+			["enabled"] = true,
+			["direction"] = "UP",
+			["distance"] = 32,
+		},
+		["fontStyle"] = "",
+		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		["showIcons"] = false,
+		["Pow"] = {
+			["enabled"] = false,
+			["endScale"] = 1,
+			["initScale"] = 0.25,
+			["midScale"] = 1.55,
+			["duration"] = 0.3,
+			["inOutRatio"] = 0.7,
+		},
+		["FadeOut"] = {
+			["enabled"] = true,
+			["duration"] = 0.3,
+		},
+		["FadeIn"] = {
+			["enabled"] = true,
+			["duration"] = 0.07,
+		},
+		["colorByType"] = false,
+	},
+	["mergeEvents"] = false,
+	["mergeEventsBySpellIcon"] = true,
+	["spelltickmiss"] = {
+		["enabled"] = true,
+		["fontSize"] = 42,
+		["fontColor"] = "FFFFE800",
+		["Scroll"] = {
+			["enabled"] = true,
+			["direction"] = "UP",
+			["distance"] = 32,
+		},
+		["fontStyle"] = "",
+		["colorByType"] = false,
+		["showIcons"] = false,
+		["Pow"] = {
+			["enabled"] = false,
+			["endScale"] = 1,
+			["initScale"] = 0.25,
+			["midScale"] = 1.55,
+			["inOutRatio"] = 0.7,
+			["duration"] = 0.3,
+		},
+		["FadeOut"] = {
+			["enabled"] = true,
+			["duration"] = 0.3,
+		},
+		["FadeIn"] = {
+			["enabled"] = true,
+			["duration"] = 0.07,
+		},
+		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+	},
+	["attachModeFallback"] = true,
+	["areaX"] = 0,
+	["spellcrit"] = {
+		["enabled"] = true,
+		["fontSize"] = 60,
+		["fontColor"] = "FFFFE800",
+		["Scroll"] = {
+			["enabled"] = false,
+			["direction"] = "UP",
+			["distance"] = 32,
+		},
+		["fontStyle"] = "",
+		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+		["showIcons"] = false,
+		["Pow"] = {
+			["enabled"] = true,
+			["endScale"] = 1,
+			["initScale"] = 1.8,
+			["midScale"] = 1.6,
+			["inOutRatio"] = 0.3,
+			["duration"] = 0.16,
+		},
+		["FadeOut"] = {
+			["enabled"] = true,
+			["duration"] = 0.3,
+		},
+		["FadeIn"] = {
+			["enabled"] = true,
+			["duration"] = 0.07,
+		},
+		["colorByType"] = false,
+	},
+	["spellIconZoom"] = 1,
+	["pethealtickcrit"] = {
+		["enabled"] = true,
+		["fontSize"] = 60,
+		["fontColor"] = "FF00FF00",
+		["Scroll"] = {
+			["enabled"] = false,
+			["direction"] = "UP",
+			["distance"] = 32,
+		},
+		["fontStyle"] = "",
+		["colorByType"] = false,
+		["showIcons"] = false,
+		["Pow"] = {
+			["enabled"] = true,
+			["endScale"] = 1,
+			["initScale"] = 1.8,
+			["midScale"] = 1.6,
+			["duration"] = 0.16,
+			["inOutRatio"] = 0.3,
+		},
+		["FadeOut"] = {
+			["enabled"] = true,
+			["duration"] = 0.3,
+		},
+		["FadeIn"] = {
+			["enabled"] = true,
+			["duration"] = 0.07,
+		},
+		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+	},
+	["dontOverlapNameplates"] = false,
 	["filterMissesEnabled"] = false,
-	["sortMissPrio"] = false,
-	["sortByDamage"] = false,
+	["spellIconOffsetX"] = 0,
+	["pethealtick"] = {
+		["enabled"] = true,
+		["fontSize"] = 42,
+		["fontColor"] = "FF00FF00",
+		["Scroll"] = {
+			["enabled"] = true,
+			["direction"] = "UP",
+			["distance"] = 32,
+		},
+		["fontStyle"] = "",
+		["colorByType"] = false,
+		["showIcons"] = false,
+		["Pow"] = {
+			["enabled"] = false,
+			["endScale"] = 1,
+			["initScale"] = 0.25,
+			["midScale"] = 1.55,
+			["inOutRatio"] = 0.7,
+			["duration"] = 0.3,
+		},
+		["FadeOut"] = {
+			["enabled"] = true,
+			["duration"] = 0.3,
+		},
+		["FadeIn"] = {
+			["enabled"] = true,
+			["duration"] = 0.07,
+		},
+		["fontPath"] = "Fonts\\FRIZQT__.TTF",
+	},
 }
 ClassicFCTVars = {
-	["lastVersion"] = "B0.86d",
+	["lastVersion"] = "M0.87d",
 	["hideBlizzHeals"] = true,
 	["forceCVars"] = true,
 	["hideBlizz"] = false,

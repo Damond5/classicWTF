@@ -1,6 +1,6 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.053,
+	["LastVersion"] = 2.0538,
 	["ItemLevels"] = {
 		[5] = {
 			["ID"] = 57,
@@ -26,7 +26,7 @@ PawnOptions = {
 		},
 	},
 	["AutoSelectScales"] = false,
-	["LastPlayerFullName"] = "Damondbank-Razorgore",
+	["LastPlayerFullName"] = "Damondbank-Firemaw",
 }
 PawnMrRobotScaleProviderOptions = nil
 PawnClassicScaleProviderOptions = {
