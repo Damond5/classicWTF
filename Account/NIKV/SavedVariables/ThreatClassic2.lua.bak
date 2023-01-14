@@ -24,6 +24,7 @@ ThreatClassic2DB = {
 					300, -- [4]
 					0, -- [5]
 				},
+				["height"] = 80,
 				["locked"] = true,
 				["color"] = {
 					nil, -- [1]
@@ -31,7 +32,6 @@ ThreatClassic2DB = {
 					nil, -- [3]
 					0, -- [4]
 				},
-				["height"] = 80,
 			},
 			["general"] = {
 				["hideOOC"] = true,

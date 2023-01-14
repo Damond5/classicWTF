@@ -5,680 +5,6 @@ _detalhes_database = {
 	["mythic_dungeon_id"] = 0,
 	["tabela_historico"] = {
 		["tabelas"] = {
-			{
-				{
-					["combatId"] = 2,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.004624,
-							["on_hold"] = false,
-							["damage_from"] = {
-								["Rockjaw Raider"] = true,
-							},
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["end_time"] = 1652988337,
-							["friendlyfire"] = {
-							},
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.004624,
-							["aID"] = "4467-02E7FA4C",
-							["dps_started"] = false,
-							["total"] = 0.004624,
-							["classe"] = "WARLOCK",
-							["serial"] = "Player-4467-02E7FA4C",
-							["nome"] = "Damondbank",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-								},
-							},
-							["grupo"] = true,
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["damage_taken"] = 4.004624,
-							["start_time"] = 1652988337,
-							["delay"] = 0,
-							["last_event"] = 0,
-						}, -- [1]
-						{
-							["flag_original"] = 68168,
-							["totalabsorbed"] = 0.002922,
-							["aID"] = "1718",
-							["damage_from"] = {
-							},
-							["targets"] = {
-								["Damondbank"] = 4,
-							},
-							["pets"] = {
-							},
-							["end_time"] = 1652988337,
-							["fight_component"] = true,
-							["classe"] = "UNKNOW",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 4.002922,
-							["monster"] = true,
-							["dps_started"] = false,
-							["total"] = 4.002922,
-							["on_hold"] = false,
-							["friendlyfire_total"] = 0,
-							["nome"] = "Rockjaw Raider",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 4,
-										["targets"] = {
-											["Damondbank"] = 4,
-										},
-										["n_dmg"] = 4,
-										["n_min"] = 4,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 4,
-										["c_max"] = 0,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["spellschool"] = 1,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["a_amt"] = 0,
-										["n_amt"] = 1,
-										["b_dmg"] = 0,
-										["r_amt"] = 0,
-									}, -- [1]
-								},
-							},
-							["friendlyfire"] = {
-							},
-							["serial"] = "Creature-0-4469-0-10694-1718-00000688B7",
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1652988323,
-							["damage_taken"] = 0.002922,
-							["start_time"] = 1652988336,
-							["delay"] = 1652988323,
-							["tipo"] = 1,
-						}, -- [2]
-					},
-				}, -- [1]
-				{
-					["combatId"] = 2,
-					["tipo"] = 3,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["combatId"] = 2,
-					["tipo"] = 7,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["combatId"] = 2,
-					["tipo"] = 9,
-					["_ActorTable"] = {
-					},
-				}, -- [4]
-				{
-					["combatId"] = 2,
-					["tipo"] = 2,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Damondbank"] = true,
-				},
-				["raid_roster_indexed"] = {
-					"Damondbank", -- [1]
-				},
-				["tempo_start"] = 1652988323,
-				["last_events_tables"] = {
-				},
-				["alternate_power"] = {
-				},
-				["combat_counter"] = 218,
-				["playing_solo"] = true,
-				["totals"] = {
-					3.891843999999871, -- [1]
-					-0.033608, -- [2]
-					{
-						-0.001060999999999979, -- [1]
-						[0] = -0.01692600000001221,
-						["alternatepower"] = 0,
-						[3] = -0.007638999999997509,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-					["frags_total"] = 0,
-					["voidzone_damage"] = 0,
-				},
-				["totals_grupo"] = {
-					0, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[3] = 0,
-						[6] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
-						["interrupt"] = 0,
-						["dispell"] = 0,
-						["cc_break"] = 0,
-						["dead"] = 0,
-					}, -- [4]
-				},
-				["frags_need_refresh"] = false,
-				["instance_type"] = "none",
-				["data_fim"] = "21:25:37",
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Rockjaw Raider",
-				["TotalElapsedCombatTime"] = 49637.543,
-				["CombatEndedAt"] = 49637.543,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-					["damage"] = {
-						{
-							["Damondbank"] = 0.004624,
-						}, -- [1]
-					},
-				},
-				["end_time"] = 49637.543,
-				["combat_id"] = 2,
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["overall_added"] = true,
-				["spells_cast_timeline"] = {
-				},
-				["player_last_events"] = {
-				},
-				["data_inicio"] = "21:25:23",
-				["CombatSkillCache"] = {
-				},
-				["frags"] = {
-				},
-				["start_time"] = 49623.006,
-				["TimeData"] = {
-				},
-				["contra"] = "Rockjaw Raider",
-			}, -- [1]
-			{
-				{
-					["tipo"] = 2,
-					["combatId"] = 1,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.006264,
-							["damage_from"] = {
-								["Rockjaw Raider"] = true,
-							},
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["last_event"] = 0,
-							["classe"] = "WARLOCK",
-							["friendlyfire_total"] = 0,
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 0.006264,
-							["delay"] = 0,
-							["dps_started"] = false,
-							["end_time"] = 1652988223,
-							["total"] = 0.006264,
-							["damage_taken"] = 43.006264,
-							["nome"] = "Damondbank",
-							["spells"] = {
-								["_ActorTable"] = {
-								},
-								["tipo"] = 2,
-							},
-							["grupo"] = true,
-							["aID"] = "4467-02E7FA4C",
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["tipo"] = 1,
-							["on_hold"] = false,
-							["start_time"] = 1652988223,
-							["serial"] = "Player-4467-02E7FA4C",
-							["friendlyfire"] = {
-							},
-						}, -- [1]
-						{
-							["flag_original"] = 68168,
-							["totalabsorbed"] = 0.006186,
-							["damage_from"] = {
-							},
-							["targets"] = {
-								["Damondbank"] = 43,
-							},
-							["pets"] = {
-							},
-							["delay"] = 0,
-							["classe"] = "UNKNOW",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 43.006186,
-							["last_dps"] = 0,
-							["tipo"] = 1,
-							["monster"] = true,
-							["total"] = 43.006186,
-							["aID"] = "1718",
-							["dps_started"] = false,
-							["nome"] = "Rockjaw Raider",
-							["spells"] = {
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 5,
-										["targets"] = {
-											["Damondbank"] = 43,
-										},
-										["n_dmg"] = 43,
-										["n_min"] = 3,
-										["g_dmg"] = 0,
-										["counter"] = 12,
-										["total"] = 43,
-										["c_max"] = 0,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["r_amt"] = 0,
-										["b_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_amt"] = 0,
-										["c_min"] = 0,
-										["successful_casted"] = 0,
-										["a_dmg"] = 0,
-										["n_amt"] = 10,
-										["spellschool"] = 1,
-										["MISS"] = 2,
-									}, -- [1]
-								},
-								["tipo"] = 2,
-							},
-							["fight_component"] = true,
-							["end_time"] = 1652988223,
-							["damage_taken"] = 0.006186,
-							["friendlyfire_total"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1652988319,
-							["on_hold"] = false,
-							["start_time"] = 1652988209,
-							["serial"] = "Creature-0-4469-0-10694-1718-00000687FA",
-							["friendlyfire"] = {
-							},
-						}, -- [2]
-					},
-				}, -- [1]
-				{
-					["tipo"] = 3,
-					["combatId"] = 1,
-					["_ActorTable"] = {
-					},
-				}, -- [2]
-				{
-					["tipo"] = 7,
-					["combatId"] = 1,
-					["_ActorTable"] = {
-					},
-				}, -- [3]
-				{
-					["tipo"] = 9,
-					["combatId"] = 1,
-					["_ActorTable"] = {
-						{
-							["flag_original"] = 1297,
-							["nome"] = "Damondbank",
-							["grupo"] = true,
-							["pets"] = {
-							},
-							["aID"] = "4467-02E7FA4C",
-							["classe"] = "WARLOCK",
-							["last_event"] = 0,
-							["serial"] = "Player-4467-02E7FA4C",
-							["tipo"] = 4,
-						}, -- [1]
-					},
-				}, -- [4]
-				{
-					["tipo"] = 2,
-					["combatId"] = 1,
-					["_ActorTable"] = {
-					},
-				}, -- [5]
-				["raid_roster"] = {
-					["Damondbank"] = true,
-				},
-				["raid_roster_indexed"] = {
-					"Damondbank", -- [1]
-				},
-				["CombatStartedAt"] = 49618.966,
-				["overall_added"] = true,
-				["last_events_tables"] = {
-					{
-						{
-							{
-								true, -- [1]
-								1, -- [2]
-								5, -- [3]
-								1652988208.811, -- [4]
-								43, -- [5]
-								"Rockjaw Raider", -- [6]
-								nil, -- [7]
-								1, -- [8]
-								false, -- [9]
-								-1, -- [10]
-								false, -- [11]
-								false, -- [12]
-							}, -- [1]
-							{
-								true, -- [1]
-								1, -- [2]
-								4, -- [3]
-								1652988211.82, -- [4]
-								38, -- [5]
-								"Rockjaw Raider", -- [6]
-								nil, -- [7]
-								1, -- [8]
-								false, -- [9]
-								-1, -- [10]
-								false, -- [11]
-								false, -- [12]
-							}, -- [2]
-							{
-								4, -- [1]
-								1604, -- [2]
-								1, -- [3]
-								1652988211.82, -- [4]
-								38, -- [5]
-								"Rockjaw Raider", -- [6]
-								false, -- [7]
-								false, -- [8]
-								false, -- [9]
-								false, -- [10]
-							}, -- [3]
-							{
-								true, -- [1]
-								1, -- [2]
-								4, -- [3]
-								1652988213.878, -- [4]
-								34, -- [5]
-								"Rockjaw Raider", -- [6]
-								nil, -- [7]
-								1, -- [8]
-								false, -- [9]
-								-1, -- [10]
-								false, -- [11]
-								false, -- [12]
-							}, -- [4]
-							{
-								true, -- [1]
-								1, -- [2]
-								5, -- [3]
-								1652988215.83, -- [4]
-								30, -- [5]
-								"Rockjaw Raider", -- [6]
-								nil, -- [7]
-								1, -- [8]
-								false, -- [9]
-								-1, -- [10]
-								false, -- [11]
-								false, -- [12]
-							}, -- [5]
-							{
-								true, -- [1]
-								1, -- [2]
-								5, -- [3]
-								1652988216.881, -- [4]
-								25, -- [5]
-								"Rockjaw Raider", -- [6]
-								nil, -- [7]
-								1, -- [8]
-								false, -- [9]
-								-1, -- [10]
-								false, -- [11]
-								false, -- [12]
-							}, -- [6]
-							{
-								true, -- [1]
-								1, -- [2]
-								4, -- [3]
-								1652988217.833, -- [4]
-								20, -- [5]
-								"Rockjaw Raider", -- [6]
-								nil, -- [7]
-								1, -- [8]
-								false, -- [9]
-								-1, -- [10]
-								false, -- [11]
-								false, -- [12]
-							}, -- [7]
-							{
-								true, -- [1]
-								1, -- [2]
-								4, -- [3]
-								1652988219.707, -- [4]
-								16, -- [5]
-								"Rockjaw Raider", -- [6]
-								nil, -- [7]
-								1, -- [8]
-								false, -- [9]
-								-1, -- [10]
-								false, -- [11]
-								false, -- [12]
-							}, -- [8]
-							{
-								true, -- [1]
-								1, -- [2]
-								5, -- [3]
-								1652988219.846, -- [4]
-								12, -- [5]
-								"Rockjaw Raider", -- [6]
-								nil, -- [7]
-								1, -- [8]
-								false, -- [9]
-								-1, -- [10]
-								false, -- [11]
-								false, -- [12]
-							}, -- [9]
-							{
-								true, -- [1]
-								1, -- [2]
-								4, -- [3]
-								1652988221.853, -- [4]
-								7, -- [5]
-								"Rockjaw Raider", -- [6]
-								nil, -- [7]
-								1, -- [8]
-								false, -- [9]
-								-1, -- [10]
-								false, -- [11]
-								false, -- [12]
-							}, -- [10]
-							{
-								true, -- [1]
-								1, -- [2]
-								3, -- [3]
-								1652988222.648, -- [4]
-								3, -- [5]
-								"Rockjaw Raider", -- [6]
-								nil, -- [7]
-								1, -- [8]
-								false, -- [9]
-								0, -- [10]
-								false, -- [11]
-								false, -- [12]
-							}, -- [11]
-							{
-								3, -- [1]
-								0, -- [2]
-								0, -- [3]
-								0, -- [4]
-								0, -- [5]
-								"Damondbank", -- [6]
-							}, -- [12]
-						}, -- [1]
-						1652988222.648, -- [2]
-						"Damondbank", -- [3]
-						"WARLOCK", -- [4]
-						43, -- [5]
-						"0m 13s", -- [6]
-						["dead"] = true,
-						["dead_at"] = 13.83699999999953,
-					}, -- [1]
-				},
-				["alternate_power"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["playing_solo"] = true,
-				["totals"] = {
-					43, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 1,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-					["voidzone_damage"] = 0,
-					["frags_total"] = 0,
-				},
-				["player_last_events"] = {
-				},
-				["frags_need_refresh"] = false,
-				["instance_type"] = "none",
-				["hasSaved"] = true,
-				["data_fim"] = "21:23:43",
-				["cleu_timeline"] = {
-				},
-				["enemy"] = "Rockjaw Raider",
-				["TotalElapsedCombatTime"] = 49522.864,
-				["CombatEndedAt"] = 49522.864,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["PhaseData"] = {
-					{
-						1, -- [1]
-						1, -- [2]
-					}, -- [1]
-					["damage"] = {
-						{
-							["Damondbank"] = 0.006264,
-						}, -- [1]
-					},
-					["heal_section"] = {
-					},
-					["heal"] = {
-						{
-						}, -- [1]
-					},
-					["damage_section"] = {
-					},
-				},
-				["end_time"] = 49522.864,
-				["combat_id"] = 1,
-				["data_inicio"] = "21:23:29",
-				["tempo_start"] = 1652988209,
-				["spells_cast_timeline"] = {
-				},
-				["contra"] = "Rockjaw Raider",
-				["combat_counter"] = 216,
-				["CombatSkillCache"] = {
-				},
-				["totals_grupo"] = {
-					0, -- [1]
-					0, -- [2]
-					{
-						0, -- [1]
-						[0] = 0,
-						["alternatepower"] = 0,
-						[6] = 0,
-						[3] = 0,
-					}, -- [3]
-					{
-						["buff_uptime"] = 0,
-						["ress"] = 0,
-						["dead"] = 1,
-						["cc_break"] = 0,
-						["interrupt"] = 0,
-						["debuff_uptime"] = 0,
-						["dispell"] = 0,
-						["cooldowns_defensive"] = 0,
-					}, -- [4]
-				},
-				["start_time"] = 49509.027,
-				["TimeData"] = {
-				},
-				["frags"] = {
-				},
-			}, -- [2]
 		},
 	},
 	["ocd_tracker"] = {
@@ -686,12 +12,33 @@ _detalhes_database = {
 		["current_cooldowns"] = {
 		},
 		["lines_per_column"] = 12,
+		["frames"] = {
+			["defensive-raid"] = {
+			},
+			["main"] = {
+			},
+			["ofensive"] = {
+			},
+			["defensive-target"] = {
+			},
+			["utility"] = {
+			},
+			["defensive-personal"] = {
+			},
+		},
 		["show_options"] = false,
+		["own_frame"] = {
+			["defensive-raid"] = false,
+			["ofensive"] = false,
+			["defensive-target"] = false,
+			["utility"] = false,
+			["defensive-personal"] = false,
+		},
 		["pos"] = {
 		},
-		["height"] = 18,
 		["cooldowns"] = {
 		},
+		["height"] = 18,
 		["framme_locked"] = false,
 		["show_conditions"] = {
 			["only_inside_instance"] = true,
@@ -706,7 +53,7 @@ _detalhes_database = {
 			["defensive-personal"] = false,
 		},
 	},
-	["last_version"] = "2.5.49780",
+	["last_version"] = "3.4.0 10304",
 	["SoloTablesSaved"] = {
 		["Mode"] = 1,
 	},
@@ -718,12 +65,29 @@ _detalhes_database = {
 		},
 		["last_coach_name"] = false,
 	},
-	["on_death_menu"] = true,
+	["on_death_menu"] = false,
 	["nick_tag_cache"] = {
-		["nextreset"] = 1654284004,
-		["last_version"] = 14,
+		["nextreset"] = 1671554979,
+		["last_version"] = 15,
 	},
 	["last_instance_id"] = 0,
+	["data_harvest_for_charsts"] = {
+		["players"] = {
+			{
+				["name"] = "Damage of Each Individual Player",
+				["playerOnly"] = true,
+				["playerKey"] = "total",
+				["combatObjectContainer"] = 1,
+			}, -- [1]
+		},
+		["totals"] = {
+			{
+				["combatObjectSubTableKey"] = 1,
+				["name"] = "Damage of All Player Combined",
+				["combatObjectSubTableName"] = "totals",
+			}, -- [1]
+		},
+	},
 	["announce_interrupts"] = {
 		["enabled"] = false,
 		["whisper"] = "",
@@ -747,11 +111,16 @@ _detalhes_database = {
 	["ignore_nicktag"] = false,
 	["plugin_database"] = {
 		["DETAILS_PLUGIN_TINY_THREAT"] = {
-			["enabled"] = true,
 			["animate"] = false,
-			["author"] = "Details! Team",
 			["hide_pull_bar"] = false,
 			["useclasscolors"] = true,
+			["usefocus"] = false,
+			["disable_gouge"] = false,
+			["showamount"] = true,
+			["absolute_mode"] = false,
+			["playSoundFile"] = "Details Threat Warning Volume 3",
+			["enabled"] = true,
+			["author"] = "Details! Team",
 			["playercolor"] = {
 				1, -- [1]
 				1, -- [2]
@@ -760,12 +129,27 @@ _detalhes_database = {
 			["openedfromcommand"] = true,
 			["updatespeed"] = 0.2,
 			["dividebyhundred"] = true,
-			["showamount"] = true,
+			["alwaysshowme"] = true,
 			["useplayercolor"] = true,
 			["playSound"] = false,
-			["usefocus"] = false,
-			["playSoundFile"] = "Details Threat Warning Volume 3",
-			["alwaysshowme"] = true,
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["last_section_selected"] = "main",
+			["author"] = "Terciob",
+			["window_scale"] = 1,
+			["encounter_timers_dbm"] = {
+			},
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["hide_on_combat"] = false,
+		},
+		["DETAILS_PLUGIN_COMPARETWO_WINDOW"] = {
+			["enabled"] = true,
+			["author"] = "Terciob",
 		},
 		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
 			["use_square_mode"] = false,
@@ -781,42 +165,27 @@ _detalhes_database = {
 				300, -- [1]
 				500.000030517578, -- [2]
 			},
+			["arrow_anchor_y"] = 0,
 			["minimap"] = {
 				["minimapPos"] = 160,
 				["radius"] = 160,
 				["hide"] = false,
 			},
-			["scale"] = 1,
+			["main_frame_locked"] = false,
 			["arrow_anchor_x"] = 0,
-			["row_height"] = 20,
+			["author"] = "Details! Team",
 			["row_texture"] = "Details Serenity",
-			["font_color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["point"] = "CENTER",
-			["main_frame_strata"] = "LOW",
-			["square_amount"] = 5,
-			["enabled"] = false,
-			["arrow_size"] = 10,
+			["square_grow_direction"] = "right",
 			["y"] = 0,
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.2, -- [4]
-			},
 			["row_color"] = {
 				0.1, -- [1]
 				0.1, -- [2]
 				0.1, -- [3]
 				0.4, -- [4]
 			},
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["use_spark"] = true,
+			["square_amount"] = 5,
+			["enabled"] = false,
+			["arrow_size"] = 10,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -824,38 +193,183 @@ _detalhes_database = {
 				["font_shadow"] = true,
 				["y"] = 3.0517578125e-05,
 				["x"] = -3.0517578125e-05,
-				["size"] = 32,
-				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
 			},
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["main_frame_strata"] = "LOW",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["use_spark"] = true,
+			["font_size"] = 10,
 			["x"] = -3.0517578125e-05,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
-			["font_size"] = 10,
-			["author"] = "Details! Team",
-			["main_frame_locked"] = false,
-			["arrow_anchor_y"] = 0,
+			["point"] = "CENTER",
+			["scale"] = 1,
+			["row_height"] = 20,
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 		},
-	},
-	["cached_talents"] = {
 	},
 	["announce_prepots"] = {
 		["enabled"] = false,
 		["channel"] = "SELF",
 		["reverse"] = false,
 	},
-	["cached_roles"] = {
+	["data_harvested_for_charts"] = {
 	},
-	["last_day"] = "19",
-	["benchmark_db"] = {
-		["frame"] = {
-		},
+	["last_day"] = "05",
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
 	},
-	["character_data"] = {
-		["logons"] = 106,
+	["cached_talents"] = {
+	},
+	["last_realversion"] = 147,
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
 	},
 	["combat_id"] = 2,
 	["savedStyles"] = {
+	},
+	["combat_counter"] = 226,
+	["force_font_outline"] = "",
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["raid_roster_indexed"] = {
+		},
+		["tempo_start"] = 2406.677,
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["combat_counter"] = 224,
+		["totals"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
+		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["aura_timeline"] = {
+		},
+		["__call"] = {
+		},
+		["data_inicio"] = 0,
+		["end_time"] = 2406.677,
+		["spells_cast_timeline"] = {
+		},
+		["totals_grupo"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+		["frags"] = {
+		},
+		["data_fim"] = 0,
+		["cleu_events"] = {
+			["n"] = 1,
+		},
+		["CombatSkillCache"] = {
+		},
+		["cleu_timeline"] = {
+		},
+		["start_time"] = 2406.677,
+		["TimeData"] = {
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
+			["damage"] = {
+			},
+		},
 	},
 	["local_instances_config"] = {
 		{
@@ -878,7 +392,7 @@ _detalhes_database = {
 			["pos"] = {
 				["normal"] = {
 					["y"] = -440.3331527709961,
-					["x"] = 1151.099365234375,
+					["x"] = 1151.1005859375,
 					["w"] = 310.0000915527344,
 					["h"] = 158.0000152587891,
 				},
@@ -891,276 +405,17 @@ _detalhes_database = {
 			},
 		}, -- [1]
 	},
-	["force_font_outline"] = "",
-	["announce_deaths"] = {
-		["enabled"] = false,
-		["last_hits"] = 1,
-		["only_first"] = 5,
-		["where"] = 1,
+	["character_data"] = {
+		["logons"] = 111,
 	},
-	["tabela_overall"] = {
-		{
-			["tipo"] = 2,
-			["_ActorTable"] = {
-				{
-					["flag_original"] = 68168,
-					["totalabsorbed"] = 0.013364,
-					["damage_from"] = {
-					},
-					["targets"] = {
-						["Damondbank"] = 47,
-					},
-					["monster"] = true,
-					["pets"] = {
-					},
-					["classe"] = "UNKNOW",
-					["friendlyfire_total"] = 0,
-					["raid_targets"] = {
-					},
-					["total_without_pet"] = 47.013364,
-					["delay"] = 0,
-					["dps_started"] = false,
-					["fight_component"] = true,
-					["end_time"] = 1652988223,
-					["damage_taken"] = 0.013364,
-					["aID"] = "1718",
-					["nome"] = "Rockjaw Raider",
-					["spells"] = {
-						["_ActorTable"] = {
-							{
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 5,
-								["targets"] = {
-									["Damondbank"] = 47,
-								},
-								["n_dmg"] = 47,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 12,
-								["total"] = 47,
-								["c_max"] = 0,
-								["id"] = 1,
-								["r_dmg"] = 0,
-								["r_amt"] = 0,
-								["b_dmg"] = 0,
-								["a_dmg"] = 0,
-								["c_min"] = 0,
-								["successful_casted"] = 0,
-								["a_amt"] = 0,
-								["n_amt"] = 11,
-								["extra"] = {
-								},
-								["MISS"] = 1,
-							}, -- [1]
-						},
-						["tipo"] = 2,
-					},
-					["total"] = 47.013364,
-					["last_dps"] = 0,
-					["tipo"] = 1,
-					["custom"] = 0,
-					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
-					["start_time"] = 1652988205,
-					["serial"] = "Creature-0-4469-0-10694-1718-00000687FA",
-					["on_hold"] = false,
-				}, -- [1]
-				{
-					["flag_original"] = 1297,
-					["totalabsorbed"] = 0.017838,
-					["damage_from"] = {
-						["Rockjaw Raider"] = true,
-					},
-					["targets"] = {
-					},
-					["pets"] = {
-					},
-					["classe"] = "WARLOCK",
-					["raid_targets"] = {
-					},
-					["total_without_pet"] = 0.017838,
-					["last_dps"] = 0,
-					["tipo"] = 1,
-					["dps_started"] = false,
-					["total"] = 0.017838,
-					["aID"] = "4467-02E7FA4C",
-					["delay"] = 0,
-					["nome"] = "Damondbank",
-					["spells"] = {
-						["_ActorTable"] = {
-						},
-						["tipo"] = 2,
-					},
-					["grupo"] = true,
-					["end_time"] = 1652988223,
-					["on_hold"] = false,
-					["damage_taken"] = 47.01783800000001,
-					["custom"] = 0,
-					["last_event"] = 0,
-					["friendlyfire"] = {
-					},
-					["start_time"] = 1652988220,
-					["serial"] = "Player-4467-02E7FA4C",
-					["friendlyfire_total"] = 0,
-				}, -- [2]
-			},
-		}, -- [1]
-		{
-			["tipo"] = 3,
-			["_ActorTable"] = {
-			},
-		}, -- [2]
-		{
-			["tipo"] = 7,
-			["_ActorTable"] = {
-			},
-		}, -- [3]
-		{
-			["tipo"] = 9,
-			["_ActorTable"] = {
-				{
-					["flag_original"] = 1297,
-					["nome"] = "Damondbank",
-					["grupo"] = true,
-					["pets"] = {
-					},
-					["classe"] = "WARLOCK",
-					["last_event"] = 0,
-					["tipo"] = 4,
-					["serial"] = "Player-4467-02E7FA4C",
-					["aID"] = "4467-02E7FA4C",
-				}, -- [1]
-			},
-		}, -- [4]
-		{
-			["tipo"] = 2,
-			["_ActorTable"] = {
-			},
-		}, -- [5]
-		["raid_roster"] = {
-		},
-		["raid_roster_indexed"] = {
-		},
-		["cleu_timeline"] = {
-		},
-		["tempo_start"] = 1652988209,
-		["last_events_tables"] = {
-		},
-		["alternate_power"] = {
-		},
-		["combat_counter"] = 215,
-		["totals"] = {
-			47.019996, -- [1]
-			0, -- [2]
-			{
-				0, -- [1]
-				[0] = 0,
-				["alternatepower"] = 0,
-				[6] = 0,
-				[3] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["dead"] = 0,
-				["cc_break"] = 0,
-				["interrupt"] = 0,
-				["debuff_uptime"] = 0,
-				["dispell"] = 0,
-				["cooldowns_defensive"] = 0,
-			}, -- [4]
-			["voidzone_damage"] = 0,
-			["frags_total"] = 0,
-		},
-		["player_last_events"] = {
-		},
-		["frags_need_refresh"] = false,
-		["aura_timeline"] = {
-		},
-		["__call"] = {
-		},
-		["data_inicio"] = "21:23:29",
-		["end_time"] = 49637.543,
-		["totals_grupo"] = {
-			0.010888, -- [1]
-			0, -- [2]
-			{
-				0, -- [1]
-				[0] = 0,
-				["alternatepower"] = 0,
-				[6] = 0,
-				[3] = 0,
-			}, -- [3]
-			{
-				["buff_uptime"] = 0,
-				["ress"] = 0,
-				["dead"] = 0,
-				["cc_break"] = 0,
-				["interrupt"] = 0,
-				["debuff_uptime"] = 0,
-				["dispell"] = 0,
-				["cooldowns_defensive"] = 0,
-			}, -- [4]
-		},
-		["overall_refreshed"] = true,
-		["PhaseData"] = {
-			{
-				1, -- [1]
-				1, -- [2]
-			}, -- [1]
-			["damage"] = {
-			},
-			["heal_section"] = {
-			},
-			["heal"] = {
-			},
-			["damage_section"] = {
-			},
-		},
-		["segments_added"] = {
-			{
-				["elapsed"] = 14.53699999999662,
-				["type"] = 0,
-				["name"] = "Rockjaw Raider",
-				["clock"] = "21:25:23",
-			}, -- [1]
-			{
-				["elapsed"] = 13.83699999999953,
-				["type"] = 0,
-				["name"] = "Rockjaw Raider",
-				["clock"] = "21:23:29",
-			}, -- [2]
-		},
-		["hasSaved"] = true,
-		["spells_cast_timeline"] = {
-		},
-		["data_fim"] = "21:25:37",
-		["overall_enemy_name"] = "Rockjaw Raider",
-		["CombatSkillCache"] = {
-		},
-		["frags"] = {
-		},
-		["start_time"] = 49609.169,
-		["TimeData"] = {
-		},
-		["cleu_events"] = {
-			["n"] = 1,
+	["benchmark_db"] = {
+		["frame"] = {
 		},
 	},
-	["combat_counter"] = 218,
-	["announce_firsthit"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
-	},
-	["last_realversion"] = 146,
 	["announce_cooldowns"] = {
+		["enabled"] = false,
 		["ignored_cooldowns"] = {
 		},
-		["enabled"] = false,
 		["custom"] = "",
 		["channel"] = "RAID",
 	},
@@ -1168,9 +423,7 @@ _detalhes_database = {
 		["last_difficulty"] = 15,
 		["last_raid"] = "",
 	},
-	["announce_damagerecord"] = {
-		["enabled"] = true,
-		["channel"] = "SELF",
+	["cached_roles"] = {
 	},
 	["cached_specs"] = {
 	},

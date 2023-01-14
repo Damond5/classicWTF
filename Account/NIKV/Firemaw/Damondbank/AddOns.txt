@@ -22,8 +22,16 @@ AtlasLootClassic: enabled
 AtlasLootClassic_Data: enabled
 Atlas_ClassicWoW: enabled
 Atlas: enabled
-ClassicLFG: enabled
+ClassicLFG: disabled
 ElvUI_QuestXP: disabled
 ElvUI_CustomTags: disabled
 kExtraBossFrames: disabled
 ElvUI_OptionsUI: enabled
+AdvancedInterfaceOptions: enabled
+NovaWorldBuffs: disabled
+SLoTe: enabled
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+BigWigs_Plugins: enabled
+ElvUI_UnitFramePlugin: disabled
+Leatrix_Plus: enabled

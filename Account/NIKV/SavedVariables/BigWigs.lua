@@ -3,6 +3,8 @@ BigWigsClassicDB = {
 	["namespaces"] = {
 		["BigWigs_Plugins_Victory"] = {
 		},
+		["BigWigs_Plugins_InfoBox"] = {
+		},
 		["BigWigs_Plugins_Colors"] = {
 		},
 		["BigWigs_Plugins_Raid Icons"] = {
@@ -12,51 +14,49 @@ BigWigsClassicDB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BigWigsAnchor_x"] = 1047.46658637279,
-					["BigWigsAnchor_y"] = 591.644297789302,
-					["BigWigsAnchor_width"] = 220.000061035156,
-					["BigWigsEmphasizeAnchor_width"] = 320.000030517578,
-					["BigWigsEmphasizeAnchor_height"] = 22.0000324249268,
-					["BigWigsAnchor_height"] = 15.9999876022339,
+					["BigWigsEmphasizeAnchor_y"] = 234.2331594631814,
+					["BigWigsEmphasizeAnchor_height"] = 27.00000953674316,
+					["BigWigsAnchor_x"] = 1544.003953197956,
+					["BigWigsEmphasizeAnchor_width"] = 221.9999237060547,
+					["BigWigsAnchor_width"] = 222,
+					["BigWigsAnchor_y"] = 624.7108536190499,
+					["BigWigsEmphasizeAnchor_x"] = 840.0002420425371,
+					["BigWigsAnchor_height"] = 18.0000057220459,
 				},
 			},
+		},
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 		},
-		["BigWigs_Plugins_Statistics"] = {
-		},
 		["BigWigs_Plugins_Messages"] = {
-			["profiles"] = {
-				["Default"] = {
-					["BWMessageAnchor_x"] = 894.57793726676,
-					["BWMessageAnchor_y"] = 594.48873777267,
-				},
-			},
+		},
+		["BigWigs_Plugins_Transcriptor"] = {
 		},
 		["BigWigs_Plugins_AutoReply"] = {
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
-					["height"] = 120.000007629395,
-					["posy"] = 440.889290189753,
-					["posx"] = 143.644296012981,
-					["width"] = 139.999984741211,
+					["height"] = 120.0000076293945,
+					["posy"] = 245.1557056638903,
+					["posx"] = 523.9106844372291,
+					["width"] = 140.0000152587891,
 				},
 			},
 		},
-		["BigWigs_Plugins_Wipe"] = {
+		["BigWigs_Plugins_Statistics"] = {
 		},
 		["BigWigs_Plugins_Pull"] = {
 		},
-		["BigWigs_Plugins_InfoBox"] = {
+		["BigWigs_Plugins_Countdown"] = {
 		},
 	},
-	["discord"] = 15,
 	["profileKeys"] = {
 		["Damond - Razorgore"] = "Default",
+		["Damond - Firemaw"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -99,13 +99,13 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Raid Icons"] = {
 		},
-		["BigWigs_Plugins_Messages"] = {
-		},
-		["BigWigs_Plugins_AutoReply"] = {
-		},
 		["BigWigs_Plugins_Proximity"] = {
 		},
 		["BigWigs_Plugins_Statistics"] = {
+		},
+		["BigWigs_Plugins_Messages"] = {
+		},
+		["BigWigs_Plugins_AutoReply"] = {
 		},
 		["BigWigs_Plugins_Pull"] = {
 		},

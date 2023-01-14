@@ -1,15 +1,17 @@
 
-OneRing_Config = {
+OneRing_Config = nil
+OPie_SavedData = {
 	["CharProfiles"] = {
 		["Razorgore-Damonddruid"] = "default",
 		["Lashlayer-Damond"] = "default",
 	},
 	["_GameVersion"] = "3.4.0",
-	["_OPieVersion"] = "Xe 8 (3.107)",
+	["_OPieVersion"] = "Yuzu 5b (4.114)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["RingAtMouse"] = true,
 			["RotationTokens"] = {
+				["ABueh21QF0O"] = "ABuezqWHEAw",
 				["ABuezgUFgbt"] = "ABuezgUFgbe",
 			},
 			["Bindings"] = {
@@ -24,14 +26,17 @@ OneRing_Config = {
 			[4907] = true,
 			[20464] = true,
 			[11933] = true,
+			[37173] = true,
 			[21920] = true,
-			[8079] = true,
 			[5605] = true,
+			[8079] = true,
+			[37661] = true,
 			[5591] = true,
+			[35704] = true,
 			[9362] = true,
 			[6085] = true,
-			[7607] = true,
 			[7627] = true,
+			[7607] = true,
 		},
 		["RingKeeper"] = {
 			["druid"] = {
@@ -78,8 +83,8 @@ OneRing_Config = {
 					["id"] = 691,
 				}, -- [4]
 				{
-					["id"] = 30146,
 					["sliceToken"] = "ABuezqWHEAw",
+					["id"] = 30146,
 				}, -- [5]
 				["limit"] = "WARLOCK",
 				["save"] = true,
@@ -114,13 +119,17 @@ OneRing_Config = {
 				}, -- [6]
 				{
 					"macro", -- [1]
-					"summon", -- [2]
-					["sliceToken"] = "ABueh3puYGe",
+					"spellstone", -- [2]
+					["sliceToken"] = "ABuevdbaIXr",
 				}, -- [7]
-				["limit"] = "WARLOCK",
+				{
+					["sliceToken"] = "ABuevohTCMe",
+					["id"] = 698,
+				}, -- [8]
 				["name"] = "lock",
 				["save"] = true,
 				["hotkey"] = "V",
+				["limit"] = "WARLOCK",
 			},
 			["stones"] = {
 				{
@@ -142,4 +151,3 @@ OneRing_Config = {
 	},
 	["_GameLocale"] = "enUS",
 }
-OPie_SavedData = nil

@@ -6,3 +6,10 @@ X: 0
 Y: 0
 W: 365
 H: 239
+Frame: aux_frame
+FrameLevel: 1
+Anchor: CENTER
+X: 103
+Y: 129
+W: 768
+H: 447

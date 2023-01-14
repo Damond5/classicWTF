@@ -4,7 +4,7 @@ BigWigs_Options: enabled
 BigWigs_Plugins: enabled
 WeakAurasCompanion: enabled
 Details: enabled
-BigWigs: disabled
+BigWigs: enabled
 Questie: enabled
 ClickLinks: disabled
 NeatPlates: disabled
@@ -42,7 +42,7 @@ ElvUI_CastBarOverlay: disabled
 ElvUI_EverySecondCounts: disabled
 ElvUI_AuraBarsMovers: disabled
 TwitchEmotes: disabled
-SLoTe: disabled
+SLoTe: enabled
 ElvUI_CustomTweaks: disabled
 WeakAurasArchive: enabled
 Capping_Options: disabled
@@ -58,7 +58,7 @@ Capping: disabled
 ElvUI_DTBars2: disabled
 ElvUI_QuestXP_Classic: disabled
 ElvUI_QuestXP: disabled
-ClassicLFG: enabled
+ClassicLFG: disabled
 CharacterStatsClassic: disabled
 AtlasLootClassic_Options: enabled
 AtlasLootClassic_Collections: enabled
@@ -68,7 +68,16 @@ AtlasLootClassic_Factions: enabled
 AtlasLootClassic_PvP: enabled
 AtlasLootClassic: enabled
 AtlasLootClassic_Data: enabled
-NovaWorldBuffs: enabled
+NovaWorldBuffs: disabled
 ClassicFCT: disabled
 ElvUI_CustomTags: disabled
 kExtraBossFrames: disabled
+AdvancedInterfaceOptions: enabled
+DBM-Core: disabled
+DBM-StatusBarTimers: disabled
+BigWigs_Transcriptor: enabled
+BigWigs_WrathOfTheLichKing: enabled
+LittleWigs_WrathOfTheLichKing: enabled
+ElvUI_UnitFramePlugin: disabled
+Blizzard_CombatText: enabled
+ElvUI_Options: enabled
