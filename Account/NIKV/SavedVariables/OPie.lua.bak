@@ -126,10 +126,10 @@ OPie_SavedData = {
 					["sliceToken"] = "ABuevohTCMe",
 					["id"] = 698,
 				}, -- [8]
-				["name"] = "lock",
+				["limit"] = "WARLOCK",
 				["save"] = true,
 				["hotkey"] = "V",
-				["limit"] = "WARLOCK",
+				["name"] = "lock",
 			},
 			["stones"] = {
 				{

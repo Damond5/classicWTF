@@ -9681,13 +9681,13 @@ VMRT = {
 	},
 	["Addon"] = {
 		["migrateMRT"] = true,
-		["Scale"] = 1,
-		["Version"] = 4720,
-		["PreVersion"] = 4710,
 		["Timer"] = 0.1,
-		["IconMiniMapTop"] = -72.5138703023845,
-		["IconMiniMapLeft"] = -73.3416451545267,
+		["Version"] = 4720,
 		["IconMiniMapHide"] = true,
+		["IconMiniMapLeft"] = -73.3416451545267,
+		["IconMiniMapTop"] = -72.5138703023845,
+		["PreVersion"] = 4720,
+		["Scale"] = 1,
 	},
 	["RaidCheck"] = {
 		["FlaskExp"] = 1,

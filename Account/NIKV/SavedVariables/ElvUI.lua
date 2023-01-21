@@ -140,9 +140,9 @@ ElvDB = {
 				["ElvAB_6"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-488,330",
 				["TooltipMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-50,50",
 				["ElvUF_TankMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,50,995",
+				["ElvUF_PlayerMover"] = "BOTTOM,ElvUIParent,BOTTOM,-230,140",
 				["TotemBarMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,463,50",
 				["ElvUF_PetMover"] = "BOTTOM,ElvUIParent,BOTTOM,0,200",
-				["ElvUF_PlayerMover"] = "BOTTOM,ElvUIParent,BOTTOM,-230,140",
 				["ElvUF_PartyMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,184,773",
 				["AlertFrameMover"] = "TOP,ElvUIParent,TOP,0,-50",
 				["ElvUF_TargetMover"] = "BOTTOM,ElvUIParent,BOTTOM,230,140",
@@ -1317,30 +1317,16 @@ ElvDB = {
 					["healthclass"] = true,
 				},
 				["units"] = {
-					["tank"] = {
-						["enable"] = false,
-					},
-					["party"] = {
-						["targetsGroup"] = {
-							["disableFocusGlow"] = false,
-							["disableMouseoverGlow"] = false,
-							["disableTargetGlow"] = false,
-						},
+					["raid3"] = {
 						["name"] = {
-							["text_format"] = "[name:medium] [difficultycolor][smartlevel]",
-						},
-						["power"] = {
-							["text_format"] = "",
-							["height"] = 13,
-						},
-						["petsGroup"] = {
-							["disableFocusGlow"] = false,
-							["disableTargetGlow"] = false,
-							["disableMouseoverGlow"] = false,
+							["text_format"] = "[name:short]",
 						},
 						["health"] = {
 							["text_format"] = "",
 						},
+					},
+					["tank"] = {
+						["enable"] = false,
 					},
 					["raid1"] = {
 						["name"] = {
@@ -1443,9 +1429,23 @@ ElvDB = {
 							["text_format"] = "",
 						},
 					},
-					["raid3"] = {
+					["party"] = {
+						["targetsGroup"] = {
+							["disableFocusGlow"] = false,
+							["disableMouseoverGlow"] = false,
+							["disableTargetGlow"] = false,
+						},
 						["name"] = {
-							["text_format"] = "[name:short]",
+							["text_format"] = "[name:medium] [difficultycolor][smartlevel]",
+						},
+						["power"] = {
+							["text_format"] = "",
+							["height"] = 13,
+						},
+						["petsGroup"] = {
+							["disableFocusGlow"] = false,
+							["disableTargetGlow"] = false,
+							["disableMouseoverGlow"] = false,
 						},
 						["health"] = {
 							["text_format"] = "",
@@ -1656,14 +1656,14 @@ ElvDB = {
 						},
 					},
 					["raid"] = {
-						["name"] = {
-							["text_format"] = "[name:short]",
-						},
-						["visibility"] = "[@raid6,noexists] hide;show",
 						["health"] = {
 							["frequentUpdates"] = true,
 							["text_format"] = "",
 						},
+						["name"] = {
+							["text_format"] = "[name:short]",
+						},
+						["visibility"] = "[@raid6,noexists] hide;show",
 					},
 					["targettarget"] = {
 						["name"] = {
@@ -1849,6 +1849,9 @@ ElvDB = {
 				["smartRaidFilter"] = false,
 				["font"] = "Accidental Presidency",
 				["units"] = {
+					["tank"] = {
+						["enable"] = false,
+					},
 					["party"] = {
 						["name"] = {
 							["text_format"] = "[name:medium] [difficultycolor][smartlevel]",
@@ -1861,37 +1864,14 @@ ElvDB = {
 							["height"] = 13,
 						},
 					},
-					["player"] = {
-						["castbar"] = {
-							["enable"] = false,
-						},
-						["debuffs"] = {
-							["enable"] = false,
-						},
+					["raid40"] = {
 						["health"] = {
 							["text_format"] = "",
 						},
-						["power"] = {
-							["text_format"] = "",
-							["height"] = 15,
-						},
-						["height"] = 75,
-						["classbar"] = {
-							["enable"] = false,
-						},
-						["disableMouseoverGlow"] = true,
-						["aurabar"] = {
-							["enable"] = false,
-						},
-					},
-					["raid40"] = {
 						["name"] = {
 							["text_format"] = "[name:short]",
 						},
 						["visibility"] = "[@raid6,noexists] hide;show",
-						["health"] = {
-							["text_format"] = "",
-						},
 					},
 					["pet"] = {
 						["infoPanel"] = {
@@ -1958,14 +1938,14 @@ ElvDB = {
 					},
 					["raid"] = {
 						["enable"] = false,
-						["name"] = {
-							["text_format"] = "[name:short]",
-						},
-						["visibility"] = "[@raid6,noexists] hide;show",
 						["health"] = {
 							["frequentUpdates"] = true,
 							["text_format"] = "",
 						},
+						["name"] = {
+							["text_format"] = "[name:short]",
+						},
+						["visibility"] = "[@raid6,noexists] hide;show",
 					},
 					["targettarget"] = {
 						["threatStyle"] = "GLOW",
@@ -1973,8 +1953,28 @@ ElvDB = {
 							["text_format"] = "[name:medium]",
 						},
 					},
-					["tank"] = {
-						["enable"] = false,
+					["player"] = {
+						["castbar"] = {
+							["enable"] = false,
+						},
+						["debuffs"] = {
+							["enable"] = false,
+						},
+						["health"] = {
+							["text_format"] = "",
+						},
+						["power"] = {
+							["text_format"] = "",
+							["height"] = 15,
+						},
+						["height"] = 75,
+						["classbar"] = {
+							["enable"] = false,
+						},
+						["disableMouseoverGlow"] = true,
+						["aurabar"] = {
+							["enable"] = false,
+						},
 					},
 				},
 			},
@@ -1996,7 +1996,7 @@ ElvDB = {
 			["Damondbank"] = 845,
 		},
 		["Firemaw"] = {
-			["Damond"] = 172929342,
+			["Damond"] = 161886121,
 			["Damondbank"] = 1551847,
 		},
 	},
