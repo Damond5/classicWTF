@@ -10,13 +10,13 @@ PlaterDBChr = {
 		["Player-4467-029E55FD"] = true,
 	},
 	["spellRangeCheck"] = "",
-	["minimap"] = {
-		["minimapPos"] = 183.8879368186735,
-		["hide"] = true,
+	["spellRangeCheckRangeEnemy"] = {
+		[9] = 30,
 	},
 	["debuffsBanned"] = {
 	},
-	["spellRangeCheckRangeEnemy"] = {
-		[9] = 30,
+	["minimap"] = {
+		["minimapPos"] = 183.8879368186735,
+		["hide"] = true,
 	},
 }

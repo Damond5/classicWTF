@@ -10,21 +10,14 @@ SkilletDB = {
 		["MissingSkillLevels"] = {
 		},
 		["project"] = 11,
-		["wowVersion"] = 30400,
+		["wowVersion"] = 30401,
 		["itemRecipeUsedIn"] = {
 		},
 		["customVersion"] = 1,
 		["dataVersion"] = 5,
 		["locale"] = "enUS",
-		["wowBuild"] = "46902",
+		["wowBuild"] = "48632",
 		["build"] = "Wrath",
-		["recipeVersion"] = 4,
-		["version"] = "1.57",
-		["faction"] = {
-			["4467"] = {
-				["Damondbank"] = "Alliance",
-			},
-		},
 		["SkillLevels"] = {
 			[0] = "orange/yellow/green/gray",
 			[14342] = "250/290/305/320",
@@ -2160,22 +2153,36 @@ SkilletDB = {
 			[19440] = "300/300/330/360",
 			[21990] = "330/330/360/390",
 		},
+		["version"] = "1.67",
+		["recipeVersion"] = 4,
+		["faction"] = {
+			["4467"] = {
+				["Damondbank"] = "Alliance",
+			},
+		},
 		["cachedGuildbank"] = {
 		},
 		["MissingVendorItems"] = {
 			[30817] = "Simple Flour",
-			[38682] = "Enchanting Vellum",
+			[4539] = "Goldenbark Apple",
 			[3857] = "Coal",
 			[17034] = "Maple Seed",
-			[4539] = "Goldenbark Apple",
-			[4399] = "Wooden Stock",
 			[17035] = "Stranglethorn Seed",
+			[4399] = "Wooden Stock",
+			[38682] = "Enchanting Vellum",
 			[52188] = "Jeweler's Setting",
 		},
 		["server"] = {
 			["4467"] = {
 				["Firemaw"] = "Damondbank",
 			},
+		},
+		["NewsDB"] = {
+			["lastVersion"] = {
+				["Damondbank"] = "1.67",
+			},
+			["lastVersionA"] = "1.67",
+			["show_news"] = 1,
 		},
 	},
 	["realm"] = {
@@ -2740,13 +2747,13 @@ SkilletDB = {
 					[13463] = 140,
 					[19718] = 1,
 					[19812] = 1,
-					[16309] = 1,
+					[12930] = 1,
 					[19720] = 1,
 					[3372] = 10,
 					[13465] = 140,
-					[12930] = 1,
-					[8846] = 30,
 					[8838] = 40,
+					[8846] = 30,
+					[16309] = 1,
 					[15138] = 1,
 					[19108] = 1,
 					[19370] = 1,
@@ -2830,7 +2837,7 @@ SkilletDB = {
 					[25470] = 1,
 				},
 				["Damondbank"] = {
-					[40049] = 9,
+					[40049] = 20,
 				},
 			},
 			["invSlot"] = {
@@ -2841,7 +2848,7 @@ SkilletDB = {
 				["Damond"] = {
 				},
 				["Damondbank"] = {
-					[40049] = 24,
+					[40049] = 15,
 				},
 			},
 			["reagentsInQueue"] = {
@@ -3574,6 +3581,83 @@ SkilletDB = {
 						["id"] = 40049,
 						["count"] = 1,
 					}, -- [9]
+					{
+						["bag"] = 0,
+						["name"] = "Veiled Monarch Topaz",
+						["slot"] = 10,
+						["id"] = 40049,
+						["count"] = 1,
+					}, -- [10]
+					{
+						["bag"] = 0,
+						["name"] = "Veiled Monarch Topaz",
+						["slot"] = 11,
+						["id"] = 40049,
+						["count"] = 1,
+					}, -- [11]
+					{
+						["bag"] = 0,
+						["name"] = "Veiled Monarch Topaz",
+						["slot"] = 12,
+						["id"] = 40049,
+						["count"] = 1,
+					}, -- [12]
+					{
+						["bag"] = 0,
+						["name"] = "Veiled Monarch Topaz",
+						["slot"] = 13,
+						["id"] = 40049,
+						["count"] = 1,
+					}, -- [13]
+					{
+						["bag"] = 0,
+						["name"] = "Veiled Monarch Topaz",
+						["slot"] = 14,
+						["id"] = 40049,
+						["count"] = 1,
+					}, -- [14]
+					{
+						["bag"] = 1,
+						["name"] = "Veiled Monarch Topaz",
+						["slot"] = 1,
+						["id"] = 40049,
+						["count"] = 1,
+					}, -- [15]
+					{
+						["bag"] = 1,
+						["name"] = "Veiled Monarch Topaz",
+						["slot"] = 2,
+						["id"] = 40049,
+						["count"] = 1,
+					}, -- [16]
+					{
+						["bag"] = 1,
+						["name"] = "Veiled Monarch Topaz",
+						["slot"] = 3,
+						["id"] = 40049,
+						["count"] = 1,
+					}, -- [17]
+					{
+						["bag"] = 1,
+						["name"] = "Veiled Monarch Topaz",
+						["slot"] = 4,
+						["id"] = 40049,
+						["count"] = 1,
+					}, -- [18]
+					{
+						["bag"] = 1,
+						["name"] = "Veiled Monarch Topaz",
+						["slot"] = 5,
+						["id"] = 40049,
+						["count"] = 1,
+					}, -- [19]
+					{
+						["bag"] = 1,
+						["name"] = "Veiled Monarch Topaz",
+						["slot"] = 6,
+						["id"] = 40049,
+						["count"] = 1,
+					}, -- [20]
 				},
 			},
 			["trade_wait"] = 1,
@@ -3594,9 +3678,10 @@ SkilletDB = {
 	["profiles"] = {
 		["Damond - Firemaw"] = {
 			["plugins"] = {
-				["beancounter"] = {
+				["ATL"] = {
+					["buyFactor"] = 4,
+					["markup"] = 1.05,
 					["enabled"] = true,
-					["days"] = 30,
 				},
 				["BBG"] = {
 					["enabled"] = true,
@@ -3609,7 +3694,7 @@ SkilletDB = {
 					["markup"] = 1.05,
 					["enabled"] = true,
 				},
-				["ATL"] = {
+				["AUC"] = {
 					["buyFactor"] = 4,
 					["markup"] = 1.05,
 					["enabled"] = true,
@@ -3619,10 +3704,9 @@ SkilletDB = {
 					["markup"] = 1.05,
 					["enabled"] = true,
 				},
-				["AUC"] = {
-					["buyFactor"] = 4,
-					["markup"] = 1.05,
+				["beancounter"] = {
 					["enabled"] = true,
+					["days"] = 30,
 				},
 			},
 			["WarnLog"] = true,
@@ -3630,10 +3714,9 @@ SkilletDB = {
 		},
 		["Damondbank - Razorgore"] = {
 			["plugins"] = {
-				["AUC"] = {
-					["buyFactor"] = 4,
-					["markup"] = 1.05,
+				["beancounter"] = {
 					["enabled"] = true,
+					["days"] = 30,
 				},
 				["BBG"] = {
 					["enabled"] = true,
@@ -3646,16 +3729,17 @@ SkilletDB = {
 					["markup"] = 1.05,
 					["enabled"] = true,
 				},
-				["beancounter"] = {
+				["ATL"] = {
+					["buyFactor"] = 4,
+					["markup"] = 1.05,
 					["enabled"] = true,
-					["days"] = 30,
 				},
 				["AHDB"] = {
 					["buyFactor"] = 4,
 					["markup"] = 1.05,
 					["enabled"] = true,
 				},
-				["ATL"] = {
+				["AUC"] = {
 					["buyFactor"] = 4,
 					["markup"] = 1.05,
 					["enabled"] = true,
@@ -3718,7 +3802,7 @@ SkilletDB = {
 		},
 		["Damond - Razorgore"] = {
 			["plugins"] = {
-				["ATL"] = {
+				["AUC"] = {
 					["buyFactor"] = 4,
 					["markup"] = 1.05,
 					["enabled"] = true,
@@ -3736,17 +3820,17 @@ SkilletDB = {
 					["markup"] = 1.05,
 					["enabled"] = true,
 				},
-				["AUC"] = {
-					["buyFactor"] = 4,
-					["markup"] = 1.05,
+				["beancounter"] = {
 					["enabled"] = true,
+					["days"] = 30,
 				},
 				["MTSL"] = {
 					["enabled"] = false,
 				},
-				["beancounter"] = {
+				["ATL"] = {
+					["buyFactor"] = 4,
+					["markup"] = 1.05,
 					["enabled"] = true,
-					["days"] = 30,
 				},
 			},
 			["FixBugs"] = true,

@@ -2,886 +2,6 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"Pumper mage LF GDKP kara / za / ssc / tk gruul / mag / hyjal", -- [1]
-			"Nothumbscrew-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Nothumbscrew", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77476, -- [11]
-			"Player-4467-02CA2E65", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaNothumbscrew|r",
-			[51] = 1652994263,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"LF Sethekk Halls Druid for Anzu ", -- [1]
-			"Onight-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Onight", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77477, -- [11]
-			"Player-4467-02B9E238", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Onight|r",
-			[51] = 1652994263,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"mage lfg za", -- [1]
-			"Veizuh-Firemaw", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Veizuh", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			77478, -- [11]
-			"Player-4467-02484C91", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaVeizuh|r",
-			[51] = 1652994263,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
-			"LFW |cff71d5ff|Hspell:28029:0|h[Enchanting]|h|rBoots - Boar speed, Cat Swift, +12agi,Weapon - +81 heal, +40sp, Crus. 2Hand - +35 Agi.  Bracer - +15sp/heal. Gloves - +20spd/heal, +15spellhit, +15str, +12spd/heal. Chest - +6Stats, +15Resil. Cloak +12agi", -- [1]
-			"Corie-Firemaw", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Corie", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			77479, -- [11]
-			"Player-4467-029B0689", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aCorie|r",
-			[51] = 1652994263,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
-		{
-			"LFM HEALER  FOR AC HEROIC!!!!!!!!!!!!!!!", -- [1]
-			"Crikcor-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Crikcor", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77484, -- [11]
-			"Player-4467-02C29A4B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Crikcor|r",
-			[51] = 1652994265,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
-		{
-			"WTS stockade boost 25g for 5 runs, smooth run without regen, ffa loot 0/4", -- [1]
-			"Speedykaizen-Firemaw", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Speedykaizen", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			77485, -- [11]
-			"Player-4467-02C83F84", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaSpeedykaizen|r",
-			[51] = 1652994265,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
-		{
-			"JWC LFW |cffffd000|Henchant:46122|h[Jewelcrafting: Loop of Forged Power]|h|r - your mats lowest fee", -- [1]
-			"Dragomirkaa-Firemaw", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Dragomirkaa", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			77489, -- [11]
-			"Player-4467-02B991F7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffDragomirkaa|r",
-			[51] = 1652994266,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
-		{
-			"LFM BT clearrun 3xSR>MS>OS (Glaives+Gems HR) Full Clear need 1Feraltank with fireresist 4Healer(1x Shaman+1pala+1Priest+1Druid)", -- [1]
-			"Zlgurke-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Zlgurke", -- [5]
-			"DND", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77492, -- [11]
-			"Player-4467-02BB8A88", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dZlgurke|r",
-			[51] = 1652994266,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
-		{
-			"1xEnhancer  & dps(1xMage/3xWl/2xhunter/ret//shadow) inspect Aldor Bank /w me with Class/specc/Role 12/25", -- [1]
-			"Zlgurke-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Zlgurke", -- [5]
-			"DND", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77493, -- [11]
-			"Player-4467-02BB8A88", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dZlgurke|r",
-			[51] = 1652994266,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
-		{
-			"WTS {rt2}AFK Slave Pens BOOST{rt2} 90+ mobs || +60k xp per run 15min RUN{rt3}Solo-Duo-Trio 60g {rt3}  2/3 atm {rt2} READY TO START 58-65lvl", -- [1]
-			"Aurumusir-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Aurumusir", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77501, -- [11]
-			"Player-4467-02A41A37", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaAurumusir|r",
-			[51] = 1652994267,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
-		{
-			"WTS {rt5} BIG.Shadow.Labyrinth {rt5}  65+ lvl  (80 mobs  55k per Run) {rt5} TRIO 60G {rt5} ||12 min|| port read  {rt5} T5 mages {rt5} HAVE WA LAST.SPOT", -- [1]
-			"Netherpunch-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Netherpunch", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77505, -- [11]
-			"Player-4467-02DF4CF9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaNetherpunch|r",
-			[51] = 1652994268,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
-		{
-			"{star} {diamond} WTS Scarlet Monastry (Cath+ARmory+Lib 200mobs) 15g/run 5runs per hour for 20-42lvl 5runs=75g Loot FFA  {star} {diamond}last spot", -- [1]
-			"Stylehere-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Stylehere", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77512, -- [11]
-			"Player-4467-02E3C084", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaStylehere|r",
-			[51] = 1652994269,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
-		{
-			"<Ølympics> currently 14/14 - are now looking for new raiders to bolster our ranks for phase 5! We are especially looking for Prot Pala 1x Lock 1x resto druid/boomkin. Raiding times Thurs & Sundays 19.45-23.00. Whisper for more info", -- [1]
-			"Mparker-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Mparker", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77515, -- [11]
-			"Player-4467-02961343", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddMparker|r",
-			[51] = 1652994270,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [13]
-		{
-			"WTS |cffa335ee|Hitem:35189::::::::1:::::::::|h[Schematic: Powerheal 9000 Lens]|h|r", -- [1]
-			"Gscfo-Firemaw", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Gscfo", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			77523, -- [11]
-			"Player-4467-02C7532C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edGscfo|r",
-			[51] = 1652994271,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [14]
-		{
-			"[[65] Terokkarantula (10921)] LFM", -- [1]
-			"Evilres", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Evilres", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77524, -- [11]
-			"Player-4467-02E49964", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Evilres|r",
-			[51] = 1652994271,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [15]
-		{
-			"LF Sethekk Halls Heroic Druid for Anzu ", -- [1]
-			"Onight-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Onight", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77526, -- [11]
-			"Player-4467-02B9E238", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Onight|r",
-			[51] = 1652994271,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
-		{
-			"[[65] Terokkarantula (10921)] LFM", -- [1]
-			"Evilres-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Evilres", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77527, -- [11]
-			"Player-4467-02E49964", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Evilres|r",
-			[51] = 1652994271,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
-		{
-			"LF enchanter 15 sp on wrist", -- [1]
-			"Kchekrik-Firemaw", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kchekrik", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			77529, -- [11]
-			"Player-4467-01EB667E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edKchekrik|r",
-			[51] = 1652994272,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [18]
-		{
-			"{Cross}{Diamond}WTS `Stratholme Boost` {Triangle}{Moon} + 195 Real Moob{STAR}{diamond}[iLevel45-60]--[30-45k XP]{Diamond}{Triangle}Full AFK On Entrance{STAR}5g Cash Back From ShareLoot{STAR}{MOON}8-10MinRun--{Triangle}10g Per Run{STAR}Sum Ready+45LV", -- [1]
-			"Kakozo-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Kakozo", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77532, -- [11]
-			"Player-4467-02DD4CEA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaKakozo|r",
-			[51] = 1652994273,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
-		{
-			"{Diamond}  SUNWELL SUNDAY 13:00 AND BT GDKP with 75/25 performance + utility on Fridays 18:00 and 21:00. Need SV hunter, Enhance and Feral tank + ANY KIND OF BUYER! https://discord.gg/zpYDwhaCmv for more info {Diamond}", -- [1]
-			"Lòl-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Lòl", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77544, -- [11]
-			"Player-4467-02E2491D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edLòl|r",
-			[51] = 1652994275,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
-		{
-			"LFM GDKP Mag/Gruul 100% performance cut (for pumpers), need all, DST HR, Items 200, Tokens 400, Weapons 1k", -- [1]
-			"Hexoffense-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Hexoffense", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77547, -- [11]
-			"Player-4467-02E0B85C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddHexoffense|r",
-			[51] = 1652994275,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [21]
-		{
-			"LF1M Tank MGT H  ", -- [1]
-			"Polemarxoc-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Polemarxoc", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77551, -- [11]
-			"Player-4467-02CADA09", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Polemarxoc|r",
-			[51] = 1652994276,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
-		{
-			"LF JC |cffa335ee|Hitem:32217::::::::70:::::::::|h[Inscribed Pyrestone]|h|r", -- [1]
-			"Thepsylocke-Firemaw", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Thepsylocke", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			77556, -- [11]
-			"Player-4467-02A90CE4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dThepsylocke|r",
-			[51] = 1652994278,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [23]
-		{
-			"{skull} SWP FARM 3m/reset NEED HEALERS and DPS [{triangle}BOE, Patterns & Gems RR, Gear MS-OS {cross}2/3 Sunmote HR.] 25/25", -- [1]
-			"Nöje-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Nöje", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77562, -- [11]
-			"Player-4467-02A7C819", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaNöje|r",
-			[51] = 1652994279,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
-		{
-			"<WTS SHADOW LAB BOOST> 65+lvl || 50g per slot||  750 Lower City Rep || 50k+ exp <2/3)>", -- [1]
-			"Bertold-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Bertold", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77565, -- [11]
-			"Player-4467-02C2793A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaBertold|r",
-			[51] = 1652994280,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
-		{
-			"{star} <Cornbid> GBID  [MH/BT on SAT 14:00 70% Even Split] &[MH/BT on TUE 20:00 Performance Based 80%] [SUNWELL on SUNDAY 14:00 70% Even Split] Need CARRIES and BUYERS. Glaives In Pot. Sign up at {star} https://discord.gg/HxRZTwnznK ", -- [1]
-			"Cornelita-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Cornelita", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77566, -- [11]
-			"Player-4467-027E0210", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddCornelita|r",
-			[51] = 1652994281,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
-		{
-			"lf enchanter", -- [1]
-			"Nokhy", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Nokhy", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			77567, -- [11]
-			"Player-4467-02BBED2B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Nokhy|r",
-			[51] = 1652994281,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
-		{
-			"{square}{square}{square}SWP TRASH. We need HEALERS and DPS. HR 2/3 Sunmote. {star}BOE, patterns, gems RR, Gear MS>OS. 25/25", -- [1]
-			"Tánkin-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Tánkin", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77570, -- [11]
-			"Player-4467-02ABF4B8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaTánkin|r",
-			[51] = 1652994281,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
-		{
-			"LFM [Wanted: Durn the Hungerer (9938)][Wanted: Durn the Hungerer (9938)]LFM [Wanted: Durn the Hungerer (9938)][Wanted: Durn the Hungerer (9938)] LFM [Wanted: Durn the Hungerer (9938)][Wanted: Durn the Hungerer (9938)] ", -- [1]
-			"Jzt-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Jzt", -- [5]
-			"AFK", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77572, -- [11]
-			"Player-4467-029E9185", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffJzt|r",
-			[51] = 1652994282,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
-		{
-			"last spot SHH spellcleave mage/lock", -- [1]
-			"Broheimm-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Broheimm", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77578, -- [11]
-			"Player-4467-02E57FF8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edBroheimm|r",
-			[51] = 1652994283,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
-		{
-			"LFM Black Tempel clearrun 3xSR>MS>OS (Glaives+Gems HR) Full Clear need 1Feraltank with fireresist 4Healer(1x Shaman+1pala+1Priest+1Druid)", -- [1]
-			"Zlgurke-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Zlgurke", -- [5]
-			"DND", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77579, -- [11]
-			"Player-4467-02BB8A88", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dZlgurke|r",
-			[51] = 1652994283,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
-		{
-			"LFW |cffffd000|Henchant:46134|h[Leatherworking: Gloves of Immortal Dusk]|h|r|cffa335ee|Hitem:34370::::::::70::::1:3524:::::|h[Gloves of Immortal Dusk]|h|r", -- [1]
-			"Kongsy-Firemaw", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kongsy", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			77585, -- [11]
-			"Player-4467-028A68CB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddKongsy|r",
-			[51] = 1652994284,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
-		{
-			"LF Layer 1", -- [1]
-			"Korshun", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Korshun", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77587, -- [11]
-			"Player-4467-02716D16", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffKorshun|r",
-			[51] = 1652994285,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
-		{
-			"LFM 5v5 - Need disc priest", -- [1]
-			"Gothloli-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Gothloli", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77594, -- [11]
-			"Player-4467-02C5EB77", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edGothloli|r",
-			[51] = 1652994286,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
-		{
-			"WTB STOCKADE BOOST", -- [1]
-			"Sall", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sall", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			77595, -- [11]
-			"Player-4467-02E5AB78", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dSall|r",
-			[51] = 1652994286,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
-		{
-			"<WTS SHADOW LAB BOOST> 65+lvl || 50g per slot||  750 Lower City Rep || 50k+ exp <(2/3)>", -- [1]
-			"Zangedzu-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Zangedzu", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77596, -- [11]
-			"Player-4467-02C278F6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaZangedzu|r",
-			[51] = 1652994287,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
-		{
-			"(1/3) {star}WTS SP 96+ mobs {star} {rt4}60g trio (5 = 270g) |||| {rt4}70g duo (5 = 315g). [7-10g returns]. FULL AFK [WA]. For 55-69 lvls. {summon1}.", -- [1]
-			"Táck-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Táck", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77597, -- [11]
-			"Player-4467-02DD40FF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaTáck|r",
-			[51] = 1652994287,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
-		{
-			"LFM [[67] Wanted: Durn the Hungerer (9938)]", -- [1]
-			"Flaschenzug-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Flaschenzug", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77599, -- [11]
-			"Player-4467-02A29FE4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddFlaschenzug|r",
-			[51] = 1652994287,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
-		{
-			"{Skull} {Skull} LF1M Tank For SP Normal 4/5 {Skull} {Skull}", -- [1]
-			"Enhsham-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Enhsham", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77600, -- [11]
-			"Player-4467-02C64863", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddEnhsham|r",
-			[51] = 1652994287,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
-		{
-			"LF <SH> <Settered Halls> +  DPS and  go  Farm Rep", -- [1]
-			"Truehardlock-Firemaw", -- [2]
-			"", -- [3]
-			"4. LookingForGroup", -- [4]
-			"Truehardlock", -- [5]
-			"", -- [6]
-			26, -- [7]
-			4, -- [8]
-			"LookingForGroup", -- [9]
-			0, -- [10]
-			77601, -- [11]
-			"Player-4467-02DFAB2E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edTruehardlock|r",
-			[51] = 1652994287,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
-		{
 			"Helping YOU with <Heroic Dungeons>  <Karazhan>  <ZUL AMAN>  <SSC/TK > <BT/MH>  Full Group Always Ready to Serve you! With Over 1500 Helps Done since week 2 of TBC!", -- [1]
 			"Moonstation-Firemaw", -- [2]
 			"", -- [3]
@@ -902,7 +22,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edMoonstation|r",
 			[51] = 1652994289,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
+		}, -- [1]
 		{
 			"WTS {cross}(SL BOOST){cross} lvl 65-70 + 50/60k xp 840rep 12-14 Min Run geared mage 68-74 Mobs 75g Dua 55g Trio {star}{star} +sum last Spot 2/3 {full Afk}", -- [1]
 			"Frostpowerr-Firemaw", -- [2]
@@ -924,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaFrostpowerr|r",
 			[51] = 1652994291,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
+		}, -- [2]
 		{
 			"LF1M Healer MGT HC", -- [1]
 			"Walridin-Firemaw", -- [2]
@@ -946,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaWalridin|r",
 			[51] = 1652994292,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
+		}, -- [3]
 		{
 			"{Star}WTS Shadow Lab Boost{Star} {Cross}Full AFK{Cross}{Star}50k-65k Xp (+800Rep with Lower City)11-13 minute run Solo 120g duo 70g Trio 50g Sum ready{Star}{Star}Non Stop Runs", -- [1]
 			"Barzang-Firemaw", -- [2]
@@ -968,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaBarzang|r",
 			[51] = 1652994292,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
+		}, -- [4]
 		{
 			"lf jewelcrafter loop", -- [1]
 			"Mouzone", -- [2]
@@ -990,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edMouzone|r",
 			[51] = 1652994293,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
+		}, -- [5]
 		{
 			"LF1M heal botanica normal / can summon", -- [1]
 			"Sámán-Firemaw", -- [2]
@@ -1012,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddSámán|r",
 			[51] = 1652994293,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
+		}, -- [6]
 		{
 			"LF 1DPS MGT HC Shard Res", -- [1]
 			"Avinge-Firemaw", -- [2]
@@ -1034,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aAvinge|r",
 			[51] = 1652994293,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
+		}, -- [7]
 		{
 			"WTs |cff0070dd|Hitem:37806::::::::78:::::::::|h[Zabra's Misplaced Staff]|h|r", -- [1]
 			"Morvin-Firemaw", -- [2]
@@ -1056,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaMorvin|r",
 			[51] = 1668459671,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
+		}, -- [8]
 		{
 			"{STAR}LFM EoE 10{STAR}, NEED ALL! 3.7K GS++, FAST AND SMOOTH RUN! 1xSR>MS>OS, BoE HR!", -- [1]
 			"Justafreak-Firemaw", -- [2]
@@ -1078,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddJustafreak|r",
 			[51] = 1668459674,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
+		}, -- [9]
 		{
 			"<ingen aning> hosting EoE 25 man - MS>OS. Need some dps", -- [1]
 			"Mxck", -- [2]
@@ -1100,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddMxck|r",
 			[51] = 1668459680,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [50]
+		}, -- [10]
 		{
 			"LF BS", -- [1]
 			"Cavaliier", -- [2]
@@ -1122,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaCavaliier|r",
 			[51] = 1668459681,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [51]
+		}, -- [11]
 		{
 			"WTB Titansteel bar cd 30g ", -- [1]
 			"Misteax-Firemaw", -- [2]
@@ -1144,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Misteax|r",
 			[51] = 1668459682,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
+		}, -- [12]
 		{
 			"LF enchanter", -- [1]
 			"Thoreall-Firemaw", -- [2]
@@ -1166,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThoreall|r",
 			[51] = 1668459683,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
+		}, -- [13]
 		{
 			"<WTS |cffa335ee|Hitem:44326::::::::1:::::::::|h[Nobles Deck]|h|r 5k> inv", -- [1]
 			"Hriso-Firemaw", -- [2]
@@ -1188,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaHriso|r",
 			[51] = 1668459684,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
+		}, -- [14]
 		{
 			"LFM Voa 12 class run! LF Hunter/Shaman/Druid/Spriest/Warr  /w me", -- [1]
 			"Dufromag-Firemaw", -- [2]
@@ -1210,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaDufromag|r",
 			[51] = 1668459688,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
+		}, -- [15]
 		{
 			"<END> IS RECRUITING!lLooking for last spots  to clear upcoming content. Raid days are Wednesday25 and Saturday achieves  20:30 server time. /W FOR MORE INFO.  1 ELE SHAMAN  1 Resto shaman, ", -- [1]
 			"Illuminatie-Firemaw", -- [2]
@@ -1232,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaIlluminatie|r",
 			[51] = 1668459690,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
+		}, -- [16]
 		{
 			"LFM DPS EoE 10 going for < 6min kill achievement 1x SR system SNR HR /w", -- [1]
 			"Sturdey-Firemaw", -- [2]
@@ -1254,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dSturdey|r",
 			[51] = 1668459692,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
+		}, -- [17]
 		{
 			"{STAR} LFM NAXX 10 man , 3SR>MS>OS  ( key Hr ) , Need  MT and Heal 7/10", -- [1]
 			"Bladeshot-Firemaw", -- [2]
@@ -1276,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aBladeshot|r",
 			[51] = 1668459692,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [58]
+		}, -- [18]
 		{
 			"Rogue LF 2V2 1700+ push /w", -- [1]
 			"Scutt-Firemaw", -- [2]
@@ -1298,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Scutt|r",
 			[51] = 1668459703,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
+		}, -- [19]
 		{
 			"LFM Malygos 10 MS > OS ! doing ACHIV RUN ! DISC + FAST KILL ! ( gona wipe once or twice so all get disc achiv who needs)", -- [1]
 			"Fitilj-Firemaw", -- [2]
@@ -1320,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aFitilj|r",
 			[51] = 1668460133,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [60]
+		}, -- [20]
 		{
 			"LF2M RDPS/SHAMAN EoE 10 going for < 6min kill achievement 1x SR system SNR HR /w", -- [1]
 			"Sturdey-Firemaw", -- [2]
@@ -1342,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dSturdey|r",
 			[51] = 1668460133,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
+		}, -- [21]
 		{
 			"<WTS |cffa335ee|Hitem:44326::::::::1:::::::::|h[Nobles Deck]|h|r 5k each> inv", -- [1]
 			"Hriso-Firemaw", -- [2]
@@ -1364,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaHriso|r",
 			[51] = 1668460134,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [62]
+		}, -- [22]
 		{
 			"LF enchanter with +10 stats on chest", -- [1]
 			"Bönny-Firemaw", -- [2]
@@ -1386,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaBönny|r",
 			[51] = 1668460136,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
+		}, -- [23]
 		{
 			"lf enchanter", -- [1]
 			"Thoreall-Firemaw", -- [2]
@@ -1408,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaThoreall|r",
 			[51] = 1668460144,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [64]
+		}, -- [24]
 		{
 			"WTB Titansteel bar cd 30g ", -- [1]
 			"Misteax-Firemaw", -- [2]
@@ -1430,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Misteax|r",
 			[51] = 1668460144,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
+		}, -- [25]
 		{
 			"{STAR}LFM EoE 10{STAR}, NEED ALL! 3.7K GS++, FAST AND SMOOTH RUN! 1xSR>MS>OS, BoE HR!", -- [1]
 			"Justafreak-Firemaw", -- [2]
@@ -1452,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddJustafreak|r",
 			[51] = 1668460152,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [66]
+		}, -- [26]
 		{
 			"{STAR} LFM NAXX 10 man , 3SR>MS>OS  ( key Hr ) ,  LF Healer last spot 9/10", -- [1]
 			"Bladeshot-Firemaw", -- [2]
@@ -1474,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aBladeshot|r",
 			[51] = 1668460154,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [67]
+		}, -- [27]
 		{
 			"{Square} Scorpion pugs hosting  Naxx,VoA,EoE and OS (2D) 25 man GDKP 80/20% even split every Saturday at 20:00, everything starts at 1000 gold. {Square} Join discord for more information https://discord.gg/WSzJaSKr {Square}", -- [1]
 			"Smallfrapa-Firemaw", -- [2]
@@ -1496,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaSmallfrapa|r",
 			[51] = 1668460173,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [28]
 		{
 			"LF2M SHAMAN DPS EoE 10 going for < 6min kill achievement 1x SR system SNR HR /w", -- [1]
 			"Sturdey-Firemaw", -- [2]
@@ -1518,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dSturdey|r",
 			[51] = 1668460176,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [69]
+		}, -- [29]
 		{
 			"LFM Magisters Terrace Shattered sun rep farm", -- [1]
 			"Balticat-Firemaw", -- [2]
@@ -1540,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBalticat|r",
 			[51] = 1668460183,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [70]
+		}, -- [30]
 		{
 			"<END> IS RECRUITING!lLooking for last spots  to clear upcoming content. Raid days are Wednesday25 and Saturday achieves  20:30 server time. /W FOR MORE INFO.  1 ELE SHAMAN  1 Resto shaman, ", -- [1]
 			"Illuminatie-Firemaw", -- [2]
@@ -1562,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaIlluminatie|r",
 			[51] = 1668460184,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [71]
+		}, -- [31]
 		{
 			"LF1M SHAMAN DPS EoE 10 going for < 6min kill achievement 1x SR system SNR HR /w", -- [1]
 			"Sturdey-Firemaw", -- [2]
@@ -1584,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dSturdey|r",
 			[51] = 1668460193,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [72]
+		}, -- [32]
 		{
 			"LF healer LBRS, can sum. :)", -- [1]
 			"Whitéoak", -- [2]
@@ -1606,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaWhitéoak|r",
 			[51] = 1668460196,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [73]
+		}, -- [33]
 		{
 			"LF healer LBRS, can sum. :)", -- [1]
 			"Whitéoak-Firemaw", -- [2]
@@ -1628,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaWhitéoak|r",
 			[51] = 1668460197,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [74]
+		}, -- [34]
 		{
 			"<WTS |cffa335ee|Hitem:44326::::::::1:::::::::|h[Nobles Deck]|h|r 5k each> inv", -- [1]
 			"Hriso-Firemaw", -- [2]
@@ -1650,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaHriso|r",
 			[51] = 1668460140,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [75]
+		}, -- [35]
 		{
 			"{STAR}LFM EoE 10{STAR}, NEED ALL! 3.7K GS++, FAST AND SMOOTH RUN! 1xSR>MS>OS, BoE HR!", -- [1]
 			"Justafreak-Firemaw", -- [2]
@@ -1672,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070ddJustafreak|r",
 			[51] = 1668460203,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
+		}, -- [36]
 		{
 			"{STAR} LFM NAXX 10 man , 3SR>MS>OS  ,  LF Healer last spot 9/10", -- [1]
 			"Bladeshot-Firemaw", -- [2]
@@ -1694,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aBladeshot|r",
 			[51] = 1668460205,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [77]
+		}, -- [37]
 		{
 			"WTS Valor Bracers 600g", -- [1]
 			"Fanofkek-Firemaw", -- [2]
@@ -1716,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Fanofkek|r",
 			[51] = 1668460206,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [78]
+		}, -- [38]
 		{
 			"LFM Malygos 10 MS > OS ! doing ACHIV RUN ! DISC + FAST KILL ! ( gona wipe once or twice so all get disc achiv who needs) 1 tank 1 range dps ", -- [1]
 			"Fitilj-Firemaw", -- [2]
@@ -1738,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aFitilj|r",
 			[51] = 1668460210,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [39]
 		{
 			"2.5xp Hunter LF 5v5 push, 1700cr, also LF 3s (pref PHD)", -- [1]
 			"Pjålla-Firemaw", -- [2]
@@ -1760,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Pjålla|r",
 			[51] = 1668460887,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [40]
 		{
 			"{Square} Scorpion pugs hosting  Naxx,VoA,EoE and OS (2D) 25 man GDKP 80/20% even split every Saturday at 20:00, everything starts at 1000 gold. {Square} Join discord for more information https://discord.gg/WSzJaSKr {Square}", -- [1]
 			"Smallfrapa-Firemaw", -- [2]
@@ -1782,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaSmallfrapa|r",
 			[51] = 1668460892,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
+		}, -- [41]
 		{
 			"WTB |cffa335ee|Hitem:44326::::::::80:::::::::|h[Nobles Deck]|h|r", -- [1]
 			"Dumhunter-Firemaw", -- [2]
@@ -1804,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Dumhunter|r",
 			[51] = 1670258989,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
+		}, -- [42]
 		{
 			"{cross} LFM GDKP World Tour 25Man {star}Naxx>Eoe>Os 2D !!  20||80 Even split  !! Everything start Bid at 1k  / 226 Items=1.5k (( Going when Full ))   /w me ur Role+Budget  {star} < Need Pump/Mix/Buyer >", -- [1]
 			"Deadwhisper-Firemaw", -- [2]
@@ -1826,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaDeadwhisper|r",
 			[51] = 1670258992,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [83]
+		}, -- [43]
 		{
 			"LFM Tempest Keep KT only Run. Rod HR 5k rolled out if drop. Mount is free roll! Need all", -- [1]
 			"Babygravy-Firemaw", -- [2]
@@ -1848,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Babygravy|r",
 			[51] = 1670258996,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [84]
+		}, -- [44]
 		{
 			"wtb|cffa335ee|Hitem:40558::::::::80:::::::::|h[Arcanic Tramplers]|h|r6k", -- [1]
 			"Maxwizard-Firemaw", -- [2]
@@ -1870,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaMaxwizard|r",
 			[51] = 1670258998,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [85]
+		}, -- [45]
 		{
 			"<DUCKS> 25 Man World Tour Pug (2 SR Naxx, 1 SR OS, 1 SR EoE - MS > OS No HR) Needs 2 DPS and for tonight's run @ 20:00 Server time, whisper me or join https://discord.gg/TYhdPgAv3H", -- [1]
 			"Msing-Firemaw", -- [2]
@@ -1892,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dMsing|r",
 			[51] = 1670258945,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
+		}, -- [46]
 		{
 			"{diamond} LFM Naxx/EoE/OS 25man TODAY at 20.00 (2+2 SR > MS > OS) hosted weekly by Capsule Corp!  Need 1 priest and random DPS Signups @ https://discord.gg/Q5kwqsGv", -- [1]
 			"Getdaun-Firemaw", -- [2]
@@ -1914,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff8787edGetdaun|r",
 			[51] = 1670258945,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
+		}, -- [47]
 		{
 			"LFM Naxx25 + EoE + OS 2D GDKP 80/20 Even split lf 1xhunter ( 0 in raid )   2x dps mix or buyer going right now!! 23/25!!", -- [1]
 			"Akaagami-Firemaw", -- [2]
@@ -1936,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaAkaagami|r",
 			[51] = 1670258946,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
+		}, -- [48]
 		{
 			"{orange} <Chosa heidan> Hosting 25 NAXX/EOE/OS3D GDKP RUN , 80/20 EVEN SPLIT TO ALL(ALSO BUYERS) , CURRENTLY NEED ALL PUMPER/BUYERS/MIXES GOING WHEN WE FULL /w me your Role/Spec/budget{orange} 21/25", -- [1]
 			"Káneki-Firemaw", -- [2]
@@ -1958,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaKáneki|r",
 			[51] = 1670258946,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
+		}, -- [49]
 		{
 			"{triangle} <Pot of Gold GDKP> {triangle} 19:00ST 85/15 Even Split with buyer incentive -  25 Naxx/OS2D/EoE - Fast & smooth runs with experienced leadership - LF Buyers & Mix, for more info /w or check https://discord.gg/Kp7rZ9X9Sw {diamond}", -- [1]
 			"Scholastia-Firemaw", -- [2]
@@ -1980,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffScholastia|r",
 			[51] = 1670258949,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [50]
 		{
 			"Neverwinter- Recruiting players for Heroic raiding in Wrath. Our raid days are Wed-Sun 7- 10pm. New and old players welcome, the goal is to clear all the raids and content for Wrath and have fun and a good laugh while doing it. ", -- [1]
 			"Gìzmo-Firemaw", -- [2]
@@ -2002,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dGìzmo|r",
 			[51] = 1670258951,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [51]
 		{
 			"WTS |cffa335ee|Hitem:44413::::::::80:::::::::|h[Mekgineer's Chopper]|h|r", -- [1]
 			"Rôb-Firemaw", -- [2]
@@ -2024,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaRôb|r",
 			[51] = 1670258960,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
+		}, -- [52]
 		{
 			"{rt3} XOXO is hosting Wintergrasp premade @ 0000 {rt3} lvl 71 or above required. Winning {rt4} /w me for invite", -- [1]
 			"Cioran-Firemaw", -- [2]
@@ -2046,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Cioran|r",
 			[51] = 1672267512,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [53]
 		{
 			"WTB Titansteel Bar CD 35G! ", -- [1]
 			"Møllér-Firemaw", -- [2]
@@ -2068,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Møllér|r",
 			[51] = 1672267517,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [54]
 		{
 			"Hosting WG premade for 00:00, /w for inv brain required (100% winrate so far) 13/40", -- [1]
 			"Weavex-Firemaw", -- [2]
@@ -2090,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaWeavex|r",
 			[51] = 1672267518,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [55]
 		{
 			"LFM EoE25 - 1xSR no HR - whisper your gear/achieves", -- [1]
 			"Larcy-Firemaw", -- [2]
@@ -2112,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cffffffffLarcy|r",
 			[51] = 1672267524,
 			[50] = "CHAT_MSG_YELL",
-		}, -- [96]
+		}, -- [56]
 		{
 			"WTB |cffa335ee|Hitem:44326::::::::80:::::::::|h[Nobles Deck]|h|r", -- [1]
 			"Moistpala-Firemaw", -- [2]
@@ -2134,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfff48cbaMoistpala|r",
 			[51] = 1672267533,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [57]
 		{
 			"{star}Naxx 25, 3xSR-MS-OS (BoH HR) Key is Gbid, 3900 GS+ Inspect at VH, Need range dps and healer{star}", -- [1]
 			"Getfact-Firemaw", -- [2]
@@ -2156,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffc41e3aGetfact|r",
 			[51] = 1672267546,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [58]
 		{
 			"LFM EoE 25m 1 SR  NO HR  3,9k+", -- [1]
 			"Ihealyoufeel-Firemaw", -- [2]
@@ -2177,6 +1297,886 @@ ElvCharacterDB = {
 			false, -- [17]
 			[52] = "|cffffffffIhealyoufeel|r",
 			[51] = 1672267616,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [59]
+		{
+			"Frost mage LF Rogue for 2s arena pratice (0cr)", -- [1]
+			"Croce", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Croce", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5449, -- [11]
+			"Player-4467-0294560C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaCroce|r",
+			[51] = 1674410672,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [60]
+		{
+			"WTB [Runed Orb] 2k", -- [1]
+			"Maxacz-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Maxacz", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5454, -- [11]
+			"Player-4467-0236EA5A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dMaxacz|r",
+			[51] = 1674410676,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [61]
+		{
+			"{square} <Daddy Chill> GDKP - Ulduar 10man - Going Now! 80/20 even split. LF Ele/resto Shammy. https://discord.gg/hNN5njNzPd sign up here or whisper for more info. {square}", -- [1]
+			"Limpanio-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Limpanio", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5455, -- [11]
+			"Player-4467-02745321", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aLimpanio|r",
+			[51] = 1674410677,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [62]
+		{
+			"LF TANK/DPS ULDUAR 10M, last 3 bosses, ms>os! fast clear, 2 SPOTS", -- [1]
+			"Guspi-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Guspi", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5459, -- [11]
+			"Player-4467-02C78DAC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaGuspi|r",
+			[51] = 1674410679,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [63]
+		{
+			"LFM Naxx 25man 3xSR MS/OS Thead warrior+boe HR! 4k+! gear check VH! 1Priest Shadow/disc/holy", -- [1]
+			"Dripminister-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dripminister", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5461, -- [11]
+			"Player-4467-040D9939", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dDripminister|r",
+			[51] = 1674410680,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [64]
+		{
+			"LFM Naxx 10 (Full Run) (BOE-Key Gbid) 2SR>MS>OS /w me Gs-Spec(+3.7) Need Shammy /Rdps", -- [1]
+			"Cutê-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Cutê", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5465, -- [11]
+			"Player-4467-03BC37CA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaCutê|r",
+			[51] = 1674410683,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [65]
+		{
+			"LFM Ulduar 10 Normal mode (just Thorim as Hm) / Boe Hr>3x Sr>Ms> Need Boomy/Ele+Prot Pala 8/10", -- [1]
+			"Deathlørd-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Deathlørd", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5470, -- [11]
+			"Player-4467-0370512E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aDeathlørd|r",
+			[51] = 1674410686,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [66]
+		{
+			"LFM OS 10 MAN (2D) NEED SHAMAN HEAL LAST SPOT 1SR> MS>OS \"Illustarion DS HR\" /W GS \"min 3.7gs\" SARTH", -- [1]
+			"Warlockjan-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Warlockjan", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5474, -- [11]
+			"Player-4467-02C1ECB8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edWarlockjan|r",
+			[51] = 1674410689,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [67]
+		{
+			"LF1M RANGED dps Ulduar 25 starting at 19. Semi-guild run, aiming for a full normal-mode clear. 4.2k gs or proof of experience req, checking logs. 3sr-ms-os, BoE and recipes HR. Full consumes required.", -- [1]
+			"Mávra-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mávra", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5486, -- [11]
+			"Player-4467-0373D725", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aMávra|r",
+			[51] = 1674410643,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [68]
+		{
+			"LFM Ulduar 10m normal run need holy pala, prot pala - 3SR>MS>OS - /w gs spec, exp (relevant info)", -- [1]
+			"Hunizoid-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hunizoid", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5494, -- [11]
+			"Player-4467-0336A263", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dHunizoid|r",
+			[51] = 1674410709,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [69]
+		{
+			"LFM Ulduar25Man 3SR>MS>OS Normal Full Clear+ Some Tries on 2 HMs-Discord Mandatory Will check logs - Boe/Fragments/Recipe/Orbs HR ", -- [1]
+			"Lëafa-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Lëafa", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5499, -- [11]
+			"Player-4467-03451123", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aLëafa|r",
+			[51] = 1674410711,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [70]
+		{
+			"3.2k R1 PWarr offering arena help/coaching in new season for gold - /w for more info", -- [1]
+			"Kostickax-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kostickax", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5503, -- [11]
+			"Player-4467-02E56027", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dKostickax|r",
+			[51] = 1674410714,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [71]
+		{
+			"LFW |cffffd000|Henchant:63203|h[Tailoring: Sash of Ancient Power]|h|r Bring Mats+fee.", -- [1]
+			"Nighthaze", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nighthaze", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5505, -- [11]
+			"Player-4467-03863F91", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffNighthaze|r",
+			[51] = 1674410715,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [72]
+		{
+			"WTS |cffa335ee|Hitem:45100::::::::80:::::::::|h[Pattern: Belt of Arctic Life]|h|r", -- [1]
+			"Milkthem-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Milkthem", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5519, -- [11]
+			"Player-4467-02E57CCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edMilkthem|r",
+			[51] = 1674410720,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [73]
+		{
+			"WTS |cffa335ee|Hitem:40558::::::::1:::::::::|h[Arcanic Tramplers]|h|r ", -- [1]
+			"Bankhura", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Bankhura", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5521, -- [11]
+			"Player-4467-028A2AC2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Bankhura|r",
+			[51] = 1674410720,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [74]
+		{
+			"LF enchanter cats swiftness", -- [1]
+			"Îd-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Îd", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5533, -- [11]
+			"Player-4467-02FEDB36", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Îd|r",
+			[51] = 1674410722,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [75]
+		{
+			"<Daddy Chill> GDKP is running Ulduar 10 NOW -  80/20 cut. Items start at 1k. Trinkets/weps 1.5k. Need an ele Shaman and 1xDPS! (8/10)", -- [1]
+			"Hyades-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hyades", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5534, -- [11]
+			"Player-4467-02F51658", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaHyades|r",
+			[51] = 1674410722,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [76]
+		{
+			"LFW crafting |cffffd000|Henchant:63191|h[Blacksmithing: Indestructible Plate Girdle]|h|r|cffffd000|Henchant:63189|h[Blacksmithing: Plate Girdle of Righteousness]|h|r|cffffd000|Henchant:63192|h[Blacksmithing: Spiked Deathdealers]|h|r", -- [1]
+			"Justsicex-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Justsicex", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5537, -- [11]
+			"Player-4467-02A87AE9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaJustsicex|r",
+			[51] = 1674410723,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [77]
+		{
+			"|cffffd000|Htrade:Player-4467-02CA5369:51300:164|h[Blacksmithing]|h|r LFW |cffffd000|Henchant:63188|h[Blacksmithing: Battlelord's Plate Boots]|h|r|cffffd000|Henchant:63191|h[Blacksmithing: Indestructible Plate Girdle]|h|r", -- [1]
+			"Bigbadjeff-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Bigbadjeff", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5542, -- [11]
+			"Player-4467-02CA5369", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dBigbadjeff|r",
+			[51] = 1674410723,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [78]
+		{
+			"|cffffd000|Henchant:63191|h[Blacksmithing: Indestructible Plate Girdle]|h|rLFW and rest good stuff", -- [1]
+			"Lianwar-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Lianwar", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			15750, -- [11]
+			"Player-4467-02B72968", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dLianwar|r",
+			[51] = 1674426967,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [79]
+		{
+			"wts |cffa335ee|Hitem:45564::::::::80:::::::::|h[Footpads of Silence]|h|r bis rogue boots", -- [1]
+			"Koiv-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Koiv", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			15751, -- [11]
+			"Player-4467-02A6041F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddKoiv|r",
+			[51] = 1674426969,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [80]
+		{
+			"LOOKING FOR SPIKED DEATHDEALERS CRAFTER", -- [1]
+			"Unkielo-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Unkielo", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			15753, -- [11]
+			"Player-4467-036EF050", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aUnkielo|r",
+			[51] = 1674426987,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [81]
+		{
+			"|cffffd000|Htrade:Player-4467-0294179A:17039:164|h[Master Swordsmith]|h|r LFW got |cffffd000|Henchant:63191|h[Blacksmithing: Indestructible Plate Girdle]|h|r|cffffd000|Henchant:63189|h[Blacksmithing: Plate Girdle of Righteousness]|h|r|cffffd000|Henchant:63187|h[Blacksmithing: Belt of the Titans]|h|r", -- [1]
+			"Retceptor-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Retceptor", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			15754, -- [11]
+			"Player-4467-0294179A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaRetceptor|r",
+			[51] = 1674426988,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [82]
+		{
+			"{star} <Cornbid> GDKP [ULDUAR 25 80% Even Split] Every Wednesday and Friday at 19:00. Doing Hard Modes! Smooth Clears, Affordable Prices and Experienced Raid Leading! Need Mixed Buyers! Sign up at https://discord.gg/kVWf3hjrMv {star}", -- [1]
+			"Cornel-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Cornel", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			15755, -- [11]
+			"Player-4467-0049E16C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dCornel|r",
+			[51] = 1674427059,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [83]
+		{
+			"WTS  |cffffd000|Henchant:63203|h[Tailoring: Sash of Ancient Power]|h|r or |cffffd000|Henchant:63206|h[Tailoring: Savior's Slippers]|h|r Crafting - U bring mats and pay a fee for the craft", -- [1]
+			"Kokeszdudu-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kokeszdudu", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			15756, -- [11]
+			"Player-4467-02A8CD4C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aKokeszdudu|r",
+			[51] = 1674427063,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [84]
+		{
+			"WTS |cffa335ee|Hitem:45551::::::::80::::1:3524:::::|h[Indestructible Plate Girdle]|h|r", -- [1]
+			"Bogdeath", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Bogdeath", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			15760, -- [11]
+			"Player-4467-036B1D0E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aBogdeath|r",
+			[51] = 1674427076,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [85]
+		{
+			"VOA 25 CLASS RUN dk/shaman/war/hunter ", -- [1]
+			"Painshadow", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Painshadow", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			26, -- [11]
+			"Player-4467-02BFAF47", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffPainshadow|r",
+			[51] = 1676571220,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [86]
+		{
+			"<EASY GEAR> {STAR} Hosting ULD 25 GDKP 80/20  (13/14) {STAR} GOING NOW !-- All Item 2k , {STAR} LF MIX / Buyer / Pumper , Fragment Presold ( Voice Active )", -- [1]
+			"Emilli-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Emilli", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			27, -- [11]
+			"Player-4467-02C280B0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaEmilli|r",
+			[51] = 1676571220,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [87]
+		{
+			"WTS |cffffffff|Hitem:49916::::::::15:::::::::|h[Lovely Charm Bracelet]|h|r 15G", -- [1]
+			"Atano", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Atano", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			53, -- [11]
+			"Player-4467-0420CA60", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Atano|r",
+			[51] = 1676571227,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [88]
+		{
+			"lock 4.7 GS LF vezax 25 HM GDKP grp  buyer! with good budget", -- [1]
+			"Arabicano", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Arabicano", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4065, -- [11]
+			"Player-4467-03772013", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edArabicano|r",
+			[51] = 1681156021,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [89]
+		{
+			"lock 4.7 GS LF vezax 25 HM GDKP grp  buyer! with good budget", -- [1]
+			"Arabicano-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Arabicano", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			4066, -- [11]
+			"Player-4467-03772013", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edArabicano|r",
+			[51] = 1681156029,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [90]
+		{
+			"<Ulduar25 Softres run>Today at 8PM ST. 5/9 HM(xt/tho/fre/vez/yog). 3SR>MS>OS. Yogg Pants/Frags HR. LFM DPS/Healer(not paladin). PM Relevant info.Checking logs.", -- [1]
+			"Rhythmictwo-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Rhythmictwo", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1120, -- [11]
+			"Player-4467-02F67C02", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Rhythmictwo|r",
+			[51] = 1682614607,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [91]
+		{
+			"WTS |cffa335ee|Hitem:44253::::::::65:::::::::|h[Darkmoon Card: Greatness]|h|r Str/Agi/Int", -- [1]
+			"Ezdz-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ezdz", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1121, -- [11]
+			"Player-4467-03DC590D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aEzdz|r",
+			[51] = 1682614607,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"LFM naxx 10 Undying run, 1x sr /W ", -- [1]
+			"Ibotalot-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ibotalot", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1124, -- [11]
+			"Player-4467-028D75C9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dIbotalot|r",
+			[51] = 1682614609,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [93]
+		{
+			"WTB |cffa335ee|Hitem:44326::::::::80:::::::::|h[Nobles Deck]|h|r for 2k  or tell me your price ^^", -- [1]
+			"Heftyblight-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Heftyblight", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1133, -- [11]
+			"Player-4467-036F9B05", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aHeftyblight|r",
+			[51] = 1682614616,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"LF Blacksmithing |cffffd000|Henchant:63187|h[Blacksmithing: Belt of the Titans]|h|r", -- [1]
+			"Smilodone-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Smilodone", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1134, -- [11]
+			"Player-4467-036C9477", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aSmilodone|r",
+			[51] = 1682614617,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"LFM naxx 10 Undying run title, 1x sr /W 4500+ GS", -- [1]
+			"Ibotalot-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ibotalot", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1718, -- [11]
+			"Player-4467-028D75C9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dIbotalot|r",
+			[51] = 1682614907,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"<Reclaimed Virginity> LFM Affli/Mage/DPSSham/Cat/Spriest To join Raid Team. Semi-Hardcore Guild, 2SR>MS loot system, Sun Raid Day. Clearing all HMs. Wisp for more info.", -- [1]
+			"Jakeyy-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Jakeyy", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1730, -- [11]
+			"Player-4467-005A101F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaJakeyy|r",
+			[51] = 1682614913,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"LF SHAMAN for 5v5 cap 1850 cr ", -- [1]
+			"Ljimunlol", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ljimunlol", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1740, -- [11]
+			"Player-4467-041F5A99", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaLjimunlol|r",
+			[51] = 1682614917,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"Infliction's Ulduar25 SR Pug 7-9/9 HM Sunday 7-11 PM (Frags/BoE/Orbs HR) LF a resto druid/holy priest with dps off spec - /w me or sign and post gear here: https://discord.gg/nPgcSVbB", -- [1]
+			"Neverlock-Firemaw", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Neverlock", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			5329, -- [11]
+			"Player-4467-042F0AE1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edNeverlock|r",
+			[51] = 1684441072,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},

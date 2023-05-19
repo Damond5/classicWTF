@@ -2,11 +2,11 @@
 AtlasDB = {
 	["profileKeys"] = {
 		["Ksumdamond - Razorgore"] = "Default",
-		["Damondbank - Razorgore"] = "Default",
+		["Damondbank - Firemaw"] = "Default",
 		["Damond - Firemaw"] = "Default",
 		["Damonddruid - Razorgore"] = "Default",
 		["Fsumdamond - Razorgore"] = "Default",
-		["Damondbank - Firemaw"] = "Default",
+		["Damondbank - Razorgore"] = "Default",
 		["Damond - Razorgore"] = "Default",
 	},
 	["profiles"] = {
@@ -19,9 +19,8 @@ AtlasDB = {
 			["options"] = {
 				["autoSelect"] = true,
 				["dropdowns"] = {
-					["module"] = 3,
+					["module"] = 4,
 					["menuType"] = 3,
-					["zone"] = 4,
 				},
 			},
 			["minimap"] = {

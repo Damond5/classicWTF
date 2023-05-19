@@ -35,3 +35,8 @@ BigWigs_Options: enabled
 BigWigs_Plugins: enabled
 ElvUI_UnitFramePlugin: disabled
 Leatrix_Plus: enabled
+ElvUI_ExtraDataTexts: disabled
+ElvUI_SecondsToBuff: disabled
+ElvUI_BuffHighlight: disabled
+ElvUI_ChatTweaks: disabled
+WunderUI: disabled

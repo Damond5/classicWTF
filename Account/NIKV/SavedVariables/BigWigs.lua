@@ -3,7 +3,7 @@ BigWigsClassicDB = {
 	["namespaces"] = {
 		["BigWigs_Plugins_Victory"] = {
 		},
-		["BigWigs_Plugins_InfoBox"] = {
+		["BigWigs_Plugins_AutoReply"] = {
 		},
 		["BigWigs_Plugins_Colors"] = {
 		},
@@ -14,28 +14,28 @@ BigWigsClassicDB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BigWigsEmphasizeAnchor_y"] = 234.2331594631814,
-					["BigWigsEmphasizeAnchor_height"] = 27.00000953674316,
+					["BigWigsEmphasizeAnchor_y"] = 216.9332604658048,
 					["BigWigsAnchor_x"] = 1544.003953197956,
-					["BigWigsEmphasizeAnchor_width"] = 221.9999237060547,
-					["BigWigsAnchor_width"] = 222,
+					["BigWigsEmphasizeAnchor_height"] = 26.23809623718262,
 					["BigWigsAnchor_y"] = 624.7108536190499,
-					["BigWigsEmphasizeAnchor_x"] = 840.0002420425371,
+					["BigWigsAnchor_width"] = 222,
+					["BigWigsEmphasizeAnchor_width"] = 219.7141265869141,
+					["BigWigsEmphasizeAnchor_x"] = 840.5337869553259,
 					["BigWigsAnchor_height"] = 18.0000057220459,
 				},
 			},
 		},
-		["BigWigs_Plugins_Wipe"] = {
+		["BigWigs_Plugins_Messages"] = {
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 		},
-		["BigWigs_Plugins_Messages"] = {
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Plugins_Transcriptor"] = {
 		},
-		["BigWigs_Plugins_AutoReply"] = {
+		["BigWigs_Plugins_Statistics"] = {
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
@@ -47,7 +47,7 @@ BigWigsClassicDB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Statistics"] = {
+		["BigWigs_Plugins_InfoBox"] = {
 		},
 		["BigWigs_Plugins_Pull"] = {
 		},
@@ -99,13 +99,13 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Raid Icons"] = {
 		},
-		["BigWigs_Plugins_Proximity"] = {
-		},
-		["BigWigs_Plugins_Statistics"] = {
-		},
 		["BigWigs_Plugins_Messages"] = {
 		},
 		["BigWigs_Plugins_AutoReply"] = {
+		},
+		["BigWigs_Plugins_Proximity"] = {
+		},
+		["BigWigs_Plugins_Statistics"] = {
 		},
 		["BigWigs_Plugins_Pull"] = {
 		},

@@ -57,6 +57,10 @@ VER 3 0000000000000020 "immolation" "INV_MISC_QUESTIONMARK"
 /cast Immolation Aura
 /cast Shadow Cleave(Demon)
 END
+VER 3 0000000000000022 "lt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Life Tap(Rank 1)
+END
 VER 3 0000000000000015 "meta" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast Metamorphosis

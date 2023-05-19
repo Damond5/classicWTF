@@ -31,7 +31,7 @@ VendorPrice: disabled
 ExtendedCharacterStats: disabled
 AllyRoute: disabled
 OPie_Classic: disabled
-ItemRackOptions: enabled
+ItemRackOptions: disabled
 QuestLogEx: enabled
 BigWigs_MoltenCore: enabled
 BigWigs_Onyxia: enabled
@@ -49,7 +49,7 @@ Capping_Options: disabled
 TinyTooltip: disabled
 BiSTracker: disabled
 ClassTrainerPlus: disabled
-ItemRack: enabled
+ItemRack: disabled
 Pawn: enabled
 Skillet-Classic: disabled
 Plater: enabled
@@ -81,3 +81,8 @@ LittleWigs_WrathOfTheLichKing: enabled
 ElvUI_UnitFramePlugin: disabled
 Blizzard_CombatText: enabled
 ElvUI_Options: enabled
+ElvUI_ExtraDataTexts: disabled
+ElvUI_SecondsToBuff: disabled
+ElvUI_BuffHighlight: disabled
+ElvUI_ChatTweaks: disabled
+WunderUI: disabled

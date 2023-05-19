@@ -10,11 +10,22 @@ SkilletDB = {
 		["MissingSkillLevels"] = {
 		},
 		["project"] = 11,
-		["wowVersion"] = 30400,
+		["wowVersion"] = 30401,
 		["itemRecipeUsedIn"] = {
 		},
 		["customVersion"] = 1,
 		["dataVersion"] = 5,
+		["customPrice"] = {
+			["4467"] = {
+			},
+		},
+		["NewsDB"] = {
+			["lastVersion"] = {
+				["Damondbank"] = "1.70",
+			},
+			["lastVersionA"] = "1.70",
+			["show_news"] = 1,
+		},
 		["server"] = {
 			["4467"] = {
 				["Firemaw"] = "Damondbank",
@@ -22,15 +33,22 @@ SkilletDB = {
 		},
 		["MissingVendorItems"] = {
 			[52188] = "Jeweler's Setting",
-			[17035] = "Stranglethorn Seed",
+			[38682] = "Enchanting Vellum",
 			[3857] = "Coal",
 			[30817] = "Simple Flour",
-			[38682] = "Enchanting Vellum",
-			[4399] = "Wooden Stock",
 			[4539] = "Goldenbark Apple",
+			[4399] = "Wooden Stock",
+			[17035] = "Stranglethorn Seed",
 			[17034] = "Maple Seed",
 		},
 		["cachedGuildbank"] = {
+		},
+		["recipeVersion"] = 4,
+		["version"] = "1.70",
+		["faction"] = {
+			["4467"] = {
+				["Damondbank"] = "Alliance",
+			},
 		},
 		["SkillLevels"] = {
 			[0] = "orange/yellow/green/gray",
@@ -2167,23 +2185,17 @@ SkilletDB = {
 			[22823] = "305/320/327/335",
 			[18294] = "215/230/250/270",
 		},
-		["recipeVersion"] = 4,
-		["faction"] = {
-			["4467"] = {
-				["Damondbank"] = "Alliance",
-			},
-		},
-		["version"] = "1.58",
 		["build"] = "Wrath",
-		["wowBuild"] = "47168",
+		["wowBuild"] = "49345",
 		["locale"] = "enUS",
 	},
 	["profiles"] = {
 		["Damond - Razorgore"] = {
 			["plugins"] = {
-				["beancounter"] = {
+				["ATL"] = {
+					["buyFactor"] = 4,
+					["markup"] = 1.05,
 					["enabled"] = true,
-					["days"] = 30,
 				},
 				["BBG"] = {
 					["enabled"] = true,
@@ -2196,7 +2208,7 @@ SkilletDB = {
 					["markup"] = 1.05,
 					["enabled"] = true,
 				},
-				["ATL"] = {
+				["AUC"] = {
 					["buyFactor"] = 4,
 					["markup"] = 1.05,
 					["enabled"] = true,
@@ -2206,10 +2218,9 @@ SkilletDB = {
 					["markup"] = 1.05,
 					["enabled"] = true,
 				},
-				["AUC"] = {
-					["buyFactor"] = 4,
-					["markup"] = 1.05,
+				["beancounter"] = {
 					["enabled"] = true,
+					["days"] = 30,
 				},
 			},
 			["FixBugs"] = true,
@@ -2269,7 +2280,7 @@ SkilletDB = {
 		},
 		["Damondbank - Razorgore"] = {
 			["plugins"] = {
-				["ATL"] = {
+				["AUC"] = {
 					["buyFactor"] = 4,
 					["markup"] = 1.05,
 					["enabled"] = true,
@@ -2287,17 +2298,17 @@ SkilletDB = {
 					["markup"] = 1.05,
 					["enabled"] = true,
 				},
-				["AUC"] = {
-					["buyFactor"] = 4,
-					["markup"] = 1.05,
+				["beancounter"] = {
 					["enabled"] = true,
+					["days"] = 30,
 				},
 				["MTSL"] = {
 					["enabled"] = false,
 				},
-				["beancounter"] = {
+				["ATL"] = {
+					["buyFactor"] = 4,
+					["markup"] = 1.05,
 					["enabled"] = true,
-					["days"] = 30,
 				},
 			},
 			["FixBugs"] = true,
@@ -2305,10 +2316,9 @@ SkilletDB = {
 		},
 		["Damond - Firemaw"] = {
 			["plugins"] = {
-				["AUC"] = {
-					["buyFactor"] = 4,
-					["markup"] = 1.05,
+				["beancounter"] = {
 					["enabled"] = true,
+					["days"] = 30,
 				},
 				["BBG"] = {
 					["enabled"] = true,
@@ -2323,14 +2333,15 @@ SkilletDB = {
 					["markup"] = 1.05,
 					["enabled"] = true,
 				},
-				["beancounter"] = {
+				["ATL"] = {
+					["buyFactor"] = 4,
+					["markup"] = 1.05,
 					["enabled"] = true,
-					["days"] = 30,
 				},
 				["MTSL"] = {
 					["enabled"] = false,
 				},
-				["ATL"] = {
+				["AUC"] = {
 					["buyFactor"] = 4,
 					["markup"] = 1.05,
 					["enabled"] = true,
@@ -2426,13 +2437,13 @@ SkilletDB = {
 					[13463] = 140,
 					[15138] = 1,
 					[19812] = 1,
-					[8838] = 40,
+					[16309] = 1,
 					[19720] = 1,
 					[3372] = 10,
 					[8846] = 30,
-					[16309] = 1,
-					[13465] = 140,
 					[12930] = 1,
+					[13465] = 140,
+					[8838] = 40,
 					[19718] = 1,
 					[19880] = 1,
 					[3358] = 20,
@@ -2960,7 +2971,7 @@ SkilletDB = {
 			},
 			["bagData"] = {
 				["Damondbank"] = {
-					[40049] = 29,
+					[40049] = 16,
 				},
 				["Damond"] = {
 					[8831] = 50,
@@ -3007,6 +3018,7 @@ SkilletDB = {
 			},
 			["auctionData"] = {
 				["Damondbank"] = {
+					[40049] = 15,
 				},
 				["Damond"] = {
 				},
@@ -3160,110 +3172,19 @@ SkilletDB = {
 						["count"] = 1,
 					}, -- [14]
 					{
-						["bag"] = 0,
-						["name"] = "Veiled Monarch Topaz",
-						["slot"] = 15,
-						["id"] = 40049,
-						["count"] = 1,
-					}, -- [15]
-					{
-						["bag"] = 0,
-						["name"] = "Veiled Monarch Topaz",
-						["slot"] = 16,
-						["id"] = 40049,
-						["count"] = 1,
-					}, -- [16]
-					{
-						["bag"] = 0,
-						["name"] = "Veiled Monarch Topaz",
-						["slot"] = 17,
-						["id"] = 40049,
-						["count"] = 1,
-					}, -- [17]
-					{
-						["bag"] = 0,
-						["name"] = "Veiled Monarch Topaz",
-						["slot"] = 18,
-						["id"] = 40049,
-						["count"] = 1,
-					}, -- [18]
-					{
-						["bag"] = 0,
-						["name"] = "Veiled Monarch Topaz",
-						["slot"] = 19,
-						["id"] = 40049,
-						["count"] = 1,
-					}, -- [19]
-					{
-						["bag"] = 0,
-						["name"] = "Veiled Monarch Topaz",
-						["slot"] = 20,
-						["id"] = 40049,
-						["count"] = 1,
-					}, -- [20]
-					{
 						["bag"] = 1,
 						["name"] = "Veiled Monarch Topaz",
 						["slot"] = 1,
 						["id"] = 40049,
 						["count"] = 1,
-					}, -- [21]
+					}, -- [15]
 					{
 						["bag"] = 1,
 						["name"] = "Veiled Monarch Topaz",
 						["slot"] = 2,
 						["id"] = 40049,
 						["count"] = 1,
-					}, -- [22]
-					{
-						["bag"] = 1,
-						["name"] = "Veiled Monarch Topaz",
-						["slot"] = 3,
-						["id"] = 40049,
-						["count"] = 1,
-					}, -- [23]
-					{
-						["bag"] = 1,
-						["name"] = "Veiled Monarch Topaz",
-						["slot"] = 4,
-						["id"] = 40049,
-						["count"] = 1,
-					}, -- [24]
-					{
-						["bag"] = 1,
-						["name"] = "Veiled Monarch Topaz",
-						["slot"] = 5,
-						["id"] = 40049,
-						["count"] = 1,
-					}, -- [25]
-					{
-						["bag"] = 1,
-						["name"] = "Veiled Monarch Topaz",
-						["slot"] = 6,
-						["id"] = 40049,
-						["count"] = 1,
-					}, -- [26]
-					{
-						["bag"] = 1,
-						["name"] = "Veiled Monarch Topaz",
-						["slot"] = 7,
-						["id"] = 40049,
-						["count"] = 1,
-					}, -- [27]
-					{
-						["bag"] = 1,
-						["name"] = "Veiled Monarch Topaz",
-						["slot"] = 8,
-						["id"] = 40049,
-						["count"] = 1,
-					}, -- [28]
-					{
-						["bag"] = 1,
-						["name"] = "Veiled Monarch Topaz",
-						["slot"] = 9,
-						["id"] = 40049,
-						["count"] = 1,
-					}, -- [29]
+					}, -- [16]
 				},
 				["Damond"] = {
 					{
