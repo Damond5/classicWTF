@@ -86,3 +86,4 @@ ElvUI_SecondsToBuff: disabled
 ElvUI_BuffHighlight: disabled
 ElvUI_ChatTweaks: disabled
 WunderUI: disabled
+Prat-3.0: disabled

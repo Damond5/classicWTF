@@ -6,7 +6,7 @@ OPie_SavedData = {
 		["Lashlayer-Damond"] = "default",
 	},
 	["_GameVersion"] = "3.4.1",
-	["_OPieVersion"] = "Yuzu 9 (4.114)",
+	["_OPieVersion"] = "Yuzu 9+1.0 (4.114)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["RingAtMouse"] = true,
@@ -15,8 +15,8 @@ OPie_SavedData = {
 				["ABuezgUFgbt"] = "ABuezgUFgbe",
 			},
 			["Bindings"] = {
-				["lock"] = "V",
 				["druid"] = "V",
+				["lock"] = "V",
 			},
 		},
 	},
@@ -86,9 +86,9 @@ OPie_SavedData = {
 					["id"] = 30146,
 					["sliceToken"] = "ABuezqWHEAw",
 				}, -- [5]
-				["limit"] = "WARLOCK",
-				["save"] = true,
 				["name"] = "demons",
+				["save"] = true,
+				["limit"] = "WARLOCK",
 			},
 			["lock"] = {
 				{
@@ -126,10 +126,10 @@ OPie_SavedData = {
 					["sliceToken"] = "ABuevohTCMe",
 					["id"] = 698,
 				}, -- [8]
-				["name"] = "lock",
+				["limit"] = "WARLOCK",
 				["save"] = true,
 				["hotkey"] = "V",
-				["limit"] = "WARLOCK",
+				["name"] = "lock",
 			},
 			["stones"] = {
 				{
@@ -140,9 +140,9 @@ OPie_SavedData = {
 					["sliceToken"] = "ABuezgUFgbe",
 					["id"] = 29893,
 				}, -- [2]
-				["name"] = "stones",
-				["save"] = true,
 				["limit"] = "WARLOCK",
+				["save"] = true,
+				["name"] = "stones",
 			},
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,

@@ -1,5 +1,14 @@
 
 AtlasLootClassicDB = {
+	["profileKeys"] = {
+		["Ksumdamond - Razorgore"] = "Ksumdamond - Razorgore",
+		["Damondbank - Firemaw"] = "Damondbank - Firemaw",
+		["Damond - Firemaw"] = "Damond - Firemaw",
+		["Damonddruid - Razorgore"] = "Damonddruid - Razorgore",
+		["Fsumdamond - Razorgore"] = "Fsumdamond - Razorgore",
+		["Damondbank - Razorgore"] = "Damondbank - Razorgore",
+		["Damond - Razorgore"] = "Damond - Razorgore",
+	},
 	["global"] = {
 		["__addonrevision"] = 3010002,
 		["VendorPrice"] = {
@@ -171,123 +180,110 @@ AtlasLootClassicDB = {
 			[29388] = "BoJ:15",
 			[28909] = "arcanerune:8",
 			[42009] = "EmblemOfValor:30",
-			[33587] = "BoJ:60",
+			[40689] = "EmblemOfHeroism:40",
 			[33386] = "BoJ:60",
-			[35324] = "BoJ:60",
-			[40692] = "EmblemOfHeroism:40",
-			[33538] = "BoJ:75",
+			[33524] = "BoJ:60",
+			[33588] = "BoJ:35",
+			[33540] = "BoJ:35",
 			[32087] = "BoJ:50",
-			[34050] = "BoJ:75",
-			[33585] = "BoJ:75",
-			[40693] = "EmblemOfHeroism:40",
+			[40688] = "EmblemOfHeroism:40",
+			[40736] = "EmblemOfValor:60",
+			[45087] = "EmblemOfConquest:18",
 			[33514] = "BoJ:60",
 			[33530] = "BoJ:75",
 			[40700] = "EmblemOfHeroism:35",
 			[40716] = "EmblemOfHeroism:15",
 			[33578] = "BoJ:35",
 			[40748] = "EmblemOfValor:40",
-			[33537] = "BoJ:60",
-			[42008] = "EmblemOfHeroism:30",
-			[40613] = "EmblemOfHeroism:60",
-			[45845] = "EmblemOfConquest:39",
-			[45846] = "EmblemOfConquest:39",
-			[40750] = "EmblemOfValor:40",
-			[40734] = "EmblemOfValor:60",
-			[40718] = "EmblemOfValor:25",
-			[40702] = "EmblemOfHeroism:50",
+			[45826] = "EmblemOfConquest:28",
+			[45830] = "EmblemOfConquest:28",
+			[40738] = "EmblemOfValor:60",
+			[45842] = "EmblemOfConquest:39",
+			[33580] = "BoJ:35",
+			[39728] = "EmblemOfValor:25",
+			[45844] = "EmblemOfConquest:39",
+			[45828] = "EmblemOfConquest:28",
+			[40191] = "EmblemOfValor:25",
 			[41991] = "EmblemOfValor:45",
 			[33557] = "BoJ:35",
-			[40740] = "EmblemOfValor:60",
+			[45847] = "EmblemOfConquest:39",
 			[33291] = "BoJ:60",
 			[45833] = "EmblemOfConquest:28",
 			[42010] = "EmblemOfConquest:46",
-			[33528] = "BoJ:60",
+			[45834] = "EmblemOfConquest:28",
 			[30762] = "BoJ:30",
 			[30770] = "BoJ:20",
 			[30778] = "BoJ:30",
 			[45848] = "EmblemOfConquest:39",
-			[40684] = "EmblemOfHeroism:40",
+			[33589] = "BoJ:35",
 			[29269] = "BoJ:25",
-			[33531] = "BoJ:60",
+			[40737] = "EmblemOfValor:60",
 			[45843] = "EmblemOfConquest:39",
 			[40637] = "EmblemOfValor:60",
 			[44230] = "EmblemOfHeroism:200",
 			[33515] = "BoJ:75",
-			[40685] = "EmblemOfHeroism:40",
+			[33531] = "BoJ:60",
 			[40701] = "EmblemOfHeroism:35",
 			[40717] = "EmblemOfValor:25",
 			[33579] = "BoJ:75",
 			[40749] = "EmblemOfValor:40",
-			[40207] = "EmblemOfValor:25",
-			[40747] = "EmblemOfValor:40",
+			[40610] = "EmblemOfHeroism:80",
+			[33566] = "BoJ:75",
 			[29373] = "BoJ:25",
 			[29381] = "BoJ:25",
 			[29389] = "BoJ:15",
-			[45831] = "EmblemOfConquest:28",
-			[40683] = "EmblemOfHeroism:40",
+			[28907] = "arcanerune:2",
+			[40268] = "EmblemOfValor:25",
 			[45827] = "EmblemOfConquest:28",
 			[28910] = "arcanerune:8",
-			[33527] = "BoJ:75",
-			[45841] = "EmblemOfConquest:39",
-			[45823] = "EmblemOfConquest:19",
-			[33965] = "BoJ:75",
 			[45829] = "EmblemOfConquest:28",
+			[33965] = "BoJ:75",
+			[45823] = "EmblemOfConquest:19",
+			[45841] = "EmblemOfConquest:39",
+			[33527] = "BoJ:75",
 			[33324] = "BoJ:60",
-			[40268] = "EmblemOfValor:25",
-			[28907] = "arcanerune:2",
-			[33566] = "BoJ:75",
-			[40610] = "EmblemOfHeroism:80",
+			[40683] = "EmblemOfHeroism:40",
+			[45831] = "EmblemOfConquest:28",
+			[40747] = "EmblemOfValor:40",
+			[40207] = "EmblemOfValor:25",
 			[40733] = "EmblemOfValor:60",
-			[40737] = "EmblemOfValor:60",
-			[33589] = "BoJ:35",
+			[40685] = "EmblemOfHeroism:40",
+			[40684] = "EmblemOfHeroism:40",
 			[32088] = "BoJ:50",
-			[45834] = "EmblemOfConquest:28",
+			[33528] = "BoJ:60",
 			[33484] = "BoJ:60",
-			[45847] = "EmblemOfConquest:39",
+			[40740] = "EmblemOfValor:60",
 			[33516] = "BoJ:35",
 			[33532] = "BoJ:35",
-			[40191] = "EmblemOfValor:25",
-			[45828] = "EmblemOfConquest:28",
-			[45844] = "EmblemOfConquest:39",
-			[39728] = "EmblemOfValor:25",
-			[33580] = "BoJ:35",
-			[45842] = "EmblemOfConquest:39",
-			[40738] = "EmblemOfValor:60",
-			[45830] = "EmblemOfConquest:28",
-			[45826] = "EmblemOfConquest:28",
-			[45087] = "EmblemOfConquest:18",
-			[40736] = "EmblemOfValor:60",
-			[40688] = "EmblemOfHeroism:40",
-			[33540] = "BoJ:35",
-			[33588] = "BoJ:35",
-			[33524] = "BoJ:60",
-			[40689] = "EmblemOfHeroism:40",
+			[40702] = "EmblemOfHeroism:50",
+			[40718] = "EmblemOfValor:25",
+			[40734] = "EmblemOfValor:60",
+			[40750] = "EmblemOfValor:40",
+			[45846] = "EmblemOfConquest:39",
+			[45845] = "EmblemOfConquest:39",
+			[40613] = "EmblemOfHeroism:60",
+			[42008] = "EmblemOfHeroism:30",
+			[33537] = "BoJ:60",
+			[40693] = "EmblemOfHeroism:40",
+			[33585] = "BoJ:75",
+			[34050] = "BoJ:75",
+			[33538] = "BoJ:75",
+			[40692] = "EmblemOfHeroism:40",
+			[35324] = "BoJ:60",
+			[33587] = "BoJ:60",
 		},
-	},
-	["profileKeys"] = {
-		["Ksumdamond - Razorgore"] = "Ksumdamond - Razorgore",
-		["Damondbank - Razorgore"] = "Damondbank - Razorgore",
-		["Damond - Firemaw"] = "Damond - Firemaw",
-		["Damonddruid - Razorgore"] = "Damonddruid - Razorgore",
-		["Fsumdamond - Razorgore"] = "Fsumdamond - Razorgore",
-		["Damondbank - Firemaw"] = "Damondbank - Firemaw",
-		["Damond - Razorgore"] = "Damond - Razorgore",
 	},
 	["profiles"] = {
 		["Ksumdamond - Razorgore"] = {
 		},
-		["Damondbank - Razorgore"] = {
-			["GUI"] = {
-				["selected"] = {
-					nil, -- [1]
-					"Maraudon", -- [2]
-					8, -- [3]
-					1, -- [4]
-					0, -- [5]
-				},
-			},
+		["Damondbank - Firemaw"] = {
 		},
 		["Damond - Firemaw"] = {
+			["minimap"] = {
+				["minimapPos"] = 150.5363023419624,
+				["shown"] = false,
+				["hide"] = true,
+			},
 			["GUI"] = {
 				["point"] = {
 					"RIGHT", -- [1]
@@ -304,18 +300,8 @@ AtlasLootClassicDB = {
 					0, -- [5]
 				},
 			},
-			["minimap"] = {
-				["minimapPos"] = 150.5363023419624,
-				["shown"] = false,
-				["hide"] = true,
-			},
 		},
 		["Damonddruid - Razorgore"] = {
-			["minimap"] = {
-				["minimapPos"] = 194.549597390482,
-				["shown"] = false,
-				["hide"] = true,
-			},
 			["GUI"] = {
 				["point"] = {
 					nil, -- [1]
@@ -332,12 +318,30 @@ AtlasLootClassicDB = {
 					0, -- [5]
 				},
 			},
+			["minimap"] = {
+				["minimapPos"] = 194.549597390482,
+				["shown"] = false,
+				["hide"] = true,
+			},
 		},
 		["Fsumdamond - Razorgore"] = {
 		},
-		["Damondbank - Firemaw"] = {
+		["Damondbank - Razorgore"] = {
+			["GUI"] = {
+				["selected"] = {
+					nil, -- [1]
+					"Maraudon", -- [2]
+					8, -- [3]
+					1, -- [4]
+					0, -- [5]
+				},
+			},
 		},
 		["Damond - Razorgore"] = {
+			["minimap"] = {
+				["shown"] = false,
+				["hide"] = true,
+			},
 			["GUI"] = {
 				["point"] = {
 					"BOTTOM", -- [1]
@@ -353,10 +357,6 @@ AtlasLootClassicDB = {
 					1, -- [4]
 					0, -- [5]
 				},
-			},
-			["minimap"] = {
-				["shown"] = false,
-				["hide"] = true,
 			},
 		},
 	},

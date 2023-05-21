@@ -3,7 +3,7 @@ BigWigsClassicDB = {
 	["namespaces"] = {
 		["BigWigs_Plugins_Victory"] = {
 		},
-		["BigWigs_Plugins_AutoReply"] = {
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Plugins_Colors"] = {
 		},
@@ -15,23 +15,23 @@ BigWigsClassicDB = {
 			["profiles"] = {
 				["Default"] = {
 					["BigWigsEmphasizeAnchor_y"] = 216.9332604658048,
-					["BigWigsAnchor_x"] = 1544.003953197956,
 					["BigWigsEmphasizeAnchor_height"] = 26.23809623718262,
-					["BigWigsAnchor_y"] = 624.7108536190499,
-					["BigWigsAnchor_width"] = 222,
+					["BigWigsAnchor_x"] = 1544.003953197956,
 					["BigWigsEmphasizeAnchor_width"] = 219.7141265869141,
+					["BigWigsAnchor_width"] = 222,
+					["BigWigsAnchor_y"] = 624.7108536190499,
 					["BigWigsEmphasizeAnchor_x"] = 840.5337869553259,
 					["BigWigsAnchor_height"] = 18.0000057220459,
 				},
 			},
 		},
-		["BigWigs_Plugins_Messages"] = {
+		["BigWigs_Plugins_InfoBox"] = {
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 		},
-		["BigWigs_Plugins_Wipe"] = {
+		["BigWigs_Plugins_AutoReply"] = {
 		},
 		["BigWigs_Plugins_Transcriptor"] = {
 		},
@@ -47,7 +47,7 @@ BigWigsClassicDB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_InfoBox"] = {
+		["BigWigs_Plugins_Messages"] = {
 		},
 		["BigWigs_Plugins_Pull"] = {
 		},
@@ -55,8 +55,8 @@ BigWigsClassicDB = {
 		},
 	},
 	["profileKeys"] = {
-		["Damond - Razorgore"] = "Default",
 		["Damond - Firemaw"] = "Default",
+		["Damond - Razorgore"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -91,7 +91,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_InfoBox"] = {
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 		},
@@ -99,17 +99,17 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Raid Icons"] = {
 		},
-		["BigWigs_Plugins_Messages"] = {
-		},
 		["BigWigs_Plugins_AutoReply"] = {
-		},
-		["BigWigs_Plugins_Proximity"] = {
 		},
 		["BigWigs_Plugins_Statistics"] = {
 		},
+		["BigWigs_Plugins_Proximity"] = {
+		},
+		["BigWigs_Plugins_Messages"] = {
+		},
 		["BigWigs_Plugins_Pull"] = {
 		},
-		["BigWigs_Plugins_Wipe"] = {
+		["BigWigs_Plugins_InfoBox"] = {
 		},
 	},
 	["wipe80"] = true,

@@ -6,7 +6,7 @@ OPie_SavedData = {
 		["Lashlayer-Damond"] = "default",
 	},
 	["_GameVersion"] = "3.4.1",
-	["_OPieVersion"] = "Yuzu 9 (4.114)",
+	["_OPieVersion"] = "Yuzu 9+1.0 (4.114)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["RingAtMouse"] = true,
@@ -15,8 +15,8 @@ OPie_SavedData = {
 				["ABuezgUFgbt"] = "ABuezgUFgbe",
 			},
 			["Bindings"] = {
-				["druid"] = "V",
 				["lock"] = "V",
+				["druid"] = "V",
 			},
 		},
 	},
@@ -67,28 +67,28 @@ OPie_SavedData = {
 			},
 			["demons"] = {
 				{
-					["id"] = 688,
 					["sliceToken"] = "ABueh21QF0Q",
+					["id"] = 688,
 				}, -- [1]
 				{
-					["id"] = 697,
 					["sliceToken"] = "ABueh21QF0m",
+					["id"] = 697,
 				}, -- [2]
 				{
-					["id"] = 712,
 					["sliceToken"] = "ABueh21QF0n",
+					["id"] = 712,
 				}, -- [3]
 				{
-					["id"] = 691,
 					["sliceToken"] = "ABuejLWXIuw",
+					["id"] = 691,
 				}, -- [4]
 				{
 					["id"] = 30146,
 					["sliceToken"] = "ABuezqWHEAw",
 				}, -- [5]
-				["name"] = "demons",
-				["save"] = true,
 				["limit"] = "WARLOCK",
+				["save"] = true,
+				["name"] = "demons",
 			},
 			["lock"] = {
 				{
@@ -97,8 +97,8 @@ OPie_SavedData = {
 					["sliceToken"] = "ABueh21QF0O",
 				}, -- [1]
 				{
-					["id"] = 27238,
 					["sliceToken"] = "ABuezvHFpAr",
+					["id"] = 27238,
 				}, -- [2]
 				{
 					"ring", -- [1]
@@ -106,8 +106,8 @@ OPie_SavedData = {
 					["sliceToken"] = "ABuezgUFgbt",
 				}, -- [3]
 				{
-					["id"] = 28189,
 					["sliceToken"] = "ABuezvHFpA1",
+					["id"] = 28189,
 				}, -- [4]
 				{
 					["id"] = 18288,
@@ -123,26 +123,26 @@ OPie_SavedData = {
 					["sliceToken"] = "ABuevdbaIXr",
 				}, -- [7]
 				{
-					["id"] = 698,
 					["sliceToken"] = "ABuevohTCMe",
+					["id"] = 698,
 				}, -- [8]
-				["name"] = "lock",
+				["limit"] = "WARLOCK",
 				["save"] = true,
 				["hotkey"] = "V",
-				["limit"] = "WARLOCK",
+				["name"] = "lock",
 			},
 			["stones"] = {
 				{
-					["id"] = 27230,
 					["sliceToken"] = "ABuezgUFgbr",
+					["id"] = 27230,
 				}, -- [1]
 				{
-					["id"] = 29893,
 					["sliceToken"] = "ABuezgUFgbe",
+					["id"] = 29893,
 				}, -- [2]
-				["limit"] = "WARLOCK",
-				["save"] = true,
 				["name"] = "stones",
+				["save"] = true,
+				["limit"] = "WARLOCK",
 			},
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,
