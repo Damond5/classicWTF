@@ -3,24 +3,20 @@ ThreatClassic2DB = {
 	["profileKeys"] = {
 		["Damond - Firemaw"] = "Default",
 		["Damonddruid - Razorgore"] = "Default",
-		["Damondbank - Razorgore"] = "Default",
 		["Damondbank - Firemaw"] = "Default",
+		["Damondbank - Razorgore"] = "Default",
 		["Damond - Razorgore"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
-			["customBarColors"] = {
-				["activeTankEnabled"] = true,
-				["playerEnabled"] = true,
+			["general"] = {
+				["hideOOC"] = true,
+				["welcome"] = false,
+				["hideSolo"] = true,
 			},
 			["frame"] = {
 				["headerShow"] = false,
-				["color"] = {
-					nil, -- [1]
-					nil, -- [2]
-					nil, -- [3]
-					0, -- [4]
-				},
+				["scale"] = 1.5,
 				["width"] = 300,
 				["position"] = {
 					nil, -- [1]
@@ -30,13 +26,17 @@ ThreatClassic2DB = {
 					0, -- [5]
 				},
 				["height"] = 80,
+				["color"] = {
+					nil, -- [1]
+					nil, -- [2]
+					nil, -- [3]
+					0, -- [4]
+				},
 				["locked"] = true,
-				["scale"] = 1.5,
 			},
-			["general"] = {
-				["hideOOC"] = true,
-				["welcome"] = false,
-				["hideSolo"] = true,
+			["customBarColors"] = {
+				["activeTankEnabled"] = true,
+				["playerEnabled"] = true,
 			},
 			["bar"] = {
 				["showThreatValue"] = false,

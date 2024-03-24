@@ -2,2204 +2,2204 @@
 ElvCharacterDB = {
 	["ChatHistoryLog"] = {
 		{
-			"<Gnome Sacrifice> looking for 1x Hunter & 1x RetPala to bolster our roster. Raiding Thursday 19-22. All HMs/Alga sub 2.5h. Pm for more,", -- [1]
-			"Kawanky-Firemaw", -- [2]
+			"descent was cool", -- [1]
+			"Lilgav-Firemaw", -- [2]
 			"", -- [3]
-			"5. world", -- [4]
-			"Kawanky", -- [5]
+			"", -- [4]
+			"Lilgav", -- [5]
 			"", -- [6]
 			0, -- [7]
-			5, -- [8]
-			"world", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			5530, -- [11]
-			"Player-4467-0425EAD4", -- [12]
+			189, -- [11]
+			"Player-4467-02BBC391", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aKawanky|r",
-			[51] = 1684441574,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Lilgav|r",
+			[51] = 1711045983,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [1]
 		{
-			"{Diamond} Fens GDKP 25M Full HM + Algalon -- Saturday and Sunday--  For more info check discord --- https://discord.gg/rwxFRmKeqT {Diamond}", -- [1]
-			"Fastzz-Firemaw", -- [2]
+			"and i liked firelands", -- [1]
+			"Lilgav-Firemaw", -- [2]
 			"", -- [3]
-			"5. world", -- [4]
-			"Fastzz", -- [5]
+			"", -- [4]
+			"Lilgav", -- [5]
 			"", -- [6]
 			0, -- [7]
-			5, -- [8]
-			"world", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			5555, -- [11]
-			"Player-4467-04334F71", -- [12]
+			190, -- [11]
+			"Player-4467-02BBC391", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaFastzz|r",
-			[51] = 1684441606,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Lilgav|r",
+			[51] = 1711045988,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [2]
 		{
-			"LFM VOA 25 spec,  rsto druid, enha + ele sham,hunter prot war", -- [1]
-			"Smooshlock-Firemaw", -- [2]
+			"throne was mop wasnt it?", -- [1]
+			"Tikiti-Firemaw", -- [2]
 			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Smooshlock", -- [5]
+			"", -- [4]
+			"Tikiti", -- [5]
 			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			5584, -- [11]
-			"Player-4467-028EC2D1", -- [12]
+			191, -- [11]
+			"Player-4467-038144A6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSmooshlock|r",
-			[51] = 1684441627,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aTikiti|r",
+			[51] = 1711045989,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [3]
 		{
-			"selling U10 loot runs &  |cffffff00|Hachievement:3316:Player-4467-036A50C8:0:0:0:-1:0:0:0:0|h[Herald of the Titans]|h|r for gold /w me for more infos", -- [1]
-			"Yztul-Firemaw", -- [2]
+			"siege of ogrimmar was a blast", -- [1]
+			"Jollebroder-Firemaw", -- [2]
 			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Yztul", -- [5]
+			"", -- [4]
+			"Jollebroder", -- [5]
 			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			5589, -- [11]
-			"Player-4467-036A50C8", -- [12]
+			192, -- [11]
+			"Player-4467-0454E7C9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aYztul|r",
-			[51] = 1684441629,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aJollebroder|r",
+			[51] = 1711046064,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [4]
 		{
-			"LF tank FOr Slave Pens!! ", -- [1]
-			"Flottelotte", -- [2]
+			"people liked brf", -- [1]
+			"Tikiti-Firemaw", -- [2]
 			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Flottelotte", -- [5]
+			"", -- [4]
+			"Tikiti", -- [5]
 			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			5616, -- [11]
-			"Player-4467-04322466", -- [12]
+			212, -- [11]
+			"Player-4467-038144A6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaFlottelotte|r",
-			[51] = 1684441654,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aTikiti|r",
+			[51] = 1711046052,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [5]
 		{
-			"LF tank FOr Slave Pens!! ", -- [1]
-			"Flottelotte-Firemaw", -- [2]
+			"mop was the worse", -- [1]
+			"Osveta-Firemaw", -- [2]
 			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Flottelotte", -- [5]
+			"", -- [4]
+			"Osveta", -- [5]
 			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			5617, -- [11]
-			"Player-4467-04322466", -- [12]
+			215, -- [11]
+			"Player-4467-02A63F9B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaFlottelotte|r",
-			[51] = 1684441654,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaOsveta|r",
+			[51] = 1711046146,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [6]
 		{
-			"WTS HoS Boost, 110+ mobs 180-200k+ xp/run, 800k+ xp/hour 13 min run Full AFK", -- [1]
-			"Boeglund-Firemaw", -- [2]
+			"i did not play much warlords", -- [1]
+			"Lilgav-Firemaw", -- [2]
 			"", -- [3]
-			"5. world", -- [4]
-			"Boeglund", -- [5]
+			"", -- [4]
+			"Lilgav", -- [5]
 			"", -- [6]
 			0, -- [7]
-			5, -- [8]
-			"world", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			5632, -- [11]
-			"Player-4467-027B159A", -- [12]
+			216, -- [11]
+			"Player-4467-02BBC391", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dBoeglund|r",
-			[51] = 1684441669,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Lilgav|r",
+			[51] = 1711046151,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [7]
 		{
-			"WTB |cffffffff|Hitem:40211::::::::80:::::::::|h[Potion of Speed]|h|r 4g each can take 1k", -- [1]
-			"Facecandy", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Facecandy", -- [5]
+			"{rt8}", -- [1]
+			"Overdosedwow-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Overdosedwow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5637, -- [11]
-			"Player-4467-03A151DF", -- [12]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			217, -- [11]
+			"Player-4467-03015AFB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaFacecandy|r",
-			[51] = 1684441671,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dOverdosedwow|r",
+			[51] = 1711046155,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [8]
 		{
-			"LFM VOA 25 spec,  rsto druid, enha + ele sham,hunter prot war  + rogue blance druid", -- [1]
-			"Smooshlock-Firemaw", -- [2]
+			"can't wait for wod classic to see the cancelled Ray D. Tier", -- [1]
+			"Vensham-Firemaw", -- [2]
 			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Smooshlock", -- [5]
+			"", -- [4]
+			"Vensham", -- [5]
 			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			5639, -- [11]
-			"Player-4467-028EC2D1", -- [12]
+			220, -- [11]
+			"Player-4467-0445BCFA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edSmooshlock|r",
-			[51] = 1684441672,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070ddVensham|r",
+			[51] = 1711046158,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [9]
 		{
-			"LFM EoE 10 - Recluse HR - 1sr-ms-os - /w me gs and specc! Need 2 healers!!", -- [1]
-			"Pirågen-Firemaw", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Pirågen", -- [5]
+			"Brand on Tikiti", -- [1]
+			"Tikiti-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Tikiti", -- [5]
 			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5640, -- [11]
-			"Player-4467-02582F59", -- [12]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			228, -- [11]
+			"Player-4467-038144A6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Pirågen|r",
-			[51] = 1684441672,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aTikiti|r",
+			[51] = 1711046180,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [10]
 		{
-			"LFM Ulduar 25 Gdkp 9/9 HM+Algalon Need Heal/Dps{moon}{moon} Check Log/Gear/Budget/Exp going when full", -- [1]
-			"Vinisius-Firemaw", -- [2]
-			"Common", -- [3]
+			"i want mop so i can have my vegetable patch", -- [1]
+			"Lilgav-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Vinisius", -- [5]
+			"Lilgav", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			5645, -- [11]
-			"Player-4467-02EDDC89", -- [12]
+			0, -- [10]
+			230, -- [11]
+			"Player-4467-02BBC391", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddVinisius|r",
-			[51] = 1684441676,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfffff468Lilgav|r",
+			[51] = 1711046182,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [11]
 		{
-			"LF BS with Ulduar plans", -- [1]
-			"Desiray-Firemaw", -- [2]
+			"going afk 10mins gotta poop", -- [1]
+			"Lilgav-Firemaw", -- [2]
 			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Desiray", -- [5]
+			"", -- [4]
+			"Lilgav", -- [5]
 			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			5647, -- [11]
-			"Player-4467-0379B9A7", -- [12]
+			247, -- [11]
+			"Player-4467-02BBC391", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aDesiray|r",
-			[51] = 1684441677,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Lilgav|r",
+			[51] = 1711046242,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [12]
 		{
-			"Multi Glad Hpal/ help/coaching 2s/3s for gold!", -- [1]
-			"Edyatopodin-Firemaw", -- [2]
+			"10 min?", -- [1]
+			"Jollebroder-Firemaw", -- [2]
 			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Edyatopodin", -- [5]
+			"", -- [4]
+			"Jollebroder", -- [5]
 			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			5665, -- [11]
-			"Player-4467-02FED88D", -- [12]
+			249, -- [11]
+			"Player-4467-0454E7C9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaEdyatopodin|r",
-			[51] = 1684441698,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aJollebroder|r",
+			[51] = 1711046253,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [13]
 		{
-			"{Diamond} Fens GDKP 25M Full HM + Algalon -- Saturday and Sunday--  For more info check discord --- https://discord.gg/rwxFRmKeqT {Diamond}", -- [1]
-			"Fastzz-Firemaw", -- [2]
+			"u aint at work my friend", -- [1]
+			"Jollebroder-Firemaw", -- [2]
 			"", -- [3]
-			"5. world", -- [4]
-			"Fastzz", -- [5]
+			"", -- [4]
+			"Jollebroder", -- [5]
 			"", -- [6]
 			0, -- [7]
-			5, -- [8]
-			"world", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			5673, -- [11]
-			"Player-4467-04334F71", -- [12]
+			250, -- [11]
+			"Player-4467-0454E7C9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaFastzz|r",
-			[51] = 1684441717,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aJollebroder|r",
+			[51] = 1711046255,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [14]
 		{
-			"LFM2HEAL EOE10 ", -- [1]
-			"Thelostghost", -- [2]
+			"Gav doesnt have a job", -- [1]
+			"Chubbyman-Firemaw", -- [2]
 			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Thelostghost", -- [5]
+			"", -- [4]
+			"Chubbyman", -- [5]
 			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			5674, -- [11]
-			"Player-4467-02C07DEB", -- [12]
+			255, -- [11]
+			"Player-4467-029DEE14", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThelostghost|r",
-			[51] = 1684441721,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070ddChubbyman|r",
+			[51] = 1711046319,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [15]
 		{
-			"{Star}CZ/SK{Star} Guilda {Star}<Fiery Hell>{Star}  hledá nové cleny do svého kolektivu. Nabizime stabilní a aktivni kolektiv, guild Discord, guild banku, pvp a pve raidovani.. více info   /w me", -- [1]
-			"Domiino-Firemaw", -- [2]
+			"eat fish", -- [1]
+			"Antigosu-Firemaw", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Domiino", -- [5]
+			"Antigosu", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			7, -- [10]
-			5675, -- [11]
-			"Player-4467-04265318", -- [12]
+			260, -- [11]
+			"Player-4467-029DF0FD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffDomiino|r",
-			[51] = 1684441725,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffff7c0aAntigosu|r",
+			[51] = 1711046337,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [16]
 		{
-			"LFM2HEAL EOE10 ", -- [1]
-			"Thelostghost-Firemaw", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Thelostghost", -- [5]
+			"Yummy yummy going into my tummy UwU", -- [1]
+			"Pissnitad-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Pissnitad", -- [5]
 			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5676, -- [11]
-			"Player-4467-02C07DEB", -- [12]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			261, -- [11]
+			"Player-4467-04763982", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaThelostghost|r",
-			[51] = 1684441730,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Pissnitad|r",
+			[51] = 1711046280,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [17]
 		{
-			"LFM Ulduar 25 Gdkp 9/9 HM+Algalon Need Heal/Dps{moon}{moon} Check Log/Gear/Budget/Exp going when full", -- [1]
-			"Vinisius-Firemaw", -- [2]
+			"ez", -- [1]
+			"Overdosedwow-Firemaw", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Vinisius", -- [5]
+			"Overdosedwow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			7, -- [10]
-			5678, -- [11]
-			"Player-4467-02EDDC89", -- [12]
+			262, -- [11]
+			"Player-4467-03015AFB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddVinisius|r",
-			[51] = 1684441737,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dOverdosedwow|r",
+			[51] = 1711046283,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [18]
 		{
-			"WTB |cffffd000|Henchant:55208|h[Mining: Smelt Titansteel]|h|r cd 35g", -- [1]
-			"Drbonjo-Firemaw", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Drbonjo", -- [5]
-			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5682, -- [11]
-			"Player-4467-0370B310", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aDrbonjo|r",
-			[51] = 1684441760,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [19]
-		{
-			"{star} <The Spectrum> {star} is a Greek only PvE raiding guild that is looking for Greek people to fill our ranks.  Raids are on Sunday 19.00st, We have ALL HM + Algalon 25 and 10man", -- [1]
-			"Oplina", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Oplina", -- [5]
-			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5690, -- [11]
-			"Player-4467-03705A49", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaOplina|r",
-			[51] = 1684441773,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [20]
-		{
-			"LFM Ulduar 25 Gdkp 9/9 HM+Algalon Need Heal/Dps{moon}{moon} Check Log/Gear/Budget/Exp going when full 21/25", -- [1]
-			"Vinisius-Firemaw", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Vinisius", -- [5]
-			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5699, -- [11]
-			"Player-4467-02EDDC89", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddVinisius|r",
-			[51] = 1684441788,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [21]
-		{
-			"selling U10 loot runs &  |cffffff00|Hachievement:3316:Player-4467-036A50C8:0:0:0:-1:0:0:0:0|h[Herald of the Titans]|h|r for gold /w me for more infos", -- [1]
-			"Yztul-Firemaw", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Yztul", -- [5]
-			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5702, -- [11]
-			"Player-4467-036A50C8", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aYztul|r",
-			[51] = 1684441793,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [22]
-		{
-			"LFM VOA 25 spec,  , enha + ele sham,hunter prot war  + rogue blance druid", -- [1]
-			"Smooshlock-Firemaw", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Smooshlock", -- [5]
-			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5710, -- [11]
-			"Player-4467-028EC2D1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edSmooshlock|r",
-			[51] = 1684441805,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [23]
-		{
-			"{star} Send It GDKP - ALL HMs + ALGALON 25M GDKP WEEKLY {star} LOOKING FOR BUYER/MIX DPS + HEALERS FOR OUR RAIDS!  Going Saturdays 16.00 + Mondays 18.30 + Tuesdays 18.30 - hosted by Maximum Effort X. Quick and efficient raids. Come pump ready for TOGC", -- [1]
-			"Wavez-Firemaw", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Wavez", -- [5]
-			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5728, -- [11]
-			"Player-4467-028E0963", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dWavez|r",
-			[51] = 1684441835,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [24]
-		{
-			"LFM Ulduar 25 Gdkp 9/9 HM+Algalon Need Heal/Dps{moon}{moon} Check Log/Gear/Budget/Exp 21/25", -- [1]
-			"Vinisius-Firemaw", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Vinisius", -- [5]
-			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5752, -- [11]
-			"Player-4467-02EDDC89", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070ddVinisius|r",
-			[51] = 1684441870,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
-		{
-			"WTS HoS Boost, 110+ mobs 180-200k+ xp/run, 800k+ xp/hour 13 min run Full AFK", -- [1]
-			"Boeglund-Firemaw", -- [2]
-			"", -- [3]
-			"5. world", -- [4]
-			"Boeglund", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"world", -- [9]
-			0, -- [10]
-			5753, -- [11]
-			"Player-4467-027B159A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dBoeglund|r",
-			[51] = 1684441870,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [26]
-		{
-			"WTB |cffffffff|Hitem:40211::::::::80:::::::::|h[Potion of Speed]|h|r 4g each can take 1k", -- [1]
-			"Facecandy-Firemaw", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Facecandy", -- [5]
-			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5755, -- [11]
-			"Player-4467-03A151DF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaFacecandy|r",
-			[51] = 1684441874,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [27]
-		{
-			"WTS |cffa335ee|Hitem:44413::::::::80:::::::::|h[Mekgineer's Chopper]|h|r cheaper than ah", -- [1]
-			"Nulm", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Nulm", -- [5]
-			"AFK", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5758, -- [11]
-			"Player-4467-04349568", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dNulm|r",
-			[51] = 1684441876,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [28]
-		{
-			"WTB |cffffd000|Henchant:55208|h[Mining: Smelt Titansteel]|h|r cd 35g", -- [1]
-			"Drbonjo-Firemaw", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Drbonjo", -- [5]
-			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5763, -- [11]
-			"Player-4467-0370B310", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aDrbonjo|r",
-			[51] = 1684441884,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [29]
-		{
-			"WTB |cff0070dd|Hitem:45773::::::::76:::::::::|h[Emerald Bag]|h|r", -- [1]
-			"Myllykukko", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Myllykukko", -- [5]
-			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			711, -- [11]
-			"Player-4467-04271D98", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dMyllykukko|r",
-			[51] = 1684564871,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [30]
-		{
-			"WTB portal to Dalaran", -- [1]
-			"Myllykukko-Firemaw", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Myllykukko", -- [5]
-			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			737, -- [11]
-			"Player-4467-04271D98", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dMyllykukko|r",
-			[51] = 1684564963,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [31]
-		{
-			"BRD LF HEALER", -- [1]
-			"Yamburg", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Yamburg", -- [5]
-			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			767, -- [11]
-			"Player-4467-0428104F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaYamburg|r",
-			[51] = 1684564957,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [32]
-		{
-			"BRD LF HEALER", -- [1]
-			"Yamburg-Firemaw", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Yamburg", -- [5]
-			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			998, -- [11]
-			"Player-4467-0428104F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaYamburg|r",
-			[51] = 1684565256,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
-		{
-			"<Inception> - CATCH UP GUILD - moving to 25m raids this week starting with Nax and moving into Ulduar next week - certain classes still open /w me for info and grab your place to catch up before TOC starts!", -- [1]
-			"Occular-Firemaw", -- [2]
-			"", -- [3]
-			"5. world", -- [4]
-			"Occular", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"world", -- [9]
-			0, -- [10]
-			1045, -- [11]
-			"Player-4467-043116AC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc41e3aOccular|r",
-			[51] = 1684565315,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
-		{
-			"WTB |cff1eff00|Hitem:37663::::::::80:::::::::|h[Titansteel Bar]|h|r|cff1eff00|Hitem:37663::::::::80:::::::::|h[Titansteel Bar]|h|r CD 40G", -- [1]
-			"Enigmaz", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Enigmaz", -- [5]
-			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1060, -- [11]
-			"Player-4467-02BA9573", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edEnigmaz|r",
-			[51] = 1684565396,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
-		{
-			"WTB |cffffd000|Henchant:55208|h[Mining: Smelt Titansteel]|h|r CD 40G", -- [1]
-			"Enigmaz-Firemaw", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Enigmaz", -- [5]
-			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1189, -- [11]
-			"Player-4467-02BA9573", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edEnigmaz|r",
-			[51] = 1684565463,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
-		{
-			"{square} LFM Ulduar 25 Man Normal Mode Need All +4.4K GS ! 3 SR MS OS ! Boes & Fragments HR ! Come Dala Bank for Inspect ! Going when full {square}", -- [1]
-			"Lidoona-Firemaw", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Lidoona", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1210, -- [11]
-			"Player-4467-035FE06E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaLidoona|r",
-			[51] = 1684565490,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
-		{
-			"LFM uldar 25 Full NM SR {cross} Boe,Orb HR Frag Bid /w ur Price {cross} 3xSR>MS>OS +4.4 GS Achiev or Main Log Req", -- [1]
-			"Wargolden", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Wargolden", -- [5]
-			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1227, -- [11]
-			"Player-4467-039D6CAD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dWargolden|r",
-			[51] = 1684565567,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [38]
-		{
-			"{square} LFM Ulduar 25 Man Normal Mode Need All +4.4K GS ! 3 SR MS OS ! Boes & Fragments HR ! Come Dala Bank for Inspect ! Going when full {square}", -- [1]
-			"Lidoona-Firemaw", -- [2]
-			"", -- [3]
-			"5. world", -- [4]
-			"Lidoona", -- [5]
-			"DND", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"world", -- [9]
-			0, -- [10]
-			1318, -- [11]
-			"Player-4467-035FE06E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff48cbaLidoona|r",
-			[51] = 1684565587,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [39]
-		{
-			"BRD LF HEALER", -- [1]
-			"Yamburg-Firemaw", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Yamburg", -- [5]
-			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1333, -- [11]
-			"Player-4467-0428104F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaYamburg|r",
-			[51] = 1684565602,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [40]
-		{
-			"que is not that good :(", -- [1]
-			"Holyshotz-Firemaw", -- [2]
+			"get got", -- [1]
+			"Overdosedwow-Firemaw", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Holyshotz", -- [5]
+			"Overdosedwow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			7, -- [10]
-			1400, -- [11]
-			"Player-4467-03B8C133", -- [12]
+			263, -- [11]
+			"Player-4467-03015AFB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHolyshotz|r",
-			[51] = 1684565655,
+			[52] = "|cffc69b6dOverdosedwow|r",
+			[51] = 1711046288,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [19]
+		{
+			"UwU tum tum done done", -- [1]
+			"Pissnitad-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Pissnitad", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			264, -- [11]
+			"Player-4467-04763982", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Pissnitad|r",
+			[51] = 1711046356,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [20]
+		{
+			"bruh", -- [1]
+			"Overdosedwow-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Overdosedwow", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			268, -- [11]
+			"Player-4467-03015AFB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dOverdosedwow|r",
+			[51] = 1711046363,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [21]
+		{
+			"bruh", -- [1]
+			"Pissnitad-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Pissnitad", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			269, -- [11]
+			"Player-4467-04763982", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Pissnitad|r",
+			[51] = 1711046363,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [22]
+		{
+			"bruh", -- [1]
+			"Vensham-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Vensham", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			270, -- [11]
+			"Player-4467-0445BCFA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddVensham|r",
+			[51] = 1711046363,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [23]
+		{
+			"bruh", -- [1]
+			"Bluntzen-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Bluntzen", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			271, -- [11]
+			"Player-4467-029DF066", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dBluntzen|r",
+			[51] = 1711046363,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [24]
+		{
+			"bruh", -- [1]
+			"Hvyweight-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Hvyweight", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			272, -- [11]
+			"Player-4467-047350AC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dHvyweight|r",
+			[51] = 1711046363,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [25]
+		{
+			"SS on Tanky bois?", -- [1]
+			"Darkréy-Firemaw", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Darkréy", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			274, -- [11]
+			"Player-4467-02991355", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edDarkréy|r",
+			[51] = 1711046366,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [26]
+		{
+			"i am ready", -- [1]
+			"Chubbyman-Firemaw", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Chubbyman", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			279, -- [11]
+			"Player-4467-029DEE14", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddChubbyman|r",
+			[51] = 1711046342,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [27]
+		{
+			"aseral MD me in p3, and piss MD the small adds to osveta", -- [1]
+			"Médrux-Firemaw", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Médrux", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			280, -- [11]
+			"Player-4467-029E7886", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaMédrux|r",
+			[51] = 1711046418,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [28]
+		{
+			"Fiery Combustion on Aseral", -- [1]
+			"Aseral-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Aseral", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			284, -- [11]
+			"Player-4467-029C5FCF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Aseral|r",
+			[51] = 1711046455,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [29]
+		{
+			"Bomb on Aseral!", -- [1]
+			"Aseral-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Aseral", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			285, -- [11]
+			"Player-4467-029C5FCF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Aseral|r",
+			[51] = 1711046455,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [30]
+		{
+			"Fiery Combustion on Pissnitad", -- [1]
+			"Pissnitad-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Pissnitad", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			288, -- [11]
+			"Player-4467-04763982", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Pissnitad|r",
+			[51] = 1711046478,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [31]
+		{
+			"Bomb on Undeadslayer!", -- [1]
+			"Undeadslayer-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Undeadslayer", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			296, -- [11]
+			"Player-4467-02A95675", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dUndeadslayer|r",
+			[51] = 1711046462,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [32]
+		{
+			"Bomb on East!", -- [1]
+			"East-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"East", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			300, -- [11]
+			"Player-4467-028C9CC2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edEast|r",
+			[51] = 1711046549,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [33]
+		{
+			"Soul Consumption on Wyáld", -- [1]
+			"Wyáld-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Wyáld", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			303, -- [11]
+			"Player-4467-0381D666", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffWyáld|r",
+			[51] = 1711046570,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [34]
+		{
+			"Bomb on Wyáld!", -- [1]
+			"Wyáld-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Wyáld", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			305, -- [11]
+			"Player-4467-0381D666", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffWyáld|r",
+			[51] = 1711046570,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [35]
+		{
+			"Soul Consumption on Damond", -- [1]
+			"Damond-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Damond", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			307, -- [11]
+			"Player-4467-029E55FD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edDamond|r",
+			[51] = 1711046531,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [36]
+		{
+			"Bomb on Damond!", -- [1]
+			"Damond-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Damond", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			308, -- [11]
+			"Player-4467-029E55FD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edDamond|r",
+			[51] = 1711046531,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [37]
+		{
+			"Soul Consumption on Tikiti", -- [1]
+			"Tikiti-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Tikiti", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			311, -- [11]
+			"Player-4467-038144A6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aTikiti|r",
+			[51] = 1711046612,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [38]
+		{
+			"Bomb on Tikiti!", -- [1]
+			"Tikiti-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Tikiti", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			312, -- [11]
+			"Player-4467-038144A6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc41e3aTikiti|r",
+			[51] = 1711046612,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [39]
+		{
+			"Undeadslayer fails at Twilight Cutters (1)", -- [1]
+			"Ythera-Firemaw", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ythera", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			318, -- [11]
+			"Player-4467-02D15F72", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff48cbaYthera|r",
+			[51] = 1711046629,
+			[50] = "CHAT_MSG_RAID_LEADER",
+		}, -- [40]
+		{
+			"Bomb on Chubbyman!", -- [1]
+			"Chubbyman-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Chubbyman", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			322, -- [11]
+			"Player-4467-029DEE14", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070ddChubbyman|r",
+			[51] = 1711046636,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [41]
 		{
-			"then maybe not", -- [1]
-			"Mfðòóm-Firemaw", -- [2]
+			"Fiery Combustion on Aseral", -- [1]
+			"Aseral-Firemaw", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Mfðòóm", -- [5]
+			"Aseral", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			7, -- [10]
-			1409, -- [11]
-			"Player-4467-0434D6D6", -- [12]
+			328, -- [11]
+			"Player-4467-029C5FCF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMfðòóm|r",
-			[51] = 1684565662,
+			[52] = "|cffaad372Aseral|r",
+			[51] = 1711046658,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [42]
 		{
-			":P", -- [1]
-			"Holyshotz-Firemaw", -- [2]
+			"Bomb on Aseral!", -- [1]
+			"Aseral-Firemaw", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Holyshotz", -- [5]
+			"Aseral", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			7, -- [10]
-			1413, -- [11]
-			"Player-4467-03B8C133", -- [12]
+			329, -- [11]
+			"Player-4467-029C5FCF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHolyshotz|r",
-			[51] = 1684565664,
+			[52] = "|cffaad372Aseral|r",
+			[51] = 1711046658,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [43]
 		{
-			"NAX 25 MAN >OS>EOE>GDKP MIN  BID 300GNEED ALL >Buyer>MIX 80/20/ W / ME Gs And BUDGET", -- [1]
-			"Luxpaladin-Firemaw", -- [2]
-			"Common", -- [3]
+			"wtf i couln't take BR", -- [1]
+			"Undeadslayer-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Luxpaladin", -- [5]
+			"Undeadslayer", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1416, -- [11]
-			"Player-4467-02CD2006", -- [12]
+			0, -- [10]
+			333, -- [11]
+			"Player-4467-02A95675", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLuxpaladin|r",
-			[51] = 1684565667,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dUndeadslayer|r",
+			[51] = 1711046672,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [44]
 		{
-			"wts |cffa335ee|Hitem:44255::::::::70:::::::::|h[Darkmoon Card: Greatness]|h|r", -- [1]
-			"Crysar", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Crysar", -- [5]
+			"Gular Burasadare az Soranka", -- [1]
+			"Darkréy-Firemaw", -- [2]
+			"Demonic", -- [3]
+			"", -- [4]
+			"Darkréy", -- [5]
 			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1422, -- [11]
-			"Player-4467-04178FBD", -- [12]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			8, -- [10]
+			336, -- [11]
+			"Player-4467-02991355", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aCrysar|r",
-			[51] = 1684565671,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff8787edDarkréy|r",
+			[51] = 1711046679,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [45]
 		{
-			"WTB ZG MOUNTS!", -- [1]
-			"Jakeharyson", -- [2]
+			"Twilight Cutter Leaderboard:", -- [1]
+			"Ythera-Firemaw", -- [2]
 			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Jakeharyson", -- [5]
+			"", -- [4]
+			"Ythera", -- [5]
 			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1423, -- [11]
-			"Player-4467-02D812CC", -- [12]
+			348, -- [11]
+			"Player-4467-02D15F72", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaJakeharyson|r",
-			[51] = 1684565671,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaYthera|r",
+			[51] = 1711046644,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [46]
 		{
-			"it depends", -- [1]
-			"Holyshotz-Firemaw", -- [2]
-			"Common", -- [3]
+			"Undeadslayer - 1 hits", -- [1]
+			"Ythera-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Holyshotz", -- [5]
+			"Ythera", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1435, -- [11]
-			"Player-4467-03B8C133", -- [12]
+			0, -- [10]
+			349, -- [11]
+			"Player-4467-02D15F72", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHolyshotz|r",
-			[51] = 1684565677,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaYthera|r",
+			[51] = 1711046644,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [47]
 		{
-			"queue's on 19 has been amazing but i kinda took a break recently so no idea now", -- [1]
-			"Mfðòóm-Firemaw", -- [2]
-			"Common", -- [3]
+			"RAID LEADER: Type !reset in Raid Chat to reset the cutter count.", -- [1]
+			"Ythera-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfðòóm", -- [5]
+			"Ythera", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1442, -- [11]
-			"Player-4467-0434D6D6", -- [12]
+			0, -- [10]
+			350, -- [11]
+			"Player-4467-02D15F72", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMfðòóm|r",
-			[51] = 1684565742,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaYthera|r",
+			[51] = 1711046644,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [48]
 		{
-			"it's still good i guess", -- [1]
-			"Holyshotz-Firemaw", -- [2]
-			"Common", -- [3]
+			"aaannd im lagging", -- [1]
+			"Undeadslayer-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Holyshotz", -- [5]
+			"Undeadslayer", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1463, -- [11]
-			"Player-4467-03B8C133", -- [12]
+			0, -- [10]
+			356, -- [11]
+			"Player-4467-02A95675", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaHolyshotz|r",
-			[51] = 1684565759,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dUndeadslayer|r",
+			[51] = 1711046737,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [49]
 		{
-			"WTS |cffffffff|Hitem:21277::::::::80:::::::::|h[Tranquil Mechanical Yeti]|h|r 175g ", -- [1]
-			"Mivemive", -- [2]
+			"great", -- [1]
+			"Undeadslayer-Firemaw", -- [2]
 			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Mivemive", -- [5]
+			"", -- [4]
+			"Undeadslayer", -- [5]
 			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1471, -- [11]
-			"Player-4467-0292F6C4", -- [12]
+			357, -- [11]
+			"Player-4467-02A95675", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aMivemive|r",
-			[51] = 1684565706,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dUndeadslayer|r",
+			[51] = 1711046739,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [50]
 		{
-			"{square} LFM Ulduar 25 Man Normal Mode Need All +4.4K GS ! 3 SR MS OS ! Boes & Fragments HR ! Come Dala Bank for Inspect ! Going when full {square}", -- [1]
-			"Lidoona-Firemaw", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Lidoona", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1478, -- [11]
-			"Player-4467-035FE06E", -- [12]
+			"Yummy yummy going into my tummy UwU", -- [1]
+			"Pissnitad-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Pissnitad", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			359, -- [11]
+			"Player-4467-04763982", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLidoona|r",
-			[51] = 1684565712,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Pissnitad|r",
+			[51] = 1711046758,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [51]
 		{
-			"LFM uldar 25 Full NM SR {cross} Boe,Orb HR Frag Bid /w ur Price {cross} 3xSR>MS>OS +4.4 GS Achiev or Main Log Req", -- [1]
-			"Wargolden-Firemaw", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Wargolden", -- [5]
+			"UwU tum tum done done", -- [1]
+			"Overdosedwow-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Overdosedwow", -- [5]
 			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1479, -- [11]
-			"Player-4467-039D6CAD", -- [12]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			362, -- [11]
+			"Player-4467-03015AFB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dWargolden|r",
-			[51] = 1684565805,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dOverdosedwow|r",
+			[51] = 1711046710,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [52]
 		{
-			"LFM Old Kingdom! Need Heal and DPS", -- [1]
-			"Damdrummi", -- [2]
-			"", -- [3]
-			"5. world", -- [4]
-			"Damdrummi", -- [5]
+			"SOCIALISM?!", -- [1]
+			"Overdosedwow-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Overdosedwow", -- [5]
 			"", -- [6]
 			0, -- [7]
-			5, -- [8]
-			"world", -- [9]
-			0, -- [10]
-			1485, -- [11]
-			"Player-4467-0298049F", -- [12]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			363, -- [11]
+			"Player-4467-03015AFB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Damdrummi|r",
-			[51] = 1684565794,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dOverdosedwow|r",
+			[51] = 1711046775,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [53]
 		{
-			"{square} LFM Ulduar 25 Man Normal Mode Need All +4.4K GS ! 3 SR MS OS ! Boes & Fragments HR ! Come Dala Bank for Inspect ! Going when full {square}", -- [1]
-			"Lidoona-Firemaw", -- [2]
+			"eeew socialism", -- [1]
+			"Osveta-Firemaw", -- [2]
 			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Lidoona", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
+			"", -- [4]
+			"Osveta", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1536, -- [11]
-			"Player-4467-035FE06E", -- [12]
+			364, -- [11]
+			"Player-4467-02A63F9B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLidoona|r",
-			[51] = 1684565842,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaOsveta|r",
+			[51] = 1711046776,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [54]
 		{
-			"LF ALCHEMY |cffffd000|Henchant:53784|h[Alchemy: Transmute: Eternal Water to Fire]|h|r", -- [1]
-			"Jeryan-Firemaw", -- [2]
-			"Common", -- [3]
+			"and guild tax", -- [1]
+			"Tikiti-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Jeryan", -- [5]
+			"Tikiti", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1553, -- [11]
-			"Player-4467-02A8C230", -- [12]
+			0, -- [10]
+			365, -- [11]
+			"Player-4467-038144A6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaJeryan|r",
-			[51] = 1684565921,
-			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc41e3aTikiti|r",
+			[51] = 1711046781,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [55]
 		{
-			":D", -- [1]
-			"Charizârd-Firemaw", -- [2]
+			"UwU tum tum done done", -- [1]
+			"Pissnitad-Firemaw", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Charizârd", -- [5]
+			"Pissnitad", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			7, -- [10]
-			1580, -- [11]
-			"Player-4467-04305287", -- [12]
+			366, -- [11]
+			"Player-4467-04763982", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaCharizârd|r",
-			[51] = 1684565885,
+			[52] = "|cffaad372Pissnitad|r",
+			[51] = 1711046783,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [56]
 		{
-			"nice", -- [1]
-			"Charizârd-Firemaw", -- [2]
+			"im leaving that guild", -- [1]
+			"Overdosedwow-Firemaw", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Charizârd", -- [5]
+			"Overdosedwow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			7, -- [10]
-			1584, -- [11]
-			"Player-4467-04305287", -- [12]
+			367, -- [11]
+			"Player-4467-03015AFB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaCharizârd|r",
-			[51] = 1684565889,
+			[52] = "|cffc69b6dOverdosedwow|r",
+			[51] = 1711046787,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [57]
 		{
-			"need to send my looms over to this one", -- [1]
-			"Mfðóòm-Firemaw", -- [2]
-			"Common", -- [3]
+			"mass ress Kreygasm ", -- [1]
+			"Vensham-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfðóòm", -- [5]
+			"Vensham", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1585, -- [11]
-			"Player-4467-02CDD517", -- [12]
+			0, -- [10]
+			369, -- [11]
+			"Player-4467-0445BCFA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Mfðóòm|r",
-			[51] = 1684565889,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff0070ddVensham|r",
+			[51] = 1711046797,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [58]
 		{
-			"2x |cff0070dd|Hitem:1482:803:::::::39:::::::::|h[Shadowfang]|h|r hehe :D", -- [1]
-			"Charizârd-Firemaw", -- [2]
-			"Common", -- [3]
+			"Guild achievements <3", -- [1]
+			"Hedva-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Charizârd", -- [5]
+			"Hedva", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1597, -- [11]
-			"Player-4467-04305287", -- [12]
+			0, -- [10]
+			370, -- [11]
+			"Player-4467-029EA627", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaCharizârd|r",
-			[51] = 1684565901,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaHedva|r",
+			[51] = 1711046797,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [59]
 		{
-			"hehe", -- [1]
-			"Mfðóòm-Firemaw", -- [2]
-			"Common", -- [3]
+			"you getting all the race achievements for us hedva yea", -- [1]
+			"Ythera-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfðóòm", -- [5]
+			"Ythera", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1601, -- [11]
-			"Player-4467-02CDD517", -- [12]
+			0, -- [10]
+			371, -- [11]
+			"Player-4467-02D15F72", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Mfðóòm|r",
-			[51] = 1684565906,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaYthera|r",
+			[51] = 1711046815,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [60]
 		{
-			"got em for 300g in classic", -- [1]
-			"Mfðóòm-Firemaw", -- [2]
-			"Common", -- [3]
+			"Wirr will handle", -- [1]
+			"Hedva-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfðóòm", -- [5]
+			"Hedva", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1604, -- [11]
-			"Player-4467-02CDD517", -- [12]
+			0, -- [10]
+			372, -- [11]
+			"Player-4467-029EA627", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Mfðóòm|r",
-			[51] = 1684565909,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaHedva|r",
+			[51] = 1711046773,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [61]
 		{
-			"LFM Old Kingdom! Need Heal last spot", -- [1]
-			"Damdrummi-Firemaw", -- [2]
-			"", -- [3]
-			"5. world", -- [4]
-			"Damdrummi", -- [5]
+			"Bomb on Tínkeng!", -- [1]
+			"Tínkeng-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Tínkeng", -- [5]
 			"", -- [6]
 			0, -- [7]
-			5, -- [8]
-			"world", -- [9]
-			0, -- [10]
-			1607, -- [11]
-			"Player-4467-0298049F", -- [12]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			374, -- [11]
+			"Player-4467-0369E2E5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Damdrummi|r",
-			[51] = 1684565911,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aTínkeng|r",
+			[51] = 1711046853,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [62]
 		{
-			"WTS |cffa335ee|Hitem:44255::::::::70:::::::::|h[Darkmoon Card: Greatness]|h|r", -- [1]
-			"Crysar-Firemaw", -- [2]
-			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Crysar", -- [5]
+			"Bomb on Wirroza!", -- [1]
+			"Wirroza-Firemaw", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Wirroza", -- [5]
 			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			1611, -- [11]
-			"Player-4467-04178FBD", -- [12]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			7, -- [10]
+			381, -- [11]
+			"Player-4467-029E688C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc41e3aCrysar|r",
-			[51] = 1684565914,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff8787edWirroza|r",
+			[51] = 1711046897,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [63]
 		{
-			"{square} LFM Ulduar 25 Man Normal Mode Need All +4.4K GS ! 3 SR MS OS ! Boes & Fragments HR ! Come Dala Bank for Inspect ! Going when full {square}", -- [1]
-			"Lidoona-Firemaw", -- [2]
+			"Antigosu has Battle Rez'd you!", -- [1]
+			"Antigosu-Firemaw", -- [2]
 			"", -- [3]
-			"5. world", -- [4]
-			"Lidoona", -- [5]
-			"DND", -- [6]
+			"", -- [4]
+			"Antigosu", -- [5]
+			"", -- [6]
 			0, -- [7]
-			5, -- [8]
-			"world", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1641, -- [11]
-			"Player-4467-035FE06E", -- [12]
+			388, -- [11]
+			"Player-4467-029DF0FD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLidoona|r",
-			[51] = 1684565951,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aAntigosu|r",
+			[51] = 1711046881,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [64]
 		{
-			"u are that rouge right", -- [1]
-			"Jeryan-Firemaw", -- [2]
-			"Common", -- [3]
+			"Rebirth on Damond!", -- [1]
+			"Antigosu-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Jeryan", -- [5]
+			"Antigosu", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1649, -- [11]
-			"Player-4467-02A8C230", -- [12]
+			0, -- [10]
+			389, -- [11]
+			"Player-4467-029DF0FD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaJeryan|r",
-			[51] = 1684565958,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aAntigosu|r",
+			[51] = 1711046881,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [65]
 		{
-			"yup", -- [1]
-			"Mfðòóm-Firemaw", -- [2]
-			"Common", -- [3]
+			"Ythera fails at Twilight Cutters (1)", -- [1]
+			"Ythera-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfðòóm", -- [5]
+			"Ythera", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1652, -- [11]
-			"Player-4467-0434D6D6", -- [12]
+			0, -- [10]
+			394, -- [11]
+			"Player-4467-02D15F72", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMfðòóm|r",
-			[51] = 1684565961,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaYthera|r",
+			[51] = 1711046964,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [66]
 		{
-			"<Inception> - CATCH UP GUILD - moving to 25m raids this week starting with Nax and moving into Ulduar next week - certain classes still open /w me for info and grab your place to catch up before TOC starts!", -- [1]
-			"Ocular-Firemaw", -- [2]
+			"Undeadslayer fails at Twilight Cutters (2)", -- [1]
+			"Ythera-Firemaw", -- [2]
 			"", -- [3]
-			"5. world", -- [4]
-			"Ocular", -- [5]
+			"", -- [4]
+			"Ythera", -- [5]
 			"", -- [6]
 			0, -- [7]
-			5, -- [8]
-			"world", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1657, -- [11]
-			"Player-4467-0433F358", -- [12]
+			395, -- [11]
+			"Player-4467-02D15F72", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070ddOcular|r",
-			[51] = 1684565965,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaYthera|r",
+			[51] = 1711046964,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [67]
 		{
-			"lol", -- [1]
-			"Jeryan-Firemaw", -- [2]
-			"Common", -- [3]
+			"Darkréy fails at Twilight Cutters (1)", -- [1]
+			"Ythera-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Jeryan", -- [5]
+			"Ythera", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1658, -- [11]
-			"Player-4467-02A8C230", -- [12]
+			0, -- [10]
+			396, -- [11]
+			"Player-4467-02D15F72", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaJeryan|r",
-			[51] = 1684565965,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaYthera|r",
+			[51] = 1711046964,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [68]
 		{
-			"nice", -- [1]
-			"Mfðòóm-Firemaw", -- [2]
-			"Common", -- [3]
+			"Tínkeng fails at Twilight Cutters (1)", -- [1]
+			"Ythera-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfðòóm", -- [5]
+			"Ythera", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1685, -- [11]
-			"Player-4467-0434D6D6", -- [12]
+			0, -- [10]
+			397, -- [11]
+			"Player-4467-02D15F72", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMfðòóm|r",
-			[51] = 1684566051,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaYthera|r",
+			[51] = 1711046964,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [69]
 		{
-			"even tidal", -- [1]
-			"Mfðòóm-Firemaw", -- [2]
-			"Common", -- [3]
+			"Undeadslayer fails at Twilight Cutters (3)", -- [1]
+			"Ythera-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfðòóm", -- [5]
+			"Ythera", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1691, -- [11]
-			"Player-4467-0434D6D6", -- [12]
+			0, -- [10]
+			398, -- [11]
+			"Player-4467-02D15F72", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMfðòóm|r",
-			[51] = 1684566057,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaYthera|r",
+			[51] = 1711046964,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [70]
 		{
-			"we love to see it", -- [1]
-			"Mfðòóm-Firemaw", -- [2]
-			"Common", -- [3]
+			"Darkréy fails at Twilight Cutters (2)", -- [1]
+			"Ythera-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfðòóm", -- [5]
+			"Ythera", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1694, -- [11]
-			"Player-4467-0434D6D6", -- [12]
+			0, -- [10]
+			399, -- [11]
+			"Player-4467-02D15F72", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMfðòóm|r",
-			[51] = 1684566058,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaYthera|r",
+			[51] = 1711046964,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [71]
 		{
-			":D", -- [1]
-			"Missenkatten-Firemaw", -- [2]
-			"Common", -- [3]
+			"Focus the f up xD", -- [1]
+			"Darkréy-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Missenkatten", -- [5]
+			"Darkréy", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1695, -- [11]
-			"Player-4467-03E69E0A", -- [12]
+			0, -- [10]
+			401, -- [11]
+			"Player-4467-02991355", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Missenkatten|r",
-			[51] = 1684566059,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff8787edDarkréy|r",
+			[51] = 1711046967,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [72]
 		{
-			"LFM Old Kingdom! Need Heal last spot", -- [1]
-			"Damdrummi-Firemaw", -- [2]
+			"wtf", -- [1]
+			"Osveta-Firemaw", -- [2]
 			"", -- [3]
-			"5. world", -- [4]
-			"Damdrummi", -- [5]
+			"", -- [4]
+			"Osveta", -- [5]
 			"", -- [6]
 			0, -- [7]
-			5, -- [8]
-			"world", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1704, -- [11]
-			"Player-4467-0298049F", -- [12]
+			402, -- [11]
+			"Player-4467-02A63F9B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Damdrummi|r",
-			[51] = 1684566007,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaOsveta|r",
+			[51] = 1711046979,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [73]
 		{
-			"bis!", -- [1]
-			"Jeryan-Firemaw", -- [2]
-			"Common", -- [3]
+			"same my dbm aint working", -- [1]
+			"Arggy-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Jeryan", -- [5]
+			"Arggy", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1709, -- [11]
-			"Player-4467-02A8C230", -- [12]
+			0, -- [10]
+			403, -- [11]
+			"Player-4467-02C0C537", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaJeryan|r",
-			[51] = 1684566011,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaArggy|r",
+			[51] = 1711046990,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [74]
 		{
-			"i so gave up on AB gear on my 29", -- [1]
-			"Mfðòóm-Firemaw", -- [2]
-			"Common", -- [3]
+			"my dbm is workign except the pull timer xd", -- [1]
+			"Aseral-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfðòóm", -- [5]
+			"Aseral", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1716, -- [11]
-			"Player-4467-0434D6D6", -- [12]
+			0, -- [10]
+			406, -- [11]
+			"Player-4467-029C5FCF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMfðòóm|r",
-			[51] = 1684566017,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffaad372Aseral|r",
+			[51] = 1711046952,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [75]
 		{
-			"when you had to farm rep", -- [1]
-			"Mfðòóm-Firemaw", -- [2]
-			"Common", -- [3]
+			"i had to update curseforge + dbm", -- [1]
+			"Vensham-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfðòóm", -- [5]
+			"Vensham", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1723, -- [11]
-			"Player-4467-0434D6D6", -- [12]
+			0, -- [10]
+			407, -- [11]
+			"Player-4467-0445BCFA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMfðòóm|r",
-			[51] = 1684566024,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff0070ddVensham|r",
+			[51] = 1711047021,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [76]
 		{
-			"haha :P", -- [1]
-			"Missenkatten-Firemaw", -- [2]
-			"Common", -- [3]
+			"KEKW", -- [1]
+			"Undeadslayer-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Missenkatten", -- [5]
+			"Undeadslayer", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1727, -- [11]
-			"Player-4467-03E69E0A", -- [12]
+			0, -- [10]
+			408, -- [11]
+			"Player-4467-02A95675", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Missenkatten|r",
-			[51] = 1684566027,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dUndeadslayer|r",
+			[51] = 1711047024,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [77]
 		{
-			"its ez now ;P", -- [1]
-			"Missenkatten-Firemaw", -- [2]
+			"eat fish", -- [1]
+			"Antigosu-Firemaw", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Missenkatten", -- [5]
+			"Antigosu", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			7, -- [10]
-			1733, -- [11]
-			"Player-4467-03E69E0A", -- [12]
+			411, -- [11]
+			"Player-4467-029DF0FD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Missenkatten|r",
-			[51] = 1684566032,
+			[52] = "|cffff7c0aAntigosu|r",
+			[51] = 1711047026,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [78]
 		{
-			"aye", -- [1]
-			"Mfðòóm-Firemaw", -- [2]
-			"Common", -- [3]
+			"yeah so u need to download that shit", -- [1]
+			"Najoo-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfðòóm", -- [5]
+			"Najoo", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1736, -- [11]
-			"Player-4467-0434D6D6", -- [12]
+			0, -- [10]
+			412, -- [11]
+			"Player-4467-036F2283", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMfðòóm|r",
-			[51] = 1684566034,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aNajoo|r",
+			[51] = 1711047028,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [79]
 		{
-			"like 200 honor", -- [1]
-			"Mfðòóm-Firemaw", -- [2]
-			"Common", -- [3]
+			"not even pull timer for me", -- [1]
+			"Tikiti-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfðòóm", -- [5]
+			"Tikiti", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1739, -- [11]
-			"Player-4467-0434D6D6", -- [12]
+			0, -- [10]
+			413, -- [11]
+			"Player-4467-038144A6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMfðòóm|r",
-			[51] = 1684566036,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aTikiti|r",
+			[51] = 1711047033,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [80]
 		{
-			"yeah", -- [1]
-			"Missenkatten-Firemaw", -- [2]
-			"Common", -- [3]
+			"had the same problem after update", -- [1]
+			"Najoo-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Missenkatten", -- [5]
+			"Najoo", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1747, -- [11]
-			"Player-4467-03E69E0A", -- [12]
+			0, -- [10]
+			414, -- [11]
+			"Player-4467-036F2283", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Missenkatten|r",
-			[51] = 1684566102,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aNajoo|r",
+			[51] = 1711047033,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [81]
 		{
-			"insane how much renew stacks with SP", -- [1]
-			"Mfðòóm-Firemaw", -- [2]
-			"Common", -- [3]
+			"if you miss the pull timer you have to grab the latest dbm update", -- [1]
+			"Prelapsus-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfðòóm", -- [5]
+			"Prelapsus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1788, -- [11]
-			"Player-4467-0434D6D6", -- [12]
+			0, -- [10]
+			415, -- [11]
+			"Player-4467-02EA786F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMfðòóm|r",
-			[51] = 1684566080,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffffffffPrelapsus|r",
+			[51] = 1711047043,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [82]
 		{
-			"especially with glyph", -- [1]
-			"Mfðòóm-Firemaw", -- [2]
-			"Common", -- [3]
+			"and download like 3 additional addons", -- [1]
+			"Najoo-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfðòóm", -- [5]
+			"Najoo", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1793, -- [11]
-			"Player-4467-0434D6D6", -- [12]
+			0, -- [10]
+			416, -- [11]
+			"Player-4467-036F2283", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMfðòóm|r",
-			[51] = 1684566085,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aNajoo|r",
+			[51] = 1711047043,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [83]
 		{
-			"yeah", -- [1]
-			"Shadefade-Firemaw", -- [2]
-			"Common", -- [3]
+			"relogging fast", -- [1]
+			"Arggy-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Shadefade", -- [5]
+			"Arggy", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1799, -- [11]
-			"Player-4467-041AA55C", -- [12]
+			0, -- [10]
+			417, -- [11]
+			"Player-4467-02C0C537", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffShadefade|r",
-			[51] = 1684566091,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cfff48cbaArggy|r",
+			[51] = 1711047050,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [84]
 		{
-			"fuck forgot to get the gloves from horde before i went alliance now", -- [1]
-			"Mfðòóm-Firemaw", -- [2]
-			"Common", -- [3]
+			"dungeons was the 5 man dbm", -- [1]
+			"Tikiti-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfðòóm", -- [5]
+			"Tikiti", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1813, -- [11]
-			"Player-4467-0434D6D6", -- [12]
+			0, -- [10]
+			418, -- [11]
+			"Player-4467-038144A6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMfðòóm|r",
-			[51] = 1684566167,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aTikiti|r",
+			[51] = 1711047051,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [85]
 		{
-			"lol", -- [1]
-			"Mfðòóm-Firemaw", -- [2]
-			"Common", -- [3]
+			"relog then", -- [1]
+			"Overdosedwow-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfðòóm", -- [5]
+			"Overdosedwow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1814, -- [11]
-			"Player-4467-0434D6D6", -- [12]
+			0, -- [10]
+			420, -- [11]
+			"Player-4467-03015AFB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMfðòóm|r",
-			[51] = 1684566168,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dOverdosedwow|r",
+			[51] = 1711047056,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [86]
 		{
-			"xDD", -- [1]
-			"Shadefade-Firemaw", -- [2]
+			"UwU tum tum done done", -- [1]
+			"Overdosedwow-Firemaw", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Shadefade", -- [5]
+			"Overdosedwow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			7, -- [10]
-			1820, -- [11]
-			"Player-4467-041AA55C", -- [12]
+			421, -- [11]
+			"Player-4467-03015AFB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffShadefade|r",
-			[51] = 1684566173,
+			[52] = "|cffc69b6dOverdosedwow|r",
+			[51] = 1711047056,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [87]
 		{
-			"oh well missing out on like 3 armor", -- [1]
-			"Mfðòóm-Firemaw", -- [2]
+			"UwU tum tum done done", -- [1]
+			"Pissnitad-Firemaw", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Mfðòóm", -- [5]
+			"Pissnitad", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			7, -- [10]
-			1823, -- [11]
-			"Player-4467-0434D6D6", -- [12]
+			422, -- [11]
+			"Player-4467-04763982", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMfðòóm|r",
-			[51] = 1684566176,
+			[52] = "|cffaad372Pissnitad|r",
+			[51] = 1711047001,
 			[50] = "CHAT_MSG_SAY",
 		}, -- [88]
 		{
-			"{square} LFM Ulduar 25 Man Normal Mode Need All +4.4K GS ! 3 SR MS OS ! Boes & Fragments HR ! Come Dala Bank for Inspect ! Going when full {square}", -- [1]
-			"Lidoona-Firemaw", -- [2]
+			"why is there no Plunder dropping from the boss?", -- [1]
+			"Wirroza-Firemaw", -- [2]
 			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Lidoona", -- [5]
-			"DND", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
+			"", -- [4]
+			"Wirroza", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1845, -- [11]
-			"Player-4467-035FE06E", -- [12]
+			423, -- [11]
+			"Player-4467-029E688C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff48cbaLidoona|r",
-			[51] = 1684566145,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff8787edWirroza|r",
+			[51] = 1711047007,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [89]
 		{
-			"Noice", -- [1]
-			"Mfðòóm-Firemaw", -- [2]
-			"Common", -- [3]
+			"Dude has been playing Plunderstorm too much, thinks it was the time to drop Fire Whirl in the group", -- [1]
+			"Hedva-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfðòóm", -- [5]
+			"Hedva", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1857, -- [11]
-			"Player-4467-0434D6D6", -- [12]
+			0, -- [10]
+			424, -- [11]
+			"Player-4467-029EA627", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMfðòóm|r",
-			[51] = 1684566238,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cff3fc6eaHedva|r",
+			[51] = 1711047010,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [90]
 		{
-			"that's all what i got haha", -- [1]
-			"Artiz-Firemaw", -- [2]
-			"Common", -- [3]
+			"if you use fojji pull timer WA, you have to update the WA and fojji core as well to work with the new dbm", -- [1]
+			"Antigosu-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Artiz", -- [5]
+			"Antigosu", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1860, -- [11]
-			"Player-4467-042864B6", -- [12]
+			0, -- [10]
+			429, -- [11]
+			"Player-4467-029DF0FD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Artiz|r",
-			[51] = 1684566185,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffff7c0aAntigosu|r",
+			[51] = 1711047088,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [91]
 		{
-			"haha", -- [1]
-			"Mfðòóm-Firemaw", -- [2]
-			"Common", -- [3]
+			"dbm is so 2012 smh", -- [1]
+			"Undeadslayer-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfðòóm", -- [5]
+			"Undeadslayer", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1863, -- [11]
-			"Player-4467-0434D6D6", -- [12]
+			0, -- [10]
+			430, -- [11]
+			"Player-4467-02A95675", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMfðòóm|r",
-			[51] = 1684566188,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dUndeadslayer|r",
+			[51] = 1711047091,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [92]
 		{
-			"that's a lot though hah", -- [1]
-			"Mfðòóm-Firemaw", -- [2]
-			"Common", -- [3]
+			"use fojji wa ", -- [1]
+			"Undeadslayer-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfðòóm", -- [5]
+			"Undeadslayer", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1873, -- [11]
-			"Player-4467-0434D6D6", -- [12]
+			0, -- [10]
+			431, -- [11]
+			"Player-4467-02A95675", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMfðòóm|r",
-			[51] = 1684566196,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dUndeadslayer|r",
+			[51] = 1711047118,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [93]
 		{
-			"doubt to have a druid :P", -- [1]
-			"Artiz-Firemaw", -- [2]
-			"Common", -- [3]
+			"why they change it so much :(", -- [1]
+			"Overdosedwow-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Artiz", -- [5]
+			"Overdosedwow", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1875, -- [11]
-			"Player-4467-042864B6", -- [12]
+			0, -- [10]
+			433, -- [11]
+			"Player-4467-03015AFB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Artiz|r",
-			[51] = 1684566201,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dOverdosedwow|r",
+			[51] = 1711047118,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [94]
 		{
-			"39", -- [1]
-			"Artiz-Firemaw", -- [2]
-			"Common", -- [3]
+			"fojji doesnt have pull timer", -- [1]
+			"Tikiti-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Artiz", -- [5]
+			"Tikiti", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1876, -- [11]
-			"Player-4467-042864B6", -- [12]
+			0, -- [10]
+			434, -- [11]
+			"Player-4467-038144A6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Artiz|r",
-			[51] = 1684566202,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc41e3aTikiti|r",
+			[51] = 1711047118,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [95]
 		{
-			"LFM uldar 25 Full NM SR {cross} Boe,Orb HR Frag Bid /w ur Price {cross} 3xSR>MS>OS +4.4 GS Achiev or Main Log Req", -- [1]
-			"Wargolden-Firemaw", -- [2]
+			"there is a separte pull timer WA", -- [1]
+			"Antigosu-Firemaw", -- [2]
 			"", -- [3]
-			"3. Trade - City", -- [4]
-			"Wargolden", -- [5]
+			"", -- [4]
+			"Antigosu", -- [5]
 			"", -- [6]
-			2, -- [7]
-			3, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1881, -- [11]
-			"Player-4467-039D6CAD", -- [12]
+			438, -- [11]
+			"Player-4467-029DF0FD", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dWargolden|r",
-			[51] = 1684566213,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aAntigosu|r",
+			[51] = 1711047069,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [96]
 		{
-			"Aye i kinda need to finnish my hunter it's lvl 18 needs blues from dungeons", -- [1]
-			"Mfðòóm-Firemaw", -- [2]
-			"Common", -- [3]
+			"pull timer on discord EZ", -- [1]
+			"Undeadslayer-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfðòóm", -- [5]
+			"Undeadslayer", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1884, -- [11]
-			"Player-4467-0434D6D6", -- [12]
+			0, -- [10]
+			440, -- [11]
+			"Player-4467-02A95675", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMfðòóm|r",
-			[51] = 1684566279,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffc69b6dUndeadslayer|r",
+			[51] = 1711047150,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [97]
 		{
-			"and i kinda also want to make a FC", -- [1]
-			"Mfðòóm-Firemaw", -- [2]
-			"Common", -- [3]
+			"why do ppl keep updating shit", -- [1]
+			"Aseral-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Mfðòóm", -- [5]
+			"Aseral", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1886, -- [11]
-			"Player-4467-0434D6D6", -- [12]
+			0, -- [10]
+			441, -- [11]
+			"Player-4467-029C5FCF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffMfðòóm|r",
-			[51] = 1684566282,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffaad372Aseral|r",
+			[51] = 1711047153,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [98]
 		{
-			"noice :D", -- [1]
-			"Artiz-Firemaw", -- [2]
-			"Common", -- [3]
+			"it all worked fine", -- [1]
+			"Aseral-Firemaw", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Artiz", -- [5]
+			"Aseral", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
-			7, -- [10]
-			1889, -- [11]
-			"Player-4467-042864B6", -- [12]
+			0, -- [10]
+			442, -- [11]
+			"Player-4467-029C5FCF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Artiz|r",
-			[51] = 1684566289,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "|cffaad372Aseral|r",
+			[51] = 1711047156,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [99]
 	},
 	["ChatEditHistory"] = {
-		"/g thats pretty normal around here", -- [1]
-		"/g you should see the video of mega mounting our last ret pally", -- [2]
-		"/g the one with the goat", -- [3]
-		"/s no", -- [4]
-		"/p who's FM?", -- [5]
-		"/p right", -- [6]
-		"/raid ill take imians spot then", -- [7]
-		"/raid ye no worrie", -- [8]
-		"/raid I got you", -- [9]
-		"/s my fault", -- [10]
-		"/al", -- [11]
-		"/raid ss used?", -- [12]
-		"/raid deserved", -- [13]
-		"/raid men", -- [14]
-		"/raid rigged", -- [15]
-		"/macro", -- [16]
-		"/raid I want to see bluntzen all time wins", -- [17]
-		"/omnicd", -- [18]
-		"/oc", -- [19]
+		"/raid I wish I didnt get sword", -- [1]
+		"/raid now im hungry", -- [2]
+		"/raid im catching all of them", -- [3]
+		"/raid possa can explain what happened", -- [4]
+		"/roll", -- [5]
+		"/g welcome", -- [6]
+		"/g wirr are you american now?", -- [7]
+		"/raid mega is a grand marshal, he can take it", -- [8]
+		"/raid rip wowup", -- [9]
+		"/macro", -- [10]
+		"/raid boe", -- [11]
+		"/raid Pog", -- [12]
+		"/raid fishing event? Pog", -- [13]
+		"/raid dota 1 keybinds", -- [14]
+		"/raid best keybinds", -- [15]
+		"/raid I wish I was demo", -- [16]
+		"/raid si", -- [17]
+		"/raid wouldnt have died if you were demo", -- [18]
+		"/g cheers", -- [19]
 		"/rl", -- [20]
 	},
 	["ConvertKeybindings"] = true,

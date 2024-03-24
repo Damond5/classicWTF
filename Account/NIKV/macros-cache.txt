@@ -79,7 +79,7 @@ VER 3 000000000000001B "meta2" "INV_MISC_QUESTIONMARK"
 END
 VER 3 000000000000000B "mount" "INV_MISC_QUESTIONMARK"
 #showtooltip Dreadsteed
-/cast Golden Gryphon
+/cast Invincible
 /cast Dreadsteed
 END
 VER 3 0000000000000012 "shadow bolt" "INV_MISC_QUESTIONMARK"

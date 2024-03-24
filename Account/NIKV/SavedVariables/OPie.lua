@@ -1,12 +1,13 @@
 
 OneRing_Config = nil
 OPie_SavedData = {
+	["_GameVersion"] = "3.4.3",
 	["CharProfiles"] = {
 		["Razorgore-Damonddruid"] = "default",
 		["Lashlayer-Damond"] = "default",
 	},
-	["_GameVersion"] = "3.4.1",
-	["_OPieVersion"] = "Yuzu 9+1.0 (4.114)",
+	["_TimeBand"] = 0.9375,
+	["_OPieVersion"] = "Zeta 4.5b (4.119)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["RingAtMouse"] = true,
@@ -26,11 +27,11 @@ OPie_SavedData = {
 			[4907] = true,
 			[20464] = true,
 			[11933] = true,
-			[8079] = true,
-			[21920] = true,
-			[37661] = true,
 			[37173] = true,
+			[21920] = true,
 			[5605] = true,
+			[8079] = true,
+			[37661] = true,
 			[5591] = true,
 			[35704] = true,
 			[9362] = true,
@@ -126,10 +127,10 @@ OPie_SavedData = {
 					["sliceToken"] = "ABuevohTCMe",
 					["id"] = 698,
 				}, -- [8]
+				["name"] = "lock",
 				["limit"] = "WARLOCK",
 				["save"] = true,
 				["hotkey"] = "V",
-				["name"] = "lock",
 			},
 			["stones"] = {
 				{
@@ -140,12 +141,12 @@ OPie_SavedData = {
 					["sliceToken"] = "ABuezgUFgbe",
 					["id"] = 29893,
 				}, -- [2]
-				["limit"] = "WARLOCK",
-				["save"] = true,
 				["name"] = "stones",
+				["save"] = true,
+				["limit"] = "WARLOCK",
 			},
 			["OPieFlagStore"] = {
-				["StoreVersion"] = 2,
+				["StoreVersion"] = 3,
 			},
 		},
 	},

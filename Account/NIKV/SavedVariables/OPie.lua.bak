@@ -1,22 +1,23 @@
 
 OneRing_Config = nil
 OPie_SavedData = {
+	["_GameVersion"] = "3.4.3",
 	["CharProfiles"] = {
 		["Razorgore-Damonddruid"] = "default",
 		["Lashlayer-Damond"] = "default",
 	},
-	["_GameVersion"] = "3.4.1",
-	["_OPieVersion"] = "Yuzu 9+1.0 (4.114)",
+	["_TimeBand"] = 0.9375,
+	["_OPieVersion"] = "Zeta 4.5b (4.119)",
 	["ProfileStorage"] = {
 		["default"] = {
 			["RingAtMouse"] = true,
+			["Bindings"] = {
+				["druid"] = "V",
+				["lock"] = "V",
+			},
 			["RotationTokens"] = {
 				["ABueh21QF0O"] = "ABuejLWXIuw",
 				["ABuezgUFgbt"] = "ABuezgUFgbe",
-			},
-			["Bindings"] = {
-				["lock"] = "V",
-				["druid"] = "V",
 			},
 		},
 	},
@@ -26,17 +27,17 @@ OPie_SavedData = {
 			[4907] = true,
 			[20464] = true,
 			[11933] = true,
-			[37173] = true,
-			[21920] = true,
-			[5605] = true,
-			[8079] = true,
-			[37661] = true,
-			[5591] = true,
-			[35704] = true,
-			[9362] = true,
-			[6085] = true,
-			[7627] = true,
 			[7607] = true,
+			[21920] = true,
+			[7627] = true,
+			[37173] = true,
+			[5605] = true,
+			[5591] = true,
+			[6085] = true,
+			[9362] = true,
+			[35704] = true,
+			[37661] = true,
+			[8079] = true,
 		},
 		["RingKeeper"] = {
 			["druid"] = {
@@ -60,10 +61,10 @@ OPie_SavedData = {
 					["id"] = 8914,
 					["sliceToken"] = "ABuezwVxfUt",
 				}, -- [5]
-				["limit"] = "Damonddruid-Razorgore",
+				["name"] = "druid",
 				["save"] = true,
 				["hotkey"] = "V",
-				["name"] = "druid",
+				["limit"] = "Damonddruid-Razorgore",
 			},
 			["demons"] = {
 				{
@@ -127,9 +128,9 @@ OPie_SavedData = {
 					["id"] = 698,
 				}, -- [8]
 				["limit"] = "WARLOCK",
+				["name"] = "lock",
 				["save"] = true,
 				["hotkey"] = "V",
-				["name"] = "lock",
 			},
 			["stones"] = {
 				{
@@ -140,12 +141,12 @@ OPie_SavedData = {
 					["sliceToken"] = "ABuezgUFgbe",
 					["id"] = 29893,
 				}, -- [2]
-				["name"] = "stones",
-				["save"] = true,
 				["limit"] = "WARLOCK",
+				["save"] = true,
+				["name"] = "stones",
 			},
 			["OPieFlagStore"] = {
-				["StoreVersion"] = 2,
+				["StoreVersion"] = 3,
 			},
 		},
 	},

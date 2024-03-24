@@ -1,2 +1,0 @@
-
-RollCasino = nil

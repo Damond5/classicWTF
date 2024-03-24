@@ -4,7 +4,7 @@ BigWigs_Options: enabled
 BigWigs_Plugins: enabled
 WeakAurasCompanion: enabled
 Details: enabled
-BigWigs: enabled
+BigWigs: disabled
 Questie: enabled
 ClickLinks: disabled
 NeatPlates: disabled
@@ -73,8 +73,8 @@ ClassicFCT: disabled
 ElvUI_CustomTags: disabled
 kExtraBossFrames: disabled
 AdvancedInterfaceOptions: enabled
-DBM-Core: disabled
-DBM-StatusBarTimers: disabled
+DBM-Core: enabled
+DBM-StatusBarTimers: enabled
 BigWigs_Transcriptor: enabled
 BigWigs_WrathOfTheLichKing: enabled
 LittleWigs_WrathOfTheLichKing: enabled
@@ -87,3 +87,5 @@ ElvUI_BuffHighlight: disabled
 ElvUI_ChatTweaks: disabled
 WunderUI: disabled
 Prat-3.0: disabled
+Blizzard_CompactRaidFrames: enabled
+Leatrix_Maps: enabled
